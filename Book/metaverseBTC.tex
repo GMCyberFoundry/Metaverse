@@ -1,0 +1,236 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% The Legrand Orange Book
+% LaTeX Template
+% Version 3.0 (January 26, 2022)
+%
+% This template originates from:
+% https://www.LaTeXTemplates.com
+%
+% Authors:
+% Vel (vel@latextemplates.com)
+% Mathias Legrand (legrand.mathias@gmail.com)
+%
+% License:
+% CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+%
+% Compiling this template:
+% This template uses biber for its bibliography and makeindex for its index.
+% When you first open the template, compile it from the command line with the 
+% commands below to make sure your LaTeX distribution is configured correctly:
+%
+% 1) pdflatex main
+% 2) makeindex main.idx -s indexstyle.ist
+% 3) biber main
+% 4) pdflatex main x 2
+%
+% After this, when you wish to update the bibliography/index use the appropriate
+% command above and make sure to compile with pdflatex several times 
+% afterwards to propagate your changes to the document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[
+	11pt, % Default font size, select one of 10pt, 11pt or 12pt
+	fleqn, % Left align equations
+	a4paper, % Paper size, use either 'a4paper' for A4 size or 'letterpaper' for US letter size
+	%oneside, % Uncomment for oneside mode, this doesn't start new chapters and parts on odd pages (adding an empty page if required), this mode is more suitable if the book is to be read on a screen instead of printed
+]{LegrandOrangeBook}
+
+% Book information for PDF metadata, remove/comment this block if not required 
+\hypersetup{
+	pdftitle={Title}, % Title field
+	pdfauthor={Author}, % Author field
+	pdfsubject={Subject}, % Subject field
+	pdfkeywords={Keyword1, Keyword2, ...}, % Keywords
+	pdfcreator={LaTeX}, % Content creator field
+}
+
+\addbibresource{sample.bib} % Bibliography file
+
+\definecolor{ocre}{RGB}{52, 134, 235} % Define the color used for highlighting throughout the book
+
+\chapterimage{orange1.jpg} % Chapter heading image
+\chapterspaceabove{6.5cm} % Default whitespace from the top of the page to the chapter title on chapter pages
+\chapterspacebelow{6.75cm} % Default amount of vertical whitespace from the top margin to the start of the text on chapter pages
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\titlepage % Output the title page
+	{\includegraphics[width=\paperwidth]{background.pdf}} % Code to output the background image, which should be the same dimensions as the paper to fill the page entirely; leave empty for no background image
+	{ % Title(s) and author(s)
+		\centering\sffamily % Font styling
+		{\Huge\bfseries Money in Metaverses\par} % Book title
+		\vspace{16pt} % Vertical whitespace
+		{\LARGE Bitcoin in global social immersive mixed reality systems\par} % Subtitle
+		\vspace{24pt} % Vertical whitespace
+		{\huge\bfseries John O'Hare \& Allen Fairchild\par} % Author name
+	}
+
+%----------------------------------------------------------------------------------------
+%	COPYRIGHT PAGE
+%----------------------------------------------------------------------------------------
+
+\thispagestyle{empty} % Suppress headers and footers on this page
+
+~\vfill % Push the text down to the bottom of the page
+
+\noindent \href{https://creativecommons.org/publicdomain/zero/1.0/}{No Copyright}\\ 2022 John O'Hare \& Allen Fairchild\\ % Copyright notice
+
+\noindent \textsc{Published by j.ohare@salford.ac.uk for the Cyber Foundry Programme at The University of Salford}\\ % Publisher
+
+\noindent \textsc{\href{https://raw.githubusercontent.com/GMCyberFoundry/Metaverse/main/Paper/metaverseBTC.pdf}{Raw GitHub hyperlink}}\\ % URL
+
+\noindent The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.\\
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. See Other Information below.\\
+This license is acceptable for Free Cultural Works.
+Other Information\\
+In no way are the patent or trademark rights of any person affected by CC0, nor are the rights that other persons may have in the work or in how the work is used, such as publicity or privacy rights.\\
+Unless expressly stated otherwise, the person who associated a work with this deed makes no warranties about the work, and disclaims liability for all uses of the work, to the fullest extent permitted by applicable law.\\
+When using or citing the work, you should not imply endorsement by the author or the affirmer.
+
+
+
+\noindent \textit{First printing, March 2022} % Printing/edition date
+
+%----------------------------------------------------------------------------------------
+%	TABLE OF CONTENTS
+%----------------------------------------------------------------------------------------
+
+\pagestyle{empty} % Disable headers and footers for the following pages
+
+\tableofcontents % Output the table of contents
+
+\listoffigures % Output the list of figures, comment or remove this command if not required
+
+\listoftables % Output the list of tables, comment or remove this command if not required
+
+\pagestyle{fancy} % Enable default headers and footers again
+
+\cleardoublepage % Start the following content on a new page
+
+%----------------------------------------------------------------------------------------
+%	PART
+%----------------------------------------------------------------------------------------
+
+\part{State of the art and proposal}
+
+%----------------------------------------------------------------------------------------
+%	SECTIONING EXAMPLES CHAPTER
+%----------------------------------------------------------------------------------------
+
+\chapterimage{orange2.jpg} % Chapter heading image
+\chapterspaceabove{6.75cm} % Whitespace from the top of the page to the chapter title on chapter pages
+\chapterspacebelow{7.25cm} % Amount of vertical whitespace from the top margin to the start of the text on chapter pages
+
+%------------------------------------------------
+
+\section{Conflict of interest statements}
+\input{conflicts}
+\chapter{Introduction}
+\section{Abstract}
+We present a state of the art and positioning paper about Web3, Bitcoin, and `Metaverse'; describing the intersections and synergies. A high level overview of Web3 technologies leads to a description of blockchain, and the Bitcoin network is specifically selected for detailed examination. Suitable components of the extended Bitcoin ecosystem are described in more depth. Other mechanisms for native digital value transfer are described, with a focus on `money'. Metaverse technology is over-viewed, primarily from the perspective of Bitcoin and extended reality.\\
+Bitcoin is selected as the best contender for value transfer in metaverses because of it's free and open source nature, and network effect. Challenges and risks of this approach are identified. A cloud / virtual machine technology stack can be downloaded and deployed from GitHub to experiment with the technologies, with a focus on cybersecurity best practice. This deployable lab is designed to inform development of secure value transaction, for small and medium sized companies. Next steps are touched upon in the conclusion.\\
+\textbf{This is an incomplete document and may frankly contain a bunch of errors. Usual v0.1 caveats apply. It's 100\% opensource (unlicense) so if something seems wrong pertaining to your project, or you have a suggestion for an improvement, then submit a PR to GitHub. There's a bunch of place holder text using the Lorem Ipsum insert from LaTeX. If you see that, skip to the end of the section. Targeting April 2022 for a final draft. 20 working days left.}
+\section{Introduction}
+This document presents a high level view of technologies and potential within the emergent Web3 and metaverse narrative, focusing around the transmission of value within and across such global networks, with a further focus on the Bitcoin monetary network. It was written to organise the thoughts of the authors, who were unfamiliar with Bitcoin technologies until recently.\\
+As adoption of these technologies increases it will be necessary for people, and AI actors, to pass economic value between themselves. These `goods and services' interactions, within the virtual social spaces, should be underpinned by a trust system, which scales globally, and presents low friction. Current secure international payment rails are poorly suited to such interactions; indeed it is likely with legacy systems, that parties would be forced to leave the metaverse application, and instead navigate their banking applications to exchange value with overseas entities in a secure fashion. This might conceivably take several days.\\ 
+The whole landscape of money and \href{https://www.omfif.org/futureofpayments2021/}{value transfer is changing}. This is has immediate implications for SMEs. It is timely then to explore the potential of recent technologies, which can address metaverse interactions in \textit{business to business} (B2B), \textit{business to customer} (B2C), and the newer C2C (social commerce; \textit{creator to consumer, customer to customer, consumer to consumer\cite{jones2008trust})}. Figure \ref{fig:landscapevenn} demonstrates how some of these domains intersect. This paper seeks to overview and explain the available open source technologies. It supports an open source \href{https://github.com/GMCyberFoundry/Metaverse}{github repository} which enables SMEs to access these emergent platforms and ecosystems. It aims to build toward a minimum viable product for trust minimised transfer of value within a social immersive space.\\
+Referencing is in two styles; academic works are numeric, while opinion pieces, grey stats, and pertinent news articles are hyperlinked in blue from the text. As the paper develops the veracity of the citations should improve. It is likely that this document is incomplete as you are reading it as it's designed to be an open ended and open source resource. It is an experiment in a living document and repository.
+
+\begin{figure*}[ht]\centering % Using \begin{figure*} makes the figure take up the entire width of the page
+	\includegraphics[width=\linewidth]{landscapevenn}
+	\caption{Web 3, Metaverse, and Bitcoin are inter-sectional technologies.}
+	\label{fig:landscapevenn}
+\end{figure*}
+\chapter{Web3 / decentralised web}
+\input{02_decentralised_web}
+
+\chapter{DLT, Blockchain, and Bitcoin}
+\input{03_blockchain}
+
+\chapter{Money in the real world}
+\input{04_money}
+
+\chapter{Distributed Autonomous Organisations}
+\input{05_daos}
+
+\chapter{Distributed Self Sovereign Identity}
+\input{06_identity}
+
+\chapter{Non Fungible Tokens}
+\input{07_nft}
+
+\chapter{Metaverses}
+\input{08_metaverse}
+
+\chapter{Hardware and software choices to support this}
+\input{09_deployment}
+
+\chapter{Back to the metaverse }
+
+It seems like the primary intersection 
+Current state of the art 
+Libre, Mark Carney synthetic hedgemonic currency, and Keynes baskets
+
+\section{Potential applications }
+\lipsum[50]
+\subsection{AI multiview digital signage}
+\lipsum[50]
+\chapter{Conclusions }
+\lipsum[50]
+\chapter{Future work}
+\lipsum[50]
+\lipsum[50]
+
+
+\part{Guides for deploying the software}
+
+\stopcontents[part] % Manually stop the 'part' table of contents here so the previous Part page table of contents doesn't list the following chapters
+
+\part{Erata}
+\section{Author Biographies}
+
+
+%----------------------------------------------------------------------------------------
+%	BIBLIOGRAPHY
+%----------------------------------------------------------------------------------------
+
+\chapterimage{} % Chapter heading image
+\chapterspaceabove{2.5cm} % Whitespace from the top of the page to the chapter title on chapter pages
+\chapterspacebelow{2cm} % Amount of vertical whitespace from the top margin to the start of the text on chapter pages
+
+%------------------------------------------------
+
+\chapter*{Bibliography}
+\addcontentsline{toc}{chapter}{\textcolor{ocre}{Bibliography}} % Add a Bibliography heading to the table of contents
+
+\section*{Articles}
+\addcontentsline{toc}{section}{Articles} % Add the Articles subheading to the table of contents
+
+\printbibliography[heading=bibempty, type=article] % Output article bibliography entries
+
+\section*{Books}
+\addcontentsline{toc}{section}{Books} % Add the Books subheading to the table of contents
+
+\printbibliography[heading=bibempty, type=book] % Output book bibliography entries
+
+%----------------------------------------------------------------------------------------
+%	INDEX
+%----------------------------------------------------------------------------------------
+
+\cleardoublepage % Make sure the index starts on an odd (right side) page
+\phantomsection
+\addcontentsline{toc}{chapter}{\textcolor{ocre}{Index}} % Add an Index heading to the table of contents
+\printindex % Output the index
+
+\end{document}

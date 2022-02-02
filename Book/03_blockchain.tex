@@ -1,0 +1,279 @@
+Distributed ledger technology (DLT) is a data structure distributed across multiple managing stakeholders. A subset of DLT is blockchain, which is a less efficient, immutable data structure with a slightly different trust model. Rauchs et al. of the Cambridge Centre for Alternative Finance provide a detailed taxonomy and conceptual framework \cite{rauchs2018distributed}. It can be seen in their paper that the definitions are somewhat unclear in literature.\\
+DLT, and especially blockchain, are rapidly gaining ground in the public imagination, within financial technology companies (FinTech), and in the broader corporate world. \\
+The technology and the global legislative response are somewhat immature, and misapplications of both technologies are commonplace. \\
+Distributed trust models emerged from cryptography research in the 1970s when Merkle, Diffie, and Hellman at Stanford figured out how to \href{https://medium.com/swlh/understanding-ec-diffie-hellman-9c07be338d4a}{send messages online} without a trusted third party \cite{diffie1976new,merkle1978secure}.\\
+Soon after the 1980s saw the emergence of the cypherpunk activist movement, as a reaction to the emerging surveillance state \cite{burnham1983rise, chaum1985security}. These early computer scientists in the USA saw the emerging intersectionality between information, computation, economics, and personal freedom \cite{lavoie1990prefatory}. Online discussion in the early nineties foresaw the emergence of trans-national digital markets, what would become the WWW \cite{salinCosts, cypherPunkMailList}. The issues of privacy %(https://nakamotoinstitute.org/static/docs/cypherpunk-manifesto.txt) 
+ and the exchange of digital value (digital / ecash)%(https://www.wired.com/1994/12/emoney/  https://www.cs.ru.nl/~jhh/pub/secsem/chaum1985bigbrother.pdf) 
+ were of foremost importance within these discussions %(https://www.wired.com/1994/12/emoney/), 
+ and while privacy was within reach thanks to ``public/private key pairs'' %(https://www.openpgp.org/about/history/), 
+ ecash proved to be a more difficult problem. \\
+Adam Back's 1997 `hashcash' \cite{back2002hashcash} paved the way for later work by introducing the concept of `proof of work'. This was built upon by Dai \cite{dai1998b}, Szabo \cite{szabo1997formalizing}, Finney \cite{callas1998openpgp}, and Nakamoto amongst others. In all it took 16 years of collaboration on the mailing lists to attack the problem of trust minimised, distributed, digital cash. The culmination of these attempts were Bitcoin \cite{Nakamoto2008}. This is illustrated by Dan Held in Figure \ref{fig:prehistory}. \\
+This is now a wider ecosystem of technologies. 
+
+\begin{figure}
+  \centering
+    \includegraphics[width=\linewidth]{prehistory}
+  \caption{Dan Held: \href{https://www.danheld.com/blog/2019/1/6/planting-bitcoinsoil-34}{Bitcoin prehistory} used with permission.}
+  \label{fig:prehistory}
+\end{figure}
+
+There is enormous complexity and scope, as seen in Figure \ref{fig:venn}, and yet genuinely useful products are elusive.
+\begin{figure*}[ht]\centering % Using \begin{figure*} makes the figure take up the entire width of the page
+	\includegraphics[width=\linewidth]{venn}
+	\caption{\href{https://unchained.com/blog/blockchain-spectrum/}{Intersecting disciplines}. Reused with permission \href{https://unchained.com/}{Dhruv Bansal}}
+	\label{fig:venn}
+\end{figure*}
+It can be argued that the whole concept of crypto/blockchain is somewhat flawed, as the vast majority of the technology offerings are not properly distributed, and "there are many scenarios where traditional databases should be used instead"\cite{casino2019systematic}.\\
+It is surprising hard to pin down a simple explanation for the features which define blockchain. These ``key takeaway'' \href{https://www.investopedia.com/terms/b/blockchain.asp}{from Investopedia} are a neat summary however.\\
+\begin{itemize} \item Blockchain is a specific type of database. \item It differs from a typical database in the way it stores information; blockchains store data in blocks that are then chained together. \item As new data comes in it is entered into a fresh block. Once the block is filled with data it is chained onto the previous block, which makes the data chained together in chronological order. \item Different types of information can be stored on a blockchain but the most common use so far has been as a ledger for transactions. \item In Bitcoin’s case, blockchain is used in a decentralized way so that no single person or group has control—rather, all users collectively retain control. \item Decentralized blockchains are ``append only''. In effect this means that the data entered becomes irreversible over time. For Bitcoin, this means that simple economic transactions are permanently recorded and viewable to anyone. \end{itemize}
+In principle blockchains provide a differentiated trust model. With a properly distributed system blockchain can be considered ``trust minimised''. This is important for some, but not all people. In an era when data breaches and corporate financial insolvency intersect with a collapse in trust of institutions, it is perhaps useful to have an alternative model for storage of data, and value. Thanks to a natural fit with strong encryption, and innate resistance to censorship by external parties, these systems lend themselves well to `borderless' applications. Finally, a host of well engineered open source code repositories makes the cost of adoption relatively low.\\
+Within DLT/blockchain there seem to be as many opinions on the value of the technology as there are implementations. There are thousands of different `chains' and many more tokens which represent value on them. A majority of these are code forks of earlier projects. Most are defunct yet still have some residual `value' locked up in them as a function of their `distributed' tokens. \\ 
+Because the space is comparatively new, subject to \href{https://www.esma.europa.eu/press-news/consultations/call-evidence-dlt-pilot-regime}{scant regulation}, and often open source, it is possible to clone a github, change a few lines of code, and front it with a website in order to create `scams', and this happens very often \cite{golumbia2020cryptocurrency}.\\
+The following sections give an overview of the major strands of the technology. First is Ethereum, mainly to discount it's use and get to more accessible offerings.
+\section{Ethereum}
+Ethereum \cite{buterin2013ethereum} is the second most secure public blockchain (\href{https://howmanyconfs.com/}{by about 50\%}), and second most valuable by \href{https://coinmarketcap.com/}{market capitalisation} (though this comparison is somewhat strained). It is the natural connection from Web3 to the rest of the paper, so it will be considered first.\\
+It is touted as `programmable money'. It, unlike bitcoin, is Turing complete, able to run a \href{https://ethereum.org/en/developers/docs/evm/}{virtual machine} within the distributed network (albeit slowly), and can therefore process complex transactional contracts in the settlement of value. This has given rise to the new field of `distributed finance', or DeFi (described later), alongside many interesting trust minimised immutable ledger public database ideas. \\
+There are trade-offs and problems with Ethereum (Eth/Ether) which currently increase the 'participation floor' and makes the network far less suitable for entry level business to business use. The ledger itself being a computational engine, with write only properties, is enormous. Specialist cloud hardware is required to run a full node (copy of the ledger), and partial nodes are the norm. Even partial nodes are run chiefly by one specialist cloud provider (Infura). Moreover the network is centrally controlled by its creator and the `miners'. There is a strong case to answer that Eth is \href{https://blog.mollywhite.net/blockchains-are-not-what-they-say/}{neither distributed}, nor trustless, and in fact therefore fails to be differentiated from a DLT, undermining some of it's claims.\\
+With that said there are many talented developers doing interesting work on the platform, and innovation is fast paced. It is entirely normal for technology projects to launch their distributed ledger idea on and within the Ethereum network. These ``initial coin offering'' generate tradable tokens which can accrue value or demonstrate smart contract utility. Such is the level of nefarious activity on these networks that they have a poor reputation, and are difficult to audit, launch, and maintain. The overriding problem of using a blockchain for utility applications is that people can and will simply lie for criminal purpose when entering data into the ledger. It is far more likely that Ethereum is simply a speculative bubble than any of the claims for utility being born out.
+\subsection{Mining and Gas}
+Ethereum has a significant barrier to entry because of high fees to use the network. The system is Turing complete; able to programatically replicate any other computational system. This includes endless loops in code, so it is trivial to lock up the computational bandwidth of the while system, in a smart contract commitment, through a web wallet. To mitigate this existential `denial of service attack' the `gas' system demands that users spend some of their locked up value to operate on the network. In this way a transaction loop would quickly erode the available gas and stop looping. As the popularity of the system has grown, so too have the gas fees. It can sometimes cost hundreds of dollars to do a single transaction, though it is more normally just a few tens of dollars. This is a huge problem for potential uses of the network. It is currently a proof of work system like Bitcoin (this is described in the next section), and has a \href{https://news.trust.org/packages/cryptocurrency-and-climate/}{huge energy footprint} to secure the network. It also ties up global supply of PC graphics cards used for it's mining model, making them far more expensive.\\
+\subsection{Upgrade roadmap}
+Ethereum was designed from the beginning to move to a `proof of stake' model where token holders underpin network consensus through complex automated voting systems based upon their token holding. This is now called \href{https://blog.ethereum.org/2022/01/24/the-great-eth2-renaming/}{Ethereum Consensus Layer}. Like much of the rest of `crypto' the proposed changes will concentrate decisions and economic rewards in the hands of major players, early investors, and incumbents. This is a far cry from the stated aims of the technology.\\
+Primarily because of the barrier to entry, we do not intend for Ethereum to be in scope as a method for value transfer within metaverses at this time.
+
+\section{Bitcoin}   The first practical blockchain was the Bitcoin network \cite{Nakamoto2008}, some two decades after Haber et al. first described the idea \cite{haber1990time} It can be considered a triple entry book keeping system \cite{ijiri1986framework, faccia2019accounting}, the first of it's kind, integrating a `provable' timestamp with a transaction ledger. Some see this as the first major innovation in ledger technology since double entry was codified in Venice in fourteen seventy five\cite{sangster2015earliest}. \\
+It was created pseudonomously in 2009 as a direct response to the perceived mishandling of the 2008 global financial crisis, with the stated aim of challenging the status quo and the \href{https://www.forbes.com/sites/peterizzo/2021/09/29/against-cryptocurrency-the-ethical-argument-for-bitcoin-maximalism/?sh=317f2c85371b}{unequal access} to opportunity it provides. The IMF has recently conceded that the Bitcoin \href{https://blogs.imf.org/2022/01/11/crypto-prices-move-more-in-sync-with-stocks-posing-new-risks/}{poses a risk} to the traditional financial systems, so it could be argued that it is succeeding in this original aim.
+The \href{https://en.bitcoin.it/wiki/Genesis_block}{``genesis block''} which was hard coded at the beginning of the `chain' contains text from The Times newpaper detailing the second bank bailout.\\ 
+Satoshi Nakamoto (the name of the publishing entity) \href{https://bitcoinmagazine.com/technical/what-happened-when-bitcoin-creator-satoshi-nakamoto-disappeared}{disappeared from the forums} forever in 2010.\\
+Although there were some earlier experiments (hashcash, b-money etc), Bitcoin is the first viably decentralised `cryptocurrency'; the network is used to \href{https://www.aier.org/article/why-does-bitcoin-have-value/}{store economic value} because it is judged to be secure and trusted. It is a singular event in that it became established at scale, such that it could be seen to be a fully distributed system, without a controlling entity. This is the differentiated trust model previously mentioned. This relative security is the specific unique selling point of the network. It is many times more secure than all the networks which came after based on a like for like comparison of \href{https://howmanyconfs.com/}{transaction `confirmations'}. This network effect of Bitcoin is a compounding feature, attracting value through the security of the system. It is deliberately more conservative and feature poor, preferring instead to \href{https://bips.xyz/}{add to it's feature set} slowly, preserving the integrity of the value invested in it over the last decade. At time of writing it is a \href{https://fiatmarketcap.com/}{top quartile} largest global currency and has settled over \$12 trillion Dollars in 2021, though Makarov et al. contest this, citing network overheads, and speculation \cite{makarov2021blockchain}. Institution grade `exchange tradable funds' which allow investment in Bitcoin are available throughout the world, and the native asset can be bought by the public easily through apps in all but a handful of countries as seen in Figure \ref{fig:settled2021}. 
+\begin{figure}
+  \centering
+    \includegraphics[width=\linewidth]{settlement2021}
+  \caption{\href{https://twitter.com/glxyresearch/status/1469039427028664320?}{Growth in settlement} value on the Bitcoin network.}
+  \label{fig:settled2021}
+\end{figure}
+Only around 7 transactions per second can be settled on Bitcoin. The native protocol does not scale well, and moreover this in an inherent trade-off as described by Croman et al. in their positioning paper on public blockchains \cite{croman2016scaling}. Over time competition for the limited transaction bandwidth drives up the price to use the network. This effectively prices out small transactions, even locking up some value below what is a termed the '\href{https://github.com/bitcoin/bitcoin/blob/v0.10.0rc3/src/primitives/transaction.h#L137}{dust limit}' of unspent transactions too small ever to move again \cite{delgado2018analysis}. \\
+Bitcoin has developed quickly, with a \href{https://phemex.com/blogs/crypto-bitcoin-s-curve-adoption-curve}{faster adoption} than even the internet itself. It is now a mature ecosystem, and is seeing adoption as a \href{https://bitcointreasuries.net/}{corporate treasury asset}. \\
+Adoption by civil authorities is increasing, and legislators the world over are being forced to \href{https://www.politico.com/news/2022/01/16/bitcoin-crashes-the-midterms-527126}{adopt a position}. Many city treasuries have added it to their balance sheet, and it is legal tender in the country of El Salvador\cite{oxford2021salvador}, and this will be explored more later. Global asset manager ``Fidelity'' wrote the following in their \href{https://www.fidelitydigitalassets.com/articles/2021-trends-impact}{2021 trends report}.\\
+``We also think there is very high stakes game theory at play here, whereby if bitcoin adoption increases, the countries that secure some bitcoin today will be better off competitively than their peers. Therefore, even if other countries do not believe in the investment thesis or adoption of bitcoin, they will be forced to acquire some as a form of insurance. In other words, a small cost can be paid today as a hedge compared to a potentially much larger cost years in the future. We therefore wouldn't be surprised to see other sovereign nation states acquire bitcoin in 2022 and perhaps even see a central bank make an acquisition.''\\
+
+\subsection{The Bitcoin Network Software}
+There isn't a single github which can be considered the final arbiter of the development direction, because it is a distributed community effort with some \href{https://decrypt.co/66740/who-are-the-fastest-growing-developer-communities-in-crypto}{400 developers} out of a wider `crypto' pool of around 9000 contributors. \href{https://bitcoinops.org/en/newsletters/2021/12/22/}{Development and innovation continues} but there is an empahasis on careful iteration to avoid damage to the network. Visualisation of code commitments to the various open source software repositories can be seen at \href{https://www.youtube.com/channel/UC4DT4qudqogkmbqVAQy8eFg/videos}{Bitpaint youtube channel} and in Figure \ref{fig:gource}.\\
+
+\begin{figure*}[ht]\centering % Using \begin{figure*} makes the figure take up the entire width of the page
+	\includegraphics[width=\linewidth]{gource}
+	\caption{\href{https://github.com/bitpaint/bitcoin-gources}{Bitpaint}: Contributions to the Bitcoin ecosystem. Reused with permission.}
+	\label{fig:gource}
+\end{figure*}
+
+\href{https://github.com/bitcoin/}{Bitcoin core} is the main historical effort, but there are alternatives (\href{https://github.com/libbitcoin/libbitcoin-node/wiki}{LibBitcoin in C++}, \href{https://github.com/btcsuite/btcd}{BTCD in Go}, and \href{https://bitcoinj.github.io/getting-started}{BitcoinJ in Java}). 
+\subsection{Mining and Energy concerns}
+Bitcoin uses a staggering amount of energy to secure the blockchain, and this \href{https://www.edmundconway.com/bitcoin-money-and-the-planet/}{has climate repercussions}. It is an industrial scale global business with `mining companies' investing \href{https://ir.marathondh.com/news-events/press-releases/detail/1272/marathon-digital-holdings-bitcoin-mining-fleet-to-reach}{hundreds of millions of pounds} at a time \href{https://www.tomshardware.com/news/intel-to-unveil-bitcoin-mining-bonanza-mine-asic-at-chip-conference}{specialist ASIC mining hardware and facilities}. This is Adam Back's ``proof of work'',  and is essential to the technology. \href{https://ccaf.io/cbeci/index}{The Cambridge Bitcoin Energy Consumption Index} monitors this energy usage.\\
+Such businesses can mine a Bitcoin for around \$5k-\$10k per coin, so the profit margins \href{https://www.nicehash.com/profitability-calculator}{are considerable} (based on 30-40 Joule/terahash and power rate less than 5 cents /kilowatt hour and excluding hardware costs). This is not to say that all mining is, or should be, so concentrated. Anyone running the hashing algorithm can \href{https://twitter.com/ckpooldev/status/1485585814419812356}{get lucky} and claim the block reward. PoW ties the value of the `money' component of Bitcoin directly to energy production. This is not a new idea as can be seen in Figure \ref{fig:energyNYT}. Henry Ford proposed an intimate tie between energy and money to create a separation of powers from government.\
+\begin{figure}
+  \centering
+    \includegraphics[width=\linewidth]{energyNYT}
+  \caption{\href{https://www.nytimes.com/1921/12/06/archives/mr-fords-energy-dollar.html}{Intimate tie between energy and money, Henry Ford}}
+  \label{fig:energyNYT}
+\end{figure}
+
+The potential ecological footprint of the network has always been a concern; Hal Finney himself was \href{https://twitter.com/halfin/status/1153096538}{thinking about this issue} with a mature Bitcoin network as early as 2009. \\
+Proponents of the technology say that the balance shifted dramatically in 2021 with China outright banning the technology; this has forced the bulk of the energy use away from `dirty coal' as seen in Figure \ref{fig:miningshare}. Some analysts \href{https://docs.google.com/document/d/1N2N-5jY00cmteoY_puWI9oosM1foa4EQqsO1FFfIFR4/edit}{propose mitigations}, or even suggest that \href{https://medium.com/@magusperivallon/a-financial-hail-mary-for-the-climate-an-argument-for-bitcoin-adoption-9c58e707d0}{`ending financialisation' through use of Bitcoin} may be net positive for the environment. Recently for example Baur and Oll found that \textit{``Bitcoin investments can be less carbon intensive than standard equity investments and thus reduce the total carbon footprint of a portfolio.''}\cite{baur2021bitcoin}. 
+
+\begin{figure}
+  \centering
+    \includegraphics[width=\linewidth]{miningshare}
+  \caption{Hash rate \href{https://ccaf.io/cbeci/ining_map}{suddenly migrates} from China [Reuse rights requested]}
+  \label{fig:miningshare}
+\end{figure}
+
+The power commitment to the network is variously projected \href{https://www.nature.com/articles/s41558-018-0321-8}{to increase}, or \href{https://assets.website-files.com/614e11526f6630959fc98679/616df63a27a7ec339f5e6a80_NYDIG-BitcoinNetZero_SML.pdf}{level off over time}, but certainly not decrease. The industry now argue that economic pressures mean that most of the `hashrate' is \href{https://bitcoinminingcouncil.com/q4-bitcoin-mining-council-survey-confirms-sustainable-power-mix-and-technological-efficiency/}{generated by renewable energy}\cite{blandin20203rd}. Certainly there is growing interest and adoption of so called ``stranded energy mining''  which cannot be effectively transmitted to consumers, and is thereby sold at a huge discount while also \href{https://www.renewableenergyworld.com/wind-power/900mw-wind-farm-to-power-bitcoin-mining-operation/}{developing power capacity} \cite{bastian2021hedging}. The most cited example of this is El Salvador's `volcano mining' which is supporting their national power infrastructure plans. A more poignant example is the \href{https://www.timesunion.com/news/article/Mechanicville-hydro-plant-gets-new-life-16299115.php}{Mechanicville hydro plant in the USA}. The refurbishment of this 123 year old power plant is being funded by Bitcoin mining. This is the \href{https://www.lynalden.com/bitcoin-energy/}{``buyer of last resort''} model first \href{https://squareup.com/us/en/press/bcei-white-paper}{advanced by Square Inc}. Critics highlight the potential \href{https://www.fitchratings.com/research/us-public-finance/crypto-mining-poses-challenges-to-public-power-utilities-24-01-2022}{impact of mining on local energy} prices\cite{benetton2021cryptomining}. \href{https://www.youtube.com/watch?v=6LP8G-oZnEs}{The debate} whether this consumption is `worth' it is complex and \href{https://www.aei.org/technology-and-innovation/no-hearing-on-bitcoins-energy-use-is-complete-without-nic-carter/}{rapidly evolving}. Is a trillion dollar asset which \href{https://www.theheldreport.com/p/bitcoin-vs-gold}{potentially replaces the money utility of gold}, but doesn't need to be stored under guard in vaults (Figure \ref{fig:goldmanVgold}), worth the equivalent power consumption of clothes dryers in North America? Probably not with the current level of adoption, but this is an experiment in replacing global money. This paper offers no firm opinion.
+\begin{figure}
+  \centering
+    \includegraphics[width=\linewidth]{goldmanvgold}
+  \caption{Goldman suggest growth opportunity and potential demonetisation of gold?}
+  \label{fig:goldmanVgold}
+\end{figure}
+\subsection{Bitcoin nodes }
+The Bitcoin network can be considered a triumvirate of economic actors, each with different incentives. These are:
+\begin{itemize}
+\item Holders and users of the tokens, including exchanges and market makers, who make money speculating, arbitraging, and providing liquidity into the network.
+\item Miners, who profit from creation of new UTXOs, and receive payments for adding transactions to the chain. In return they secure the network.
+\item Node operators, who enforce the consensus ruleset which the miners must abide by in order to propagate new transaction into the network. In return node operators optimise their trust minimisation, and help protect ths network from changes which might undermine their speculation and use of the tokens.
+\end{itemize}
+There are currently around \href{https://bitnodes.io/}{150,000 bitcoin nodes distributed across the world}. 
+Since and IT engineer \href{https://stadicus.com/}{Stadicus} released his \href{https://raspibolt.org/backstory.html}{Raspibolt guide} in 2017 there has been an explosion of small scale Bitcoin and Lightning node operators. 
+Around thirty thousand Raspberry Pi Lighting nodes (which are also by definition bitcoin nodes) run one of the following \href{https://github.com/bavarianledger/bitcoin-nodes}{open source distributions}, with the most noteworth explained alongside their standout featureset:
+\begin{itemize}
+\item \href{https://github.com/rootzoll/raspiblitz}{Raspiblitz} offers fully opensource lightning focused functionality with a touchscreen display
+\item \href{https://github.com/mynodebtc/mynode}{Mynode} focuses on easy of use through a web interface and has many modules which users can try out.
+\item \href{https://github.com/getumbrel/umbrel-os}{Umbrel} is a more user friendly multi purpose node allowing access to a suite of Bitcoin and self sovereign individual tools.
+\item \href{https://wiki.ronindojo.io/}{RoninDojo} is designed for use alongside the privacy focused \href{https://samouraiwallet.com/}{Samourai mobile wallet}.
+\item \href{https://github.com/fort-nix/nix-bitcoin}{Nix bitcoin} focuses on security of the underlying operating system by building on  NixOS.
+\item \href{https://nodl.it}{NODL} is a premium prebuilt node focusing on security of the more performant hardware, and underlying operating system. It offers additional privacy tools.
+\item \href{https://store.start9labs.com/collections/embassy}{Start9 Embassy} is a small form factor prebuilt unit at a lower price. It is a venture capital funded project with a more restrictive license but offers a suite of easy to use self sovereignty tools including Bitcoin. 
+\end{itemize}
+
+Rather than using one of these distributions we plan to support a new metaverse focused suite of these tools based around the nix distribution.
+\href{https://nydig.com/research/nydig-bitcoin-101}{Consider  mining the NYDIG primer for information}
+
+%Feedback from James this is a completely fair solution to the byzantine general problem of distributed consensus i will write this into the paper, it's not there and it should be that proof or work, combined with a couple of other novelish features from elsewhere in history nakamoto consensus, which is the basis of the whole technology without it there is a zero cost to attacking the network with it it's virtually impossible to attack it meaningfully there's suspected to be around 4M bitcoin lost forever 18M are mined I think, so that's around 14M in the wild, each subdivided by 100M to give sats, each of which can currently be subdivided again by 1000. interestingly that's quite changeable. more zeros could be added. the point is the cap is unchangeable unless you can find a way to switch the software on 75,000 secret home nodes against their financial interest githubs are referencable if I like I think What happens when the last coin is mined? Isn’t the mining itself something to do with validating transactions? Who does that after there are no more to mine? there's no rules to an unlicense license What happens when the last coin is mined? Isn’t the mining itself something to do with validating transactions? Who does that after there are no more to mine? it's a big known unknown the theory is that the fees will rise as the use rises, and the miners will benefit from the fees not the mining both of which are decent rewards if miners think it's not worth it then they drop out and the network adjusts the difficulty automatically every 2 weeks to compensate those who remain with more reward so in principle it sorts itself out but nobody is sure and there's no way to test it this is excellent, I will make all this clear, thanks a great help!
+
+\subsection{Upgrade roadmap}
+Taproot\\
+\href{https://utxos.org/}{BIP-119}
+\subsection{Risks}
+\begin{itemize}
+\item The block reward is reduced every 4 years (epochs). This means a portion of the mining reward is trending to zero, and nobody knows what effect this will have on the incentives for securing the network through proof of work.
+\item Stablecoins are a vital transitional technology (described later) but do not meaningfully exist yet on the Bitcoin network. This may change.
+\item Bitcoin lacks privacy by design. All transactions are publicly viewable. This is a major drag to the concept of BTC as a money.
+\item The Lightning network (described later) has terrible UX design at this time. 
+\item The basic `usability' of the network is still poor in the main. Any problems which users experience demand a steep learning curve and risk loss of funds. There is obviously no tech support number people can call. 
+\item Only around one billion unspent transactions can be generated a year on the network. This means that it might become impossible for everyone on the planet to have own their own Bitcoin address (with it's associated underpinning UTXO).  
+\end{itemize} 
+
+\section{Extending the BTC ecosystem }
+The following section are by no means an exhaustive view of development on the Bitcoin network, but it does highlight some potentially useful ideas for supporting metaverse interactions in a useful timeframe.
+\subsection{Block \& SpiralBTC}
+Block (formally the payment processor ``Square'' is now an umbrella company for several smaller 'building block' companies, all of which are major players in the space. \\
+SpiralBTC, formally `Square Crypto' (a subsidiary of Square) is funding development in Bitcoin and Lightning. Their main internal product is the \href{https://spiral.xyz/blog/what-were-building-lightning-development-kit/}{Lightning Development Kit} (LDK). This promising open source library and API will allow developer to add lightning functionality to apps and wallets. It is a useful contender for our metaverse applications. They also fund external open source development.\\
+\subsection{BTCPayServer}
+BTCPayServer is one of the recipients of a Spiral grant. It is a self hosted Bitcoin and Lightning payment processor system which allows merchants, online, and physical stores and businesses to integrate Bitcoin into their accounting systems.
+
+
+\href{https://twitter.com/BtcpayServer/status/1476572743626035200}{check the roadmap}
+\lipsum[50]
+
+
+\section{Lightning (Layer 2)}
+Lightning was a 2016 proposal by Poon and Dryja \cite{poon2016bitcoin}, and is a community driven liquidity pool which enables scaling and speed improvements for the Bitcoin network. It is mainly `powered' by \href{https://plebnet.wiki/wiki/Main_Page}{thousands of volunteers} who invest in hardware and lock up their Bitcoin in their nodes, to facilitate peer to peer transactions. Zebka et al. found that although the network is ``fairly decentralised'' it is more recently skewing to larger more established nodes \cite{zabka2022short}. Though this is a grassroots technology the nature of the design means it can likely be trusted for small scale commercial applications.\\
+The following text is from \href{https://medium.com/@johncantrell97?p=5cc72f2c664}{John Cantrell}, an engineer who works on Lightning.\\
+\textit{``The Lightning Network is a p2p network of payment channels. A payment channel is a contract between two people where they commit funds using a single onchain tx.  Once the funds are committed they can make an unlimited amount of instant \& free payments over the channel.
+You can think of it as a tab where each person tracks how much money they are owed.  Each time a payment is made over the channel both parties update their record of how much money each person has.  These updates all happen off-chain and only the parties involved know about them. When it`s time to settle up the two parties can take the final balances of the channel and create a channel closing transaction that will be broadcast on chain.  This closing transaction sends each party the final amounts they are owed. This means for the cost of two on-chain transactions (the opening and closing of the channel) two parties can transact an unlimited number of times and the overall cost of each transaction approaches zero with every additional transaction they make over the channel. Payment channels are a great solution for two parties to transact quickly and cheaply but what if we want to be able to send money to anyone in the world quickly and cheaply?  This is where the Lightning Network comes into play, it`s a p2p network of these payment channels. This means if Alice has a payment channel with Bob and Bob has a channel with Charlie that Alice can send a payment to Charlie with Bob`s help. This idea can be extended such that you can route a payment over an arbitrary number of channels until you can reach the entire world. Routing a payment over multiple channels uses a specific contract called a Hash Time Locked Contract (HTLC).  It introduces the ability for Bob and any other nodes you route through to charge a small fee.  These fees are typically orders of magnitude smaller than onchain fees. This all sounds great but what if someone tries to cheat? I thought the whole point of Bitcoin was that we no longer had to trust anyone and it sure sounds like there must be some trust in our channel partners to use the Lightning Network? The contracts used in Lightning are built to prevent fraud while requiring no trust.  There is a built-in penalty mechanism where if someone tries to cheat and is caught then they lose all of their money.  This does mean you need to be monitoring the chain for fraud attempts.''}
+
+%\href{https://twitter.com/marcrjandrew/status/1478052587387568130}{Five facts about lightning}
+Lightning is a key scaling innovation in the bitcoin network at this time. It is seeing rapid development and adoption (Figure \ref{fig:lightningAdoption}). The popular payment app ``Cash App'' integrates the technology, and `Lightning Strike' services the USA, El Salvador, and Argentina with zero exchange and tranmission fees.
+
+\begin{figure}
+  \centering
+    \includegraphics[width=\linewidth]{lightningAdoption}
+  \caption{\href{https://www.research.arcane.no/the-state-of-lightning}{Arcane research lightning adoption overview}.}
+  \label{fig:lightningAdoption}
+\end{figure}
+It allows for unbound scaling of transactions (millions of transations per second compared for instance to around 45,000 TPS in the VISA settlement network). Transaction costs are incredibly low, and the transaction speed virtually instantaneous.\\
+The main Lightning network git is the Daemon \href{https://github.com/lightningnetwork/lnd#readme}{here} but it's worth knowing that Lighting itself really needs access to both a Bitcoin full node, and the Tor private network layer. Both Donner Labs and Zebedee have code packages which allow interaction with the lightning network within Unity. In all likelihood users would have to run a lightning / Bitcoin node and have their users interact with it. This would allow instantaneous transactions of Satoshis (the Bitcoin unit of account) between users. It would not resolve how to move money into Bitcoin or lightning. This could be handled through a web store (BTCPay Server). This is another overhead which would need weighing but opens the door to real value transacting at scale and with high security. \\
+Setting up and running a lightning node is even more difficult. It is recommended to buy a \href{https://lightninginabox.co/product/1-month-btcpayserver-hosting-lightning-included/}{third party hosted} BTC / Lightning / BTCPayserver stack. 
+\subsection{Micropayments}
+Possibly the most important affordance of the Lightning network is the concept of micropayments, and streaming micropayments. It is very simple to transfer even \href{https://satsymbol.com/}{one satoshi} on Lightning, which is one hundred millionth of a bitcoin, and a small fraction of a penny. This can be a single payment, for a very small goods or service, or a recurring payment on any cadence. This enables streaming payments for any service, or for remittance, or remuneration. These use cases likely have enormous consequences which are just beginning to be explored. Integration of this capability into metaverse applications will be explored later.
+
+\subsection{LNBits}
+LNBits is an open source, extensible, Lightning `source' management suite. It is self hosted, and can connect to a variety of Lightning wallets, further abstracting the liquidity to provide additional functionality to network users. Remember that all of these tools run without a third party, on a £200 setup, hosted at home or within a business. The best way to explore this is to describe \textit{some} of the plugins. 
+\begin{itemize}
+\item ``\href{https://github.com/lnbits/lnbits-legend#lnbits-v03-beta-free-and-open-source-lightning-network-walletaccounts-system}{Accounts System}; Create multiple accounts/wallets. Run for yourself, friends/family, or the whole world!''
+\item \href{https://github.com/lnbits/lnbits-legend/tree/quart/lnbits/extensions/events#events}{Events plugin} allows QR code tickets to be created for an event, and for payments to be taken for the tickets.
+\item \href{https://github.com/lnbits/lnbits-legend/tree/quart/lnbits/extensions/jukebox#jukebox}{Jukebox} creates a Spotify based jukebox which can be deployed online or in physical locations.
+\item \href{https://github.com/lnbits/lnbits-legend/tree/quart/lnbits/extensions/livestream#dj-livestream}{Livestream} provides an interface for online live DJ sets to receive real-time Lightning tips, which can be split automatically in real-time with the music producer.
+\item \href{https://github.com/lnbits/lnbits-legend/tree/quart/lnbits/extensions/tpos#tpos}{TPoS}, \href{https://github.com/arcbtc/LNURLPoS#lnurlpos}{LNURLPoS} \& \href{https://github.com/lnbits/lnbits-legend/tree/quart/lnbits/extensions/watchonly#watch-only-wallet}{OfflineShop} support online \href{https://rapaygo.com/}{and offline} point of sale (Figure \ref{fig:LnBitsPoS}).
+\item \href{https://github.com/lnbits/lnbits-legend/tree/quart/lnbits/extensions/paywall#paywall}{Paywall} creates web access control for content. 
+\item \href{https://github.com/LightningTipBot/LightningTipBot#lightningtipbot-}{LightningTipBot} is a custodial Lightning wallet and tip handling bot within the popular on Telegram instant messenger service.
+\end{itemize}
+\begin{figure}
+  \centering
+    \includegraphics[width=\linewidth]{LnBitsPoS}
+  \caption{One of the many \href{https://nl.aliexpress.com/item/1005003589706292.html}{prebuilt} and \href{https://github.com/arcbtc/LNURLPoS}{kit} options for Lightning `point of sale'}
+  \label{fig:LnBitsPoS}
+\end{figure}
+Together these plugins are incredibly useful primitives which are likely to be translatable to a multi party metaverse application. A proposal for building a more specific plugin along these lines is detailed later.
+\subsection{Etleneum}
+Etleneum is a centralised smart contract platform built around Lightning invoices. It is most notable as a sign of things to come. There are \href{https://etleneum.com/#/contracts}{many small contracts} available to try on the site, such as a \href{https://etleneum.com/#/contract/c8w0c13v75}{simple market} for moving value between lightning and Bitcoin layer 1, or this \href{https://simple-auction.etleneum.com/}{simple auction}.  Contracts are able to operate on data drawn from the wider web, and automatically send and receive lightning payments based on conditional states. It should be viewed as an experiment which allows tinkering in smart contracts, and therefore potentially useful for the software proposed in the final section.
+\subsection{Message passing}
+\lipsum[50]
+\section{Liquid federation (layer 2)}
+``Federation members contribute to the Liquid Network's security, gain voting rights in the board election and membership process, and provide valuable input on the development of new features. Members also benefit from the ability to perform a peg-out without a third party, allowing their users to convert between L-BTC and BTC seamlessly within their platform.''\\
+
+\href{https://bitcoinmagazine.com/business/bitcoin-liquid-network-gains-six-new-federation-members}{Now 63 members}
+
+Bitmatrix, Digital Markets (DIGTL), GMO Coin, Mempool, Specter, and Zaprite are now part of the 63-member group.
+
+\href{https://bitcoinmagazine.com/markets/el-salvador-president-nayib-bukele-samson-mow-volcano-bitcoin-bond}{El Salvador volcano bonds stuff}
+\lipsum[50]
+
+\section{Bitcoin Layer 3}
+Increasingly important features of modern blockchain implementations are programmability through smart contracts, and issuance of arbitrary tokens. Assigning a transaction to represent another thing like an economic unit, energy unit, or real world object, and operating on those abstractions within the chain logic. Chief among these use cases are stablecoins such as Tether, which are pegged to national currencies and described in the next section. Bitcoin has always supported very limited contracts called scripts, and stablecoin issuance has existed in Bitcoin since 
+\href{https://www.omnilayer.org/}{Omni Layer}. Omni was the first issuer of Tether, but more recently these important features have passed to other layer one chains. This year is likely to see the \href{https://www.hiro.so/blog/bitcoin-ecosystem-a-guide-to-programming-languages-for-bitcoin-smart-contracts}{resurgence of this capability} on Bitcoin, which of course benefits from a better security model. In order to properly understand the use of Bitcoin based technologies in metaverse applications it is necessary to examine what these newer `layer 3' ideas bring. 
+\subsection{LNP/BP and RGB}
+Placeholder text from the RGBFAQ.\\
+RGB is a scalable \& confidential smart contracts system for Bitcoin \& lightning network. They embrace concepts of private \& mutual ownership, abstraction and separation of concerns and represent "post-blockchain", Turing-complete form of trustless distributed computing which does not require introduction of "tokens".
+%Similar to the 2014 coloured coins technology there exists a new implementation which encapsulates and builds upon the concept. The RGB protocol is an emerging 'sharding' or, more precisely, multicommitment technology which cryptographically pegs complex sidechains into the core Bitcoin blockchain. It is `nearly' Turing complete and can be viewed as a direct challenge to Ethereum. It allows merging of complex smart contract data, and digital rights (ownership) management using Bitcoin, and crucially also the Lightning network. While the technology is still very much in development it is already possible to use the code to issue de-facto non fungible tokens. There will likely be a working NFT schema by April 2021. In the meantime it is possible to issue a fungible token with a supply of 1 (or n for rare) and divisibility of 0. In the case of digital collectible art it is plausible to insert a small image within the off-chain RGB data itself, creating a complete system without recourse to the third party websites common in ERC721. It may be possible to handle all this in a mobile client side application (within Unity), with a 24 word recovery phrase holding the value of the users digital assets. The RGB protocol is very new with the bulk of development in the last few months. In the conservative world of Bitcoin it seems this might not be ready for use. With that said there does seem to be a working implementation in the \href{https://github.com/rgb-org}{github}. At time or writing there is a \href{https://testflight.apple.com/join/ZL24hlk7}{deployable Apple flighttest app} which can be used on Bitcoin testnet to issue tokens suitable for the project.  
+%The \href{https://github.com/mycitadel}{`MyCitadel' github} looks to be the place to investigate this element further for 
+\subsection{Synonym \& Omnibolt}
+Omnibolt github
+\lipsum[50]
+\subsection{DLCFD}
+Discrete log contracts are a form of externally arbitrated smart contract. 
+Work is being done to extend this primitive to lightning.\\
+
+Marty Bent ``This particular contract allows (currently) one party to lock in a stable amount of USD value in BTC to avoid bitcoin price volatility while their counterpart takes a long position on BTC. As bitcoin's price moves, the contract allocates sats to one party to make sure the individual who is engaged in the contract to lock in a USD value of bitcoin is doing just that. If the price of bitcoin goes up, sats are allocated to the individual who is taking the long position. If the price of bitcoin goes down, sats are allocated to the party looking to lock in a stable USD value. All of this happens on the Bitcoin blockchain and the Lightning Network. No obscure governance token, DAO, or central third party holding USD in a bank account necessary. All that is needed are sats and a willing counter-party.''
+\lipsum[50]
+\section{Bitcoin adjacent chains}
+\subsection{Stacks and STX}
+``Stacks is an open-source network of decentralized apps and smart contracts built on Bitcoin.''\\ This novel approach saw the launch of a layer 1 blockchain token called STX, which is used in a similar way to gas in Ethereum. but claims settlement on the Bitcoin network. This is achieved through a novel bridging approach which they call Proof of Transfer (PoX).\\
+Stacks users say this hybrid approach is a pragmatic solution which enables dApps, smart contracts, DeFi, NFTs etc without compromising security. In practice the speculative component of the STX tokens which underpin these operations clouds the issue somewhat. It is a potentially useful middle ground solution with a great deal of developer attention.
+\subsection{Sovryn and RSK}
+\lipsum[50]
+
+Ingamar | Top of the Block:
+Lightning <> Rootstock Bridge for lnBTC <> Stablecoin swaps
+
+\href{https://www.marduk.exchange/}{Exchange}
+
+
+\href{https://github.com/pseudozach/lnsovbridge}{Repo 1}
+
+\href{
+https://github.com/pseudozach/boltz-frontend}{Repo 2}
+
+\href{https://github.com/grmkris/marduk-admin-frontend
+}{Repo 3}
+
+
+\href{https://lightning-bridges-aggregator.vercel.app/}{Bridge aggregator}
+
+
+
+\href{https://docs.boltz.exchange/en/latest/api/}{Rest API docs}
+
+\subsection{Sidechains}
+\lipsum[50]
+\subsection{Spacechains}
+\lipsum[50]
+\subsection{Drivechain}
+\lipsum[50]
+\subsection{Softchains}
+\lipsum[50] 
+\subsection{Statechains} 
+There are many \ref{https://gist.github.com/RubenSomsen/96505e99dc061d6af6b757ff74434e70}{proposals for layer 2 scaling solutions} for the bitcoin network. Ruben Somsen \ref{https://gist.github.com/RubenSomsen/c9f0a92493e06b0e29acced61ca9f49a}{describes Softchains, Stateschains, and Spacechains}, while  \href{https://www.drivechain.info/literature/index.html}{Drivechain is described} by the author Paul Sztorc on the project web pages. They are all hypothetical with the exception of sidechains.  
+
+\section{Other chains and networks}
+It's useful to make some `honourable mentions' of other options as this technology is moving so fast.
+
+Figure \ref{fig:messariICO} shows the allocations of proportions of value within different chains.
+
+\begin{figure}
+  \centering
+    \includegraphics[width=\linewidth]{messariICO}
+  \caption{Allocations given at the beginning of public blockchain, by Messari.}
+  \label{fig:messariICO}
+\end{figure}
+\subsection{Solana}
+\lipsum[50]
+\subsection{AVAX}
+\lipsum[50]
+\subsection{Luna}
+\lipsum[50]
+\subsection{Crosschains}
+RUNE?
+\lipsum[50]
+\subsection{Decentralised data}
+Something about Filecoin? ARWeave? IPFS etc
+\lipsum[50]

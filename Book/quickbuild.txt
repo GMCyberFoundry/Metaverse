@@ -1,0 +1,3 @@
+custom texmaker quick build
+
+pdflatex -synctex=1 -interaction=nonstopmode %.tex|makeindex %.idx -s indexstyle.ist|biber %|pdflatex -synctex=1 -interaction=nonstopmode %.tex|pdflatex -synctex=1 -interaction=nonstopmode %.tex |"C:/Program Files (x86)/Adobe/Acrobat Reader DC/Reader/AcroRd32.exe" %.pdf|git add .|git commit -m "autoLaTeX"|git push
