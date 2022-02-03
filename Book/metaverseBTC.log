@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.17)  3 FEB 2022 16:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.17)  3 FEB 2022 16:59
 entering extended mode
 **./metaverseBTC.tex
 (metaverseBTC.tex
@@ -1936,7 +1936,7 @@ quire-ments https://docs.vyos.io/en/latest/installation/install.html)
 File: Images//JOH.jpg Graphic file (type jpg)
 <use Images//JOH.jpg>
 Package pdftex.def Info: Images//JOH.jpg  used on input line 211.
-(pdftex.def)             Requested size: 123.18726pt x 184.3722pt.
+(pdftex.def)             Requested size: 113.33228pt x 169.6213pt.
 
 Overfull \hbox (140.84192pt too wide) in paragraph at lines 206--213
 [][][]$[]$ 
@@ -2013,7 +2013,7 @@ tgar/uagk8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ti
 mes/utmb8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/tim
 es/utmr8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/time
 s/utmri8a.pfb>
-Output written on metaverseBTC.pdf (96 pages, 8132245 bytes).
+Output written on metaverseBTC.pdf (96 pages, 8132241 bytes).
 PDF statistics:
  1907 PDF objects out of 2073 (max. 8388607)
  380 named destinations out of 1000 (max. 500000)
