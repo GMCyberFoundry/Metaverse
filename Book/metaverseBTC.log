@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.17)  3 FEB 2022 11:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.17)  3 FEB 2022 12:17
 entering extended mode
 **./metaverseBTC.tex
 (metaverseBTC.tex
@@ -1876,15 +1876,15 @@ Package pdftex.def Info: Images//orange2.jpg  used on input line 192.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 [79] [80
 
-] (metaverseBTC.ptc) [81] [82]
-Overfull \hbox (15.06967pt too wide) in paragraph at lines 277--282
+] (metaverseBTC.ptc) [81] [82] (HOWTO.tex
+Overfull \hbox (15.06967pt too wide) in paragraph at lines 79--84
 []\T1/ptm/m/n/10.95 (-20) Keep in mind that this setup uses the Prox-mox VE in-
 staller (https://www.proxmox.com/en/proxmox-
  []
 
 [83]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 3
-33.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+35.
  (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -1893,27 +1893,37 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (8.90321pt too wide) in paragraph at lines 372--372
+Overfull \hbox (8.90321pt too wide) in paragraph at lines 174--174
 []\T1/cmtt/m/n/10.95 deb http://security.debian.org/debian-security bullseye-se
 curity main contrib[] 
  []
 
 [84]
-Overfull \hbox (76.80367pt too wide) in paragraph at lines 451--451
+LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 
+235.
+ (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmtt.fd
+File: ts1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Overfull \hbox (76.80367pt too wide) in paragraph at lines 254--254
 []\T1/cmtt/m/n/10.95 $ docker run --rm -it --privileged -v $(pwd):/vyos -w /vyo
 s vyos/vyos-build:equuleus bash[] 
  []
 
 [85]
-Overfull \hbox (78.71973pt too wide) in paragraph at lines 494--497
+Overfull \hbox (78.71973pt too wide) in paragraph at lines 297--300
 []\T1/ptm/m/n/10.95 (-20) n the Disk tab leave the de-faults (this ex-ceeds re-
 quire-ments https://docs.vyos.io/en/latest/installation/install.html) 
  []
 
-[86] [87] [88
+[86]) [87] [88
 
 ] (metaverseBTC.ptc) [89] [90]
-Overfull \hbox (140.84192pt too wide) in paragraph at lines 600--607
+Overfull \hbox (140.84192pt too wide) in paragraph at lines 206--213
 [][][]$[]$ 
  []
 
@@ -1935,11 +1945,11 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33899 strings out of 478927
- 627881 string characters out of 2853008
+ 33924 strings out of 478927
+ 628590 string characters out of 2853008
  1470121 words of memory out of 3000000
- 50306 multiletter control sequences out of 15000+600000
- 515695 words of font info for 394 fonts, out of 8000000 for 9000
+ 50324 multiletter control sequences out of 15000+600000
+ 515993 words of font info for 395 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  98i,17n,97p,2519b,1344s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{section*.9} has been referenced but does not exis
@@ -1978,18 +1988,19 @@ oes not exist, replaced by a fixed one
 pdfTeX warning (dest): name{cite.0@semanticWeb} has been referenced but does no
 t exist, replaced by a fixed one
 
- <C:\Users\john\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt109
-5.pk>{C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<
-C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy
-10.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/ua
-gd8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/
-uagk8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
-tmb8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/ut
-mr8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utm
-ri8a.pfb>
-Output written on metaverseBTC.pdf (94 pages, 8118135 bytes).
+ <C:\Users\john\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tctt109
+5.pk> <C:\Users\john\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ec
+tt1095.pk>{C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.
+enc}<C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantg
+ar/uagd8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avan
+tgar/uagk8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ti
+mes/utmb8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/tim
+es/utmr8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/time
+s/utmri8a.pfb>
+Output written on metaverseBTC.pdf (94 pages, 8118853 bytes).
 PDF statistics:
- 1880 PDF objects out of 2073 (max. 8388607)
+ 1885 PDF objects out of 2073 (max. 8388607)
  378 named destinations out of 1000 (max. 500000)
- 118534 words of extra memory for PDF output out of 128383 (max. 10000000)
+ 119046 words of extra memory for PDF output out of 128383 (max. 10000000)
 
