@@ -210,7 +210,7 @@ This expanding ecosystem of client side verified proposals is as follows:
 \item RGB smart contracts
 \item RGB assets are fungible and non fungible tokens on both Bitcoin L1 and L2
 \item \href{https://www.aluvm.org/}{AluVM} is a RISC based virtual machine (programmable strictly in assembly) which can execute Turing complete complex logic, but only outputs a boolean result which is compliant with the rest of the client side validation system. In this way a true or false can be returned into Bitcoin based logic, but be arbitrarily complex within the execution by the contract parties.
-\item Bifrost
+\item Bifrost is an extension to the Lightning protocol, with it's own Rust based node implementation, and backwards compatibility with other nodes in the network. This means it can transparently participate in normal Lightning routing behaviour with other peers. Crucially however it can also negotiate passing the additional data for token transfer between two or more contiguous Bifrost enabled parties. This can be considered an additional network liquidity problem on top of Lightning, and is the essence of the ``Layer 3'' moniker associated with LNP/BP. It will require a great number of such nodes to successfully launch token transfer on Lightning.
 \item Contractum
 \item  Internet2: ``Tor/noise-protocol Internet apps based on Lightning secure messaging
 \item Storm is a lightly specified escrow-based bitcoin data storage layer compliant with Lightning through Bifrost.
