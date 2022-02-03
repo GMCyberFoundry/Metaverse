@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.17)  3 FEB 2022 16:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.17)  3 FEB 2022 16:33
 entering extended mode
 **./metaverseBTC.tex
 (metaverseBTC.tex
@@ -1711,7 +1711,7 @@ LaTeX Warning: Reference `https://gist.github.com/RubenSomsen/c9f0a92493e06b0e2
 Underfull \vbox (badness 1112) has occurred while \output is active []
 
  [43]
-<Images//messariICO.jpg, id=1282, 963.6pt x 542.025pt>
+<Images//messariICO.jpg, id=1283, 963.6pt x 542.025pt>
 File: Images//messariICO.jpg Graphic file (type jpg)
 <use Images//messariICO.jpg>
 Package pdftex.def Info: Images//messariICO.jpg  used on input line 284.
@@ -1735,7 +1735,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 93--94
 
  []
 
-<Images//BitcoinShareOfMoney.jpg, id=1333, 2862.695pt x 1575.8875pt>
+<Images//BitcoinShareOfMoney.jpg, id=1334, 2862.695pt x 1575.8875pt>
 File: Images//BitcoinShareOfMoney.jpg Graphic file (type jpg)
 <use Images//BitcoinShareOfMoney.jpg>
 Package pdftex.def Info: Images//BitcoinShareOfMoney.jpg  used on input line 99
@@ -1814,7 +1814,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
-<Images//muskWeb3.png, id=1413, 408.02437pt x 168.63pt>
+<Images//muskWeb3.png, id=1414, 408.02437pt x 168.63pt>
 File: Images//muskWeb3.png Graphic file (type png)
 <use Images//muskWeb3.png>
 Package pdftex.def Info: Images//muskWeb3.png  used on input line 13.
@@ -2005,9 +2005,9 @@ tgar/uagk8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ti
 mes/utmb8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/tim
 es/utmr8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/time
 s/utmri8a.pfb>
-Output written on metaverseBTC.pdf (96 pages, 8125987 bytes).
+Output written on metaverseBTC.pdf (96 pages, 8126249 bytes).
 PDF statistics:
- 1903 PDF objects out of 2073 (max. 8388607)
+ 1904 PDF objects out of 2073 (max. 8388607)
  380 named destinations out of 1000 (max. 500000)
  119046 words of extra memory for PDF output out of 128383 (max. 10000000)
 
