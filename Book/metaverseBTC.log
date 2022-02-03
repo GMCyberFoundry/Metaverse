@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.17)  3 FEB 2022 16:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.17)  3 FEB 2022 16:50
 entering extended mode
 **./metaverseBTC.tex
 (metaverseBTC.tex
@@ -1932,11 +1932,17 @@ quire-ments https://docs.vyos.io/en/latest/installation/install.html)
 [88]) [89] [90
 
 ] (metaverseBTC.ptc) [91] [92]
+<Images//JOH.jpg, id=1632, 110.66344pt x 165.61874pt>
+File: Images//JOH.jpg Graphic file (type jpg)
+<use Images//JOH.jpg>
+Package pdftex.def Info: Images//JOH.jpg  used on input line 211.
+(pdftex.def)             Requested size: 285.94942pt x 427.97792pt.
+
 Overfull \hbox (140.84192pt too wide) in paragraph at lines 206--213
 [][][]$[]$ 
  []
 
-[93] [94
+[93 <./Images//JOH.jpg>] [94
 
 ] [95] [96] (metaverseBTC.ind)
 \tf@ptc=\write9
@@ -1954,10 +1960,10 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33929 strings out of 478927
- 628634 string characters out of 2853008
+ 33942 strings out of 478927
+ 628848 string characters out of 2853008
  1470121 words of memory out of 3000000
- 50324 multiletter control sequences out of 15000+600000
+ 50337 multiletter control sequences out of 15000+600000
  516218 words of font info for 397 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  98i,17n,97p,2519b,1344s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2007,9 +2013,9 @@ tgar/uagk8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ti
 mes/utmb8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/tim
 es/utmr8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/time
 s/utmri8a.pfb>
-Output written on metaverseBTC.pdf (96 pages, 8126680 bytes).
+Output written on metaverseBTC.pdf (96 pages, 8131087 bytes).
 PDF statistics:
- 1904 PDF objects out of 2073 (max. 8388607)
+ 1905 PDF objects out of 2073 (max. 8388607)
  380 named destinations out of 1000 (max. 500000)
- 119046 words of extra memory for PDF output out of 128383 (max. 10000000)
+ 119051 words of extra memory for PDF output out of 128383 (max. 10000000)
 
