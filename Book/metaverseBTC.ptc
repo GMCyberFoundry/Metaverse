@@ -269,31 +269,33 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {9.3.1}Bitcoin Core}{72}{subsection.9.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.3.2}Lighting LND and LNBits}{72}{subsection.9.3.2}%
+\contentsline {subsection}{\numberline {9.3.2}Electrum server}{72}{subsection.9.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.3.3}RGB}{72}{subsection.9.3.3}%
+\contentsline {subsection}{\numberline {9.3.3}Lighting LND and LNBits}{72}{subsection.9.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.3.4}Electrum server}{72}{subsection.9.3.4}%
+\contentsline {subsection}{\numberline {9.3.4}C-Lightning and CLBoss}{72}{subsection.9.3.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.3.5}C-Lightning and CLBoss}{72}{subsection.9.3.5}%
+\contentsline {subsection}{\numberline {9.3.5}Backup \& Watchtower}{72}{subsection.9.3.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.3.6}Backup \& Watchtower}{73}{subsection.9.3.6}%
+\contentsline {subsection}{\numberline {9.3.6}RGB}{73}{subsection.9.3.6}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {9.4}Liquid sidechain and Lightning (NFT enabled)}{73}{section.9.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.4.1}Sovrin}{73}{subsection.9.4.1}%
+\contentsline {section}{\numberline {9.5}Identity}{73}{section.9.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.4.2}nostr}{73}{subsection.9.4.2}%
+\contentsline {subsection}{\numberline {9.5.1}nostr}{73}{subsection.9.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.4.3}KERI}{73}{subsection.9.4.3}%
+\contentsline {subsection}{\numberline {9.5.2}KERI}{73}{subsection.9.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.5}Metaverse}{74}{section.9.5}%
+\contentsline {section}{\numberline {9.6}Metaverse}{73}{section.9.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.5.1}Vircadia}{74}{subsection.9.5.1}%
+\contentsline {subsection}{\numberline {9.6.1}Vircadia}{74}{subsection.9.6.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.6}Messengers}{74}{section.9.6}%
+\contentsline {subsection}{\numberline {9.6.2}Wolvic}{74}{subsection.9.6.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.7}WebM}{74}{section.9.7}%
+\contentsline {subsection}{\numberline {9.6.3}WebM}{74}{subsection.9.6.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.7}Messengers}{74}{section.9.7}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {10}Example deployment }{75}{chapter.10}%
 \defcounter {refsection}{0}\relax 
