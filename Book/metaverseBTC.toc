@@ -270,19 +270,23 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {9.3.2}Lighting LND and LNBits}{72}{subsection.9.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.3.3}Electrum server}{72}{subsection.9.3.3}%
+\contentsline {subsection}{\numberline {9.3.3}RGB}{72}{subsection.9.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.3.4}C-Lightning and CLBoss}{72}{subsection.9.3.4}%
+\contentsline {subsection}{\numberline {9.3.4}Electrum server}{72}{subsection.9.3.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.3.5}Backup \& Watchtower}{73}{subsection.9.3.5}%
+\contentsline {subsection}{\numberline {9.3.5}C-Lightning and CLBoss}{72}{subsection.9.3.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.3.6}Backup \& Watchtower}{73}{subsection.9.3.6}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {9.4}Liquid sidechain and Lightning (NFT enabled)}{73}{section.9.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {9.4.1}Sovrin}{73}{subsection.9.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.4.2}KERI}{73}{subsection.9.4.2}%
+\contentsline {subsection}{\numberline {9.4.2}nostr}{73}{subsection.9.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.5}Metaverse}{73}{section.9.5}%
+\contentsline {subsection}{\numberline {9.4.3}KERI}{73}{subsection.9.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.5}Metaverse}{74}{section.9.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {9.5.1}Vircadia}{74}{subsection.9.5.1}%
 \defcounter {refsection}{0}\relax 
