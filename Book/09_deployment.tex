@@ -1,12 +1,17 @@
-We propose that the software be deployable into a server based virtual network running on a single system. Our hardware recommendation to run a balanced selection of elements is a quad core 16GB system with two 1TB SSD drives.
-\section{Why choose nix}
-\lipsum[50]
+We propose that the software be deployable into a server based virtual network running on a single system. Our hardware recommendation to run a balanced selection of elements is a quad core 16GB system with two 1TB SSD drives. The system diagram can be seen in Figure \ref{fig:deployment}.
+
+\begin{figure*}[ht]\centering % Using \begin{figure*} makes the figure take up the entire width of the page
+	\includegraphics[width=\linewidth]{deployment}
+	\caption{Proposed deployment of the software within the VMs on a single hardware system.}
+	\label{fig:deployment}
+\end{figure*}
+
 \section{Networking layer}
 \lipsum[50]
 \subsection{Proxmox}
-\lipsum[50]
+Proxmox open source server virtualisation allows the deployment of several virtual machines within a hardware system. Each of these VMs can have a different balance of performance, ease of use, and security. The VMs are given only the access they need to perform the task which they are specialised for. This improves overall security. Resilience is improved since elements of the cluster can be shutdown, reinstanced, and upgraded, without impacting the whole. Snapshots and backups are simplified.
 \subsection{VyOS firewall}
-\lipsum[50]
+VyOS firewall is a Proxmox aware threat management gateway and firewall which allows more nuanced interfacing with corporate systems, while maximising the security of the VM network which sits behind it i the virtual cluster.
 \subsection{Privacy aspects and using TOR etc}
 Currently some compromises with privacy may be necessary. Power users vs standard users. KYC/AML. 
 \href{https://bitnodes.io/nodes/?q=.onion}{tor nodes}

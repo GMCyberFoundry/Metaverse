@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.17)  3 FEB 2022 19:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.17)  4 FEB 2022 10:30
 entering extended mode
 **./metaverseBTC.tex
 (metaverseBTC.tex
@@ -1468,12 +1468,12 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
 [3
 
  <./Images//orange1.jpg>] [4] [5]
-Overfull \hbox (390.95769pt too wide) detected at line 313
+Overfull \hbox (390.95769pt too wide) detected at line 311
 [][][][][][] [][][][][][] 
  []
 
 [6]
-Overfull \hbox (390.95769pt too wide) detected at line 359
+Overfull \hbox (390.95769pt too wide) detected at line 357
 [][][][][][] [][][][][][] 
  []
 
@@ -1839,23 +1839,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--49
 
  []
 
-[65] [66] [67] [68]) [69] [70
-
-]
+[65] [66] [67] [68]) [69] [70]
 Chapter 9.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 177.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-(09_deployment.tex [71] [72] [73] [74]
+(09_deployment.tex
+<Images//deployment.png, id=1491, 721.4955pt x 769.1937pt>
+File: Images//deployment.png Graphic file (type png)
+<use Images//deployment.png>
+Package pdftex.def Info: Images//deployment.png  used on input line 4.
+(pdftex.def)             Requested size: 426.79135pt x 455.01752pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [71
+
+]
+[72 <./Images//deployment.png (PNG copy)>] [73] [74] [75] [76
+
+]
 Chapter 10.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
-Package pdftex.def Info: Images//orange2.jpg  used on input line 63.
+Package pdftex.def Info: Images//orange2.jpg  used on input line 68.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-) [75
-
-] [76
+) [77] [78
 
 ]
 Chapter 11.
@@ -1863,7 +1873,7 @@ File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 180.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-[77] [78
+[79] [80
 
 ]
 Chapter 12.
@@ -1871,7 +1881,7 @@ File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 190.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-[79] [80
+[81] [82
 
 ]
 Chapter 13.
@@ -1879,15 +1889,15 @@ File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 192.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-[81] [82
+[83] [84
 
-] (metaverseBTC.ptc) [83] [84] (HOWTO.tex
+] (metaverseBTC.ptc) [85] [86] (HOWTO.tex
 Overfull \hbox (15.06967pt too wide) in paragraph at lines 79--84
 []\T1/ptm/m/n/10.95 (-20) Keep in mind that this setup uses the Prox-mox VE in-
 staller (https://www.proxmox.com/en/proxmox-
  []
 
-[85]
+[87]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
 35.
  (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
@@ -1903,7 +1913,7 @@ Overfull \hbox (8.90321pt too wide) in paragraph at lines 174--174
 curity main contrib[] 
  []
 
-[86]
+[88]
 LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 
 235.
  (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmtt.fd
@@ -1919,16 +1929,16 @@ Overfull \hbox (76.80367pt too wide) in paragraph at lines 254--254
 s vyos/vyos-build:equuleus bash[] 
  []
 
-[87]
+[89]
 Overfull \hbox (78.71973pt too wide) in paragraph at lines 297--300
 []\T1/ptm/m/n/10.95 (-20) n the Disk tab leave the de-faults (this ex-ceeds re-
 quire-ments https://docs.vyos.io/en/latest/installation/install.html) 
  []
 
-[88]) [89] [90
+[90]) [91] [92
 
-] (metaverseBTC.ptc) [91] [92]
-<Images//JOH.jpg, id=1645, 110.66344pt x 165.61874pt>
+] (metaverseBTC.ptc) [93] [94]
+<Images//JOH.jpg, id=1656, 110.66344pt x 165.61874pt>
 File: Images//JOH.jpg Graphic file (type jpg)
 <use Images//JOH.jpg>
 Package pdftex.def Info: Images//JOH.jpg  used on input line 211.
@@ -1938,9 +1948,9 @@ Overfull \hbox (140.84192pt too wide) in paragraph at lines 206--213
 [][][]$[]$ 
  []
 
-[93 <./Images//JOH.jpg>] [94
+[95 <./Images//JOH.jpg>] [96
 
-] [95] [96] (metaverseBTC.ind)
+] [97] [98] (metaverseBTC.ind)
 \tf@ptc=\write9
 \openout9 = `metaverseBTC.ptc'.
 
@@ -1956,11 +1966,11 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33945 strings out of 478927
- 628896 string characters out of 2853008
- 1470121 words of memory out of 3000000
- 50337 multiletter control sequences out of 15000+600000
- 516218 words of font info for 397 fonts, out of 8000000 for 9000
+ 33960 strings out of 478927
+ 629199 string characters out of 2853008
+ 1470226 words of memory out of 3000000
+ 50349 multiletter control sequences out of 15000+600000
+ 516371 words of font info for 398 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  98i,17n,97p,2519b,1344s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{section*.9} has been referenced but does not exis
@@ -2009,9 +2019,9 @@ tgar/uagk8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ti
 mes/utmb8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/tim
 es/utmr8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/time
 s/utmri8a.pfb>
-Output written on metaverseBTC.pdf (96 pages, 8134213 bytes).
+Output written on metaverseBTC.pdf (98 pages, 9922818 bytes).
 PDF statistics:
- 1919 PDF objects out of 2073 (max. 8388607)
- 383 named destinations out of 1000 (max. 500000)
- 119051 words of extra memory for PDF output out of 128383 (max. 10000000)
+ 1932 PDF objects out of 2073 (max. 8388607)
+ 385 named destinations out of 1000 (max. 500000)
+ 119056 words of extra memory for PDF output out of 128383 (max. 10000000)
 
