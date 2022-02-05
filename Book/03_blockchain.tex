@@ -236,9 +236,23 @@ Work is being done to extend this primitive to lightning.\\
 Marty Bent ``This particular contract allows (currently) one party to lock in a stable amount of USD value in BTC to avoid bitcoin price volatility while their counterpart takes a long position on BTC. As bitcoin's price moves, the contract allocates sats to one party to make sure the individual who is engaged in the contract to lock in a USD value of bitcoin is doing just that. If the price of bitcoin goes up, sats are allocated to the individual who is taking the long position. If the price of bitcoin goes down, sats are allocated to the party looking to lock in a stable USD value. All of this happens on the Bitcoin blockchain and the Lightning Network. No obscure governance token, DAO, or central third party holding USD in a bank account necessary. All that is needed are sats and a willing counter-party.''
 \lipsum[50]
 \section{Bitcoin adjacent chains}
+In order of preference for functionality for Metaverse the following framework can be adopted.
+BitcoinL2>BitcoinL1>LiquidL2>Adjacentchains>Altchains
+
+The reasons are:
+\begin{itemize}
+\item Free and open source network
+\item Network effect
+\item Security model
+\item Development community
+\item Transaction speed
+\end{itemize}
+This section is in early development.
 \subsection{Stacks and STX}
 ``Stacks is an open-source network of decentralized apps and smart contracts built on Bitcoin.''\\ This novel approach saw the launch of a layer 1 blockchain token called STX, which is used in a similar way to gas in Ethereum. but claims settlement on the Bitcoin network. This is achieved through a novel bridging approach which they call Proof of Transfer (PoX).\\
 Stacks users say this hybrid approach is a pragmatic solution which enables dApps, smart contracts, DeFi, NFTs etc without compromising security. In practice the speculative component of the STX tokens which underpin these operations clouds the issue somewhat. It is a potentially useful middle ground solution with a great deal of developer attention.
+\subsubsection{Citycoins}
+These are actually slightly interesting.
 \subsection{Sovryn and RSK}
 \lipsum[50]
 
@@ -285,15 +299,29 @@ Figure \ref{fig:messariICO} shows the allocations of proportions of value within
   \caption{Allocations given at the beginning of public blockchain, by Messari.}
   \label{fig:messariICO}
 \end{figure}
-\subsection{Solana}
+
+\subsection{Layer 1 chains}
+ with expressive contract logic
+\subsubsection{Solana}
 \lipsum[50]
-\subsection{AVAX}
+\subsubsection{AVAX}
 \lipsum[50]
-\subsection{Luna}
+\subsubsection{Luna}
 \lipsum[50]
+\subsubsection{Tezos}
+\lipsum[50]
+\subsubsection{Iota}
+\lipsum[50]
+\subsubsection{VeChain}
+\lipsum[50]
+\subsubsection{Algorand}
+\lipsum[50]
+\subsubsection{ADA}
 \subsection{Crosschains}
 RUNE?
 \lipsum[50]
+lots of hacks and unmanageable complex logic. Who is moving across chains anyway?
 \subsection{Decentralised data}
+Nick Grossman \href{https://www.nickgrossman.xyz/2019/adversarial-interoperability/}{blog piece} on adversarial open data might inform how we should specify the open data layer for the metaverse.
 Something about Filecoin? ARWeave? IPFS etc
 \lipsum[50]
