@@ -290,11 +290,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {9.2.6}Object and media tracking: RGB}{73}{subsection.9.2.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.3}Identity}{74}{section.9.3}%
+\contentsline {section}{\numberline {9.3}Identity}{73}{section.9.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.3.1}nostr}{74}{subsection.9.3.1}%
+\contentsline {subsection}{\numberline {9.3.1}nostr}{73}{subsection.9.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.4}Metaverse}{74}{section.9.4}%
+\contentsline {section}{\numberline {9.4}Metaverse}{73}{section.9.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {9.4.1}Vircadia}{74}{subsection.9.4.1}%
 \defcounter {refsection}{0}\relax 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.17)  6 FEB 2022 08:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.17)  6 FEB 2022 08:28
 entering extended mode
 **./metaverseBTC.tex
 (metaverseBTC.tex
@@ -1854,10 +1854,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 [72 <./Images//deployment.png (PNG copy)>]
-Underfull \vbox (badness 1173) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 32--37
 
- [73]
-[74]
+ []
+
+[73] [74]
 Chapter 10.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
@@ -2019,7 +2020,7 @@ tgar/uagk8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ti
 mes/utmb8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/tim
 es/utmr8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/time
 s/utmri8a.pfb>
-Output written on metaverseBTC.pdf (96 pages, 9922905 bytes).
+Output written on metaverseBTC.pdf (96 pages, 9922104 bytes).
 PDF statistics:
  1916 PDF objects out of 2073 (max. 8388607)
  388 named destinations out of 1000 (max. 500000)
