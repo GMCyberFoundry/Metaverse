@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.17)  7 FEB 2022 13:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.17)  7 FEB 2022 19:47
 entering extended mode
 **./metaverseBTC.tex
 (metaverseBTC.tex
@@ -1878,12 +1878,12 @@ Package pdftex.def Info: Images//orange2.jpg  used on input line 180.
 <Images//globalclassroom.jpg, id=1539, 2787.66469pt x 2274.24657pt>
 File: Images//globalclassroom.jpg Graphic file (type jpg)
 <use Images//globalclassroom.jpg>
-Package pdftex.def Info: Images//globalclassroom.jpg  used on input line 211.
+Package pdftex.def Info: Images//globalclassroom.jpg  used on input line 214.
 (pdftex.def)             Requested size: 426.79135pt x 348.16681pt.
 <Images//systemc4.png, id=1540, 421.575pt x 522.45187pt>
 File: Images//systemc4.png Graphic file (type png)
 <use Images//systemc4.png>
-Package pdftex.def Info: Images//systemc4.png  used on input line 217.
+Package pdftex.def Info: Images//systemc4.png  used on input line 220.
 (pdftex.def)             Requested size: 426.79135pt x 528.92381pt.
  [78 <./Images//globalclassroom.jpg>] [79 <./Images//systemc4.png>]
 [80
@@ -1892,7 +1892,7 @@ Package pdftex.def Info: Images//systemc4.png  used on input line 217.
 Chapter 12.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
-Package pdftex.def Info: Images//orange2.jpg  used on input line 223.
+Package pdftex.def Info: Images//orange2.jpg  used on input line 226.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 [81] [82
 
@@ -1900,7 +1900,7 @@ Package pdftex.def Info: Images//orange2.jpg  used on input line 223.
 Chapter 13.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
-Package pdftex.def Info: Images//orange2.jpg  used on input line 225.
+Package pdftex.def Info: Images//orange2.jpg  used on input line 228.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 [83] [84
 
@@ -1954,10 +1954,10 @@ quire-ments https://docs.vyos.io/en/latest/installation/install.html)
 <Images//JOH.jpg, id=1673, 110.66344pt x 165.61874pt>
 File: Images//JOH.jpg Graphic file (type jpg)
 <use Images//JOH.jpg>
-Package pdftex.def Info: Images//JOH.jpg  used on input line 244.
+Package pdftex.def Info: Images//JOH.jpg  used on input line 247.
 (pdftex.def)             Requested size: 113.33228pt x 169.6213pt.
 
-Overfull \hbox (140.84192pt too wide) in paragraph at lines 239--246
+Overfull \hbox (140.84192pt too wide) in paragraph at lines 242--249
 [][][]$[]$ 
  []
 
@@ -2032,7 +2032,7 @@ tgar/uagk8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ti
 mes/utmb8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/tim
 es/utmr8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/time
 s/utmri8a.pfb>
-Output written on metaverseBTC.pdf (98 pages, 17028954 bytes).
+Output written on metaverseBTC.pdf (98 pages, 17029504 bytes).
 PDF statistics:
  1949 PDF objects out of 2073 (max. 8388607)
  389 named destinations out of 1000 (max. 500000)
