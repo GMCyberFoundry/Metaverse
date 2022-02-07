@@ -308,65 +308,65 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {11.1.1}Global course delivery}{77}{subsection.11.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {12}Conclusions }{79}{chapter.12}%
+\contentsline {chapter}{\numberline {12}Conclusions }{81}{chapter.12}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {13}Future work}{81}{chapter.13}%
+\contentsline {chapter}{\numberline {13}Future work}{83}{chapter.13}%
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{\numberline {II}Guides for deploying the software}{83}{part.2}%
+\contentsline {part}{\numberline {II}Guides for deploying the software}{85}{part.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.1}Lab}{85}{section.13.1}%
+\contentsline {section}{\numberline {13.1}Lab}{87}{section.13.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.1.1}Overview}{85}{subsection.13.1.1}%
+\contentsline {subsection}{\numberline {13.1.1}Overview}{87}{subsection.13.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {13.1.1.1}Summary of software}{85}{subsubsection.13.1.1.1}%
+\contentsline {subsubsection}{\numberline {13.1.1.1}Summary of software}{87}{subsubsection.13.1.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.1.2}Prerequisites}{85}{subsection.13.1.2}%
+\contentsline {subsection}{\numberline {13.1.2}Prerequisites}{87}{subsection.13.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.1.3}Network details}{85}{subsection.13.1.3}%
+\contentsline {subsection}{\numberline {13.1.3}Network details}{87}{subsection.13.1.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.1.4}Server configuration}{85}{subsection.13.1.4}%
+\contentsline {subsection}{\numberline {13.1.4}Server configuration}{87}{subsection.13.1.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {13.1.4.1}Server hardware details}{85}{subsubsection.13.1.4.1}%
+\contentsline {subsubsection}{\numberline {13.1.4.1}Server hardware details}{87}{subsubsection.13.1.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {13.1.4.2}Disk configuration details}{85}{subsubsection.13.1.4.2}%
+\contentsline {subsubsection}{\numberline {13.1.4.2}Disk configuration details}{87}{subsubsection.13.1.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.1.5}Proxmox VE}{85}{subsection.13.1.5}%
+\contentsline {subsection}{\numberline {13.1.5}Proxmox VE}{87}{subsection.13.1.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {13.1.5.1}Installation and configuration}{85}{subsubsection.13.1.5.1}%
+\contentsline {subsubsection}{\numberline {13.1.5.1}Installation and configuration}{87}{subsubsection.13.1.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Dialogue 1}{85}{paragraph*.4}%
+\contentsline {paragraph}{Dialogue 1}{87}{paragraph*.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Dialogue 2}{85}{paragraph*.5}%
+\contentsline {paragraph}{Dialogue 2}{87}{paragraph*.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Dialogue 3}{85}{paragraph*.6}%
+\contentsline {paragraph}{Dialogue 3}{87}{paragraph*.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Dialogue 4}{85}{paragraph*.7}%
+\contentsline {paragraph}{Dialogue 4}{87}{paragraph*.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {13.1.5.2}Software updates}{86}{subsubsection.13.1.5.2}%
+\contentsline {subsubsection}{\numberline {13.1.5.2}Software updates}{88}{subsubsection.13.1.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {13.1.5.3}Proxmox VE hardening}{87}{subsubsection.13.1.5.3}%
+\contentsline {subsubsection}{\numberline {13.1.5.3}Proxmox VE hardening}{89}{subsubsection.13.1.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.1.6}Setup an internal only network in Proxmox VE}{87}{subsection.13.1.6}%
+\contentsline {subsection}{\numberline {13.1.6}Setup an internal only network in Proxmox VE}{89}{subsection.13.1.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.1.7}Install and configure Internet gateway server virtual machine}{87}{subsection.13.1.7}%
+\contentsline {subsection}{\numberline {13.1.7}Install and configure Internet gateway server virtual machine}{89}{subsection.13.1.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {13.1.7.1}Create an ISO of the stable version (as of writing 1.3.0)}{87}{subsubsection.13.1.7.1}%
+\contentsline {subsubsection}{\numberline {13.1.7.1}Create an ISO of the stable version (as of writing 1.3.0)}{89}{subsubsection.13.1.7.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {13.1.7.2}Upload the ISO image to the Proxmox VE server}{87}{subsubsection.13.1.7.2}%
+\contentsline {subsubsection}{\numberline {13.1.7.2}Upload the ISO image to the Proxmox VE server}{89}{subsubsection.13.1.7.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {13.1.7.3}Create VyOS virtual machine}{88}{subsubsection.13.1.7.3}%
+\contentsline {subsubsection}{\numberline {13.1.7.3}Create VyOS virtual machine}{90}{subsubsection.13.1.7.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {13.1.7.4}Configure VyOS}{88}{subsubsection.13.1.7.4}%
+\contentsline {subsubsection}{\numberline {13.1.7.4}Configure VyOS}{90}{subsubsection.13.1.7.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{\numberline {III}Appendix}{91}{part.3}%
+\contentsline {part}{\numberline {III}Appendix}{93}{part.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.2}Acknowledgements and thanks}{93}{section.13.2}%
+\contentsline {section}{\numberline {13.2}Acknowledgements and thanks}{95}{section.13.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.3}Author Biographies}{93}{section.13.3}%
+\contentsline {section}{\numberline {13.3}Author Biographies}{95}{section.13.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\leavevmode {\color {ocre}Bibliography}}{95}{chapter*.8}%
+\contentsline {chapter}{\leavevmode {\color {ocre}Bibliography}}{97}{chapter*.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Articles}{95}{chapter*.8}%
+\contentsline {section}{Articles}{97}{chapter*.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Books}{96}{chapter*.8}%
+\contentsline {section}{Books}{98}{chapter*.8}%
 \contentsfinish 
