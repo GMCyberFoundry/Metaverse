@@ -38,6 +38,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.6}The common thread}{25}{section.2.6}%
 \defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.7}Risks}{26}{section.2.7}%
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}DLT, Blockchain, and Bitcoin}{27}{chapter.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.1}Ethereum}{29}{section.3.1}%
@@ -106,25 +108,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.8.1}Layer 1 chains}{44}{subsection.3.8.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.8.1.1}Solana}{45}{subsubsection.3.8.1.1}%
+\contentsline {subsection}{\numberline {3.8.2}Crosschains}{45}{subsection.3.8.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.8.1.2}AVAX}{45}{subsubsection.3.8.1.2}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.8.1.3}Luna}{45}{subsubsection.3.8.1.3}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.8.1.4}Tezos}{45}{subsubsection.3.8.1.4}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.8.1.5}Iota}{45}{subsubsection.3.8.1.5}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.8.1.6}VeChain}{45}{subsubsection.3.8.1.6}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.8.1.7}Algorand}{45}{subsubsection.3.8.1.7}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.8.1.8}ADA}{46}{subsubsection.3.8.1.8}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.8.2}Crosschains}{46}{subsection.3.8.2}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.8.3}Decentralised data}{46}{subsection.3.8.3}%
+\contentsline {subsection}{\numberline {3.8.3}Decentralised data}{45}{subsection.3.8.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Money in the real world}{47}{chapter.4}%
 \defcounter {refsection}{0}\relax 
@@ -149,6 +135,8 @@
 \contentsline {section}{\numberline {4.5}Does DeFi matter to SMEs }{51}{section.4.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {5}Distributed Autonomous Organisations}{53}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Risks}{53}{section.5.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {6}Distributed Self Sovereign Identity}{55}{chapter.6}%
 \defcounter {refsection}{0}\relax 
@@ -184,7 +172,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.4}Comparing the technologies}{57}{section.6.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.5}Testing and Recommendations}{57}{section.6.5}%
+\contentsline {section}{\numberline {6.5}Risks}{57}{section.6.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {7}Non Fungible Tokens}{59}{chapter.7}%
 \defcounter {refsection}{0}\relax 
@@ -198,7 +186,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {7.5}What are the options }{60}{section.7.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.6}Why choose bitcoin again }{61}{section.7.6}%
+\contentsline {section}{\numberline {7.6}Risks}{61}{section.7.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.7}Why choose bitcoin again }{61}{section.7.7}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {8}Metaverses}{63}{chapter.8}%
 \defcounter {refsection}{0}\relax 
@@ -266,6 +256,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {8.11.4}Object transfer and trading}{69}{subsection.8.11.4}%
 \defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.12}Risks}{70}{section.8.12}%
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {9}Hardware and software choices to support this}{71}{chapter.9}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {9.1}Networking layer}{71}{section.9.1}%
@@ -304,6 +296,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {9.5}Messengers}{74}{section.9.5}%
 \defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.6}Addressing identified risks}{74}{section.9.6}%
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {10}Example deployment }{75}{chapter.10}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {10.1}GitHub }{75}{section.10.1}%
@@ -312,7 +306,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {11.1}Potential applications }{77}{section.11.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.1.1}AI multiview digital signage}{77}{subsection.11.1.1}%
+\contentsline {subsection}{\numberline {11.1.1}Global course delivery}{77}{subsection.11.1.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {12}Conclusions }{79}{chapter.12}%
 \defcounter {refsection}{0}\relax 
