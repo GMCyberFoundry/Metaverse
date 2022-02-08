@@ -294,7 +294,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {9.4.3}WebM}{74}{subsection.9.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.5}Messengers}{74}{section.9.5}%
+\contentsline {section}{\numberline {9.5}Messengers and boards}{74}{section.9.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.5.1}Nostr}{74}{subsection.9.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.5.2}Cyperpost}{74}{subsection.9.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.5.3}Matrix}{74}{subsection.9.5.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {9.6}Addressing identified risks}{74}{section.9.6}%
 \defcounter {refsection}{0}\relax 
