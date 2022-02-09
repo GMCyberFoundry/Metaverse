@@ -166,13 +166,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {6.2.6}Microsoft ION}{56}{subsection.6.2.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2.7}Atala Prism (ADA Ecosystem)}{56}{subsection.6.2.7}%
+\contentsline {subsection}{\numberline {6.2.7}Atala Prism (ADA Ecosystem)}{57}{subsection.6.2.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}User stories / behaviours}{56}{section.6.3}%
+\contentsline {section}{\numberline {6.3}User stories / behaviours}{57}{section.6.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.4}Comparing the technologies}{57}{section.6.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.5}Risks}{57}{section.6.5}%
+\contentsline {section}{\numberline {6.5}Risks}{58}{section.6.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {7}Non Fungible Tokens}{59}{chapter.7}%
 \defcounter {refsection}{0}\relax 
