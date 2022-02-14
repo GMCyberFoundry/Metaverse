@@ -49,6 +49,19 @@
 	pdfcreator={LaTeX}, % Content creator field
 }
 
+
+\newsavebox{\fminipagebox}
+\NewDocumentEnvironment{fminipage}{m O{\fboxsep}}
+ {\par\kern#2\noindent\begin{lrbox}{\fminipagebox}
+  \begin{minipage}{#1}\ignorespaces}
+ {\end{minipage}\end{lrbox}%
+  \makebox[#1]{%
+    \kern\dimexpr-\fboxsep-\fboxrule\relax
+    \fbox{\usebox{\fminipagebox}}%
+    \kern\dimexpr-\fboxsep-\fboxrule\relax
+  }\par\kern#2
+ }
+
 \addbibresource{sample.bib} % Bibliography file
 
 \definecolor{ocre}{RGB}{52, 134, 235} % Define the color used for highlighting throughout the book

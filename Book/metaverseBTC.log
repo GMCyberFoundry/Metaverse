@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.17)  11 FEB 2022 16:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.17)  14 FEB 2022 17:22
 entering extended mode
 **./metaverseBTC.tex
 (metaverseBTC.tex
@@ -1191,9 +1191,10 @@ File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 /libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
+\fminipagebox=\box76
 \@quotelevel=\count470
 \@quotereset=\count471
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 63
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 76
 .
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
@@ -1212,31 +1213,31 @@ LaTeX Warning: Label `fig:globalclassroom' multiply defined.
 )
 \openout1 = `metaverseBTC.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
 i
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count472
 \scratchdimen=\dimen295
-\scratchbox=\box76
+\scratchbox=\box77
 \nofMPsegments=\count473
 \nofMParguments=\count474
 \everyMPshowfont=\toks50
@@ -1290,18 +1291,18 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 63.
-Package microtype Info: Applying patch `item' on input line 63.
-Package microtype Info: Applying patch `toc' on input line 63.
-Package microtype Info: Applying patch `eqnum' on input line 63.
-Package microtype Info: Applying patch `footnote' on input line 63.
+LaTeX Info: Redefining \microtypecontext on input line 76.
+Package microtype Info: Applying patch `item' on input line 76.
+Package microtype Info: Applying patch `toc' on input line 76.
+Package microtype Info: Applying patch `eqnum' on input line 76.
+Package microtype Info: Applying patch `footnote' on input line 76.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 63.
+LaTeX Info: Redefining \showhyphens on input line 76.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1344,9 +1345,9 @@ Package biblatex Warning: The following entry could not be found
 Package biblatex Warning: citation 'emp2006putting' was not found at all in the
  .bbl, bibliography labels cannot be generated, please correct the citation.
 
-Package biblatex Info: Reference section=0 on input line 63.
-Package biblatex Info: Reference segment=0 on input line 63.
-Package hyperref Info: Link coloring ON on input line 63.
+Package biblatex Info: Reference section=0 on input line 76.
+Package biblatex Info: Reference segment=0 on input line 76.
+Package hyperref Info: Link coloring ON on input line 76.
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -1359,15 +1360,15 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count478
 )
-LaTeX Info: Redefining \ref on input line 63.
-LaTeX Info: Redefining \pageref on input line 63.
-LaTeX Info: Redefining \nameref on input line 63.
+LaTeX Info: Redefining \ref on input line 76.
+LaTeX Info: Redefining \pageref on input line 76.
+LaTeX Info: Redefining \nameref on input line 76.
 <Images//background.pdf, id=6, 583.9416pt x 834.95943pt>
 File: Images//background.pdf Graphic file (type pdf)
 <use Images//background.pdf>
-Package pdftex.def Info: Images//background.pdf  used on input line 78.
+Package pdftex.def Info: Images//background.pdf  used on input line 91.
 (pdftex.def)             Requested size: 597.50787pt x 854.36107pt.
-LaTeX Font Info:    Trying to load font information for T1+pag on input line 78
+LaTeX Font Info:    Trying to load font information for T1+pag on input line 91
 .
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pag.fd
@@ -1378,25 +1379,25 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <24.88> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 78.
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 91.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <20.74> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 78.
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 91.
 
 [1
 
 {C:/Users/john/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./Images//backgr
 ound.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 88--89
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--93
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
  []
 
@@ -1404,10 +1405,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 92--93
 <Images//orange1.jpg, id=26, 1644.1425pt x 734.745pt>
 File: Images//orange1.jpg Graphic file (type jpg)
 <use Images//orange1.jpg>
-Package pdftex.def Info: Images//orange1.jpg  used on input line 112.
+Package pdftex.def Info: Images//orange1.jpg  used on input line 125.
 (pdftex.def)             Requested size: 597.50787pt x 267.01932pt.
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 112.
+ 125.
  (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
@@ -1416,35 +1417,35 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 112.
+ 125.
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 112.
+ 125.
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 112.
+ 125.
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
-12.
+25.
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 112.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 125.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 112.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 125.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 112.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 125.
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
@@ -1489,7 +1490,7 @@ Overfull \hbox (390.95769pt too wide) detected at line 367
 ]
 File: Images//orange1.jpg Graphic file (type jpg)
 <use Images//orange1.jpg>
-Package pdftex.def Info: Images//orange1.jpg  used on input line 114.
+Package pdftex.def Info: Images//orange1.jpg  used on input line 127.
 (pdftex.def)             Requested size: 597.50787pt x 267.01932pt.
  (metaverseBTC.lof)
 \tf@lof=\write7
@@ -1500,7 +1501,7 @@ Package pdftex.def Info: Images//orange1.jpg  used on input line 114.
 ]
 File: Images//orange1.jpg Graphic file (type jpg)
 <use Images//orange1.jpg>
-Package pdftex.def Info: Images//orange1.jpg  used on input line 116.
+Package pdftex.def Info: Images//orange1.jpg  used on input line 129.
 (pdftex.def)             Requested size: 597.50787pt x 267.01932pt.
  (metaverseBTC.lot)
 \tf@lot=\write8
@@ -1511,9 +1512,9 @@ Package pdftex.def Info: Images//orange1.jpg  used on input line 116.
 ]
 \c@ttl@toc@part=\count479
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <220> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 126.
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 139.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <30> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 126.
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 139.
 
 (metaverseBTC.ptc) [13
 
@@ -1524,19 +1525,19 @@ Chapter 1.
 <Images//orange2.jpg, id=932, 1300.86pt x 602.25pt>
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
-Package pdftex.def Info: Images//orange2.jpg  used on input line 140.
+Package pdftex.def Info: Images//orange2.jpg  used on input line 153.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 [17 <./Images//orange2.jpg>]
 <Images//landscapevenn.png, id=942, 676.62787pt x 505.89pt>
 File: Images//landscapevenn.png Graphic file (type png)
 <use Images//landscapevenn.png>
-Package pdftex.def Info: Images//landscapevenn.png  used on input line 155.
+Package pdftex.def Info: Images//landscapevenn.png  used on input line 168.
 (pdftex.def)             Requested size: 426.79135pt x 319.09062pt.
  [18 <./Images//landscapevenn.png>]
 Chapter 2.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
-Package pdftex.def Info: Images//orange2.jpg  used on input line 159.
+Package pdftex.def Info: Images//orange2.jpg  used on input line 172.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 (02_decentralised_web.tex
 <Images//semanticWebStack.png, id=952, 406.51875pt x 406.51875pt>
@@ -1594,7 +1595,7 @@ Package pdftex.def Info: Images//Web3ARK.jpg  used on input line 98.
 Chapter 3.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
-Package pdftex.def Info: Images//orange2.jpg  used on input line 162.
+Package pdftex.def Info: Images//orange2.jpg  used on input line 175.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 (03_blockchain.tex
 <Images//prehistory.jpg, id=1057, 1980.39874pt x 1376.14125pt>
@@ -1670,66 +1671,71 @@ Underfull \hbox (badness 10000) in paragraph at lines 138--140
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [35]
+Underfull \hbox (badness 10000) in paragraph at lines 149--151
+
+ []
+
 [36]
 <Images//lightningAdoption.jpg, id=1242, 423.83344pt x 572.1375pt>
 File: Images//lightningAdoption.jpg Graphic file (type jpg)
 <use Images//lightningAdoption.jpg>
-Package pdftex.def Info: Images//lightningAdoption.jpg  used on input line 159.
+Package pdftex.def Info: Images//lightningAdoption.jpg  used on input line 160.
 
 (pdftex.def)             Requested size: 426.79135pt x 576.15193pt.
-<Images//LnBitsPoS.png, id=1258, 291.18788pt x 254.45062pt>
+ [37] [38 <./Images//lightningAdoption.jpg>]
+<Images//LnBitsPoS.png, id=1268, 291.18788pt x 254.45062pt>
 File: Images//LnBitsPoS.png Graphic file (type png)
 <use Images//LnBitsPoS.png>
-Package pdftex.def Info: Images//LnBitsPoS.png  used on input line 182.
+Package pdftex.def Info: Images//LnBitsPoS.png  used on input line 183.
 (pdftex.def)             Requested size: 426.79135pt x 372.98184pt.
- [37] [38 <./Images//lightningAdoption.jpg>] [39 <./Images//LnBitsPoS.png>] [40
-]
-Underfull \hbox (badness 10000) in paragraph at lines 213--218
+ [39 <./Images//LnBitsPoS.png>] [40]
+Underfull \hbox (badness 10000) in paragraph at lines 214--219
 
  []
 
-[41]
-Underfull \vbox (badness 3861) has occurred while \output is active []
+
+Underfull \vbox (badness 1715) has occurred while \output is active []
+
+ [41]
+Underfull \vbox (badness 1629) has occurred while \output is active []
 
  [42]
-Underfull \hbox (badness 10000) in paragraph at lines 256--258
+Underfull \hbox (badness 10000) in paragraph at lines 257--259
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [43]
-Underfull \hbox (badness 10000) in paragraph at lines 306--310
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 308--312
 
  []
 
-
-Underfull \vbox (badness 1888) has occurred while \output is active []
-
- [44]
+[44]
 
 LaTeX Warning: Reference `https://gist.github.com/RubenSomsen/96505e99dc061d6af
-6b757ff74434e70' on page 45 undefined on input line 322.
+6b757ff74434e70' on page 45 undefined on input line 324.
 
 
 LaTeX Warning: Reference `https://gist.github.com/RubenSomsen/c9f0a92493e06b0e2
-9acced61ca9f49a' on page 45 undefined on input line 322.
+9acced61ca9f49a' on page 45 undefined on input line 324.
 
-<Images//messariICO.jpg, id=1325, 963.6pt x 542.025pt>
+<Images//messariICO.jpg, id=1326, 963.6pt x 542.025pt>
 File: Images//messariICO.jpg Graphic file (type jpg)
 <use Images//messariICO.jpg>
-Package pdftex.def Info: Images//messariICO.jpg  used on input line 331.
+Package pdftex.def Info: Images//messariICO.jpg  used on input line 333.
 (pdftex.def)             Requested size: 426.79135pt x 240.06314pt.
-[45]) [46 <./Images//messariICO.jpg>]
+[45 <./Images//messariICO.jpg>]
+Underfull \vbox (badness 6284) has occurred while \output is active []
+
+ [46])
+[47] [48
+
+]
 Chapter 4.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
-Package pdftex.def Info: Images//orange2.jpg  used on input line 165.
+Package pdftex.def Info: Images//orange2.jpg  used on input line 178.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-(04_money.tex [47
-
-] [48] [49]
+(04_money.tex [49] [50] [51]
 Underfull \hbox (badness 10000) in paragraph at lines 81--92
 
  []
@@ -1739,7 +1745,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 93--94
 
  []
 
-<Images//BitcoinShareOfMoney.jpg, id=1373, 2862.695pt x 1575.8875pt>
+<Images//BitcoinShareOfMoney.jpg, id=1384, 2862.695pt x 1575.8875pt>
 File: Images//BitcoinShareOfMoney.jpg Graphic file (type jpg)
 <use Images//BitcoinShareOfMoney.jpg>
 Package pdftex.def Info: Images//BitcoinShareOfMoney.jpg  used on input line 99
@@ -1748,45 +1754,45 @@ Package pdftex.def Info: Images//BitcoinShareOfMoney.jpg  used on input line 99
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [50])
-[51 <./Images//BitcoinShareOfMoney.jpg>] [52
+ [52])
+[53 <./Images//BitcoinShareOfMoney.jpg>] [54
 
 ]
 Chapter 5.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
-Package pdftex.def Info: Images//orange2.jpg  used on input line 168.
+Package pdftex.def Info: Images//orange2.jpg  used on input line 181.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-(05_daos.tex) [53] [54
+(05_daos.tex) [55] [56
 
 ]
 Chapter 6.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
-Package pdftex.def Info: Images//orange2.jpg  used on input line 171.
+Package pdftex.def Info: Images//orange2.jpg  used on input line 184.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-(06_identity.tex [55]
+(06_identity.tex [57]
 Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
  []
 
-[56]
+[58]
 Underfull \hbox (badness 10000) in paragraph at lines 78--81
 
  []
 
-[57]) [58]
+[59]) [60]
 Chapter 7.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
-Package pdftex.def Info: Images//orange2.jpg  used on input line 174.
+Package pdftex.def Info: Images//orange2.jpg  used on input line 187.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 (07_nft.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
 
-[59
+[61
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 36--39
@@ -1801,13 +1807,13 @@ Overfull \hbox (117.34387pt too wide) in paragraph at lines 6--26
 [][] 
  []
 
-) [60]) [61] [62
+) [62]) [63] [64
 
 ]
 Chapter 8.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
-Package pdftex.def Info: Images//orange2.jpg  used on input line 177.
+Package pdftex.def Info: Images//orange2.jpg  used on input line 190.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 (08_metaverse.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
@@ -1819,12 +1825,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
-<Images//muskWeb3.png, id=1455, 408.02437pt x 168.63pt>
+<Images//muskWeb3.png, id=1466, 408.02437pt x 168.63pt>
 File: Images//muskWeb3.png Graphic file (type png)
 <use Images//muskWeb3.png>
 Package pdftex.def Info: Images//muskWeb3.png  used on input line 13.
 (pdftex.def)             Requested size: 426.79135pt x 176.39514pt.
-[63 <./Images//muskWeb3.png>]
+[65 <./Images//muskWeb3.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 24--26
 
  []
@@ -1837,19 +1843,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
 Underfull \vbox (badness 3138) has occurred while \output is active []
 
- [64]
+ [66]
 Underfull \hbox (badness 10000) in paragraph at lines 48--49
 
  []
 
-[65] [66] [67] [68] [69]) [70]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [67]
+Underfull \vbox (badness 2653) has occurred while \output is active []
+
+ [68]
+[69]
+Underfull \vbox (badness 1242) has occurred while \output is active []
+
+ [70]
+Underfull \vbox (badness 4531) has occurred while \output is active []
+
+ [71])
+[72]
 Chapter 9.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
-Package pdftex.def Info: Images//orange2.jpg  used on input line 180.
+Package pdftex.def Info: Images//orange2.jpg  used on input line 193.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 (09_deployment.tex
-<Images//deployment.png, id=1521, 721.4955pt x 769.1937pt>
+<Images//deployment.png, id=1533, 721.4955pt x 769.1937pt>
 File: Images//deployment.png Graphic file (type png)
 <use Images//deployment.png>
 Package pdftex.def Info: Images//deployment.png  used on input line 4.
@@ -1857,67 +1877,67 @@ Package pdftex.def Info: Images//deployment.png  used on input line 4.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [71
+ [73
 
 ]
-[72 <./Images//deployment.png (PNG copy)>]
+[74 <./Images//deployment.png (PNG copy)>]
 Underfull \hbox (badness 10000) in paragraph at lines 32--37
 
  []
 
-[73] [74]
+[75] [76]
 Chapter 10.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 74.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-) [75
+) [77
 
-] [76
+] [78
 
 ]
 Chapter 11.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
-Package pdftex.def Info: Images//orange2.jpg  used on input line 183.
+Package pdftex.def Info: Images//orange2.jpg  used on input line 196.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-[77]
-<Images//globalclassroom.png, id=1556, 1484.04437pt x 1121.18875pt>
+[79]
+<Images//globalclassroom.png, id=1569, 1484.04437pt x 1121.18875pt>
 File: Images//globalclassroom.png Graphic file (type png)
 <use Images//globalclassroom.png>
-Package pdftex.def Info: Images//globalclassroom.png  used on input line 217.
+Package pdftex.def Info: Images//globalclassroom.png  used on input line 230.
 (pdftex.def)             Requested size: 426.79135pt x 322.43335pt.
-<Images//systemc4.png, id=1557, 1576.89125pt x 1024.82875pt>
+<Images//systemc4.png, id=1570, 1576.89125pt x 1024.82875pt>
 File: Images//systemc4.png Graphic file (type png)
 <use Images//systemc4.png>
-Package pdftex.def Info: Images//systemc4.png  used on input line 223.
+Package pdftex.def Info: Images//systemc4.png  used on input line 236.
 (pdftex.def)             Requested size: 426.79135pt x 277.36424pt.
- [78 <./Images//globalclassroom.png>] [79 <./Images//systemc4.png>]
-[80
+ [80 <./Images//globalclassroom.png>] [81 <./Images//systemc4.png>]
+[82
 
 ]
 Chapter 12.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
-Package pdftex.def Info: Images//orange2.jpg  used on input line 229.
+Package pdftex.def Info: Images//orange2.jpg  used on input line 242.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-[81] [82
+[83] [84
 
 ]
 Chapter 13.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
-Package pdftex.def Info: Images//orange2.jpg  used on input line 231.
+Package pdftex.def Info: Images//orange2.jpg  used on input line 244.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-[83] [84
+[85] [86
 
-] (metaverseBTC.ptc) [85] [86] (HOWTO.tex
+] (metaverseBTC.ptc) [87] [88] (HOWTO.tex
 Overfull \hbox (15.06967pt too wide) in paragraph at lines 79--84
 []\T1/ptm/m/n/10.95 (-20) Keep in mind that this setup uses the Prox-mox VE in-
 staller (https://www.proxmox.com/en/proxmox-
  []
 
-[87]
+[89]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
 35.
  (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
@@ -1933,7 +1953,7 @@ Overfull \hbox (8.90321pt too wide) in paragraph at lines 174--174
 curity main contrib[] 
  []
 
-[88]
+[90]
 LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 
 235.
  (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmtt.fd
@@ -1949,28 +1969,28 @@ Overfull \hbox (76.80367pt too wide) in paragraph at lines 254--254
 s vyos/vyos-build:equuleus bash[] 
  []
 
-[89]
+[91]
 Overfull \hbox (78.71973pt too wide) in paragraph at lines 297--300
 []\T1/ptm/m/n/10.95 (-20) n the Disk tab leave the de-faults (this ex-ceeds re-
 quire-ments https://docs.vyos.io/en/latest/installation/install.html) 
  []
 
-[90]) [91] [92
+[92]) [93] [94
 
-] (metaverseBTC.ptc) [93] [94]
-<Images//JOH.jpg, id=1691, 110.66344pt x 165.61874pt>
+] (metaverseBTC.ptc) [95] [96]
+<Images//JOH.jpg, id=1703, 110.66344pt x 165.61874pt>
 File: Images//JOH.jpg Graphic file (type jpg)
 <use Images//JOH.jpg>
-Package pdftex.def Info: Images//JOH.jpg  used on input line 250.
+Package pdftex.def Info: Images//JOH.jpg  used on input line 263.
 (pdftex.def)             Requested size: 113.33228pt x 169.6213pt.
 
-Overfull \hbox (140.84192pt too wide) in paragraph at lines 245--252
+Overfull \hbox (140.84192pt too wide) in paragraph at lines 258--265
 [][][]$[]$ 
  []
 
-[95 <./Images//JOH.jpg>] [96
+[97 <./Images//JOH.jpg>] [98
 
-] [97] [98] (metaverseBTC.ind)
+] [99] [100] (metaverseBTC.ind)
 \tf@ptc=\write9
 \openout9 = `metaverseBTC.ptc'.
 
@@ -1986,11 +2006,11 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33987 strings out of 478927
- 629841 string characters out of 2853008
- 1470280 words of memory out of 3000000
- 50372 multiletter control sequences out of 15000+600000
- 516146 words of font info for 396 fonts, out of 8000000 for 9000
+ 33995 strings out of 478927
+ 630012 string characters out of 2853008
+ 1470432 words of memory out of 3000000
+ 50381 multiletter control sequences out of 15000+600000
+ 515921 words of font info for 394 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  98i,17n,97p,2519b,1344s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{section*.9} has been referenced but does not exis
@@ -2039,9 +2059,9 @@ tgar/uagk8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ti
 mes/utmb8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/tim
 es/utmr8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/time
 s/utmri8a.pfb>
-Output written on metaverseBTC.pdf (98 pages, 10212988 bytes).
+Output written on metaverseBTC.pdf (100 pages, 10221730 bytes).
 PDF statistics:
- 1968 PDF objects out of 2073 (max. 8388607)
- 392 named destinations out of 1000 (max. 500000)
+ 1980 PDF objects out of 2073 (max. 8388607)
+ 394 named destinations out of 1000 (max. 500000)
  119066 words of extra memory for PDF output out of 128383 (max. 10000000)
 
