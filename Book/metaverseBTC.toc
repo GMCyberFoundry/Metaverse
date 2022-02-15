@@ -10,369 +10,371 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.2}Introduction}{17}{section.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Web3 / decentralised web}{19}{chapter.2}%
+\contentsline {chapter}{\numberline {2}Web3 / decentralised web}{21}{chapter.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Semantic web}{19}{section.2.1}%
+\contentsline {section}{\numberline {2.1}Semantic web}{21}{section.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Spatial web}{21}{section.2.2}%
+\contentsline {section}{\numberline {2.2}Spatial web}{23}{section.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Webs of trust}{21}{section.2.3}%
+\contentsline {section}{\numberline {2.3}Webs of trust}{23}{section.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}Emerging consensus}{22}{section.2.4}%
+\contentsline {section}{\numberline {2.4}Emerging consensus}{24}{section.2.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.5}Example applications}{24}{section.2.5}%
+\contentsline {section}{\numberline {2.5}Example applications}{26}{section.2.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.1}Podcasting2.0}{24}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.1}Podcasting2.0}{26}{subsection.2.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.2}Crowd funding}{24}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.2}Crowd funding}{26}{subsection.2.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.3}Distributed exchanges}{24}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.3}Distributed exchanges}{26}{subsection.2.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.4}NFT marketplaces}{24}{subsection.2.5.4}%
+\contentsline {subsection}{\numberline {2.5.4}NFT marketplaces}{26}{subsection.2.5.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.5}Slashtags / Hypercore}{24}{subsection.2.5.5}%
+\contentsline {subsection}{\numberline {2.5.5}Slashtags / Hypercore}{26}{subsection.2.5.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.6}Distributed DNS applications}{25}{subsection.2.5.6}%
+\contentsline {subsection}{\numberline {2.5.6}Distributed DNS applications}{27}{subsection.2.5.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.7}Impervious browser}{25}{subsection.2.5.7}%
+\contentsline {subsection}{\numberline {2.5.7}Impervious browser}{27}{subsection.2.5.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.6}The common thread}{25}{section.2.6}%
+\contentsline {section}{\numberline {2.6}The common thread}{27}{section.2.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.7}Risks}{26}{section.2.7}%
+\contentsline {section}{\numberline {2.7}Risks}{28}{section.2.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}DLT, Blockchain, and Bitcoin}{27}{chapter.3}%
+\contentsline {chapter}{\numberline {3}DLT, Blockchain, and Bitcoin}{29}{chapter.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Ethereum}{29}{section.3.1}%
+\contentsline {section}{\numberline {3.1}Ethereum}{31}{section.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}Mining and Gas}{30}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.1}Mining and Gas}{32}{subsection.3.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.2}Upgrade roadmap}{30}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.2}Upgrade roadmap}{32}{subsection.3.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Bitcoin}{30}{section.3.2}%
+\contentsline {section}{\numberline {3.2}Bitcoin}{32}{section.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}The Bitcoin Network Software}{32}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.1}The Bitcoin Network Software}{34}{subsection.3.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.2}Mining and Energy concerns}{32}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.2}Mining and Energy concerns}{34}{subsection.3.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.3}Bitcoin nodes }{34}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.3}Bitcoin nodes }{36}{subsection.3.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.4}Upgrade roadmap}{35}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.4}Upgrade roadmap}{37}{subsection.3.2.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.5}Risks}{35}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.2.5}Risks}{37}{subsection.3.2.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Extending the BTC ecosystem }{35}{section.3.3}%
+\contentsline {section}{\numberline {3.3}Extending the BTC ecosystem }{37}{section.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Block \& SpiralBTC}{36}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.1}Block \& SpiralBTC}{38}{subsection.3.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.2}BTCPayServer}{36}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.2}BTCPayServer}{38}{subsection.3.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Lightning (Layer 2)}{36}{section.3.4}%
+\contentsline {section}{\numberline {3.4}Lightning (Layer 2)}{38}{section.3.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.1}Micropayments}{37}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.1}Micropayments}{39}{subsection.3.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.2}LNBits}{37}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.2}LNBits}{39}{subsection.3.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.3}Etleneum}{39}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.3}Etleneum}{41}{subsection.3.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.4}Message passing}{39}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.4}Message passing}{41}{subsection.3.4.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}Liquid federation (layer 2)}{40}{section.3.5}%
+\contentsline {section}{\numberline {3.5}Liquid federation (layer 2)}{42}{section.3.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.6}Bitcoin Layer 3}{41}{section.3.6}%
+\contentsline {section}{\numberline {3.6}Bitcoin Layer 3}{43}{section.3.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.6.1}LNP/BP and RGB}{41}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.1}LNP/BP and RGB}{43}{subsection.3.6.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.6.2}Synonym \& Omnibolt}{43}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.2}Synonym \& Omnibolt}{45}{subsection.3.6.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.6.3}DLCFD}{43}{subsection.3.6.3}%
+\contentsline {subsection}{\numberline {3.6.3}DLCFD}{45}{subsection.3.6.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.7}Bitcoin adjacent chains}{43}{section.3.7}%
+\contentsline {section}{\numberline {3.7}Bitcoin adjacent chains}{45}{section.3.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.7.1}Stacks and STX}{43}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.1}Stacks and STX}{45}{subsection.3.7.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.7.1.1}Citycoins}{44}{subsubsection.3.7.1.1}%
+\contentsline {subsubsection}{\numberline {3.7.1.1}Citycoins}{46}{subsubsection.3.7.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.7.2}Sovryn and RSK}{44}{subsection.3.7.2}%
+\contentsline {subsection}{\numberline {3.7.2}Sovryn and RSK}{46}{subsection.3.7.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.7.3}Sidechains}{44}{subsection.3.7.3}%
+\contentsline {subsection}{\numberline {3.7.3}Sidechains}{46}{subsection.3.7.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.7.4}Spacechains}{44}{subsection.3.7.4}%
+\contentsline {subsection}{\numberline {3.7.4}Spacechains}{46}{subsection.3.7.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.7.5}Drivechain}{44}{subsection.3.7.5}%
+\contentsline {subsection}{\numberline {3.7.5}Drivechain}{46}{subsection.3.7.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.7.6}Softchains}{45}{subsection.3.7.6}%
+\contentsline {subsection}{\numberline {3.7.6}Softchains}{47}{subsection.3.7.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.7.7}Statechains}{45}{subsection.3.7.7}%
+\contentsline {subsection}{\numberline {3.7.7}Statechains}{47}{subsection.3.7.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.8}Other chains and networks}{45}{section.3.8}%
+\contentsline {section}{\numberline {3.8}Other chains and networks}{47}{section.3.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.8.1}Layer 1 chains}{45}{subsection.3.8.1}%
+\contentsline {subsection}{\numberline {3.8.1}Layer 1 chains}{47}{subsection.3.8.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.8.2}Crosschains}{46}{subsection.3.8.2}%
+\contentsline {subsection}{\numberline {3.8.2}Crosschains}{48}{subsection.3.8.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.8.3}Decentralised data}{47}{subsection.3.8.3}%
+\contentsline {subsection}{\numberline {3.8.3}Decentralised data}{49}{subsection.3.8.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Money in the real world}{49}{chapter.4}%
+\contentsline {chapter}{\numberline {4}Money in the real world}{51}{chapter.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Defining money}{49}{section.4.1}%
+\contentsline {section}{\numberline {4.1}Defining money}{51}{section.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}International money transfer networks}{49}{section.4.2}%
+\contentsline {section}{\numberline {4.2}International money transfer networks}{51}{section.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.1}Swift, ISO 20022, and correspondence banking}{50}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.1}Swift, ISO 20022, and correspondence banking}{52}{subsection.4.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.2}VISA etc}{50}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.2}VISA etc}{52}{subsection.4.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.3}Money transfer operators}{50}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.3}Money transfer operators}{52}{subsection.4.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.4}Digital disruptive fintech}{50}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.4}Digital disruptive fintech}{52}{subsection.4.2.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.5}Stablecoins}{50}{subsection.4.2.5}%
+\contentsline {subsection}{\numberline {4.2.5}Stablecoins}{52}{subsection.4.2.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Central bank digital currencies}{51}{section.4.3}%
+\contentsline {section}{\numberline {4.3}Central bank digital currencies}{53}{section.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Bitcoin as a money}{51}{section.4.4}%
+\contentsline {section}{\numberline {4.4}Bitcoin as a money}{53}{section.4.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.5}Does DeFi matter to SMEs }{53}{section.4.5}%
+\contentsline {section}{\numberline {4.5}Does DeFi matter to SMEs }{55}{section.4.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Distributed Autonomous Organisations}{55}{chapter.5}%
+\contentsline {chapter}{\numberline {5}Distributed Autonomous Organisations}{57}{chapter.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Risks}{55}{section.5.1}%
+\contentsline {section}{\numberline {5.1}Risks}{57}{section.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Distributed Self Sovereign Identity}{57}{chapter.6}%
+\contentsline {chapter}{\numberline {6}Distributed Self Sovereign Identity}{59}{chapter.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}Some basics about distributed identity}{57}{section.6.1}%
+\contentsline {section}{\numberline {6.1}Some basics about distributed identity}{59}{section.6.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1.1}DID principles}{57}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.1}DID principles}{59}{subsection.6.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1.2}primatives}{57}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.2}primatives}{59}{subsection.6.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1.3}What's in a DID document?}{57}{subsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.1.3}What's in a DID document?}{59}{subsection.6.1.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1.4}What are the challenges?}{57}{subsection.6.1.4}%
+\contentsline {subsection}{\numberline {6.1.4}What are the challenges?}{59}{subsection.6.1.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1.5}keystone uses}{57}{subsection.6.1.5}%
+\contentsline {subsection}{\numberline {6.1.5}keystone uses}{59}{subsection.6.1.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}Technologies}{57}{section.6.2}%
+\contentsline {section}{\numberline {6.2}Technologies}{59}{section.6.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2.1}Slashtags}{57}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.1}Slashtags}{59}{subsection.6.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2.2}LNURL-Auth}{58}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.2}LNURL-Auth}{60}{subsection.6.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2.3}Sovrin}{58}{subsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.2.3}Sovrin}{60}{subsection.6.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2.4}Keri}{58}{subsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.2.4}Keri}{60}{subsection.6.2.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2.5}Atala Prism}{58}{subsection.6.2.5}%
+\contentsline {subsection}{\numberline {6.2.5}Atala Prism}{60}{subsection.6.2.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2.6}Microsoft ION}{58}{subsection.6.2.6}%
+\contentsline {subsection}{\numberline {6.2.6}Microsoft ION}{60}{subsection.6.2.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2.7}Atala Prism (ADA Ecosystem)}{59}{subsection.6.2.7}%
+\contentsline {subsection}{\numberline {6.2.7}Atala Prism (ADA Ecosystem)}{61}{subsection.6.2.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}User stories / behaviours}{59}{section.6.3}%
+\contentsline {section}{\numberline {6.3}User stories / behaviours}{61}{section.6.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.4}Comparing the technologies}{59}{section.6.4}%
+\contentsline {section}{\numberline {6.4}Comparing the technologies}{61}{section.6.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.5}Risks}{60}{section.6.5}%
+\contentsline {section}{\numberline {6.5}Risks}{62}{section.6.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Non Fungible Tokens}{61}{chapter.7}%
+\contentsline {chapter}{\numberline {7}Non Fungible Tokens}{63}{chapter.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}Energy concerns}{61}{section.7.1}%
+\contentsline {section}{\numberline {7.1}Energy concerns}{63}{section.7.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}Is any of this useful?}{62}{section.7.2}%
+\contentsline {section}{\numberline {7.2}NFTs and games}{64}{section.7.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.3}User stories / behaviours}{62}{section.7.3}%
+\contentsline {section}{\numberline {7.3}Is any of this useful?}{64}{section.7.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.4}Comparing the technologies}{62}{section.7.4}%
+\contentsline {section}{\numberline {7.4}User stories / behaviours}{64}{section.7.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.5}What are the options }{62}{section.7.5}%
+\contentsline {section}{\numberline {7.5}Comparing the technologies}{64}{section.7.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.6}Risks}{63}{section.7.6}%
+\contentsline {section}{\numberline {7.6}What are the options }{64}{section.7.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.7}Why choose bitcoin again }{63}{section.7.7}%
+\contentsline {section}{\numberline {7.7}Risks}{65}{section.7.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Metaverses}{65}{chapter.8}%
+\contentsline {section}{\numberline {7.8}Why choose bitcoin again }{65}{section.7.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.1}History and market need}{65}{section.8.1}%
+\contentsline {chapter}{\numberline {8}Metaverses}{67}{chapter.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.2}Post `Meta' metaverse}{66}{section.8.2}%
+\contentsline {section}{\numberline {8.1}History and market need}{67}{section.8.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.2.1}Mixed reality as a metaverse}{66}{subsection.8.2.1}%
+\contentsline {section}{\numberline {8.2}Post `Meta' metaverse}{68}{section.8.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.3}Digital Land}{66}{section.8.3}%
+\contentsline {subsection}{\numberline {8.2.1}Mixed reality as a metaverse}{68}{subsection.8.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.3.1}Secondlife}{67}{subsection.8.3.1}%
+\contentsline {section}{\numberline {8.3}Digital Land}{68}{section.8.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.3.2}The new stuff}{67}{subsection.8.3.2}%
+\contentsline {subsection}{\numberline {8.3.1}Secondlife}{69}{subsection.8.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.4}Global enterprise perspective}{67}{section.8.4}%
+\contentsline {subsection}{\numberline {8.3.2}The new stuff}{69}{subsection.8.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.5}NFT as metaverse narrative}{67}{section.8.5}%
+\contentsline {section}{\numberline {8.4}Global enterprise perspective}{69}{section.8.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.6}MMORG games and NFTs}{67}{section.8.6}%
+\contentsline {section}{\numberline {8.5}NFT as metaverse narrative}{69}{section.8.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.7}Crypto metaverses}{68}{section.8.7}%
+\contentsline {section}{\numberline {8.6}MMORG games and NFTs}{69}{section.8.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.8}Social VR software options}{69}{section.8.8}%
+\contentsline {section}{\numberline {8.7}Crypto metaverses}{70}{section.8.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.8.1}Second Life}{69}{subsection.8.8.1}%
+\contentsline {section}{\numberline {8.8}Social VR software options}{71}{section.8.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.8.2}Spatial}{69}{subsection.8.8.2}%
+\contentsline {subsection}{\numberline {8.8.1}Second Life}{71}{subsection.8.8.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.8.3}MeetinVR}{69}{subsection.8.8.3}%
+\contentsline {subsection}{\numberline {8.8.2}Spatial}{71}{subsection.8.8.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.8.4}Glue}{69}{subsection.8.8.4}%
+\contentsline {subsection}{\numberline {8.8.3}MeetinVR}{71}{subsection.8.8.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.8.5}Mozilla Hubs}{70}{subsection.8.8.5}%
+\contentsline {subsection}{\numberline {8.8.4}Glue}{71}{subsection.8.8.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.8.6}FramesVR}{70}{subsection.8.8.6}%
+\contentsline {subsection}{\numberline {8.8.5}Mozilla Hubs}{72}{subsection.8.8.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.8.7}AltSpace}{70}{subsection.8.8.7}%
+\contentsline {subsection}{\numberline {8.8.6}FramesVR}{72}{subsection.8.8.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.8.8}Engage}{70}{subsection.8.8.8}%
+\contentsline {subsection}{\numberline {8.8.7}AltSpace}{72}{subsection.8.8.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.8.9}VRChat}{70}{subsection.8.8.9}%
+\contentsline {subsection}{\numberline {8.8.8}Engage}{72}{subsection.8.8.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.8.10}NEOSVR}{71}{subsection.8.8.10}%
+\contentsline {subsection}{\numberline {8.8.9}VRChat}{72}{subsection.8.8.9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.8.11}Facebook Horizon Workrooms}{71}{subsection.8.8.11}%
+\contentsline {subsection}{\numberline {8.8.10}NEOSVR}{73}{subsection.8.8.10}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.8.12}Vircadia}{71}{subsection.8.8.12}%
+\contentsline {subsection}{\numberline {8.8.11}Facebook Horizon Workrooms}{73}{subsection.8.8.11}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.8.13}WebXR}{71}{subsection.8.8.13}%
+\contentsline {subsection}{\numberline {8.8.12}Vircadia}{73}{subsection.8.8.12}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.8.14}Integration with web and game engines}{71}{subsection.8.8.14}%
+\contentsline {subsection}{\numberline {8.8.13}WebXR}{73}{subsection.8.8.13}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.9}User stories}{71}{section.8.9}%
+\contentsline {subsection}{\numberline {8.8.14}Integration with web and game engines}{73}{subsection.8.8.14}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.10}Recommendations for value transfer}{71}{section.8.10}%
+\contentsline {section}{\numberline {8.9}User stories}{73}{section.8.9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.11}Bitcoin market gap}{72}{section.8.11}%
+\contentsline {section}{\numberline {8.10}Recommendations for value transfer}{73}{section.8.10}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.11.1}Money}{72}{subsection.8.11.1}%
+\contentsline {section}{\numberline {8.11}Bitcoin market gap}{74}{section.8.11}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.11.2}Identity proofs}{72}{subsection.8.11.2}%
+\contentsline {subsection}{\numberline {8.11.1}Money}{74}{subsection.8.11.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.11.3}Digital object tracking}{72}{subsection.8.11.3}%
+\contentsline {subsection}{\numberline {8.11.2}Identity proofs}{74}{subsection.8.11.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.11.4}Object transfer and trading}{72}{subsection.8.11.4}%
+\contentsline {subsection}{\numberline {8.11.3}Digital object tracking}{74}{subsection.8.11.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.12}Risks}{72}{section.8.12}%
+\contentsline {subsection}{\numberline {8.11.4}Object transfer and trading}{74}{subsection.8.11.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {9}Hardware and software choices to support this}{73}{chapter.9}%
+\contentsline {section}{\numberline {8.12}Risks}{74}{section.8.12}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.1}Networking layer}{73}{section.9.1}%
+\contentsline {chapter}{\numberline {9}Hardware and software choices to support this}{75}{chapter.9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1.1}Proxmox}{73}{subsection.9.1.1}%
+\contentsline {section}{\numberline {9.1}Networking layer}{75}{section.9.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1.2}VyOS firewall}{73}{subsection.9.1.2}%
+\contentsline {subsection}{\numberline {9.1.1}Proxmox}{75}{subsection.9.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1.3}Privacy aspects and using TOR etc}{73}{subsection.9.1.3}%
+\contentsline {subsection}{\numberline {9.1.2}VyOS firewall}{75}{subsection.9.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.2}Bitcoin value management stack}{74}{section.9.2}%
+\contentsline {subsection}{\numberline {9.1.3}Privacy aspects and using TOR etc}{75}{subsection.9.1.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.1}Bitcoin Core on NixOS}{74}{subsection.9.2.1}%
+\contentsline {section}{\numberline {9.2}Bitcoin value management stack}{76}{section.9.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.2}Electrum server}{75}{subsection.9.2.2}%
+\contentsline {subsection}{\numberline {9.2.1}Bitcoin Core on NixOS}{76}{subsection.9.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.3}C-Lightning and CLBoss}{75}{subsection.9.2.3}%
+\contentsline {subsection}{\numberline {9.2.2}Electrum server}{77}{subsection.9.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.4}LNBits with RGB and metaverse plugin}{75}{subsection.9.2.4}%
+\contentsline {subsection}{\numberline {9.2.3}C-Lightning and CLBoss}{77}{subsection.9.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.5}Backup \& Watchtower}{75}{subsection.9.2.5}%
+\contentsline {subsection}{\numberline {9.2.4}LNBits with RGB and metaverse plugin}{77}{subsection.9.2.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.6}Object and media tracking: RGB}{75}{subsection.9.2.6}%
+\contentsline {subsection}{\numberline {9.2.5}Backup \& Watchtower}{77}{subsection.9.2.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.3}Identity}{75}{section.9.3}%
+\contentsline {subsection}{\numberline {9.2.6}Object and media tracking: RGB}{77}{subsection.9.2.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.3.1}nostr}{75}{subsection.9.3.1}%
+\contentsline {section}{\numberline {9.3}Identity}{77}{section.9.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.4}Metaverse}{75}{section.9.4}%
+\contentsline {subsection}{\numberline {9.3.1}nostr}{77}{subsection.9.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.4.1}Vircadia}{76}{subsection.9.4.1}%
+\contentsline {section}{\numberline {9.4}Metaverse}{77}{section.9.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.4.2}Wolvic}{76}{subsection.9.4.2}%
+\contentsline {subsection}{\numberline {9.4.1}Vircadia}{78}{subsection.9.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.4.3}WebM}{76}{subsection.9.4.3}%
+\contentsline {subsection}{\numberline {9.4.2}Wolvic}{78}{subsection.9.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.5}Messengers and boards}{76}{section.9.5}%
+\contentsline {subsection}{\numberline {9.4.3}WebM}{78}{subsection.9.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.5.1}Nostr}{76}{subsection.9.5.1}%
+\contentsline {section}{\numberline {9.5}Messengers and boards}{78}{section.9.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.5.2}Cyperpost}{76}{subsection.9.5.2}%
+\contentsline {subsection}{\numberline {9.5.1}Nostr}{78}{subsection.9.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.5.3}Matrix}{76}{subsection.9.5.3}%
+\contentsline {subsection}{\numberline {9.5.2}Cyperpost}{78}{subsection.9.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.6}Addressing identified risks}{76}{section.9.6}%
+\contentsline {subsection}{\numberline {9.5.3}Matrix}{78}{subsection.9.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {10}Example deployment }{77}{chapter.10}%
+\contentsline {section}{\numberline {9.6}Addressing identified risks}{78}{section.9.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.1}GitHub }{77}{section.10.1}%
+\contentsline {chapter}{\numberline {10}Example deployment }{79}{chapter.10}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {11}Back to the metaverse }{79}{chapter.11}%
+\contentsline {section}{\numberline {10.1}GitHub }{79}{section.10.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.1}Potential applications }{79}{section.11.1}%
+\contentsline {chapter}{\numberline {11}Back to the metaverse }{81}{chapter.11}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.1.1}Global cybersec course delivery}{79}{subsection.11.1.1}%
+\contentsline {section}{\numberline {11.1}Potential applications }{81}{section.11.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {12}Conclusions }{83}{chapter.12}%
+\contentsline {subsection}{\numberline {11.1.1}Global cybersec course delivery}{81}{subsection.11.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {13}Future work}{85}{chapter.13}%
+\contentsline {chapter}{\numberline {12}Conclusions }{85}{chapter.12}%
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{\numberline {II}Guides for deploying the software}{87}{part.2}%
+\contentsline {chapter}{\numberline {13}Future work}{87}{chapter.13}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.1}Lab}{89}{section.13.1}%
+\contentsline {part}{\numberline {II}Guides for deploying the software}{89}{part.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.1.1}Overview}{89}{subsection.13.1.1}%
+\contentsline {section}{\numberline {13.1}Lab}{91}{section.13.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {13.1.1.1}Summary of software}{89}{subsubsection.13.1.1.1}%
+\contentsline {subsection}{\numberline {13.1.1}Overview}{91}{subsection.13.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.1.2}Prerequisites}{89}{subsection.13.1.2}%
+\contentsline {subsubsection}{\numberline {13.1.1.1}Summary of software}{91}{subsubsection.13.1.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.1.3}Network details}{89}{subsection.13.1.3}%
+\contentsline {subsection}{\numberline {13.1.2}Prerequisites}{91}{subsection.13.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.1.4}Server configuration}{89}{subsection.13.1.4}%
+\contentsline {subsection}{\numberline {13.1.3}Network details}{91}{subsection.13.1.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {13.1.4.1}Server hardware details}{89}{subsubsection.13.1.4.1}%
+\contentsline {subsection}{\numberline {13.1.4}Server configuration}{91}{subsection.13.1.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {13.1.4.2}Disk configuration details}{89}{subsubsection.13.1.4.2}%
+\contentsline {subsubsection}{\numberline {13.1.4.1}Server hardware details}{91}{subsubsection.13.1.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.1.5}Proxmox VE}{89}{subsection.13.1.5}%
+\contentsline {subsubsection}{\numberline {13.1.4.2}Disk configuration details}{91}{subsubsection.13.1.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {13.1.5.1}Installation and configuration}{89}{subsubsection.13.1.5.1}%
+\contentsline {subsection}{\numberline {13.1.5}Proxmox VE}{91}{subsection.13.1.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Dialogue 1}{89}{paragraph*.4}%
+\contentsline {subsubsection}{\numberline {13.1.5.1}Installation and configuration}{91}{subsubsection.13.1.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Dialogue 2}{89}{paragraph*.5}%
+\contentsline {paragraph}{Dialogue 1}{91}{paragraph*.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Dialogue 3}{89}{paragraph*.6}%
+\contentsline {paragraph}{Dialogue 2}{91}{paragraph*.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Dialogue 4}{89}{paragraph*.7}%
+\contentsline {paragraph}{Dialogue 3}{91}{paragraph*.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {13.1.5.2}Software updates}{90}{subsubsection.13.1.5.2}%
+\contentsline {paragraph}{Dialogue 4}{91}{paragraph*.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {13.1.5.3}Proxmox VE hardening}{91}{subsubsection.13.1.5.3}%
+\contentsline {subsubsection}{\numberline {13.1.5.2}Software updates}{92}{subsubsection.13.1.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.1.6}Setup an internal only network in Proxmox VE}{91}{subsection.13.1.6}%
+\contentsline {subsubsection}{\numberline {13.1.5.3}Proxmox VE hardening}{93}{subsubsection.13.1.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.1.7}Install and configure Internet gateway server virtual machine}{91}{subsection.13.1.7}%
+\contentsline {subsection}{\numberline {13.1.6}Setup an internal only network in Proxmox VE}{93}{subsection.13.1.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {13.1.7.1}Create an ISO of the stable version (as of writing 1.3.0)}{91}{subsubsection.13.1.7.1}%
+\contentsline {subsection}{\numberline {13.1.7}Install and configure Internet gateway server virtual machine}{93}{subsection.13.1.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {13.1.7.2}Upload the ISO image to the Proxmox VE server}{91}{subsubsection.13.1.7.2}%
+\contentsline {subsubsection}{\numberline {13.1.7.1}Create an ISO of the stable version (as of writing 1.3.0)}{93}{subsubsection.13.1.7.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {13.1.7.3}Create VyOS virtual machine}{92}{subsubsection.13.1.7.3}%
+\contentsline {subsubsection}{\numberline {13.1.7.2}Upload the ISO image to the Proxmox VE server}{93}{subsubsection.13.1.7.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {13.1.7.4}Configure VyOS}{92}{subsubsection.13.1.7.4}%
+\contentsline {subsubsection}{\numberline {13.1.7.3}Create VyOS virtual machine}{94}{subsubsection.13.1.7.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{\numberline {III}Appendix}{95}{part.3}%
+\contentsline {subsubsection}{\numberline {13.1.7.4}Configure VyOS}{94}{subsubsection.13.1.7.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.2}Acknowledgements and thanks}{97}{section.13.2}%
+\contentsline {part}{\numberline {III}Appendix}{97}{part.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.3}Author Biographies}{97}{section.13.3}%
+\contentsline {section}{\numberline {13.2}Acknowledgements and thanks}{99}{section.13.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\leavevmode {\color {ocre}Bibliography}}{99}{chapter*.8}%
+\contentsline {section}{\numberline {13.3}Author Biographies}{99}{section.13.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Articles}{99}{chapter*.8}%
+\contentsline {chapter}{\leavevmode {\color {ocre}Bibliography}}{101}{chapter*.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Books}{100}{chapter*.8}%
+\contentsline {section}{Articles}{101}{chapter*.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Books}{102}{chapter*.8}%
 \contentsfinish 
