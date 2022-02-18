@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.17)  15 FEB 2022 11:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.17)  18 FEB 2022 20:51
 entering extended mode
 **./metaverseBTC.tex
 (metaverseBTC.tex
@@ -1472,12 +1472,12 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
 [3
 
  <./Images//orange1.jpg>] [4] [5] [6]
-Overfull \hbox (390.95769pt too wide) detected at line 323
+Overfull \hbox (390.95769pt too wide) detected at line 337
 [][][][][][] [][][][][][] 
  []
 
 
-Overfull \hbox (390.95769pt too wide) detected at line 369
+Overfull \hbox (390.95769pt too wide) detected at line 383
 [][][][][][] [][][][][][] 
  []
 
@@ -1626,7 +1626,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
  []
 
-<Images//settlement2021.jpg, id=1132, 899.36pt x 634.37pt>
+<Images//settlement2021.jpg, id=1133, 899.36pt x 634.37pt>
 File: Images//settlement2021.jpg Graphic file (type jpg)
 <use Images//settlement2021.jpg>
 Package pdftex.def Info: Images//settlement2021.jpg  used on input line 51.
@@ -1641,121 +1641,124 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--62
 
  []
 
-<Images//gource.png, id=1163, 1016.1162pt x 242.1045pt>
+<Images//gource.png, id=1164, 1016.1162pt x 242.1045pt>
 File: Images//gource.png Graphic file (type png)
 <use Images//gource.png>
 Package pdftex.def Info: Images//gource.png  used on input line 64.
 (pdftex.def)             Requested size: 426.79135pt x 101.69058pt.
-<Images//energyNYT.png, id=1176, 1204.5pt x 677.53125pt>
+<Images//energyNYT.png, id=1177, 1204.5pt x 677.53125pt>
 File: Images//energyNYT.png Graphic file (type png)
 <use Images//energyNYT.png>
 Package pdftex.def Info: Images//energyNYT.png  used on input line 75.
 (pdftex.def)             Requested size: 426.79135pt x 240.07556pt.
-<Images//miningshare.png, id=1183, 378.91562pt x 273.02pt>
+[34 <./Images//gource.png>]
+<Images//miningshare.png, id=1193, 378.91562pt x 273.02pt>
 File: Images//miningshare.png Graphic file (type png)
 <use Images//miningshare.png>
 Package pdftex.def Info: Images//miningshare.png  used on input line 85.
 (pdftex.def)             Requested size: 426.79135pt x 307.52168pt.
-<Images//goldmanvgold.jpg, id=1200, 1174.3875pt x 890.32625pt>
+<Images//goldmanvgold.jpg, id=1210, 1174.3875pt x 890.32625pt>
 File: Images//goldmanvgold.jpg Graphic file (type jpg)
 <use Images//goldmanvgold.jpg>
 Package pdftex.def Info: Images//goldmanvgold.jpg  used on input line 93.
 (pdftex.def)             Requested size: 426.79135pt x 323.5603pt.
-[34 <./Images//gource.png>] [35 <./Images//energyNYT.png> <./Images//miningshar
-e.png>] [36 <./Images//goldmanvgold.jpg>]
+ [35 <./Images//energyNYT.png>]
+Underfull \vbox (badness 4492) has occurred while \output is active []
+
+ [36 <./Images//miningshare.png>] [37 <./Images//goldmanvgold.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 138--140
 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [37]
 Underfull \hbox (badness 10000) in paragraph at lines 149--151
 
  []
 
 [38]
-<Images//lightningAdoption.jpg, id=1256, 423.83344pt x 572.1375pt>
+<Images//lightningAdoption.jpg, id=1257, 423.83344pt x 572.1375pt>
 File: Images//lightningAdoption.jpg Graphic file (type jpg)
 <use Images//lightningAdoption.jpg>
 Package pdftex.def Info: Images//lightningAdoption.jpg  used on input line 160.
 
 (pdftex.def)             Requested size: 426.79135pt x 576.15193pt.
  [39] [40 <./Images//lightningAdoption.jpg>]
-<Images//LnBitsPoS.png, id=1281, 291.18788pt x 254.45062pt>
+<Images//LnBitsPoS.png, id=1282, 291.18788pt x 254.45062pt>
 File: Images//LnBitsPoS.png Graphic file (type png)
 <use Images//LnBitsPoS.png>
 Package pdftex.def Info: Images//LnBitsPoS.png  used on input line 183.
 (pdftex.def)             Requested size: 426.79135pt x 372.98184pt.
- [41 <./Images//LnBitsPoS.png>] [42]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [41]
+[42 <./Images//LnBitsPoS.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43]
 Underfull \hbox (badness 10000) in paragraph at lines 214--219
 
  []
 
-
-Underfull \vbox (badness 1715) has occurred while \output is active []
-
- [43]
-Underfull \vbox (badness 1629) has occurred while \output is active []
-
- [44]
+[44] [45]
 Underfull \hbox (badness 10000) in paragraph at lines 257--259
 
  []
 
-[45]
+
+Underfull \vbox (badness 3302) has occurred while \output is active []
+
+ [46]
 Underfull \hbox (badness 10000) in paragraph at lines 308--312
 
  []
 
-[46]
+[47]
 
 LaTeX Warning: Reference `https://gist.github.com/RubenSomsen/96505e99dc061d6af
-6b757ff74434e70' on page 47 undefined on input line 324.
+6b757ff74434e70' on page 48 undefined on input line 324.
 
 
 LaTeX Warning: Reference `https://gist.github.com/RubenSomsen/c9f0a92493e06b0e2
-9acced61ca9f49a' on page 47 undefined on input line 324.
+9acced61ca9f49a' on page 48 undefined on input line 324.
 
-<Images//messariICO.jpg, id=1339, 963.6pt x 542.025pt>
+<Images//messariICO.jpg, id=1344, 963.6pt x 542.025pt>
 File: Images//messariICO.jpg Graphic file (type jpg)
 <use Images//messariICO.jpg>
 Package pdftex.def Info: Images//messariICO.jpg  used on input line 333.
 (pdftex.def)             Requested size: 426.79135pt x 240.06314pt.
-[47 <./Images//messariICO.jpg>]
+[48 <./Images//messariICO.jpg>]
 Underfull \vbox (badness 6284) has occurred while \output is active []
 
- [48])
-[49] [50
-
-]
+ [49])
+[50]
 Chapter 4.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 180.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-(04_money.tex [51] [52] [53]
-Underfull \hbox (badness 10000) in paragraph at lines 81--92
+(04_money.tex [51
+
+] [52]
+Underfull \vbox (badness 1052) has occurred while \output is active []
+
+ [53]
+Underfull \hbox (badness 10000) in paragraph at lines 79--90
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--94
+[54]
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
 
  []
 
-<Images//BitcoinShareOfMoney.jpg, id=1397, 2862.695pt x 1575.8875pt>
+<Images//BitcoinShareOfMoney.jpg, id=1411, 2862.695pt x 1575.8875pt>
 File: Images//BitcoinShareOfMoney.jpg Graphic file (type jpg)
 <use Images//BitcoinShareOfMoney.jpg>
-Package pdftex.def Info: Images//BitcoinShareOfMoney.jpg  used on input line 99
+Package pdftex.def Info: Images//BitcoinShareOfMoney.jpg  used on input line 97
 .
 (pdftex.def)             Requested size: 426.79135pt x 234.93016pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [54])
-[55 <./Images//BitcoinShareOfMoney.jpg>] [56
+) [55 <./Images//BitcoinShareOfMoney.jpg>] [56
 
 ]
 Chapter 5.
@@ -1825,7 +1828,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
-<Images//muskWeb3.png, id=1479, 408.02437pt x 168.63pt>
+<Images//muskWeb3.png, id=1488, 408.02437pt x 168.63pt>
 File: Images//muskWeb3.png Graphic file (type png)
 <use Images//muskWeb3.png>
 Package pdftex.def Info: Images//muskWeb3.png  used on input line 13.
@@ -1841,35 +1844,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--30
  []
 
 
-Underfull \vbox (badness 3138) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [68]
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [69]
+[69]
 Underfull \vbox (badness 2653) has occurred while \output is active []
 
  [70]
-[71]
-Underfull \vbox (badness 1242) has occurred while \output is active []
-
- [72]
-Underfull \vbox (badness 4531) has occurred while \output is active []
+[71] [72]
+Underfull \vbox (badness 2269) has occurred while \output is active []
 
  [73])
-[74]
+[74] [75] [76
+
+]
 Chapter 9.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 195.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 (09_deployment.tex
-<Images//deployment.png, id=1547, 721.4955pt x 769.1937pt>
+<Images//deployment.png, id=1573, 721.4955pt x 769.1937pt>
 File: Images//deployment.png Graphic file (type png)
 <use Images//deployment.png>
 Package pdftex.def Info: Images//deployment.png  used on input line 4.
@@ -1877,23 +1876,21 @@ Package pdftex.def Info: Images//deployment.png  used on input line 4.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [75
-
-]
-[76 <./Images//deployment.png (PNG copy)>]
+ [77]
+[78 <./Images//deployment.png (PNG copy)>]
 Underfull \hbox (badness 10000) in paragraph at lines 32--37
 
  []
 
-[77] [78]
+[79] [80]
 Chapter 10.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 74.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-) [79
+) [81
 
-] [80
+] [82
 
 ]
 Chapter 11.
@@ -1901,19 +1898,19 @@ File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 198.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-[81]
-<Images//globalclassroom.png, id=1582, 1484.04437pt x 1121.18875pt>
+[83]
+<Images//globalclassroom.png, id=1608, 1484.04437pt x 1121.18875pt>
 File: Images//globalclassroom.png Graphic file (type png)
 <use Images//globalclassroom.png>
 Package pdftex.def Info: Images//globalclassroom.png  used on input line 232.
 (pdftex.def)             Requested size: 426.79135pt x 322.43335pt.
-<Images//systemc4.png, id=1583, 1576.89125pt x 1024.82875pt>
+<Images//systemc4.png, id=1609, 1576.89125pt x 1024.82875pt>
 File: Images//systemc4.png Graphic file (type png)
 <use Images//systemc4.png>
 Package pdftex.def Info: Images//systemc4.png  used on input line 238.
 (pdftex.def)             Requested size: 426.79135pt x 277.36424pt.
- [82 <./Images//globalclassroom.png>] [83 <./Images//systemc4.png>]
-[84
+ [84 <./Images//globalclassroom.png>] [85 <./Images//systemc4.png>]
+[86
 
 ]
 Chapter 12.
@@ -1921,7 +1918,7 @@ File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 244.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-[85] [86
+[87] [88
 
 ]
 Chapter 13.
@@ -1929,15 +1926,15 @@ File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 246.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-[87] [88
+[89] [90
 
-] (metaverseBTC.ptc) [89] [90] (HOWTO.tex
+] (metaverseBTC.ptc) [91] [92] (HOWTO.tex
 Overfull \hbox (15.06967pt too wide) in paragraph at lines 79--84
 []\T1/ptm/m/n/10.95 (-20) Keep in mind that this setup uses the Prox-mox VE in-
 staller (https://www.proxmox.com/en/proxmox-
  []
 
-[91]
+[93]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
 35.
  (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
@@ -1953,7 +1950,7 @@ Overfull \hbox (8.90321pt too wide) in paragraph at lines 174--174
 curity main contrib[] 
  []
 
-[92]
+[94]
 LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 
 235.
  (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmtt.fd
@@ -1969,16 +1966,16 @@ Overfull \hbox (76.80367pt too wide) in paragraph at lines 254--254
 s vyos/vyos-build:equuleus bash[] 
  []
 
-[93]
+[95]
 Overfull \hbox (78.71973pt too wide) in paragraph at lines 297--300
 []\T1/ptm/m/n/10.95 (-20) n the Disk tab leave the de-faults (this ex-ceeds re-
 quire-ments https://docs.vyos.io/en/latest/installation/install.html) 
  []
 
-[94]) [95] [96
+[96]) [97] [98
 
-] (metaverseBTC.ptc) [97] [98]
-<Images//JOH.jpg, id=1717, 110.66344pt x 165.61874pt>
+] (metaverseBTC.ptc) [99] [100]
+<Images//JOH.jpg, id=1743, 110.66344pt x 165.61874pt>
 File: Images//JOH.jpg Graphic file (type jpg)
 <use Images//JOH.jpg>
 Package pdftex.def Info: Images//JOH.jpg  used on input line 265.
@@ -1988,13 +1985,14 @@ Overfull \hbox (140.84192pt too wide) in paragraph at lines 260--267
 [][][]$[]$ 
  []
 
-[99 <./Images//JOH.jpg>] [100
+[101 <./Images//JOH.jpg>] [102
 
-] [101] [102] (metaverseBTC.ind)
+] [103] [104] (metaverseBTC.ind)
 \tf@ptc=\write9
 \openout9 = `metaverseBTC.ptc'.
 
- (metaverseBTC.aux)
+
+(metaverseBTC.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -2006,13 +2004,13 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34001 strings out of 478927
- 630069 string characters out of 2853008
- 1471432 words of memory out of 3000000
- 50381 multiletter control sequences out of 15000+600000
- 516146 words of font info for 396 fonts, out of 8000000 for 9000
+ 34037 strings out of 478927
+ 631217 string characters out of 2853008
+ 1470857 words of memory out of 3000000
+ 50401 multiletter control sequences out of 15000+600000
+ 516371 words of font info for 398 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 98i,17n,97p,2519b,1344s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 98i,17n,97p,2519b,1339s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{section*.9} has been referenced but does not exis
 t, replaced by a fixed one
 
@@ -2059,9 +2057,9 @@ tgar/uagk8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ti
 mes/utmb8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/tim
 es/utmr8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/time
 s/utmri8a.pfb>
-Output written on metaverseBTC.pdf (102 pages, 10224737 bytes).
+Output written on metaverseBTC.pdf (104 pages, 10232714 bytes).
 PDF statistics:
- 1995 PDF objects out of 2073 (max. 8388607)
- 397 named destinations out of 1000 (max. 500000)
+ 2028 PDF objects out of 2073 (max. 8388607)
+ 410 named destinations out of 1000 (max. 500000)
  119066 words of extra memory for PDF output out of 128383 (max. 10000000)
 

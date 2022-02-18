@@ -530,6 +530,30 @@
       \field{title}{b-money, 1998}
       \field{year}{1998}
     \endentry
+    \entry{davies2010history}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4ee93c737ba34d7335ea70711089dbf5}{%
+           family={Davies},
+           familyi={D\bibinitperiod},
+           given={Glyn},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {University of Wales Press}%
+      }
+      \strng{namehash}{4ee93c737ba34d7335ea70711089dbf5}
+      \strng{fullhash}{4ee93c737ba34d7335ea70711089dbf5}
+      \strng{bibnamehash}{4ee93c737ba34d7335ea70711089dbf5}
+      \strng{authorbibnamehash}{4ee93c737ba34d7335ea70711089dbf5}
+      \strng{authornamehash}{4ee93c737ba34d7335ea70711089dbf5}
+      \strng{authorfullhash}{4ee93c737ba34d7335ea70711089dbf5}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{History of money}
+      \field{year}{2010}
+    \endentry
     \entry{delgado2018analysis}{inproceedings}{}
       \name{author}{4}{}{%
         {{hash=cee6f673fa67f47d44bbd05122913c5f}{%
@@ -673,6 +697,56 @@
       \field{year}{2005}
       \field{pages}{179\bibrangedash 192}
       \range{pages}{14}
+    \endentry
+    \entry{gainsford2017salt}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e9b5e182bfaf4cee0f27ef67d2ce9817}{%
+           family={Gainsford},
+           familyi={G\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{e9b5e182bfaf4cee0f27ef67d2ce9817}
+      \strng{fullhash}{e9b5e182bfaf4cee0f27ef67d2ce9817}
+      \strng{bibnamehash}{e9b5e182bfaf4cee0f27ef67d2ce9817}
+      \strng{authorbibnamehash}{e9b5e182bfaf4cee0f27ef67d2ce9817}
+      \strng{authornamehash}{e9b5e182bfaf4cee0f27ef67d2ce9817}
+      \strng{authorfullhash}{e9b5e182bfaf4cee0f27ef67d2ce9817}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Kiwi Hellenist: Modern Myths about the Ancient World. Retrieved}
+      \field{title}{Salt and salary: were Roman soldiers paid in salt?}
+      \field{volume}{11}
+      \field{year}{2017}
+    \endentry
+    \entry{goldberg2005famous}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3fe714ad9d56b9d7daae745358a7184a}{%
+           family={Goldberg},
+           familyi={G\bibinitperiod},
+           given={Dror},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{3fe714ad9d56b9d7daae745358a7184a}
+      \strng{fullhash}{3fe714ad9d56b9d7daae745358a7184a}
+      \strng{bibnamehash}{3fe714ad9d56b9d7daae745358a7184a}
+      \strng{authorbibnamehash}{3fe714ad9d56b9d7daae745358a7184a}
+      \strng{authornamehash}{3fe714ad9d56b9d7daae745358a7184a}
+      \strng{authorfullhash}{3fe714ad9d56b9d7daae745358a7184a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Money, Credit and Banking}
+      \field{title}{Famous myths of" fiat money"}
+      \field{year}{2005}
+      \field{pages}{957\bibrangedash 967}
+      \range{pages}{11}
     \endentry
     \entry{golumbia2020cryptocurrency}{article}{}
       \name{author}{1}{}{%
@@ -1233,6 +1307,38 @@
       \field{labeltitlesource}{title}
       \field{title}{They live (in Second Life)}
       \field{year}{2008}
+    \endentry
+    \entry{stroukal2018can}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=5bba99f6da01cf7732450638cb31c25f}{%
+           family={Stroukal},
+           familyi={S\bibinitperiod},
+           given={Dominik},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {International Institute of Social}%
+        {Economic Sciences}%
+      }
+      \strng{namehash}{e3b2a8caec183dc75a77278345d2f616}
+      \strng{fullhash}{e3b2a8caec183dc75a77278345d2f616}
+      \strng{bibnamehash}{e3b2a8caec183dc75a77278345d2f616}
+      \strng{authorbibnamehash}{e3b2a8caec183dc75a77278345d2f616}
+      \strng{authornamehash}{e3b2a8caec183dc75a77278345d2f616}
+      \strng{authorfullhash}{e3b2a8caec183dc75a77278345d2f616}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Business and Management}
+      \field{number}{1}
+      \field{title}{Can Bitcoin become money? Its money functions and the regression theorem}
+      \field{volume}{6}
+      \field{year}{2018}
+      \field{pages}{36\bibrangedash 53}
+      \range{pages}{18}
     \endentry
     \entry{szabo1997formalizing}{article}{}
       \name{author}{1}{}{%

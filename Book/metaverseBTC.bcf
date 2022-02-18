@@ -2380,13 +2380,17 @@
     <bcf:citekey order="30">benetton2021cryptomining</bcf:citekey>
     <bcf:citekey order="31">poon2016bitcoin</bcf:citekey>
     <bcf:citekey order="32">zabka2022short</bcf:citekey>
-    <bcf:citekey order="33">maurel2012keynesian</bcf:citekey>
-    <bcf:citekey order="34">mclellan1993avatars</bcf:citekey>
-    <bcf:citekey order="35">sermon2008they</bcf:citekey>
-    <bcf:citekey order="35">emp2006putting</bcf:citekey>
-    <bcf:citekey order="35">kirriemuir2008spring</bcf:citekey>
-    <bcf:citekey order="35">sant2009performance</bcf:citekey>
-    <bcf:citekey order="36">marlatt2020capitalizing</bcf:citekey>
+    <bcf:citekey order="33">davies2010history</bcf:citekey>
+    <bcf:citekey order="34">stroukal2018can</bcf:citekey>
+    <bcf:citekey order="35">gainsford2017salt</bcf:citekey>
+    <bcf:citekey order="35">goldberg2005famous</bcf:citekey>
+    <bcf:citekey order="36">maurel2012keynesian</bcf:citekey>
+    <bcf:citekey order="37">mclellan1993avatars</bcf:citekey>
+    <bcf:citekey order="38">sermon2008they</bcf:citekey>
+    <bcf:citekey order="38">emp2006putting</bcf:citekey>
+    <bcf:citekey order="38">kirriemuir2008spring</bcf:citekey>
+    <bcf:citekey order="38">sant2009performance</bcf:citekey>
+    <bcf:citekey order="39">marlatt2020capitalizing</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
