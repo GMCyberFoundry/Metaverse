@@ -1,20 +1,20 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'metaverseBTC.blg'
-[136] biber-MSWIN64:340> INFO - === 
-[178] Biber.pm:415> INFO - Reading 'metaverseBTC.bcf'
-[318] Biber.pm:952> INFO - Found 46 citekeys in bib section 0
-[337] Biber.pm:4340> INFO - Processing section 0
-[354] Biber.pm:4531> INFO - Looking for bibtex format file 'sample.bib' for section 0
-[475] bibtex.pm:1689> INFO - LaTeX decoding ...
-[1595] bibtex.pm:1494> INFO - Found BibTeX data source 'sample.bib'
-[1866] Utils.pm:395> WARN - BibTeX subsystem: C:\Users\john\AppData\Local\Temp\biber_tmp_f4wM\4f254e11deca8776044b2c0962cb1230_7000.utf8, line 7445, warning: possible runaway string started at line 7444
-[1866] Utils.pm:395> WARN - BibTeX subsystem: C:\Users\john\AppData\Local\Temp\biber_tmp_f4wM\4f254e11deca8776044b2c0962cb1230_7000.utf8, line 7454, warning: possible runaway string started at line 7453
-[1866] Utils.pm:395> WARN - BibTeX subsystem: C:\Users\john\AppData\Local\Temp\biber_tmp_f4wM\4f254e11deca8776044b2c0962cb1230_7000.utf8, line 8935, warning: possible runaway string started at line 8934
-[1867] Utils.pm:395> WARN - I didn't find a database entry for 'emp2006putting' (section 0)
-[1914] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1914] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1914] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[1914] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[1968] bbl.pm:654> INFO - Writing 'metaverseBTC.bbl' with encoding 'UTF-8'
-[1985] bbl.pm:757> INFO - Output to metaverseBTC.bbl
-[1986] Biber.pm:128> INFO - WARNINGS: 4
+[157] biber-MSWIN64:340> INFO - === 
+[205] Biber.pm:415> INFO - Reading 'metaverseBTC.bcf'
+[368] Biber.pm:952> INFO - Found 46 citekeys in bib section 0
+[388] Biber.pm:4340> INFO - Processing section 0
+[404] Biber.pm:4531> INFO - Looking for bibtex format file 'sample.bib' for section 0
+[510] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1803] bibtex.pm:1494> INFO - Found BibTeX data source 'sample.bib'
+[2097] Utils.pm:395> WARN - BibTeX subsystem: C:\Users\john\AppData\Local\Temp\biber_tmp_Ff_o\4f254e11deca8776044b2c0962cb1230_7096.utf8, line 7445, warning: possible runaway string started at line 7444
+[2098] Utils.pm:395> WARN - BibTeX subsystem: C:\Users\john\AppData\Local\Temp\biber_tmp_Ff_o\4f254e11deca8776044b2c0962cb1230_7096.utf8, line 7454, warning: possible runaway string started at line 7453
+[2098] Utils.pm:395> WARN - BibTeX subsystem: C:\Users\john\AppData\Local\Temp\biber_tmp_Ff_o\4f254e11deca8776044b2c0962cb1230_7096.utf8, line 8935, warning: possible runaway string started at line 8934
+[2099] Utils.pm:395> WARN - I didn't find a database entry for 'emp2006putting' (section 0)
+[2186] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2186] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2186] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[2186] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[2246] bbl.pm:654> INFO - Writing 'metaverseBTC.bbl' with encoding 'UTF-8'
+[2267] bbl.pm:757> INFO - Output to metaverseBTC.bbl
+[2267] Biber.pm:128> INFO - WARNINGS: 4

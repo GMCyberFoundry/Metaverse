@@ -2378,19 +2378,20 @@
     <bcf:citekey order="28">blandin20203rd</bcf:citekey>
     <bcf:citekey order="29">bastian2021hedging</bcf:citekey>
     <bcf:citekey order="30">benetton2021cryptomining</bcf:citekey>
-    <bcf:citekey order="31">poon2016bitcoin</bcf:citekey>
-    <bcf:citekey order="32">zabka2022short</bcf:citekey>
-    <bcf:citekey order="33">davies2010history</bcf:citekey>
-    <bcf:citekey order="34">stroukal2018can</bcf:citekey>
-    <bcf:citekey order="35">gainsford2017salt</bcf:citekey>
-    <bcf:citekey order="35">goldberg2005famous</bcf:citekey>
-    <bcf:citekey order="36">maurel2012keynesian</bcf:citekey>
-    <bcf:citekey order="37">mclellan1993avatars</bcf:citekey>
-    <bcf:citekey order="38">sermon2008they</bcf:citekey>
-    <bcf:citekey order="38">emp2006putting</bcf:citekey>
-    <bcf:citekey order="38">kirriemuir2008spring</bcf:citekey>
-    <bcf:citekey order="38">sant2009performance</bcf:citekey>
-    <bcf:citekey order="39">marlatt2020capitalizing</bcf:citekey>
+    <bcf:citekey order="31">diffie1976new</bcf:citekey>
+    <bcf:citekey order="32">poon2016bitcoin</bcf:citekey>
+    <bcf:citekey order="33">zabka2022short</bcf:citekey>
+    <bcf:citekey order="34">davies2010history</bcf:citekey>
+    <bcf:citekey order="35">stroukal2018can</bcf:citekey>
+    <bcf:citekey order="36">gainsford2017salt</bcf:citekey>
+    <bcf:citekey order="36">goldberg2005famous</bcf:citekey>
+    <bcf:citekey order="37">maurel2012keynesian</bcf:citekey>
+    <bcf:citekey order="38">mclellan1993avatars</bcf:citekey>
+    <bcf:citekey order="39">sermon2008they</bcf:citekey>
+    <bcf:citekey order="39">emp2006putting</bcf:citekey>
+    <bcf:citekey order="39">kirriemuir2008spring</bcf:citekey>
+    <bcf:citekey order="39">sant2009performance</bcf:citekey>
+    <bcf:citekey order="40">marlatt2020capitalizing</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
