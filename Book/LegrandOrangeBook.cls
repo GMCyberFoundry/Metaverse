@@ -440,7 +440,7 @@
 	sortcites=true, % If multiple citekeys are passed to a citation command, sort them in the citation
 	abbreviate=false, % Suppress abbreviations such as "Ed." for Editor
 	backref=true, % List the page where references were cited in the bibliography
-	defernumbers=true,
+%	defernumbers=true,
 ]{biblatex}
 
 \defbibheading{bibempty}{} % Suppress default bibliography headings
