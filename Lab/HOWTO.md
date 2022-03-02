@@ -298,3 +298,124 @@ save
 Inspiration for the above was taken from: https://bertvv.github.io/cheat-sheets/VyOS.html
 
 @todo: hardening, IDS, IPS
+
+## Install and configure a Debian virtual machine
+
+This VM can be used for various tasks such as software compilation and testing of the networks. In this setup the Debian VM was used to test connectivity to the VyOS gateway and the Internet. It is also used in the subsequent stages to deploy a nix-bitcoin node.
+
+In Proxmox VE create a new virtual machine and configure the network device to use the bridge 'vmbr1'.
+
+Then install Debian and configure the network adapter within the VM with the following settings:
+
+IP address: 192.168.y.2
+Gateway: 192.168.y.1
+DNS: 192.168.y.1
+
+Test that the VM has Internet connectivity.
+
+## Deploying the nix-bitcoin node
+
+This deployment follows the documentation:
+
+https://github.com/fort-nix/nix-bitcoin/#get-started
+
+Take note of the hardware requirements:
+
+https://github.com/fort-nix/nix-bitcoin/blob/master/docs/hardware.md
+
+In the main, the install guide (https://github.com/fort-nix/nix-bitcoin/blob/master/docs/install.md) is followed verbatim and notes with a reference to particular sections are added where appropriate.
+
+A small exception in regards to this setup is that a separate virtual disk (located on a different physical drive mirror (RAID 1)) was used to store the bitcoin database - this is optional and details are provided on how to achieve it. Also detailed is how to configure the network when using the minimal image.
+
+### Acquiring NixOS
+
+Following [section 1.1](https://github.com/fort-nix/nix-bitcoin/blob/master/docs/install.md#1-nixos-installation) make sure the latest NixOS is obtained i.e. do not just copy the whole wget command outright and make sure to verify the hash against trusted sources before using the image.
+
+Download the minimal ISO image (https://nixos.org/download.html)
+
+Verify the hash
+
+Upload the ISO to [Proxmox VE server](###Upload-the-ISO-image-to-the-Proxmox-VE-server)
+
+### Create a new VM
+
+Name: NixOS
+
+Follow the setup and leave everything as default until the CPU page. The following configuration was used, which should exceed the minimum requirements:
+
+Cores: 4
+
+Memory: 4096MiB = 4.2GB
+
+Network: vmbr1 (Internal Network)
+
+Do NOT check the select the start the VM checkbox
+
+Next, an additional drive will be configured in Proxmox VE. This will then be used to store the bitcoin database within the NixOS VM.
+
+Select Datacenter -> server name and then from the right pane Disks -> LVM-Thin. Then select Create: Thinpool
+
+From the dialogue select the disk and type a name "data" was used in this setup. This provisions a vg with the name *data* and a name *data* @todo: review
+
+Navigate back to the VM created and choose Hardware and then Add -> Hard Disk
+
+Choose "data" from Storage and then set the size to 560 GiB which equates to about 600GB
+
+Now, continue from section 1.3 in the install instructions
+
+Start the VM and connect a console
+
+`sudo -i`
+
+With the SeaBios that was used in this setup the file does not exist and Legacy Boot (MBR) should be followed (option 2)
+
+Note: no consideration is currently given for encrypted partitions within the Proxmox VE setup
+
+Enable the OpenSSH daemon
+
+```
+services.openssh.permitRootLogin = "yes";
+```
+
+Configure the network config in configuration.nix
+
+```
+  networking.useDHCP = false;
+  networking.interfaces.ens18.useDHCP = false;
+
+  networking.interfaces.ens18.ipv4.addresses = [ {
+    address= "192.168.y.3";
+    prefixLength = 24;
+  } ];
+  networking.defaultGateway = "192.168.y.1";
+  networking.nameservers = ["192.168.y.1"];
+  networking.hostName = "nixicon";
+```
+
+Although the IP above will be assigned once the nix-bitcoin is deployed the installation cannot continue without a connection to the Internet so that needs to be configured:
+
+```
+$ ifconfig ens18 192.168.y.3
+$ ifconfig ens18 255.255.255.0
+$ ip route add 192.168.210.0/24 dev ens18 scope link src 192.168.210.3 (replace y)
+```
+
+Then add the nameserver:
+
+```
+nano /etc/resolv.conf
+```
+
+Add:
+
+```
+nameserver 192.168.210.1
+```
+
+Once the above is complete and successful networking is verified
+
+Run the following command:
+
+`nixos-install`
+
+and then reboot.
