@@ -377,7 +377,7 @@ Enable the OpenSSH daemon
 services.openssh.permitRootLogin = "yes";
 ```
 
-Configure the network config in configuration.nix
+Configure the network config in configuration.nix (remember to replace y with the chosen value)
 
 ```
   networking.useDHCP = false;
@@ -409,7 +409,7 @@ nano /etc/resolv.conf
 Add:
 
 ```
-nameserver 192.168.210.1
+nameserver 192.168.y.1
 ```
 
 Once the above is complete and successful networking is verified
