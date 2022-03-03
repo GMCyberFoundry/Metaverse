@@ -1,0 +1,82 @@
+Nonfungible tokens allow digital and new media artists to connect with audiences without gatekeepers. This is an important supporting innovation for something so recently recognised as valuable art in it's own right. Established mediators and curators of art have been caught totally wrongfooted, and NFTs seem to give a way for them to be cut out completely. This is a compounding, and disrupting paradigm change.\\
+
+Users of NFT markets have \href{https://blog.chainalysis.com/reports/nft-market-report-preview-2021/}{injected around \$30 billion into the tokens during 2021}. While it is likely that there is currently a speculative bubble, it seems certain that the technology is here to stay. Samsung for instance have announced that their TVs will support not only \href{https://news.samsung.com/us/samsung-2022-micro-led-neo-qled-lifestyle-tvs-personalization-options-ces-2022/}{display of NFTs} with artist defined settings in the metadata, but also an integrated marketplace for browsing and purchasing.
+
+Notable examples
+\href{https://opensea.io/assets/0x22c36bfdcef207f9c0cc941936eff94d4246d14a/69}{Mega Mutant Serum}.
+
+\href{https://en.wikipedia.org/wiki/List_of_most_expensive_non-fungible_tokens}{Wikipedia list}
+
+\href{https://amycastor.com/2021/03/14/metakovan-the-mystery-beeple-art-buyer-and-his-nft-defi-scheme/}{Beeple scam}
+
+
+Peter Thiel, the billionaire venture capitalist who founded PayPal has invested in expanded NTF use cases. The first is `Royal' which is experimentally  selling \href{https://royal.io/}{selling limited NFT tokens} which contractually entitle the holder to a portion of music artist royalties. The other is a \href{https://www.ztonft.com/}{political funding NFT} from Blake Masters to support his senate ambitions.
+
+It is completely reasonable to assert that these use cases could be accomplished without the use of NFT technology, and is part of the hype bubble.
+
+NFT art currently suffers from the same failure of decentralisation already discussed in the Ethererum technology stack, but this is compounded by the normalisation of intermediate art brokers \href{https://moxie.org/2022/01/07/web3-first-impressions.html}{continuing to custody} the NFTs even after sale. They are usually selling a pointer to their own servers. The market is nascent and evolving, but it's currently not delivering on it's core promise.
+
+\section{Energy concerns}
+It is under discussed within the community that `minting' non fungible tokens, predominantly on Ethereum, is energy wasteful, on an already energy inefficient platform. As a random \href{https://carbon.fyi/?address=0x6Ec30Fd91A504Aad948839B985C7263888B2Ad68} {example this single collector of a few images} accounts for nearly 10 kilotonnes of carbon emissions. This is a subtly different problem to the security of the Bitdooin economic network in that these tokens are clealy non fungible, so cannot be reused again and again in order to reduce the unit environmental impact. 
+
+\section{NFTs and games}
+
+\section{Is any of this useful?}
+
+\section{User stories / behaviours}
+\label{behaviours}
+
+\begin{itemize}
+\item As a user I want to select a digital asset I find in a metaverse and then be offered an option to purchase the asset so I can look at it in my own spaces.
+\item As a user I want to click on a digital asset I find in a metaverse and be given the opportunity to buy it as a rare digital representation so that only I and a few others are provably certified to own.
+\item As a metaverse `land' holder (stakeholder) I would like to reward winners of competitions with real money or digital assets to foster and gamify the system
+\item As a user I would like to interact with a virtual marketplace where I could swap and trade digital assets with other users so that I continue to feel engaged.
+\item As a user I would like to create content so I can take it to metaverse locations and monetise it.
+\end{itemize}
+
+\section{Comparing the technologies}
+Figure \ref{tab:compare} on the next page compares the technologies discussed so far in the context of the behaviours in section \ref{behaviours}. \\
+Looking at these row by row it can be seen that:\\\
+\begin{itemize}
+\item Bitcoin layer 1 is too slow. Additionally the technical challenge of interacting with the network are considerable, and the fees are both high and likely to rise.
+\item Ethereum ERC721 non fungible tokens might be a possibility for supporting limited edition digital assets. A web interface could be built on cloud servers to handle the shop and back end commitments to the Ethereum network. While fully committed transactions would take a few minutes to process the shop itself could inform the users immediately then email out a certificate of ownership. It would be possible to trade these items on other platforms, and conceivably within an app. Prizes (digital assets) could be issued to users for competition activity. The system would be expensive to use, the fees might vary wildly, and the ecological costs might be enormous. Batching transactions could overcome this, but that would rely on substantial take-up of the service, and management overhead.
+\item Building and issuing and Ethereum based token, in an ICO process or similar seems a disproportionate amount of investment and would be expensive to use. 
+\item A custom private blockchain offers no advantages over a database. It is a difficult thing to implement, but would have better performance and use cost to the users.
+\item BTC pay server is an interesting open source project which allows companies to host a simple lightning / BTC web shop. It's not clear what the use case is here, but it is well engineered and scalable and should be born in mind when thinking about the other problems and systems.
+\item Lightning network has open source connectivity into Unity, works well with QR codes, is fast, and has low transaction latency. The only issue is that it offers nothing but marketing hype over and above more traditional digital point of sale layers, and is more difficult to connect to money rails in the UK.
+\item New layer 3 solutions like RGB, stacks, or Synonym might allow cheap and fast in
+\end{itemize}
+
+\section{User stories / behaviours}
+\label{behaviours}
+
+\begin{itemize}
+\item As a user I want to.
+\item As a user I want to.
+\item As a user I want to.
+\end{itemize}
+
+\section{Comparing the technologies}
+Figure \ref{tab:compare} on the next page compares the technologies discussed so far in the context of the behaviours in section \ref{behaviours}. \\
+Looking at these row by row it can be seen that:\\\
+\begin{itemize}
+\item Bitcoin is too slow. Additionally the technical challenge of interacting with the network are considerable, and the fees are both high and rising.
+\item Ethereum ERC721 non fungible tokens might be a possibility for supporting limited edition digital asset sales. A web interface could be built on cloud servers to handle the shop and back end commitments to the Ethereum network. While fully committed transactions would take a few minutes to process the shop itself could inform the users immediately then email out a certificate of ownership. It would be possible to trade these items on other platforms, and conceivable within the app. Prizes (digital assets) could be issued to users for competition activity. The system would be expensive to use, the fees might vary wildly, and the ecological costs might be enormous. Batching transactions could overcome this, but that would rely on substantial take-up of the service, and management overhead.
+\item Building and issuing and Ethereum based token, in an ICO process or similar seems a disproportionate amount of investment and would be expensive to use. 
+\item A custom private blockchain offers no advantages over a database. It is a difficult thing to implement, but would have better performance and use cost to the users.
+\item BTC pay server is an interesting open source project which allows companies to host a simple lightning / BTC web shop. It's not clear what the use case is here, but it is well engineered and scalable and should be born in mind when thinking about the other problems and systems.
+\item Lightning network has open source connectivity into Unity, works well with QR codes, is fast, and has low transaction latency. The only issue is that it offers nothing but marketing hype over and above more traditional digital point of sale layers, and is more difficult to connect to money rails in the UK.
+\item Coloured coins would allow all of the desirable functionality, but it would be a substantial development challenge, using old open source code, and have high use fees. 
+\item RGB MyCitadel stack seems highly appropriate and is open source but is in development and will not be available until later in the year.
+\end{itemize}
+
+
+\input{NFTtable}
+
+\section{What are the options }
+ETH, SOL, ADA, STX, RGB, Liquid?, RSK, so many others, this is gonna be exhausting to write about.
+\lipsum[50]
+\section{Risks}
+\section{Why choose bitcoin again }
+because it's the true opensource money option, the cost / barrier to entry is far lower than ethereum, and with new technology such as \href{https://diba.io}{NFT integration directly with DIBA on RGB this integrates}. 
+\lipsum[50]
