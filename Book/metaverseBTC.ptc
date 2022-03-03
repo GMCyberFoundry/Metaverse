@@ -388,6 +388,14 @@
 \contentsline {subsubsection}{\numberline {13.1.7.3}Create VyOS virtual machine}{92}{subsubsection.13.1.7.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {13.1.7.4}Configure VyOS}{92}{subsubsection.13.1.7.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.1.8}Install and configure a Debian virtual machine}{93}{subsection.13.1.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.1.9}Deploying the nix-bitcoin node}{93}{subsection.13.1.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {13.1.9.1}Acquiring NixOS}{93}{subsubsection.13.1.9.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {13.1.9.2}Create a new VM}{93}{subsubsection.13.1.9.2}%
 \ttl@stoptoc {part@2}
 \ttl@stoptoc {part@2}
 \ttl@starttoc {part@3}
