@@ -13063,4 +13063,30 @@
   publisher = {JSTOR},
 }
 
+@Article{krawisz2014hyperbitcoinization,
+  author  = {Krawisz, Daniel},
+  journal = {Online verf{\"u}gbar unter: https://nakamotoin},
+  title   = {Hyperbitcoinization},
+  year    = {2014},
+}
+
+@Article{filardo2012central,
+  author  = {Filardo, Andrew J and Mohanty, Madhusudan S and Moreno, Ramon},
+  journal = {BIS Paper},
+  title   = {Central bank and government debt management: issues for monetary policy},
+  year    = {2012},
+  number  = {67d},
+}
+
+@Article{bordo1983some,
+  author    = {Bordo, Michael David},
+  journal   = {Journal of Monetary Economics},
+  title     = {Some aspects of the monetary economics of Richard Cantillon},
+  year      = {1983},
+  number    = {2},
+  pages     = {235--258},
+  volume    = {12},
+  publisher = {Elsevier},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

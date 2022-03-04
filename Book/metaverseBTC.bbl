@@ -252,6 +252,35 @@
       \field{title}{3rd global cryptoasset benchmarking study}
       \field{year}{2020}
     \endentry
+    \entry{bordo1983some}{article}{}
+      \name{author}{1}{}{%
+        {{hash=140670e47810ad9b00d4c97c7119db7c}{%
+           family={Bordo},
+           familyi={B\bibinitperiod},
+           given={Michael\bibnamedelima David},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{140670e47810ad9b00d4c97c7119db7c}
+      \strng{fullhash}{140670e47810ad9b00d4c97c7119db7c}
+      \strng{bibnamehash}{140670e47810ad9b00d4c97c7119db7c}
+      \strng{authorbibnamehash}{140670e47810ad9b00d4c97c7119db7c}
+      \strng{authornamehash}{140670e47810ad9b00d4c97c7119db7c}
+      \strng{authorfullhash}{140670e47810ad9b00d4c97c7119db7c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Monetary Economics}
+      \field{number}{2}
+      \field{title}{Some aspects of the monetary economics of Richard Cantillon}
+      \field{volume}{12}
+      \field{year}{1983}
+      \field{pages}{235\bibrangedash 258}
+      \range{pages}{24}
+    \endentry
     \entry{burnham1983rise}{book}{}
       \name{author}{1}{}{%
         {{hash=86741b57543820f93f71905d3f3cad92}{%
@@ -342,6 +371,30 @@
       \field{title}{OpenPGP message format}
       \field{type}{techreport}
       \field{year}{1998}
+    \endentry
+    \entry{cantillon1756essai}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5303ca57542266596e91d3ac98524b1c}{%
+           family={Cantillon},
+           familyi={C\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {éditeur non identifié}%
+      }
+      \strng{namehash}{5303ca57542266596e91d3ac98524b1c}
+      \strng{fullhash}{5303ca57542266596e91d3ac98524b1c}
+      \strng{bibnamehash}{5303ca57542266596e91d3ac98524b1c}
+      \strng{authorbibnamehash}{5303ca57542266596e91d3ac98524b1c}
+      \strng{authornamehash}{5303ca57542266596e91d3ac98524b1c}
+      \strng{authorfullhash}{5303ca57542266596e91d3ac98524b1c}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Essai sur la nature du commerce en général}
+      \field{year}{1756}
     \endentry
     \entry{casino2019systematic}{article}{}
       \name{author}{3}{}{%
@@ -663,6 +716,39 @@
       \field{year}{2019}
       \field{pages}{108\bibrangedash 116}
       \range{pages}{9}
+    \endentry
+    \entry{filardo2012central}{article}{}
+      \name{author}{3}{}{%
+        {{hash=42eb936f8074d62c532dcbfa89c13cc4}{%
+           family={Filardo},
+           familyi={F\bibinitperiod},
+           given={Andrew\bibnamedelima J},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=c09744383e3fbe43dbf2f819861f5b2e}{%
+           family={Mohanty},
+           familyi={M\bibinitperiod},
+           given={Madhusudan\bibnamedelima S},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=d3d579c2e305be5de2503e9fef0f9f62}{%
+           family={Moreno},
+           familyi={M\bibinitperiod},
+           given={Ramon},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{44246dedfc7da4b76a2a445a9b4f285b}
+      \strng{fullhash}{44246dedfc7da4b76a2a445a9b4f285b}
+      \strng{bibnamehash}{44246dedfc7da4b76a2a445a9b4f285b}
+      \strng{authorbibnamehash}{44246dedfc7da4b76a2a445a9b4f285b}
+      \strng{authornamehash}{44246dedfc7da4b76a2a445a9b4f285b}
+      \strng{authorfullhash}{44246dedfc7da4b76a2a445a9b4f285b}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BIS Paper}
+      \field{number}{67d}
+      \field{title}{Central bank and government debt management: issues for monetary policy}
+      \field{year}{2012}
     \endentry
     \entry{ford2005peer}{inproceedings}{}
       \name{author}{3}{}{%
