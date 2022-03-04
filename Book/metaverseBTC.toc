@@ -332,7 +332,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {10.1}GitHub }{79}{section.10.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {11}Back to the metaverse }{81}{chapter.11}%
+\contentsline {chapter}{\numberline {11}Our solution}{81}{chapter.11}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {11.1}Potential applications }{81}{section.11.1}%
 \defcounter {refsection}{0}\relax 
