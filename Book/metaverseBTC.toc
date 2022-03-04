@@ -38,8 +38,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.6}The common thread}{27}{section.2.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.7}Risks}{28}{section.2.7}%
-\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}DLT, Blockchain, and Bitcoin}{29}{chapter.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.1}Ethereum}{31}{section.3.1}%
@@ -134,11 +132,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.3}Central bank digital currencies}{53}{section.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Bitcoin as a money}{54}{section.4.4}%
+\contentsline {section}{\numberline {4.4}Bitcoin as a money}{55}{section.4.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.4.1}Hyperbitcoinization}{56}{subsection.4.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.5}Does DeFi matter to SMEs }{56}{section.4.5}%
+\contentsline {section}{\numberline {4.5}Does DeFi matter to SMEs }{57}{section.4.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {5}Distributed Autonomous Organisations}{59}{chapter.5}%
 \defcounter {refsection}{0}\relax 

@@ -1253,6 +1253,30 @@
       \field{title}{The bitcoin lightning network: Scalable off-chain instant payments}
       \field{year}{2016}
     \endentry
+    \entry{prasad2021future}{book}{}
+      \name{author}{1}{}{%
+        {{hash=bfb8d2bb070d9ca205932dede8e3853f}{%
+           family={Prasad},
+           familyi={P\bibinitperiod},
+           given={Eswar\bibnamedelima S},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{bfb8d2bb070d9ca205932dede8e3853f}
+      \strng{fullhash}{bfb8d2bb070d9ca205932dede8e3853f}
+      \strng{bibnamehash}{bfb8d2bb070d9ca205932dede8e3853f}
+      \strng{authorbibnamehash}{bfb8d2bb070d9ca205932dede8e3853f}
+      \strng{authornamehash}{bfb8d2bb070d9ca205932dede8e3853f}
+      \strng{authorfullhash}{bfb8d2bb070d9ca205932dede8e3853f}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Future of Money: How the Digital Revolution is Transforming Currencies and Finance}
+      \field{year}{2021}
+    \endentry
     \entry{rauchs2018distributed}{article}{}
       \name{author}{8}{}{%
         {{hash=7fa2ae1ba416b23a7b1b4510b37e1df1}{%
