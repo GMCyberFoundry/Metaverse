@@ -921,6 +921,28 @@
       \field{pages}{58}
       \range{pages}{1}
     \endentry
+    \entry{krawisz2014hyperbitcoinization}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3ec84f96fd84a4c320635d0067584d9c}{%
+           family={Krawisz},
+           familyi={K\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{3ec84f96fd84a4c320635d0067584d9c}
+      \strng{fullhash}{3ec84f96fd84a4c320635d0067584d9c}
+      \strng{bibnamehash}{3ec84f96fd84a4c320635d0067584d9c}
+      \strng{authorbibnamehash}{3ec84f96fd84a4c320635d0067584d9c}
+      \strng{authornamehash}{3ec84f96fd84a4c320635d0067584d9c}
+      \strng{authorfullhash}{3ec84f96fd84a4c320635d0067584d9c}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Online verfügbar unter: https://nakamotoin}
+      \field{title}{Hyperbitcoinization}
+      \field{year}{2014}
+    \endentry
     \entry{lavoie1990prefatory}{article}{}
       \name{author}{1}{}{%
         {{hash=ead692aae83339172e044c7a2e094b39}{%

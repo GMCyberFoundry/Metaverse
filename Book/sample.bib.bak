@@ -13054,4 +13054,13 @@
   volume  = {11},
 }
 
+@Article{goldberg2005famous,
+  author    = {Goldberg, Dror},
+  journal   = {Journal of Money, Credit and Banking},
+  title     = {Famous myths of" fiat money"},
+  year      = {2005},
+  pages     = {957--967},
+  publisher = {JSTOR},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

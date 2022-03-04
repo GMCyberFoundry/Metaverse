@@ -54,17 +54,17 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2.2}What are ECDSA, addresses and UTXO's}{34}{subsection.3.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.3}Mining and Energy concerns}{36}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.3}Mining and Energy concerns}{35}{subsection.3.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.4}Bitcoin nodes }{39}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.4}Bitcoin nodes }{37}{subsection.3.2.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2.5}Upgrade roadmap}{39}{subsection.3.2.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2.6}Risks}{39}{subsection.3.2.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Extending the BTC ecosystem }{40}{section.3.3}%
+\contentsline {section}{\numberline {3.3}Extending the BTC ecosystem }{39}{section.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Block \& SpiralBTC}{40}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.1}Block \& SpiralBTC}{39}{subsection.3.3.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3.2}BTCPayServer}{40}{subsection.3.3.2}%
 \defcounter {refsection}{0}\relax 
@@ -76,11 +76,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4.3}LNBits}{41}{subsection.3.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.4}Etleneum}{43}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.4}Etleneum}{44}{subsection.3.4.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.5}Message passing}{43}{subsection.3.4.5}%
+\contentsline {subsection}{\numberline {3.4.5}Message passing}{44}{subsection.3.4.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}Liquid federation (layer 2)}{43}{section.3.5}%
+\contentsline {section}{\numberline {3.5}Liquid federation (layer 2)}{44}{section.3.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.6}Bitcoin Layer 3}{45}{section.3.6}%
 \defcounter {refsection}{0}\relax 
@@ -94,9 +94,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.7.1}Stacks and STX}{47}{subsection.3.7.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.7.1.1}Citycoins}{48}{subsubsection.3.7.1.1}%
+\contentsline {subsubsection}{\numberline {3.7.1.1}Citycoins}{47}{subsubsection.3.7.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.7.2}Sovryn and RSK}{48}{subsection.3.7.2}%
+\contentsline {subsection}{\numberline {3.7.2}Sovryn and RSK}{47}{subsection.3.7.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.7.3}Sidechains}{48}{subsection.3.7.3}%
 \defcounter {refsection}{0}\relax 
@@ -110,7 +110,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.8}Other chains and networks}{48}{section.3.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.8.1}Layer 1 chains}{49}{subsection.3.8.1}%
+\contentsline {subsection}{\numberline {3.8.1}Layer 1 chains}{48}{subsection.3.8.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.8.2}Crosschains}{50}{subsection.3.8.2}%
 \defcounter {refsection}{0}\relax 
@@ -135,6 +135,8 @@
 \contentsline {section}{\numberline {4.3}Central bank digital currencies}{53}{section.4.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.4}Bitcoin as a money}{54}{section.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.1}Hyperbitcoinization}{55}{subsection.4.4.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.5}Does DeFi matter to SMEs }{55}{section.4.5}%
 \defcounter {refsection}{0}\relax 
@@ -260,7 +262,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {8.8.12}Vircadia}{71}{subsection.8.8.12}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.8.13}WebXR}{71}{subsection.8.8.13}%
+\contentsline {subsection}{\numberline {8.8.13}WebXR/WebGL/WebGPU}{71}{subsection.8.8.13}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {8.8.13.1}Playcanvas}{71}{subsubsection.8.8.13.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {8.8.14}Integration with web and game engines}{71}{subsection.8.8.14}%
 \defcounter {refsection}{0}\relax 
