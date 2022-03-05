@@ -13096,4 +13096,11 @@
   year      = {1756},
 }
 
+@Book{prasad2021future,
+  author    = {Prasad, Eswar S},
+  publisher = {Harvard University Press},
+  title     = {The Future of Money: How the Digital Revolution is Transforming Currencies and Finance},
+  year      = {2021},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

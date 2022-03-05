@@ -1053,6 +1053,53 @@
       \field{pages}{116\bibrangedash 119}
       \range{pages}{4}
     \endentry
+    \entry{liu2022empirical}{article}{}
+      \name{author}{6}{}{%
+        {{hash=45013475b7175b160f9391fb1f2ccc00}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yulin},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=0f8c12873a99a13ba32ad2f59f9a878e}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Yuxuan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=27f8f17b33c6d7ee1957b87dff696ff0}{%
+           family={Nayak},
+           familyi={N\bibinitperiod},
+           given={Kartik},
+           giveni={K\bibinitperiod}}}%
+        {{hash=ae021641a8f85fd2607152ab99ed115b}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Fan},
+           giveni={F\bibinitperiod}}}%
+        {{hash=359ab680288a001909e649491ad9dad1}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Luyao},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f31de2df9f9b8c0df27c9910b1622f5a}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Yinhong},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{b19a9125870510a38f7abb105731e808}
+      \strng{fullhash}{27e1a96aa37411caf5976ce79d8b1c64}
+      \strng{bibnamehash}{b19a9125870510a38f7abb105731e808}
+      \strng{authorbibnamehash}{b19a9125870510a38f7abb105731e808}
+      \strng{authornamehash}{b19a9125870510a38f7abb105731e808}
+      \strng{authorfullhash}{27e1a96aa37411caf5976ce79d8b1c64}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2201.05574}
+      \field{title}{Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security}
+      \field{year}{2022}
+    \endentry
     \entry{makarov2021blockchain}{report}{}
       \name{author}{2}{}{%
         {{hash=b66d967f1b4d160ab2af5d4fb46fbd31}{%
