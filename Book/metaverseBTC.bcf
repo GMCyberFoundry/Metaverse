@@ -2392,12 +2392,13 @@
     <bcf:citekey order="40">prasad2021future</bcf:citekey>
     <bcf:citekey order="41">maurel2012keynesian</bcf:citekey>
     <bcf:citekey order="42">krawisz2014hyperbitcoinization</bcf:citekey>
-    <bcf:citekey order="43">mclellan1993avatars</bcf:citekey>
-    <bcf:citekey order="44">sermon2008they</bcf:citekey>
-    <bcf:citekey order="44">emp2006putting</bcf:citekey>
-    <bcf:citekey order="44">kirriemuir2008spring</bcf:citekey>
-    <bcf:citekey order="44">sant2009performance</bcf:citekey>
-    <bcf:citekey order="45">marlatt2020capitalizing</bcf:citekey>
+    <bcf:citekey order="43">lockwood2021exploring</bcf:citekey>
+    <bcf:citekey order="44">mclellan1993avatars</bcf:citekey>
+    <bcf:citekey order="45">sermon2008they</bcf:citekey>
+    <bcf:citekey order="45">emp2006putting</bcf:citekey>
+    <bcf:citekey order="45">kirriemuir2008spring</bcf:citekey>
+    <bcf:citekey order="45">sant2009performance</bcf:citekey>
+    <bcf:citekey order="46">marlatt2020capitalizing</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

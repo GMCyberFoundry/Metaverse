@@ -1100,6 +1100,34 @@
       \field{title}{Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security}
       \field{year}{2022}
     \endentry
+    \entry{lockwood2021exploring}{article}{}
+      \name{author}{1}{}{%
+        {{hash=77c79579ff958e99836be1d3b048a216}{%
+           family={Lockwood},
+           familyi={L\bibinitperiod},
+           given={Mick},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers}%
+      }
+      \strng{namehash}{77c79579ff958e99836be1d3b048a216}
+      \strng{fullhash}{77c79579ff958e99836be1d3b048a216}
+      \strng{bibnamehash}{77c79579ff958e99836be1d3b048a216}
+      \strng{authorbibnamehash}{77c79579ff958e99836be1d3b048a216}
+      \strng{authornamehash}{77c79579ff958e99836be1d3b048a216}
+      \strng{authorfullhash}{77c79579ff958e99836be1d3b048a216}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Blockchain}
+      \field{title}{Exploring value propositions to drive Self-Sovereign Identity adoption}
+      \field{volume}{4}
+      \field{year}{2021}
+      \field{pages}{4}
+      \range{pages}{1}
+    \endentry
     \entry{makarov2021blockchain}{report}{}
       \name{author}{2}{}{%
         {{hash=b66d967f1b4d160ab2af5d4fb46fbd31}{%

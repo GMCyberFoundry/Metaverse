@@ -1,36 +1,40 @@
+This section need to point out that DID/SSI is broken, ION is untested, and everyone's kinda given up. Webs of trust are viable so this means Nostr or Slashtags. Maybe LNURL-Auth can do it.
+
 This is where an external contributor can add information about DID and SSI
-\section{Some basics about distributed identity}
-\subsection{DID principles}
-persistent identifier (permanent)
-Resolvable
-cryptographically verifiable
-decentralised
-\subsection{primatives}
-lifetime
-portable
-does not depend on third party
-cannot be taken away
-\subsection{What's in a DID document?}
-it's to bootstrap the services
-one or more public keys
-One or more services which can be used
-timestamps, sigs, proofs, delegations, authorisations
-minimum amount of information
-DID controller = DID subject
-\subsection{What are the challenges?}
-    fragmentations
-    scaling to a world where the user is presented with thousands of signoffs
-    how to visualise and abstract and glom this stuff
-    How to care about the right level of information
-\subsection{keystone uses}
+Distributed self sovereign identity has a great elevator pitch. Individuals should be empowered through technology to manage their own data, without manipulation or exploitation by centralised corporate behemoths. In practice it's a staggeringly complex proposition which increases risk to the individual, decreases convenience, and despite much work, does not even make much sense in it's own terms.
+\section{Applications of DID/SSI}
+Some of the likely, and discussed applications for DID/SSI are the more inherently private and personally valuable sets of data a individual might generate throughout their life. The theory is that subsets of such data could then be digitally revealed by the individual when required, and that cryptographic verification built into the system would guarantee the veracity of the data to the receiving party. It is also possible to make use of ``zero-knowledge proof'' such that assertions can be made about about the contents of the data without revealing the data itself. A good example of this an age verification challenge, where a threshold age could be asserted without necessarily revealing the date of birth. 
+Other keystone uses of the technology are:
 \begin{itemize}
-\item health
+\item health documents history
 \item qualifications and certifications
-\item finance
-\item contacts
-\item calendar
+\item financial record and relationships with those of others
+\item contacts, connections to other people and their appropriate data, including things like shared and personal calendars
 \end{itemize}  
-\section{Technologies}
+It's also possible to extend this key management ethos to all login credentials, and all data currently stored on centralised servers. This is the tension discussed in the chapter about Web3. Proponents think that using something like a DID/SSI stack to manage encryption, decryption and access to data within cloud services gives the user the best of all worlds. They see simply logging in with a cryptographic wallet, and using that same public/private key pair to manage the data beyond as some kind of panacea. This is very complex stuff though, and it seems very likely they just haven't thought this through enough.
+
+\section{Classic DID/SSI}
+Distributed identity / self sovereign identity has been extensively researched for decades, with hundreds of peer reviewed papers, and extensive support from the \href{https://www.w3.org/TR/did-core/}{world wide web consortium}. The academic field now seems quite ossified and has settled on a couple of hundred `schema' which they feel underpin the next layer of development. It is a \href{https://medium.com/decentralized-identity/overview-of-decentralized-identity-standards-f82efd9ab6c7}{complex field}, and the language and diagrams are arcane and self referential as seen in Figure \ref{fig:DID}.
+
+\begin{figure}
+\includegraphics[width=\linewidth]{DID}
+  \caption{Part of the DID SSI specs}
+  \label{fig:DID}
+\end{figure}. 
+
+Moreover the minimal implementation of such proposed systems hints at a \href{https://www.w3.org/community/perma-id/}{federated model} of centralised `truth' to enable persistence of identifiers over time.\\
+The major failing of the DID/SSI work to date is a lack of meaningful use cases with incentives for adoption. This is clearly explained by Lockwood \cite{lockwood2021exploring} who proposes that the pathway to adoption of `classic' DID/SSI requires an incentive over and above the current identity management on the web. Being distributed is not enough. Especially in the light of questionable assurances of this even being true.\\
+Perhaps most concerning is this \href{https://lists.w3.org/Archives/Public/public-credentials/2022Mar/thread.html}{recent exchange} on the mailing lists. Here, the two inventors of DID say the following:\\
+\textit{``Not a single entity I know that's doing production deployments has actually vetted did:ion and found it to be production capable. This goes for every DLT-based DID Method out there - even the one we're working on. I am highly sceptical of anyone that says that any DID Method is ready for production usage at present.\\
+Agreed — as one of the proponents of DLTs (in particular permissionless public ones) none are mature enough yet for production.''}.
+It seems then that we can rule out use of these technologies?
+
+\subsubsection{DID principles}
+The core principles of distributed identity are that there should be persistent identifiers, like real world documents which assert identity, but with extended use cases. These should be permanent, and resolvable everywhere, forever. Underpinning this is cryptographically verifiable and decentralised data, managed by the user, or their trusted proxy. As primitives this makes them lifetime digital assets, that are portable, and unconfiscatable, with no required reliance on a trusted third party. By this stage in the book you should be familiar with these concepts, but application of this fundamental mindset to all personal data and digital interactions is a bigger reach even than money and value.
+\subsubsection{What's in a DID document?}
+All classic DID is underpinned by a DID document what bootstrap the services it's connected to. It is made up of one or more public keys. The documents can make use of services such as timestamps, cryptographic signatures, proofs, delegations, and authorisations. They should contact the minimum about of information to accomplish the specific task required of them.
+
+\section{Newer Technologies}
 \subsection{Slashtags}
 Slashtags is a new distributed identity open method being developed by Bitfinex and Tether under the Synonym suite. It uses bitcoin keys for authentication, but communicates a schema through a metadata exchange.
 \subsection{LNURL-Auth}
@@ -67,6 +71,11 @@ On the surface then it might seem that the choice is Bitcoin again, and indeed t
   
 
 %------------------------------------------------
-\section{Risks}
+\section{Risks \& Challenges?}
+Classic DID/SSI risks fragmentations
+In all DID scaling to a world where the user is managing potentially thousands of these critical cryptographic data files is daunting.
+Abstracting the guts of this away to make the user simple, and only caring about right level of information, turns out to be huge problem that nobody has solved
+It's not clear that users want this
+In the case of web of trust like Slashtags it's a big piece of work for the users to rate off of their digital interactions with a trust metric.
 
 
