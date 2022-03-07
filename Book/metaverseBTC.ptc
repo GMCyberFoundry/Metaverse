@@ -77,17 +77,17 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4.4}Etleneum}{44}{subsection.3.4.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.5}Message passing}{46}{subsection.3.4.5}%
+\contentsline {subsection}{\numberline {3.4.5}Message passing}{44}{subsection.3.4.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.5}Liquid federation (layer 2)}{46}{section.3.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.6}Bitcoin Layer 3}{47}{section.3.6}%
+\contentsline {section}{\numberline {3.6}Bitcoin Layer 3}{46}{section.3.6}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.6.1}LNP/BP and RGB}{47}{subsection.3.6.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.6.2}Synonym \& Omnibolt}{49}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.2}Synonym \& Omnibolt}{48}{subsection.3.6.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.6.3}DLCFD}{49}{subsection.3.6.3}%
+\contentsline {subsection}{\numberline {3.6.3}DLCFD}{48}{subsection.3.6.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.7}Bitcoin adjacent chains}{49}{section.3.7}%
 \defcounter {refsection}{0}\relax 
@@ -97,9 +97,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.7.2}Sovryn and RSK}{49}{subsection.3.7.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.7.3}Sidechains}{50}{subsection.3.7.3}%
+\contentsline {subsection}{\numberline {3.7.3}Sidechains}{49}{subsection.3.7.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.7.4}Spacechains}{50}{subsection.3.7.4}%
+\contentsline {subsection}{\numberline {3.7.4}Spacechains}{49}{subsection.3.7.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.7.5}Drivechain}{50}{subsection.3.7.5}%
 \defcounter {refsection}{0}\relax 
@@ -303,7 +303,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {9.2.2}Electrum server}{79}{subsection.9.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.3}C-Lightning and CLBoss}{80}{subsection.9.2.3}%
+\contentsline {subsection}{\numberline {9.2.3}C-Lightning and CLBoss}{79}{subsection.9.2.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {9.2.4}LNBits with RGB and metaverse plugin}{80}{subsection.9.2.4}%
 \defcounter {refsection}{0}\relax 
