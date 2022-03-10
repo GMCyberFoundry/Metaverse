@@ -154,18 +154,13 @@ Rather than using one of these distributions we plan to support a new metaverse 
 %Feedback from James this is a completely fair solution to the byzantine general problem of distributed consensus i will write this into the paper, it's not there and it should be that proof or work, combined with a couple of other novelish features from elsewhere in history nakamoto consensus, which is the basis of the whole technology without it there is a zero cost to attacking the network with it it's virtually impossible to attack it meaningfully there's suspected to be around 4M bitcoin lost forever 18M are mined I think, so that's around 14M in the wild, each subdivided by 100M to give sats, each of which can currently be subdivided again by 1000. interestingly that's quite changeable. more zeros could be added. the point is the cap is unchangeable unless you can find a way to switch the software on 75,000 secret home nodes against their financial interest githubs are referencable if I like I think What happens when the last coin is mined? Isn’t the mining itself something to do with validating transactions? Who does that after there are no more to mine? there's no rules to an unlicense license What happens when the last coin is mined? Isn’t the mining itself something to do with validating transactions? Who does that after there are no more to mine? it's a big known unknown the theory is that the fees will rise as the use rises, and the miners will benefit from the fees not the mining both of which are decent rewards if miners think it's not worth it then they drop out and the network adjusts the difficulty automatically every 2 weeks to compensate those who remain with more reward so in principle it sorts itself out but nobody is sure and there's no way to test it this is excellent, I will make all this clear, thanks a great help!
 
 \subsection{Upgrade roadmap}
-Taproot, schnorr signatures replace ECDSA\\
-\href{https://utxos.org/}{BIP-119}
-\subsection{Risks}
-\begin{itemize}
-\item The block reward is reduced every 4 years (epochs). This means a portion of the mining reward is trending to zero, and nobody knows what effect this will have on the incentives for securing the network through proof of work.
-\item Stablecoins are a vital transitional technology (described later) but do not meaningfully exist yet on the Bitcoin network. This may change.
-\item Bitcoin lacks privacy by design. All transactions are publicly viewable. This is a major drag to the concept of BTC as a money.
-\item The network (described later) has terrible UX design at this time. 
-\item The basic `usability' of the network is still poor in the main. Any problems which users experience demand a steep learning curve and risk loss of funds. There is obviously no tech support number people can call. 
-\item Only around one billion unspent transactions can be generated a year on the network. This means that it might become impossible for everyone on the planet to have own their own Bitcoin address (with it's associated underpinning UTXO).  
-\end{itemize} 
-
+\subsubsection{Taproot}
+`Taproot' is the most recent upgrade to the Bitcoin network. It was first \href{https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2018-January/015614.html}{described in 2018} on bitcoin-dev mailing list, and become \href{https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki}{BIP-0341} in 2019. It brings improved scripting, smart contract capability, privacy, and schnorr signatures, which are a maximally efficient signature verification method. The network will always support older address types. It is rare to get such a large update to the network, and deployment and upgrade was carefully managed over several months under BIP-0008. Uptake will be slow as wallet manufacturers and exchanges add the feature. It can be considered an upgrade in progress. Aaron van Wirdum, a journalist and educator in the space describes Taproot in detail in \href{https://bitcoinmagazine.com/technical/taproot-coming-what-it-and-how-it-will-benefit-bitcoin}{an article}.\\
+\subsubsection{AnyPrevOut}
+\href{https://anyprevout.xyz}{BIP-0118}, is a ``soft-fork that allows a transaction to be signed without reference to any specific previous output''. It enables ``Eltoo, a protocol that fulfils Satoshi's vision for nSequence''\\
+This is Lightning Network upgrade technology in the main. The Eltoo \href{https://blockstream.com/eltoo.pdf}{whitepaper} or this more \href{https://fiatjaf.alhur.es/ffdfe772.html}{readable explanation} from developer fiatjaf go into detail.\\ 
+\subsubsection{CheckTemplateVerify}
+\href{https://utxos.org/}{BIP-0119} is ``a simple proposal to power the next wave of Bitcoin adoption and applications. The underlying technology is carefully engineered to be simple to understand, easy to use, and safe to deploy.''
 \section{Extending the BTC ecosystem }
 The following section are by no means an exhaustive view of development on the Bitcoin network, but it does highlight some potentially useful ideas for supporting metaverse interactions in a useful timeframe.
 \subsection{Block \& SpiralBTC}
@@ -396,8 +391,36 @@ Nick Grossman \href{https://www.nickgrossman.xyz/2019/adversarial-interoperabili
 Something about Filecoin? ARWeave? IPFS etc
 %\lipsum[50]
 \section{Risks and mitigations}
-\subsection{ESG}
-\subsection{Legislative}
-The partial regulatory capture of these technologies, and the potential for `jurisdictional arbitrage', where activity flows to globally more lenient legislative regimes, continues to be a concern. Many of the centralised exchanges for instance are located in tax havens such as Malta. As the world catches up with these products it is likely that this will be smoothed out.
-\subsection{Crime and santion busting}
-The US treasury department has recently published a National Risk Assessments for Money Laundering, Terrorist Financing, and Proliferation Financing. This is a comprehensive report and speaks to careful research across the space. It is broken into \href{https://home.treasury.gov/news/press-releases/jy0619}{three parts}. Perhaps surprisingly, while they do see activity in these areas, they do not rate the risk as very significant. Cash remains the main problem for illicit funding. There is some talk that the nature of public blockchain analysis allows greater oversight of these tools and that this is to the advantage of government and civil enforcement agencies.
+\subsection{Digital assets}
+For digital assets more generally it is useful to look at the recent \href{https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/09/executive-order-on-ensuring-responsible-development-of-digital-assets/}{``whole government executive order''} signed by President Biden. It is mainly framed in terms of ``responsible innovation, and leadership'' in the new space, is a product of multi agency collaboration, and has been long anticipated. It identifies high level risks, aspirations, and challenges, and strongly hints toward development of a ``digital dollar'' (CDBC, expanded later). The risks sections show how legislators are framing this, so it's useful to break down here.\\
+\begin{itemize}
+\item Consumer and business protections. This is likely to pertain to custodians and is much needed. Miss-selling is rife. Security presents a challenge.  
+\item Systemic risk, and market integrity are a concern. The legislators clearly worry about contagion risks from the sector.
+\item Illicit finance (criminality and sanction busting etc) are a concern, but not particularly front and centre. Criminality in 2021 was a mere 0.15\% of transactions according to Chainalysis, but this number varies year to year. The US treasury department has recently published a National Risk Assessments for Money Laundering, Terrorist Financing, and Proliferation Financing. This is a comprehensive report and speaks to careful research across the space. It is broken into \href{https://home.treasury.gov/news/press-releases/jy0619}{three parts}. Perhaps surprisingly, while they do see activity in these areas, they do not rate the risk as very significant. Cash remains the main problem for illicit funding. There is some talk that the nature of public blockchain analysis allows greater oversight of these tools and that this is to the advantage of government and civil enforcement agencies.
+\item Highlighting the need for international coordination suggests they are mindful of jurisdictional arbitrage. 
+The partial regulatory capture of these technologies, where activity flows to globally more lenient legislative regimes, continues to be a concern. Many of the centralised exchanges for instance are located in tax havens such as Malta. As the world catches up with these products it is likely that this will be smoothed out.
+\item Climate goals, diversity, equality and inclusion are mentioned. It seems that the ``environment'' aspect of ESG is more important then ``social'' and ``governance'' at this time.
+\item Privacy and human rights are mentioned.
+\item Energy policy is highlighted, including grid management and reliability, energy efficiency incentives and standards, and sources of energy supply.
+\end{itemize}
+
+\subsection{Bitcoin specifically}
+\noindent In addition it's useful for this document to focus more on the technical challenges to the Bitcoin network.\\
+\begin{itemize}
+\item The block reward is reduced every 4 years (epochs). This means a portion of the mining reward is trending to zero, and nobody knows what effect this will have on the incentives for securing the network through proof of work.
+\item Stablecoins are a vital transitional technology (described later) but do not meaningfully exist yet on the Bitcoin network. This may change.
+\item Bitcoin lacks privacy by design. All transactions are publicly viewable. This is a major drag to the concept of BTC as a money.
+\item The Lightning network (described later) has terrible UX design at this time. 
+\item The basic `usability' of the network is still poor in the main. Any problems which users experience demand a steep learning curve and risk loss of funds. There is obviously no technical support number people can call. 
+\item Only around one billion unspent transactions can be generated a year on the network. This means that it might become impossible for everyone on the planet to have own their own Bitcoin address (with it's associated underpinning UTXO).  
+\item Chip manufacture is concentrated in only a few companies and countries, as identified by Matthew Pines. He also identifies the \href{https://www.btcpolicy.org/#Research}{following points}
+\item Potential constraints on monetary policy flexibility.
+\item Future protocol changes.
+\item Unanticipated effects the domestic and international energy system.
+\item Vulnerability to adversary attacks.
+\item Other unknown, unanticipated risks given Bitcoin’s limited 13-year history.
+\end{itemize} 
+
+
+%\subsection{Crime and santion busting}
+%
