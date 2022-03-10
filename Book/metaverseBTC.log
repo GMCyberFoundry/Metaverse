@@ -1,13 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.17)  10 MAR 2022 14:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  10 MAR 2022 22:27
 entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
 **./metaverseBTC.tex
 (metaverseBTC.tex
-LaTeX2e <2021-06-01> patch level 1
-L3 programming layer <2021-08-27> (LegrandOrangeBook.cls
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24> (LegrandOrangeBook.cls
 Document Class: LegrandOrangeBook 2022/01/26 The Legrand Orange Book Class v3.0
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
-Document Class: book 2021/02/12 v1.4n Standard LaTeX document class
+Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\fleqn.clo
 File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
 \mathindent=\skip47
@@ -19,23 +21,23 @@ LaTeX Info: Redefining \] on input line 75.
 Already applied: [0000/00/00] Make \] robust on input line 83.
 )
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\bk11.clo
-File: bk11.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+File: bk11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count182
-\c@chapter=\count183
-\c@section=\count184
-\c@subsection=\count185
-\c@subsubsection=\count186
-\c@paragraph=\count187
-\c@subparagraph=\count188
-\c@figure=\count189
-\c@table=\count190
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen138
 )
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
@@ -45,7 +47,7 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
 g
@@ -60,7 +62,7 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 \Gin@req@width=\dimen140
 ) (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count191
+\c@float@type=\count194
 \float@exts=\toks17
 \float@box=\box50
 \@float@everytoks=\toks18
@@ -70,36 +72,36 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3ke
 ys2e.sty
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2021-08-27 L3 programming layer (loader) 
+Package: expl3 2022-02-24 L3 programming layer (loader) 
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
 ex.def
-File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count192
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count195
 \l__pdf_internal_box=\box52
 ))
-Package: l3keys2e 2021-08-27 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count193
-\l__lipsum_a_int=\count194
-\l__lipsum_b_int=\count195
+\g__lipsum_par_int=\count196
+\l__lipsum_a_int=\count197
+\l__lipsum_b_int=\count198
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Package option `usenames' ignored on input line 216.
-Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Package option `usenames' ignored on input line 218.
+Package xcolor Info: Driver file: pdftex.def on input line 227.
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
 Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
-Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
 \col@sep=\dimen141
 \ar@mcellbox=\box53
 \extrarowheight=\dimen142
@@ -111,43 +113,43 @@ Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
 \everycr=\toks20
 \minrowclearance=\skip52
 )
-\rownum=\count196
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+\rownum=\count199
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\svgnam.def
-File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
+File: svgnam.def 2021/10/31 v2.13 Predefined colors according to SVG 1.1 (UK)
 ))
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count197
-\calc@Bcount=\count198
+\calc@Acount=\count266
+\calc@Bcount=\count267
 \calc@Adimen=\dimen143
 \calc@Bdimen=\dimen144
 \calc@Askip=\skip53
 \calc@Bskip=\skip54
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count199
+\calc@Ccount=\count268
 \calc@Cskip=\skip55
 )
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/changepage\changepage.st
 y
 Package: changepage 2009/10/20 v1.0c check page and change page layout
-\c@cp@cntr=\count266
-\cp@tempcnt=\count267
+\c@cp@cntr=\count269
+\cp@tempcnt=\count270
 ) (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
-\c@@pps=\count268
-\c@@ppsavesec=\count269
-\c@@ppsaveapp=\count270
+\c@@pps=\count271
+\c@@ppsavesec=\count272
+\c@@ppsaveapp=\count273
 ) (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
@@ -155,11 +157,11 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
+Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count271
-\Gm@cntv=\count272
-\c@Gm@tempcnt=\count273
+\Gm@cnth=\count274
+\Gm@cntv=\count275
+\c@Gm@tempcnt=\count276
 \Gm@bindingoffset=\dimen145
 \Gm@wd@mp=\dimen146
 \Gm@odd@mp=\dimen147
@@ -219,33 +221,35 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Info: Redefining \hbar on input line 50.
 )
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
-Package: microtype 2021/10/31 v3.0 Micro-typographical refinements (RS)
+Package: microtype 2022/02/22 v3.0c Micro-typographical refinements (RS)
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count274
+\etb@tempcnta=\count277
 )
 \MT@toks=\toks24
-\MT@count=\count275
 \MT@tempbox=\box55
-\MT@leftmarginkern=\dimen153
-\MT@rightmarginkern=\dimen154
-LaTeX Info: Redefining \textls on input line 1114.
-\MT@outer@kern=\dimen155
-LaTeX Info: Redefining \textmicrotypecontext on input line 1700.
-\MT@listname@count=\count276
+\MT@count=\count278
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1027.
+LaTeX Info: Redefining \leftprotrusion on input line 1028.
+LaTeX Info: Redefining \rightprotrusion on input line 1036.
+LaTeX Info: Redefining \textls on input line 1200.
+\MT@outer@kern=\dimen153
+LaTeX Info: Redefining \textmicrotypecontext on input line 1786.
+\MT@listname@count=\count279
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdft
 ex.def
-File: microtype-pdftex.def 2021/10/31 v3.0 Definitions specific to pdftex (RS)
-LaTeX Info: Redefining \lsstyle on input line 915.
-LaTeX Info: Redefining \lslig on input line 915.
+File: microtype-pdftex.def 2022/02/22 v3.0c Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 897.
+LaTeX Info: Redefining \lslig on input line 897.
 \MT@outer@space=\skip56
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
-File: microtype.cfg 2021/10/31 v3.0 microtype main configuration file (RS)
+File: microtype.cfg 2022/02/22 v3.0c microtype main configuration file (RS)
 )) (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
 rs
@@ -267,21 +271,21 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box56
 \beforetitleunit=\skip66
 \aftertitleunit=\skip67
-\ttl@plus=\dimen156
-\ttl@minus=\dimen157
+\ttl@plus=\dimen154
+\ttl@minus=\dimen155
 \ttl@toksa=\toks25
-\titlewidth=\dimen158
-\titlewidthlast=\dimen159
-\titlewidthfirst=\dimen160
+\titlewidth=\dimen156
+\titlewidthlast=\dimen157
+\titlewidthfirst=\dimen158
 )
-\c@ttlp@side=\count277
-\ttlp@side=\count278
+\c@ttlp@side=\count280
+\ttlp@side=\count281
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titletoc.sty
 Package: titletoc 2021/07/05 v2.14 TOC entries
-\ttl@leftsep=\dimen161
+\ttl@leftsep=\dimen159
 )
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
-Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.
 sty
@@ -306,7 +310,7 @@ y
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )) (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count279
+\lrq@indent=\count282
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -318,48 +322,48 @@ Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count280
-\c@listtotal=\count281
-\c@listcount=\count282
-\c@liststart=\count283
-\c@liststop=\count284
-\c@citecount=\count285
-\c@citetotal=\count286
-\c@multicitecount=\count287
-\c@multicitetotal=\count288
-\c@instcount=\count289
-\c@maxnames=\count290
-\c@minnames=\count291
-\c@maxitems=\count292
-\c@minitems=\count293
-\c@citecounter=\count294
-\c@maxcitecounter=\count295
-\c@savedcitecounter=\count296
-\c@uniquelist=\count297
-\c@uniquename=\count298
-\c@refsection=\count299
-\c@refsegment=\count300
-\c@maxextratitle=\count301
-\c@maxextratitleyear=\count302
-\c@maxextraname=\count303
-\c@maxextradate=\count304
-\c@maxextraalpha=\count305
-\c@abbrvpenalty=\count306
-\c@highnamepenalty=\count307
-\c@lownamepenalty=\count308
-\c@maxparens=\count309
-\c@parenlevel=\count310
-\blx@tempcnta=\count311
-\blx@tempcntb=\count312
-\blx@tempcntc=\count313
-\blx@maxsection=\count314
-\blx@maxsegment@0=\count315
-\blx@notetype=\count316
-\blx@parenlevel@text=\count317
-\blx@parenlevel@foot=\count318
-\blx@sectionciteorder@0=\count319
-\blx@entrysetcounter=\count320
-\blx@biblioinstance=\count321
+\c@tabx@nest=\count283
+\c@listtotal=\count284
+\c@listcount=\count285
+\c@liststart=\count286
+\c@liststop=\count287
+\c@citecount=\count288
+\c@citetotal=\count289
+\c@multicitecount=\count290
+\c@multicitetotal=\count291
+\c@instcount=\count292
+\c@maxnames=\count293
+\c@minnames=\count294
+\c@maxitems=\count295
+\c@minitems=\count296
+\c@citecounter=\count297
+\c@maxcitecounter=\count298
+\c@savedcitecounter=\count299
+\c@uniquelist=\count300
+\c@uniquename=\count301
+\c@refsection=\count302
+\c@refsegment=\count303
+\c@maxextratitle=\count304
+\c@maxextratitleyear=\count305
+\c@maxextraname=\count306
+\c@maxextradate=\count307
+\c@maxextraalpha=\count308
+\c@abbrvpenalty=\count309
+\c@highnamepenalty=\count310
+\c@lownamepenalty=\count311
+\c@maxparens=\count312
+\c@parenlevel=\count313
+\blx@tempcnta=\count314
+\blx@tempcntb=\count315
+\blx@tempcntc=\count316
+\c@blx@maxsection=\count317
+\c@blx@maxsegment@0=\count318
+\blx@notetype=\count319
+\blx@parenlevel@text=\count320
+\blx@parenlevel@foot=\count321
+\c@blx@sectionciteorder@0=\count322
+\blx@entrysetcounter=\count323
+\blx@biblioinstance=\count324
 \labelnumberwidth=\skip68
 \labelalphawidth=\skip69
 \biblabelsep=\skip70
@@ -371,87 +375,87 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \blx@bcfin=\read2
 \blx@bcfout=\write3
 \blx@langwohyphens=\language79
-\c@mincomprange=\count322
-\c@maxcomprange=\count323
-\c@mincompwidth=\count324
+\c@mincomprange=\count325
+\c@maxcomprange=\count326
+\c@mincompwidth=\count327
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
-File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+File: blx-dm.def 2022/02/02 v3.17 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex citestyle data model...
 Package biblatex Info: ... file 'numeric.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count325
-\c@savedafterword=\count326
-\c@annotator=\count327
-\c@savedannotator=\count328
-\c@author=\count329
-\c@savedauthor=\count330
-\c@bookauthor=\count331
-\c@savedbookauthor=\count332
-\c@commentator=\count333
-\c@savedcommentator=\count334
-\c@editor=\count335
-\c@savededitor=\count336
-\c@editora=\count337
-\c@savededitora=\count338
-\c@editorb=\count339
-\c@savededitorb=\count340
-\c@editorc=\count341
-\c@savededitorc=\count342
-\c@foreword=\count343
-\c@savedforeword=\count344
-\c@holder=\count345
-\c@savedholder=\count346
-\c@introduction=\count347
-\c@savedintroduction=\count348
-\c@namea=\count349
-\c@savednamea=\count350
-\c@nameb=\count351
-\c@savednameb=\count352
-\c@namec=\count353
-\c@savednamec=\count354
-\c@translator=\count355
-\c@savedtranslator=\count356
-\c@shortauthor=\count357
-\c@savedshortauthor=\count358
-\c@shorteditor=\count359
-\c@savedshorteditor=\count360
-\c@labelname=\count361
-\c@savedlabelname=\count362
-\c@institution=\count363
-\c@savedinstitution=\count364
-\c@lista=\count365
-\c@savedlista=\count366
-\c@listb=\count367
-\c@savedlistb=\count368
-\c@listc=\count369
-\c@savedlistc=\count370
-\c@listd=\count371
-\c@savedlistd=\count372
-\c@liste=\count373
-\c@savedliste=\count374
-\c@listf=\count375
-\c@savedlistf=\count376
-\c@location=\count377
-\c@savedlocation=\count378
-\c@organization=\count379
-\c@savedorganization=\count380
-\c@origlocation=\count381
-\c@savedoriglocation=\count382
-\c@origpublisher=\count383
-\c@savedorigpublisher=\count384
-\c@publisher=\count385
-\c@savedpublisher=\count386
-\c@language=\count387
-\c@savedlanguage=\count388
-\c@origlanguage=\count389
-\c@savedoriglanguage=\count390
-\c@pageref=\count391
-\c@savedpageref=\count392
+\c@afterword=\count328
+\c@savedafterword=\count329
+\c@annotator=\count330
+\c@savedannotator=\count331
+\c@author=\count332
+\c@savedauthor=\count333
+\c@bookauthor=\count334
+\c@savedbookauthor=\count335
+\c@commentator=\count336
+\c@savedcommentator=\count337
+\c@editor=\count338
+\c@savededitor=\count339
+\c@editora=\count340
+\c@savededitora=\count341
+\c@editorb=\count342
+\c@savededitorb=\count343
+\c@editorc=\count344
+\c@savededitorc=\count345
+\c@foreword=\count346
+\c@savedforeword=\count347
+\c@holder=\count348
+\c@savedholder=\count349
+\c@introduction=\count350
+\c@savedintroduction=\count351
+\c@namea=\count352
+\c@savednamea=\count353
+\c@nameb=\count354
+\c@savednameb=\count355
+\c@namec=\count356
+\c@savednamec=\count357
+\c@translator=\count358
+\c@savedtranslator=\count359
+\c@shortauthor=\count360
+\c@savedshortauthor=\count361
+\c@shorteditor=\count362
+\c@savedshorteditor=\count363
+\c@labelname=\count364
+\c@savedlabelname=\count365
+\c@institution=\count366
+\c@savedinstitution=\count367
+\c@lista=\count368
+\c@savedlista=\count369
+\c@listb=\count370
+\c@savedlistb=\count371
+\c@listc=\count372
+\c@savedlistc=\count373
+\c@listd=\count374
+\c@savedlistd=\count375
+\c@liste=\count376
+\c@savedliste=\count377
+\c@listf=\count378
+\c@savedlistf=\count379
+\c@location=\count380
+\c@savedlocation=\count381
+\c@organization=\count382
+\c@savedorganization=\count383
+\c@origlocation=\count384
+\c@savedoriglocation=\count385
+\c@origpublisher=\count386
+\c@savedorigpublisher=\count387
+\c@publisher=\count388
+\c@savedpublisher=\count389
+\c@language=\count390
+\c@savedlanguage=\count391
+\c@origlanguage=\count392
+\c@savedoriglanguage=\count393
+\c@pageref=\count394
+\c@savedpageref=\count395
 \shorthandwidth=\skip76
 \shortjournalwidth=\skip77
 \shortserieswidth=\skip78
@@ -470,45 +474,45 @@ Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
-File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+File: blx-compat.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
-File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
-\c@textcitecount=\count393
-\c@textcitetotal=\count394
-\c@textcitemaxnames=\count395
-\c@biburlbigbreakpenalty=\count396
-\c@biburlbreakpenalty=\count397
-\c@biburlnumpenalty=\count398
-\c@biburlucpenalty=\count399
-\c@biburllcpenalty=\count400
+File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+\c@textcitecount=\count396
+\c@textcitetotal=\count397
+\c@textcitemaxnames=\count398
+\c@biburlbigbreakpenalty=\count399
+\c@biburlbreakpenalty=\count400
+\c@biburlnumpenalty=\count401
+\c@biburlucpenalty=\count402
+\c@biburllcpenalty=\count403
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count401
+\c@smartand=\count404
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
-File: numeric.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+File: numeric.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bb
 x
-File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count402
-\c@bbx:relatedtotal=\count403
+File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count405
+\c@bbx:relatedtotal=\count406
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric.cbx
-File: numeric.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+File: numeric.cbx 2022/02/02 v3.17 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -525,8 +529,23 @@ Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
  (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
 File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2022-02-24 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.
+sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse
+.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
 )) (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
-Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
 )
 \@indexfile=\write4
 \openout4 = `metaverseBTC.idx'.
@@ -535,35 +554,35 @@ Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 Writing index file metaverseBTC.idx
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen162
-\lightrulewidth=\dimen163
-\cmidrulewidth=\dimen164
-\belowrulesep=\dimen165
-\belowbottomsep=\dimen166
-\aboverulesep=\dimen167
-\abovetopsep=\dimen168
-\cmidrulesep=\dimen169
-\cmidrulekern=\dimen170
-\defaultaddspace=\dimen171
-\@cmidla=\count404
-\@cmidlb=\count405
-\@aboverulesep=\dimen172
-\@belowrulesep=\dimen173
-\@thisruleclass=\count406
-\@lastruleclass=\count407
-\@thisrulewidth=\dimen174
+\heavyrulewidth=\dimen160
+\lightrulewidth=\dimen161
+\cmidrulewidth=\dimen162
+\belowrulesep=\dimen163
+\belowbottomsep=\dimen164
+\aboverulesep=\dimen165
+\abovetopsep=\dimen166
+\cmidrulesep=\dimen167
+\cmidrulekern=\dimen168
+\defaultaddspace=\dimen169
+\@cmidla=\count407
+\@cmidlb=\count408
+\@aboverulesep=\dimen170
+\@belowrulesep=\dimen171
+\@thisruleclass=\count409
+\@lastruleclass=\count410
+\@thisrulewidth=\dimen172
 )
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip90
-\enit@outerparindent=\dimen175
+\enit@outerparindent=\dimen173
 \enit@toks=\toks26
 \enit@inbox=\box57
-\enit@count@id=\count408
-\enitdp@description=\count409
+\enit@count@id=\count411
+\enitdp@description=\count412
 )
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinek
 eys.sty
@@ -581,18 +600,13 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 ) (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen176
-\Hy@linkcounter=\count410
-\Hy@pagecounter=\count411
+\@linkdim=\dimen174
+\Hy@linkcounter=\count413
+\Hy@pagecounter=\count414
  (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-)
-(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-langpa
-tches.def
-File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
-nguages
 )
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
@@ -600,22 +614,22 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count412
+\Hy@SavedSpaceFactor=\count415
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4192.
-Package hyperref Info: Link nesting OFF on input line 4197.
-Package hyperref Info: Hyper index ON on input line 4200.
-Package hyperref Info: Plain pages OFF on input line 4207.
-Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Hyper figures OFF on input line 4137.
+Package hyperref Info: Link nesting OFF on input line 4142.
+Package hyperref Info: Hyper index ON on input line 4145.
+Package hyperref Info: Plain pages OFF on input line 4152.
+Package hyperref Info: Backreferencing OFF on input line 4157.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count413
-LaTeX Info: Redefining \url on input line 4804.
-\XeTeXLinkMargin=\dimen177
+Package hyperref Info: Bookmarks ON on input line 4390.
+\c@Hy@tempcnt=\count416
+LaTeX Info: Redefining \url on input line 4749.
+\XeTeXLinkMargin=\dimen175
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -625,39 +639,39 @@ sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count414
-\Field@Width=\dimen178
-\Fld@charsize=\dimen179
-Package hyperref Info: Hyper figures OFF on input line 6076.
-Package hyperref Info: Link nesting OFF on input line 6081.
-Package hyperref Info: Hyper index ON on input line 6084.
-Package hyperref Info: backreferencing OFF on input line 6091.
-Package hyperref Info: Link coloring OFF on input line 6096.
-Package hyperref Info: Link coloring with OCG OFF on input line 6101.
-Package hyperref Info: PDF/A mode OFF on input line 6106.
-LaTeX Info: Redefining \ref on input line 6146.
-LaTeX Info: Redefining \pageref on input line 6150.
+\Fld@menulength=\count417
+\Field@Width=\dimen176
+\Fld@charsize=\dimen177
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+LaTeX Info: Redefining \ref on input line 6097.
+LaTeX Info: Redefining \pageref on input line 6101.
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count415
-\c@Item=\count416
-\c@Hfootnote=\count417
+\Hy@abspage=\count418
+\c@Item=\count419
+\c@Hfootnote=\count420
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
-e
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
 with kernel methods
 )
-\Fld@listcount=\count418
-\c@bookmark@seq@number=\count419
+\Fld@listcount=\count421
+\c@bookmark@seq@number=\count422
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfile
 check.sty
@@ -683,64 +697,64 @@ Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
-\BKM@id=\count420
+\BKM@id=\count423
 )) (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2021/04/20 v2.17j AMS math features
+Package: amsmath 2021/10/15 v2.17l AMS math features
 \@mathmargin=\skip92
 
 For additional information on amsmath, use the `?' option.
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
-Package: amstext 2000/06/29 v2.01 AMS text
+Package: amstext 2021/08/26 v2.01 AMS text
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks27
-\ex@=\dimen180
+\ex@=\dimen178
 ))
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen181
+\pmbraise@=\dimen179
 )
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
-Package: amsopn 2016/03/08 v2.02 operator names
+Package: amsopn 2021/08/26 v2.02 operator names
 )
-\inf@bad=\count421
+\inf@bad=\count424
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count422
-\leftroot@=\count423
+\uproot@=\count425
+\leftroot@=\count426
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count424
-\DOTSCASE@=\count425
+\classnum@=\count427
+\DOTSCASE@=\count428
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
 \Mathstrutbox@=\box58
 \strutbox@=\box59
-\big@size=\dimen182
+\big@size=\dimen180
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count426
-\c@MaxMatrixCols=\count427
+\macc@depth=\count429
+\c@MaxMatrixCols=\count430
 \dotsspace@=\muskip21
-\c@parentequation=\count428
-\dspbrk@lvl=\count429
+\c@parentequation=\count431
+\dspbrk@lvl=\count432
 \tag@help=\toks28
-\row@=\count430
-\column@=\count431
-\maxfields@=\count432
+\row@=\count433
+\column@=\count434
+\maxfields@=\count435
 \andhelp@=\toks29
-\eqnshift@=\dimen183
-\alignsep@=\dimen184
-\tagshift@=\dimen185
-\tagwidth@=\dimen186
-\totwidth@=\dimen187
-\lineht@=\dimen188
+\eqnshift@=\dimen181
+\alignsep@=\dimen182
+\tagshift@=\dimen183
+\tagwidth@=\dimen184
+\totwidth@=\dimen185
+\lineht@=\dimen186
 \@envbody=\toks30
 \multlinegap=\skip93
 \multlinetaggap=\skip94
 \mathdisplay@stack=\toks31
-LaTeX Info: Redefining \[ on input line 2923.
-LaTeX Info: Redefining \] on input line 2924.
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
 )
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
@@ -764,23 +778,19 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@headsep=\skip97
 \dth@everypar=\toks37
 )
-\c@proposition=\count433
-\c@theoremeT=\count434
-\c@problem=\count435
-\c@exerciseT=\count436
-\c@exampleT=\count437
-\c@notation=\count438
-\c@vocabulary=\count439
-\c@definitionT=\count440
-\c@corollaryT=\count441
+\c@proposition=\count436
+\c@theoremeT=\count437
+\c@problem=\count438
+\c@exerciseT=\count439
+\c@exampleT=\count440
+\c@notation=\count441
+\c@vocabulary=\count442
+\c@definitionT=\count443
+\c@corollaryT=\count444
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\mdframed.sty
 Package: mdframed 2013/07/01 1.9b: mdframed
 
-(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse
-.sty
-Package: xparse 2021-08-27 L3 Experimental document command parser
-)
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-abspage.sty
 Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
 
@@ -790,14 +800,14 @@ Package zref Info: New property list: main on input line 764.
 Package zref Info: New property: default on input line 765.
 Package zref Info: New property: page on input line 766.
 )
-\c@abspage=\count442
+\c@abspage=\count445
 Package zref Info: New property: abspage on input line 66.
 )
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
 \mdf@templength=\skip98
-\c@mdf@globalstyle@cnt=\count443
+\c@mdf@globalstyle@cnt=\count446
 \mdf@skipabove@length=\skip99
 \mdf@skipbelow@length=\skip100
 \mdf@leftmargin@length=\skip101
@@ -872,16 +882,16 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 \mdf@horizontalspaceofbox=\skip162
 \mdfsubtitleheight=\skip163
 \mdfsubsubtitleheight=\skip164
-\c@mdfcountframes=\count444
+\c@mdfcountframes=\count447
 
 ****** mdframed patching \endmdf@trivlist
 
 ****** -- success******
 
-\mdf@envdepth=\count445
-\c@mdf@env@i=\count446
-\c@mdf@env@ii=\count447
-\c@mdf@zref@counter=\count448
+\mdf@envdepth=\count448
+\c@mdf@env@i=\count449
+\c@mdf@env@ii=\count450
+\c@mdf@zref@counter=\count451
 Package zref Info: New property: mdf@pagevalue on input line 895.
 ))
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.s
@@ -892,8 +902,8 @@ ty
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
 common.tex
 \pgfutil@everybye=\toks38
-\pgfutil@tempdima=\dimen189
-\pgfutil@tempdimb=\dimen190
+\pgfutil@tempdima=\dimen187
+\pgfutil@tempdimb=\dimen188
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
 common-lists.tex))
@@ -925,26 +935,26 @@ code.tex
 iltered.code.tex
 \pgfkeys@tmptoks=\toks41
 ))
-\pgf@x=\dimen191
-\pgf@y=\dimen192
-\pgf@xa=\dimen193
-\pgf@ya=\dimen194
-\pgf@xb=\dimen195
-\pgf@yb=\dimen196
-\pgf@xc=\dimen197
-\pgf@yc=\dimen198
-\pgf@xd=\dimen199
-\pgf@yd=\dimen256
+\pgf@x=\dimen189
+\pgf@y=\dimen190
+\pgf@xa=\dimen191
+\pgf@ya=\dimen192
+\pgf@xb=\dimen193
+\pgf@yb=\dimen194
+\pgf@xc=\dimen195
+\pgf@yc=\dimen196
+\pgf@xd=\dimen197
+\pgf@yd=\dimen198
 \w@pgf@writea=\write5
 \r@pgf@reada=\read3
-\c@pgf@counta=\count449
-\c@pgf@countb=\count450
-\c@pgf@countc=\count451
-\c@pgf@countd=\count452
+\c@pgf@counta=\count452
+\c@pgf@countb=\count453
+\c@pgf@countc=\count454
+\c@pgf@countd=\count455
 \t@pgf@toka=\toks42
 \t@pgf@tokb=\toks43
 \t@pgf@tokc=\toks44
-\pgf@sys@id@count=\count453
+\pgf@sys@id@count=\count456
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cf
 g
@@ -963,8 +973,8 @@ File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
 softpath.code.tex
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count454
-\pgfsyssoftpath@bigbuffer@items=\count455
+\pgfsyssoftpath@smallbuffer@items=\count457
+\pgfsyssoftpath@bigbuffer@items=\count458
 )
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
 protocol.code.tex
@@ -982,8 +992,8 @@ ode.tex
 ode.tex)
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser
 .code.tex
-\pgfmath@dimen=\dimen257
-\pgfmath@count=\count456
+\pgfmath@dimen=\dimen199
+\pgfmath@count=\count459
 \pgfmath@box=\box66
 \pgfmath@toks=\toks45
 \pgfmath@stack@operand=\toks46
@@ -1009,39 +1019,39 @@ ons.misc.code.tex)
 ons.integerarithmetics.code.tex)))
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.
 code.tex
-\c@pgfmathroundto@lastzeros=\count457
+\c@pgfmathroundto@lastzeros=\count460
 ))
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.t
 ex)
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 points.code.tex
 File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@picminx=\dimen258
-\pgf@picmaxx=\dimen259
-\pgf@picminy=\dimen260
-\pgf@picmaxy=\dimen261
-\pgf@pathminx=\dimen262
-\pgf@pathmaxx=\dimen263
-\pgf@pathminy=\dimen264
-\pgf@pathmaxy=\dimen265
-\pgf@xx=\dimen266
-\pgf@xy=\dimen267
-\pgf@yx=\dimen268
-\pgf@yy=\dimen269
-\pgf@zx=\dimen270
-\pgf@zy=\dimen271
+\pgf@picminx=\dimen256
+\pgf@picmaxx=\dimen257
+\pgf@picminy=\dimen258
+\pgf@picmaxy=\dimen259
+\pgf@pathminx=\dimen260
+\pgf@pathmaxx=\dimen261
+\pgf@pathminy=\dimen262
+\pgf@pathmaxy=\dimen263
+\pgf@xx=\dimen264
+\pgf@xy=\dimen265
+\pgf@yx=\dimen266
+\pgf@yy=\dimen267
+\pgf@zx=\dimen268
+\pgf@zy=\dimen269
 )
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 pathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@path@lastx=\dimen272
-\pgf@path@lasty=\dimen273
+\pgf@path@lastx=\dimen270
+\pgf@path@lasty=\dimen271
 )
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 pathusage.code.tex
 File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@shorten@end@additional=\dimen274
-\pgf@shorten@start@additional=\dimen275
+\pgf@shorten@end@additional=\dimen272
+\pgf@shorten@start@additional=\dimen273
 )
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 scopes.code.tex
@@ -1049,19 +1059,19 @@ File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfpic=\box67
 \pgf@hbox=\box68
 \pgf@layerbox@main=\box69
-\pgf@picture@serial@count=\count458
+\pgf@picture@serial@count=\count461
 )
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 graphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgflinewidth=\dimen276
+\pgflinewidth=\dimen274
 )
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 transformations.code.tex
 File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@pt@x=\dimen277
-\pgf@pt@y=\dimen278
-\pgf@pt@temp=\dimen279
+\pgf@pt@x=\dimen275
+\pgf@pt@y=\dimen276
+\pgf@pt@temp=\dimen277
 )
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 quick.code.tex
@@ -1078,14 +1088,14 @@ File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 arrows.code.tex
 File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfarrowsep=\dimen280
+\pgfarrowsep=\dimen278
 )
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 shade.code.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@max=\dimen281
-\pgf@sys@shading@range@num=\count459
-\pgf@shadingcount=\count460
+\pgf@max=\dimen279
+\pgf@sys@shading@range@num=\count462
+\pgf@shadingcount=\count463
 )
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 image.code.tex
@@ -1124,8 +1134,8 @@ File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
 p-version-0-65.sty
 Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@nodesepstart=\dimen282
-\pgf@nodesepend=\dimen283
+\pgf@nodesepstart=\dimen280
+\pgf@nodesepend=\dimen281
 )
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
 p-version-1-18.sty
@@ -1146,8 +1156,8 @@ Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.
 tex)
-\pgffor@iter=\dimen284
-\pgffor@skip=\dimen285
+\pgffor@iter=\dimen282
+\pgffor@skip=\dimen283
 \pgffor@stack=\toks48
 \pgffor@toks=\toks49
 ))
@@ -1158,42 +1168,42 @@ Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
 ryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@plot@mark@count=\count461
-\pgfplotmarksize=\dimen286
+\pgf@plot@mark@count=\count464
+\pgfplotmarksize=\dimen284
 )
-\tikz@lastx=\dimen287
-\tikz@lasty=\dimen288
-\tikz@lastxsaved=\dimen289
-\tikz@lastysaved=\dimen290
-\tikz@lastmovetox=\dimen291
-\tikz@lastmovetoy=\dimen292
-\tikzleveldistance=\dimen293
-\tikzsiblingdistance=\dimen294
+\tikz@lastx=\dimen285
+\tikz@lasty=\dimen286
+\tikz@lastxsaved=\dimen287
+\tikz@lastysaved=\dimen288
+\tikz@lastmovetox=\dimen289
+\tikz@lastmovetoy=\dimen290
+\tikzleveldistance=\dimen291
+\tikzsiblingdistance=\dimen292
 \tikz@figbox=\box72
 \tikz@figbox@bg=\box73
 \tikz@tempbox=\box74
 \tikz@tempbox@bg=\box75
-\tikztreelevel=\count462
-\tikznumberofchildren=\count463
-\tikznumberofcurrentchild=\count464
-\tikz@fig@count=\count465
+\tikztreelevel=\count465
+\tikznumberofchildren=\count466
+\tikznumberofcurrentchild=\count467
+\tikz@fig@count=\count468
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulem
 atrix.code.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfmatrixcurrentrow=\count466
-\pgfmatrixcurrentcolumn=\count467
-\pgf@matrix@numberofcolumns=\count468
+\pgfmatrixcurrentrow=\count469
+\pgfmatrixcurrentcolumn=\count470
+\pgf@matrix@numberofcolumns=\count471
 )
-\tikz@expandcount=\count469
+\tikz@expandcount=\count472
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
 /libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
 \fminipagebox=\box76
-\@quotelevel=\count470
-\@quotereset=\count471
+\@quotelevel=\count473
+\@quotereset=\count474
 LaTeX Font Info:    Trying to load font information for T1+ptm on input line 76
 .
 
@@ -1235,16 +1245,16 @@ LaTeX Font Info:    ... okay on input line 76.
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
 i
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count472
-\scratchdimen=\dimen295
+\scratchcounter=\count475
+\scratchdimen=\dimen293
 \scratchbox=\box77
-\nofMPsegments=\count473
-\nofMParguments=\count474
+\nofMPsegments=\count476
+\nofMParguments=\count477
 \everyMPshowfont=\toks50
-\MPscratchCnt=\count475
-\MPscratchDim=\dimen296
-\MPnumerator=\count476
-\makeMPintoPDFobject=\count477
+\MPscratchCnt=\count478
+\MPscratchDim=\dimen294
+\MPnumerator=\count479
+\makeMPintoPDFobject=\count480
 \everyMPtoPDFconversion=\toks51
 )
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
@@ -1313,21 +1323,11 @@ Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
-File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+File: english.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-Package biblatex Info: Document encoding is UTF8 ....
-Package biblatex Info: ... and expl3
-(biblatex)             2021-08-27 L3 programming layer (loader) 
-(biblatex)             is new enough (at least 2020/04/06),
-(biblatex)             setting 'casechanger=expl3'.
-
-(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.
-sty
-Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
-)
 \openout3 = `metaverseBTC.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
@@ -1336,7 +1336,1708 @@ Package biblatex Info: ... file 'metaverseBTC.bbl' found.
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
+(biblatex)                2002
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Adalgeirsson2010
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Adamczyk2007
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                AlMoubayed2012
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Allard2006
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Anstis1969
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Argyle
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Argyle1965
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Argyle1969
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Argyle1976
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Avrahami2007
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Bailenson2002
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Bailenson2006
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Bandyopadhyay
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Bardram2012
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Baren
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Bartneck2007
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Bartneck2009
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Bartneck2009a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Baumgart1975
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Beck2011
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Beck2013
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Benford1998
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Benford:1995hh
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Benjamin2012
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Biocca1997
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Biocca2003
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Biocca2003a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Blanche2010
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Bock2008
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Bocker1996
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Bohannon2013
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Boker2011
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Bondareva2004
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Bradner:2002:WDM:587078.587110
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Bulu2012
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Buxton1992a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Chen2002
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Ciger2004a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Colburn2000a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Cook1977
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Cooke2000
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Cooke2002
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Cooke2002a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Cooke_image-basedrendering
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Dalsgaard2011
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Darken2003
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                DeGreef2001
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Dennis1990
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Desai2011
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Ding2007
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Divorra2010
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Dou2016
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Duckworth:2012tx
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Eijk2010
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Erickson2011
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Fagel2010
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Fairchild2016
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Fayard2007
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Feldmann2009
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Ferscha1999
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Fish1993
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Franco2003
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Franco2009
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Fuchs:2002ww
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Fullwood2006a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Garau2001
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Garau2003
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Garrison1999
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Gasparello:2011in
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Gaver1992
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Gergle2006
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Gillies2005
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Goebbels2003
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Goodwin2000a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Grau2007
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Greenhalgh2001
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Greenhalgh2001a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Grimstead2005a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Gross2003
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Gunawardena1997
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Harms2004
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Hauber2005
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Hauber2006
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Hedge1978
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Heldal2005
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Heldner2010
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Ho2008
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Ho:2010:RUV:1853385.1853509
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Hu:1986ww
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Hua2004
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Ichikawa1995
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Ishii1993
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Itoh2005
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                JSID:JSID295
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Jamil2011
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Jetter2011a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Jones2014
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Jouppi2004
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Judge2010
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Katagiri2007
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Kauff2002
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Kauff2002a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Kendon1967
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Kim2012
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Kleinke1986a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Klie2006
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Kluttz2009
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Kristoffersson2011
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Kristoffersson2013
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Krum2012
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Kulik2011
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Kuster2012a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Langton2000
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Langton2000a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Laurentini1994a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Lee2011b
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Lehment2014
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Lincoln2009
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Lincoln:2010it
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Loomis2008
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Lottridge2009
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Low2001
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Luff2011
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Macrae2002
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Maimone2011
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Maimone2011a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Maimone2013
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Marti2005
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Matusik2000
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Mekuria2013
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Mitchell2011
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Monk2002
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Moore:2010jt
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Mori1970
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Moubayed2012
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Murray2007
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Murray2009a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Nagendran
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Nguyen2005
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Norris2012
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Norris2013a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Novick1996
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Nowak2001
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Okada:1994et
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Okutomi:1993ez
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Otsuka2005
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Otsuka2013
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Oyekoya2012
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Pan2012a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Pan2014a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Park1999
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Paulos1998
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Pejsa2016
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Petit2010
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Petit:2008tva
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Raskar1998
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Raskar2001a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Regenbrecht2015
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Rienks2010
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Rivera-Gutierrez2012
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Roberts2003
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Roberts2005
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Roberts2012
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Roberts2013
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Roberts2015
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Sadagic2001
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Sakamoto2007
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Schreer2005
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Schreer:2008ty
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Schroeder2001
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Schuemie2001
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Sermon2000
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                SkypeStats
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Slater1999
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Slater2004
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Slovak2009
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Starck2003
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Starck2008
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Steptoe2008
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Steptoe2009
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Steptoe2010a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Steptoe2010b
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Stiefelhagen2001
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Stiefelhagen2002
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Stiefelhagen:2002:HOG:506443.506634
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Strait2014
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Symons2004
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Tachi2003
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Tachi2004
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Tang2006
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Tang2010
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Tang2013
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Troje1998
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Tse2007
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Tsui2011
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Tsui2012
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Usoh2000a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Vertegaal00effectsof
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Vertegaal2001
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Vertegaal2002
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Vertegaal2003
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Vishwanath2005
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Voida2012
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Waizenegger2011
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Wilson2000
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Wolff2008
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Wollaston1824
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Yee2007a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Yendo2010
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Zhang2013a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Zillner2014
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                argyle1976gaze
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                bloom2015does
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                buxton1992telepresence
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                centralinertia
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                doi:10.1080/01449299508914633
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                doi:10.1080/713755908
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                eldes2013multi
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
 (biblatex)                emp2006putting
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                fulk1987social
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                globalworkplace
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                googleStatsProjectionMapping
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                greenberg1976role
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                haythornthwaite1995work
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                heeter1992being
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                horgen1999excellence
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                inami2000visuo
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                john2001use
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                jones2009headspin
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                jouppi2002mutually
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                lamboray2005data
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                loomis2012sensory
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                orts2016holoportation
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                pan2014comparing
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                prakash2020characteristic
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                projectionmappingweb2013
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                rosenthal1947two
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                skychange
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                steinmeyer2013science
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                tay2008updatable
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                ting2012understanding
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                tuddenham2009territorial
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                zoomblog
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1354,7 +3055,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 estring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count478
+\c@section@level=\count481
 )
 LaTeX Info: Redefining \ref on input line 76.
 LaTeX Info: Redefining \pageref on input line 76.
@@ -1381,8 +3082,8 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <20.74> not available
 
 [1
 
-{C:/Users/john/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./Images//backgr
-ound.pdf>]
+{C:/Users/john/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Images//bac
+kground.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 101--102
 
  []
@@ -1451,29 +3152,29 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 (metaverseBTC.toc
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <14.4> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 3.
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 
-Overfull \hbox (390.95769pt too wide) detected at line 3
+Overfull \hbox (390.95769pt too wide) detected at line 1
 [][][][][][] [][][][][][] 
  []
 
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10.95> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 5.
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 7.
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 3.
 [3
 
  <./Images//orange1.jpg>] [4] [5] [6]
-Overfull \hbox (390.95769pt too wide) detected at line 353
+Overfull \hbox (390.95769pt too wide) detected at line 202
 [][][][][][] [][][][][][] 
  []
 
 
-Overfull \hbox (390.95769pt too wide) detected at line 407
+Overfull \hbox (390.95769pt too wide) detected at line 229
 [][][][][][] [][][][][][] 
  []
 
@@ -1506,7 +3207,7 @@ Package pdftex.def Info: Images//orange1.jpg  used on input line 129.
 ] [12
 
 ]
-\c@ttl@toc@part=\count479
+\c@ttl@toc@part=\count482
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <220> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 139.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <30> not available
@@ -1624,7 +3325,7 @@ Underfull \vbox (badness 1009) has occurred while \output is active []
 Underfull \vbox (badness 2150) has occurred while \output is active []
 
  [30 <./Images//prehistory.jpg>] [31 <./Images//venn.png (PNG copy)>]
-<Images//etherbubble.jpg, id=1160, 1084.05pt x 1107.13625pt>
+<Images//etherbubble.jpg, id=1162, 1084.05pt x 1107.13625pt>
 File: Images//etherbubble.jpg Graphic file (type jpg)
 <use Images//etherbubble.jpg>
 Package pdftex.def Info: Images//etherbubble.jpg  used on input line 41.
@@ -1634,7 +3335,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--49
 
  []
 
-<Images//ethemission.png, id=1168, 763.85374pt x 469.755pt>
+<Images//ethemission.png, id=1170, 763.85374pt x 469.755pt>
 File: Images//ethemission.png Graphic file (type png)
 <use Images//ethemission.png>
 Package pdftex.def Info: Images//ethemission.png  used on input line 54.
@@ -1645,7 +3346,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--60
  []
 
 [33 <./Images//ethemission.png>]
-<Images//settlement2021.jpg, id=1195, 899.36pt x 634.37pt>
+<Images//settlement2021.jpg, id=1197, 899.36pt x 634.37pt>
 File: Images//settlement2021.jpg Graphic file (type jpg)
 <use Images//settlement2021.jpg>
 Package pdftex.def Info: Images//settlement2021.jpg  used on input line 69.
@@ -1660,7 +3361,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--80
 
  []
 
-<Images//gource.png, id=1224, 1016.1162pt x 242.1045pt>
+<Images//gource.png, id=1226, 1016.1162pt x 242.1045pt>
 File: Images//gource.png Graphic file (type png)
 <use Images//gource.png>
 Package pdftex.def Info: Images//gource.png  used on input line 82.
@@ -1669,23 +3370,23 @@ Package pdftex.def Info: Images//gource.png  used on input line 82.
 Underfull \vbox (badness 2662) has occurred while \output is active []
 
  [35 <./Images//settlement2021.jpg>]
-<Images//ECDSA.png, id=1240, 981.6675pt x 984.67876pt>
+<Images//ECDSA.png, id=1242, 981.6675pt x 984.67876pt>
 File: Images//ECDSA.png Graphic file (type png)
 <use Images//ECDSA.png>
 Package pdftex.def Info: Images//ECDSA.png  used on input line 96.
 (pdftex.def)             Requested size: 426.79135pt x 428.0914pt.
  [36 <./Images//gource.png>] [37 <./Images//ECDSA.png (PNG copy)>]
-<Images//energyNYT.png, id=1264, 1204.5pt x 677.53125pt>
+<Images//energyNYT.png, id=1266, 1204.5pt x 677.53125pt>
 File: Images//energyNYT.png Graphic file (type png)
 <use Images//energyNYT.png>
 Package pdftex.def Info: Images//energyNYT.png  used on input line 109.
 (pdftex.def)             Requested size: 426.79135pt x 240.07556pt.
-<Images//miningshare.png, id=1271, 378.91562pt x 273.02pt>
+<Images//miningshare.png, id=1273, 378.91562pt x 273.02pt>
 File: Images//miningshare.png Graphic file (type png)
 <use Images//miningshare.png>
 Package pdftex.def Info: Images//miningshare.png  used on input line 119.
 (pdftex.def)             Requested size: 426.79135pt x 307.52168pt.
-<Images//goldmanvgold.jpg, id=1288, 1174.3875pt x 890.32625pt>
+<Images//goldmanvgold.jpg, id=1290, 1174.3875pt x 890.32625pt>
 File: Images//goldmanvgold.jpg Graphic file (type jpg)
 <use Images//goldmanvgold.jpg>
 Package pdftex.def Info: Images//goldmanvgold.jpg  used on input line 127.
@@ -1711,14 +3412,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 178--180
 
  []
 
-<Images//lightningAdoption.jpg, id=1343, 423.83344pt x 572.1375pt>
+<Images//lightningAdoption.jpg, id=1345, 423.83344pt x 572.1375pt>
 File: Images//lightningAdoption.jpg Graphic file (type jpg)
 <use Images//lightningAdoption.jpg>
 Package pdftex.def Info: Images//lightningAdoption.jpg  used on input line 189.
 
 (pdftex.def)             Requested size: 426.79135pt x 576.15193pt.
 [42] [43 <./Images//lightningAdoption.jpg>]
-<Images//LnBitsPoS.png, id=1370, 291.18788pt x 508.90125pt>
+<Images//LnBitsPoS.png, id=1372, 291.18788pt x 508.90125pt>
 File: Images//LnBitsPoS.png Graphic file (type png)
 <use Images//LnBitsPoS.png>
 Package pdftex.def Info: Images//LnBitsPoS.png  used on input line 213.
@@ -1760,7 +3461,7 @@ LaTeX Warning: Reference `https://gist.github.com/RubenSomsen/96505e99dc061d6af
 LaTeX Warning: Reference `https://gist.github.com/RubenSomsen/c9f0a92493e06b0e2
 9acced61ca9f49a' on page 50 undefined on input line 354.
 
-<Images//messariICO.jpg, id=1427, 963.6pt x 542.025pt>
+<Images//messariICO.jpg, id=1429, 963.6pt x 542.025pt>
 File: Images//messariICO.jpg Graphic file (type jpg)
 <use Images//messariICO.jpg>
 Package pdftex.def Info: Images//messariICO.jpg  used on input line 363.
@@ -1796,7 +3497,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--36
  []
 
 [56]
-Underfull \hbox (badness 10000) in paragraph at lines 51--60
+Underfull \hbox (badness 10000) in paragraph at lines 52--61
 
  []
 
@@ -1805,22 +3506,25 @@ Underfull \vbox (badness 4229) has occurred while \output is active []
 
  [58]
 [59]
-Underfull \hbox (badness 10000) in paragraph at lines 114--125
+Underfull \hbox (badness 10000) in paragraph at lines 115--126
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--127
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
 
  []
 
-<Images//BitcoinShareOfMoney.jpg, id=1526, 2862.695pt x 1575.8875pt>
+<Images//BitcoinShareOfMoney.jpg, id=1528, 2862.695pt x 1575.8875pt>
 File: Images//BitcoinShareOfMoney.jpg Graphic file (type jpg)
 <use Images//BitcoinShareOfMoney.jpg>
 Package pdftex.def Info: Images//BitcoinShareOfMoney.jpg  used on input line 13
-2.
+3.
 (pdftex.def)             Requested size: 426.79135pt x 234.93016pt.
-[60] [61 <./Images//BitcoinShareOfMoney.jpg>]) [62]
+[60]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [61 <./Images//BitcoinShareOfMoney.jpg>]) [62]
 Chapter 5.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
@@ -1840,7 +3544,7 @@ Package pdftex.def Info: Images//orange2.jpg  used on input line 188.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [65]
-<Images//DID.jpg, id=1563, 843.90282pt x 585.68813pt>
+<Images//DID.jpg, id=1566, 843.90282pt x 585.68813pt>
 File: Images//DID.jpg Graphic file (type jpg)
 <use Images//DID.jpg>
 Package pdftex.def Info: Images//DID.jpg  used on input line 20.
@@ -1895,11 +3599,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--7
 
  []
 
-<Images//muskWeb3.png, id=1624, 408.02437pt x 168.63pt>
+<Images//muskWeb3.png, id=1627, 408.02437pt x 168.63pt>
 File: Images//muskWeb3.png Graphic file (type png)
 <use Images//muskWeb3.png>
 Package pdftex.def Info: Images//muskWeb3.png  used on input line 10.
 (pdftex.def)             Requested size: 426.79135pt x 176.39514pt.
+
+LaTeX Warning: Citation 'emp2006putting' on page 73 undefined on input line 15.
+
+
 [73
 
  <./Images//muskWeb3.png>]
@@ -1924,29 +3632,1223 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 2653) has occurred while \output is active []
 
  [76]
-Underfull \vbox (badness 1199) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
 
- [77]
-Underfull \vbox (badness 4739) has occurred while \output is active []
+ []
+
+
+LaTeX Warning: Citation 'centralinertia' on page 77 undefined on input line 107
+.
+
+
+LaTeX Warning: Citation 'skychange' on page 77 undefined on input line 107.
+
+
+LaTeX Warning: Citation 'globalworkplace' on page 77 undefined on input line 10
+9.
+
+
+LaTeX Warning: Citation 'bloom2015does' on page 77 undefined on input line 109.
+
+
+
+LaTeX Warning: Citation 'zoomblog' on page 77 undefined on input line 112.
+
+
+LaTeX Warning: Citation 'SkypeStats' on page 77 undefined on input line 112.
+
+
+LaTeX Warning: Citation 'Argyle1976' on page 77 undefined on input line 112.
+
+
+LaTeX Warning: Citation 'Wolff2008' on page 77 undefined on input line 112.
+
+
+LaTeX Warning: Citation 'Wolff2008' on page 77 undefined on input line 112.
+
+
+LaTeX Warning: Citation '2002' on page 77 undefined on input line 112.
+
+
+LaTeX Warning: Reference `fig:accessgrid' on page 77 undefined on input line 11
+3.
+
+
+LaTeX Warning: Citation 'Ding2007' on page 77 undefined on input line 113.
+
+
+LaTeX Warning: Citation 'prakash2020characteristic' on page 77 undefined on inp
+ut line 113.
+
+
+LaTeX Warning: Citation 'Heldner2010' on page 77 undefined on input line 115.
+
+
+LaTeX Warning: Citation 'Kleinke1986a' on page 77 undefined on input line 115.
+
+
+LaTeX Warning: Citation 'ting2012understanding' on page 77 undefined on input l
+ine 116.
+
+
+LaTeX Warning: Citation 'Otsuka2005' on page 77 undefined on input line 116.
+
+
+LaTeX Warning: Citation 'Otsuka2005' on page 77 undefined on input line 117.
+
+
+LaTeX Warning: Citation 'Katagiri2007' on page 77 undefined on input line 118.
+
+
+LaTeX Warning: Citation 'loomis2012sensory' on page 77 undefined on input line 
+119.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--120
+
+ []
+
+[77]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [78]
 
-Package hyperref Warning: Suppressing link with empty target on input line 187.
+LaTeX Warning: Citation 'Goodwin2000a' on page 79 undefined on input line 121.
 
 
-[79]) [80]
+LaTeX Warning: Citation 'Gillies2005' on page 79 undefined on input line 121.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+ []
+
+
+LaTeX Warning: Citation 'Argyle' on page 79 undefined on input line 123.
+
+
+LaTeX Warning: Citation 'argyle1976gaze' on page 79 undefined on input line 123
+.
+
+
+LaTeX Warning: Citation 'Argyle1965' on page 79 undefined on input line 123.
+
+
+LaTeX Warning: Citation 'Argyle1976' on page 79 undefined on input line 123.
+
+
+LaTeX Warning: Citation 'Argyle1969' on page 79 undefined on input line 123.
+
+
+LaTeX Warning: Citation 'Kendon1967' on page 79 undefined on input line 123.
+
+
+LaTeX Warning: Citation 'Monk2002' on page 79 undefined on input line 123.
+
+
+LaTeX Warning: Citation 'Hedge1978' on page 79 undefined on input line 124.
+
+
+LaTeX Warning: Citation 'Novick1996' on page 79 undefined on input line 124.
+
+
+LaTeX Warning: Citation 'Vertegaal00effectsof' on page 79 undefined on input li
+ne 124.
+
+
+LaTeX Warning: Citation 'Vertegaal2001' on page 79 undefined on input line 125.
+
+
+
+LaTeX Warning: Citation 'Langton2000' on page 79 undefined on input line 125.
+
+
+LaTeX Warning: Citation 'Kendon1967' on page 79 undefined on input line 125.
+
+
+LaTeX Warning: Citation 'Argyle1965' on page 79 undefined on input line 125.
+
+
+LaTeX Warning: Citation 'Colburn2000a' on page 79 undefined on input line 126.
+
+
+LaTeX Warning: Citation 'Macrae2002' on page 79 undefined on input line 126.
+
+
+LaTeX Warning: Citation 'Symons2004' on page 79 undefined on input line 127.
+
+
+LaTeX Warning: Citation 'Kluttz2009' on page 79 undefined on input line 127.
+
+
+LaTeX Warning: Citation 'Symons2004' on page 79 undefined on input line 128.
+
+
+LaTeX Warning: Citation 'Wilson2000' on page 79 undefined on input line 128.
+
+
+LaTeX Warning: Citation 'doi:10.1080/713755908' on page 79 undefined on input l
+ine 130.
+
+
+LaTeX Warning: Citation 'Vertegaal2002' on page 79 undefined on input line 131.
+
+
+
+LaTeX Warning: Citation 'Vertegaal2001' on page 79 undefined on input line 131.
+
+
+
+LaTeX Warning: Citation 'Eijk2010' on page 79 undefined on input line 132.
+
+
+LaTeX Warning: Citation 'Bock2008' on page 79 undefined on input line 132.
+
+
+LaTeX Warning: Citation 'Chen2002' on page 79 undefined on input line 132.
+
+
+LaTeX Warning: Citation 'Vertegaal2002' on page 79 undefined on input line 133.
+
+
+
+LaTeX Warning: Citation 'Stiefelhagen2001' on page 79 undefined on input line 1
+34.
+
+
+LaTeX Warning: Citation 'Stiefelhagen2002' on page 79 undefined on input line 1
+34.
+
+
+LaTeX Warning: Citation 'Steptoe2009' on page 79 undefined on input line 134.
+
+
+LaTeX Warning: Citation 'Steptoe2010a' on page 79 undefined on input line 134.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--136
+
+ []
+
+
+Underfull \vbox (badness 1540) has occurred while \output is active []
+
+ [79]
+
+LaTeX Warning: Citation 'argyle1976gaze' on page 80 undefined on input line 137
+.
+
+
+LaTeX Warning: Citation 'Argyle1969' on page 80 undefined on input line 137.
+
+
+LaTeX Warning: Citation 'Argyle' on page 80 undefined on input line 137.
+
+
+LaTeX Warning: Citation 'Cook1977' on page 80 undefined on input line 137.
+
+
+LaTeX Warning: Citation 'Cook1977' on page 80 undefined on input line 138.
+
+
+LaTeX Warning: Citation 'Kleinke1986a' on page 80 undefined on input line 138.
+
+
+LaTeX Warning: Citation 'Fagel2010' on page 80 undefined on input line 138.
+
+
+LaTeX Warning: Citation 'Bohannon2013' on page 80 undefined on input line 138.
+
+
+LaTeX Warning: Citation 'Bohannon2013' on page 80 undefined on input line 139.
+
+
+LaTeX Warning: Citation 'Wilson2000' on page 80 undefined on input line 142.
+
+
+LaTeX Warning: Citation 'Loomis2008' on page 80 undefined on input line 143.
+
+
+LaTeX Warning: Citation 'Troje1998' on page 80 undefined on input line 143.
+
+
+LaTeX Warning: Citation 'Boker2011' on page 80 undefined on input line 144.
+
+
+LaTeX Warning: Citation 'Vertegaal00effectsof' on page 80 undefined on input li
+ne 145.
+
+
+LaTeX Warning: Citation 'Bocker1996' on page 80 undefined on input line 145.
+
+
+LaTeX Warning: Citation 'john2001use' on page 80 undefined on input line 146.
+
+
+LaTeX Warning: Citation 'Bailenson2002' on page 80 undefined on input line 147.
+
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--149
+
+ []
+
+[80]
+
+LaTeX Warning: Citation 'Rienks2010' on page 81 undefined on input line 150.
+
+
+LaTeX Warning: Citation 'Stiefelhagen:2002:HOG:506443.506634' on page 81 undefi
+ned on input line 151.
+
+
+LaTeX Warning: Citation 'Kluttz2009' on page 81 undefined on input line 151.
+
+
+LaTeX Warning: Citation 'Langton2000a' on page 81 undefined on input line 152.
+
+
+LaTeX Warning: Citation 'Bailenson2002' on page 81 undefined on input line 153.
+
+
+
+Overfull \hbox (1.259pt too wide) in paragraph at lines 150--154
+\T1/ptm/m/n/10.95 (-20) tributes 68.9% to the over-all gaze di-rec-tion on av-e
+r-age'' [[]],
+ []
+
+
+LaTeX Warning: Citation 'Beck2011' on page 81 undefined on input line 155.
+
+
+LaTeX Warning: Citation 'Schuemie2001' on page 81 undefined on input line 155.
+
+
+LaTeX Warning: Citation 'Slater1999' on page 81 undefined on input line 155.
+
+
+LaTeX Warning: Citation 'Beck2011' on page 81 undefined on input line 156.
+
+
+LaTeX Warning: Citation 'heeter1992being' on page 81 undefined on input line 16
+9.
+
+
+LaTeX Warning: Citation 'Biocca1997' on page 81 undefined on input line 169.
+
+
+LaTeX Warning: Citation 'doi:10.1080/01449299508914633' on page 81 undefined on
+ input line 169.
+
+
+LaTeX Warning: Citation 'fulk1987social' on page 81 undefined on input line 169
+.
+
+
+LaTeX Warning: Citation 'haythornthwaite1995work' on page 81 undefined on input
+ line 169.
+
+
+LaTeX Warning: Citation 'Gunawardena1997' on page 81 undefined on input line 16
+9.
+
+
+LaTeX Warning: Citation 'Nowak2001' on page 81 undefined on input line 169.
+
+
+LaTeX Warning: Citation 'Bulu2012' on page 81 undefined on input line 170.
+
+
+LaTeX Warning: Citation 'Biocca2003' on page 81 undefined on input line 170.
+
+
+LaTeX Warning: Citation 'Biocca2003' on page 81 undefined on input line 171.
+
+
+LaTeX Warning: Citation 'Garrison1999' on page 81 undefined on input line 171.
+
+
+LaTeX Warning: Citation 'Beck2011' on page 81 undefined on input line 171.
+
+
+LaTeX Warning: Citation 'Biocca2003' on page 81 undefined on input line 171.
+
+
+LaTeX Warning: Citation 'Biocca2003a' on page 81 undefined on input line 172.
+
+
+LaTeX Warning: Citation 'Bondareva2004' on page 81 undefined on input line 174.
+
+
+
+LaTeX Warning: Citation 'jouppi2002mutually' on page 81 undefined on input line
+ 174.
+
+
+Overfull \hbox (50.82811pt too wide) in paragraph at lines 169--176
+\T1/ptm/m/n/10.95 (-20) with an-other", and de-scribes the au-to-matic re-spons
+es to com-plex so-cial cues [[],
+ []
+
+[81]
+
+LaTeX Warning: Citation 'Bondareva2004' on page 82 undefined on input line 188.
+
+
+
+LaTeX Warning: Citation 'Biocca2003' on page 82 undefined on input line 189.
+
+
+LaTeX Warning: Citation 'Slater2004' on page 82 undefined on input line 189.
+
+
+LaTeX Warning: Citation 'Usoh2000a' on page 82 undefined on input line 189.
+
+
+LaTeX Warning: Citation 'Nowak2001' on page 82 undefined on input line 190.
+
+
+LaTeX Warning: Citation 'Baren' on page 82 undefined on input line 191.
+
+
+LaTeX Warning: Citation 'Harms2004' on page 82 undefined on input line 191.
+
+
+LaTeX Warning: Citation 'Hauber2005' on page 82 undefined on input line 192.
+
+
+LaTeX Warning: Citation 'Gunawardena1997' on page 82 undefined on input line 19
+2.
+
+
+LaTeX Warning: Citation 'Harms2004' on page 82 undefined on input line 193.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [82]
+
+LaTeX Warning: Citation 'Vishwanath2005' on page 83 undefined on input line 195
+.
+
+
+LaTeX Warning: Citation 'Anstis1969' on page 83 undefined on input line 195.
+
+
+LaTeX Warning: Citation 'Wollaston1824' on page 83 undefined on input line 195.
+
+
+
+LaTeX Warning: Citation 'Loomis2008' on page 83 undefined on input line 195.
+
+
+LaTeX Warning: Citation 'Fullwood2006a' on page 83 undefined on input line 195.
+
+
+
+LaTeX Warning: Citation 'AlMoubayed2012' on page 83 undefined on input line 196
+.
+
+
+LaTeX Warning: Citation 'Vishwanath2005' on page 83 undefined on input line 196
+.
+
+
+LaTeX Warning: Citation 'Anstis1969' on page 83 undefined on input line 196.
+
+
+LaTeX Warning: Citation 'Wollaston1824' on page 83 undefined on input line 196.
+
+
+
+LaTeX Warning: Citation 'Nguyen2005' on page 83 undefined on input line 196.
+
+
+LaTeX Warning: Citation 'Vertegaal2002' on page 83 undefined on input line 197.
+
+
+
+LaTeX Warning: Citation 'Moubayed2012' on page 83 undefined on input line 198.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--199
+
+ []
+
+
+LaTeX Warning: Citation 'Regenbrecht2015' on page 83 undefined on input line 20
+1.
+
+
+LaTeX Warning: Citation 'steinmeyer2013science' on page 83 undefined on input l
+ine 202.
+
+
+LaTeX Warning: Citation 'rosenthal1947two' on page 83 undefined on input line 2
+02.
+
+
+LaTeX Warning: Citation 'buxton1992telepresence' on page 83 undefined on input 
+line 202.
+
+
+LaTeX Warning: Citation 'Vertegaal2003' on page 83 undefined on input line 203.
+
+
+
+LaTeX Warning: Citation 'Bardram2012' on page 83 undefined on input line 206.
+
+
+LaTeX Warning: Citation 'Adamczyk2007' on page 83 undefined on input line 206.
+
+
+LaTeX Warning: Citation 'Ishii1993' on page 83 undefined on input line 207.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--208
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [83]
+
+LaTeX Warning: Citation 'Buxton1992a' on page 84 undefined on input line 211.
+
+
+LaTeX Warning: Citation 'Tang2010' on page 84 undefined on input line 212.
+
+
+LaTeX Warning: Citation 'Tse2007' on page 84 undefined on input line 213.
+
+
+LaTeX Warning: Citation 'Tang2006' on page 84 undefined on input line 214.
+
+
+LaTeX Warning: Citation 'Norris2013a' on page 84 undefined on input line 215.
+
+
+LaTeX Warning: Citation 'Norris2012' on page 84 undefined on input line 215.
+
+
+LaTeX Warning: Citation 'Luff2011' on page 84 undefined on input line 216.
+
+
+LaTeX Warning: Citation 'tuddenham2009territorial' on page 84 undefined on inpu
+t line 217.
+
+
+LaTeX Warning: Citation 'Jamil2011' on page 84 undefined on input line 218.
+
+
+LaTeX Warning: Citation 'Jetter2011a' on page 84 undefined on input line 218.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--225
+
+ []
+
+[84]
+
+LaTeX Warning: Citation 'Hauber2006' on page 85 undefined on input line 226.
+
+
+LaTeX Warning: Citation 'Kauff2002' on page 85 undefined on input line 227.
+
+
+LaTeX Warning: Citation 'Kauff2002a' on page 85 undefined on input line 227.
+
+
+LaTeX Warning: Citation 'Fuchs:2002ww' on page 85 undefined on input line 227.
+
+
+LaTeX Warning: Citation 'jones2009headspin' on page 85 undefined on input line 
+227.
+
+
+LaTeX Warning: Citation 'Ichikawa1995' on page 85 undefined on input line 228.
+
+
+LaTeX Warning: Citation 'Okada:1994et' on page 85 undefined on input line 228.
+
+
+LaTeX Warning: Citation 'Nguyen2005' on page 85 undefined on input line 232.
+
+
+LaTeX Warning: Citation 'Kulik2011' on page 85 undefined on input line 233.
+
+
+LaTeX Warning: Citation 'Otsuka2013' on page 85 undefined on input line 234.
+
+
+LaTeX Warning: Citation 'Marti2005' on page 85 undefined on input line 236.
+
+
+LaTeX Warning: Citation 'Mori1970' on page 85 undefined on input line 239.
+
+
+LaTeX Warning: Citation 'Bartneck2007' on page 85 undefined on input line 240.
+
+
+LaTeX Warning: Citation 'Bartneck2009a' on page 85 undefined on input line 240.
+
+
+
+LaTeX Warning: Citation 'Mitchell2011' on page 85 undefined on input line 241.
+
+
+LaTeX Warning: Citation 'Bartneck2009' on page 85 undefined on input line 242.
+
+
+LaTeX Warning: Citation 'Bartneck2009' on page 85 undefined on input line 243.
+
+
+LaTeX Warning: Citation 'Ho2008' on page 85 undefined on input line 244.
+
+
+LaTeX Warning: Citation 'Yee2007a' on page 85 undefined on input line 245.
+
+
+LaTeX Warning: Citation 'Ho:2010:RUV:1853385.1853509' on page 85 undefined on i
+nput line 246.
+
+
+LaTeX Warning: Citation 'Strait2014' on page 85 undefined on input line 247.
+
+[85]
+
+LaTeX Warning: Citation 'Adalgeirsson2010' on page 86 undefined on input line 2
+50.
+
+
+LaTeX Warning: Citation 'Lee2011b' on page 86 undefined on input line 250.
+
+
+LaTeX Warning: Citation 'Tsui2011' on page 86 undefined on input line 250.
+
+
+LaTeX Warning: Citation 'Paulos1998' on page 86 undefined on input line 250.
+
+
+LaTeX Warning: Citation 'Kristoffersson2013' on page 86 undefined on input line
+ 250.
+
+
+LaTeX Warning: Citation 'Desai2011' on page 86 undefined on input line 250.
+
+
+LaTeX Warning: Citation 'Tsui2012' on page 86 undefined on input line 251.
+
+
+LaTeX Warning: Citation 'Kristoffersson2011' on page 86 undefined on input line
+ 252.
+
+
+LaTeX Warning: Citation 'Sakamoto2007' on page 86 undefined on input line 253.
+
+
+LaTeX Warning: Citation 'Mori1970' on page 86 undefined on input line 253.
+
+
+Overfull \hbox (14.07608pt too wide) in paragraph at lines 250--255
+\T1/ptm/m/n/10.95 (-20) tends the avail-able cues [[], [], [], [], []].
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [86]
+
+LaTeX Warning: Citation 'Lincoln2009' on page 87 undefined on input line 256.
+
+
+LaTeX Warning: Citation 'Lincoln:2010it' on page 87 undefined on input line 256
+.
+
+
+LaTeX Warning: Citation 'Raskar2001a' on page 87 undefined on input line 256.
+
+
+LaTeX Warning: Citation 'Lee2011b' on page 87 undefined on input line 256.
+
+
+LaTeX Warning: Citation 'Sakamoto2007' on page 87 undefined on input line 256.
+
+
+LaTeX Warning: Citation 'Tsui2011' on page 87 undefined on input line 256.
+
+
+LaTeX Warning: Citation 'Oyekoya2012' on page 87 undefined on input line 256.
+
+
+LaTeX Warning: Citation 'pan2014comparing' on page 87 undefined on input line 2
+56.
+
+
+LaTeX Warning: Citation 'Pan2012a' on page 87 undefined on input line 256.
+
+
+LaTeX Warning: Citation 'Jouppi2004' on page 87 undefined on input line 256.
+
+
+LaTeX Warning: Citation 'Pan2014a' on page 87 undefined on input line 256.
+
+
+LaTeX Warning: Citation 'Kristoffersson2013' on page 87 undefined on input line
+ 256.
+
+
+LaTeX Warning: Citation 'Nagendran' on page 87 undefined on input line 257.
+
+
+LaTeX Warning: Citation 'Itoh2005' on page 87 undefined on input line 258.
+
+
+LaTeX Warning: Citation 'projectionmappingweb2013' on page 87 undefined on inpu
+t line 261.
+
+
+LaTeX Warning: Citation 'Raskar1998' on page 87 undefined on input line 261.
+
+
+LaTeX Warning: Citation 'Low2001' on page 87 undefined on input line 261.
+
+
+LaTeX Warning: Citation 'Raskar2001a' on page 87 undefined on input line 261.
+
+
+LaTeX Warning: Citation 'googleStatsProjectionMapping' on page 87 undefined on 
+input line 261.
+
+
+LaTeX Warning: Citation 'Raskar2001a' on page 87 undefined on input line 262.
+
+
+LaTeX Warning: Citation 'Rivera-Gutierrez2012' on page 87 undefined on input li
+ne 262.
+
+
+LaTeX Warning: Citation 'Bandyopadhyay' on page 87 undefined on input line 263.
+
+
+
+LaTeX Warning: Citation 'Dalsgaard2011' on page 87 undefined on input line 263.
+
+
+
+LaTeX Warning: Citation 'Lincoln:2010it' on page 87 undefined on input line 264
+.
+
+
+LaTeX Warning: Citation 'Benjamin2012' on page 87 undefined on input line 265.
+
+
+LaTeX Warning: Citation 'Ferscha1999' on page 87 undefined on input line 268.
+
+
+LaTeX Warning: Citation 'Erickson2011' on page 87 undefined on input line 268.
+
+
+LaTeX Warning: Citation 'Grimstead2005a' on page 87 undefined on input line 269
+.
+
+
+LaTeX Warning: Citation 'Benford1998' on page 87 undefined on input line 269.
+
+
+LaTeX Warning: Citation 'Goebbels2003' on page 87 undefined on input line 269.
+
+
+LaTeX Warning: Citation 'Roberts2005' on page 87 undefined on input line 269.
+
+
+LaTeX Warning: Citation 'Roberts2012' on page 87 undefined on input line 269.
+
+
+LaTeX Warning: Citation 'Murray2009a' on page 87 undefined on input line 270.
+
+
+LaTeX Warning: Citation 'Benford:1995hh' on page 87 undefined on input line 270
+.
+
+
+LaTeX Warning: Citation 'Bailenson2006' on page 87 undefined on input line 271.
+
+
+
+LaTeX Warning: Citation 'Schreer2005' on page 87 undefined on input line 271.
+
+
+LaTeX Warning: Citation 'Garau2001' on page 87 undefined on input line 271.
+
+
+LaTeX Warning: Citation 'Garau2003' on page 87 undefined on input line 271.
+
+
+LaTeX Warning: Citation 'Roberts2003' on page 87 undefined on input line 271.
+
+
+LaTeX Warning: Citation 'Murray2007' on page 87 undefined on input line 271.
+
+
+LaTeX Warning: Citation 'Steptoe2008' on page 87 undefined on input line 271.
+
+
+LaTeX Warning: Citation 'Steptoe2009' on page 87 undefined on input line 271.
+
+
+LaTeX Warning: Citation 'Steptoe2010b' on page 87 undefined on input line 271.
+
+
+LaTeX Warning: Citation 'Roberts2015' on page 87 undefined on input line 272.
+
+
+LaTeX Warning: Citation 'Grau2007' on page 87 undefined on input line 272.
+
+
+LaTeX Warning: Citation 'Divorra2010' on page 87 undefined on input line 272.
+
+
+LaTeX Warning: Citation 'Gross2003' on page 87 undefined on input line 272.
+
+
+LaTeX Warning: Citation 'Beck2013' on page 87 undefined on input line 272.
+
+
+LaTeX Warning: Citation 'Roberts2015' on page 87 undefined on input line 272.
+
+
+LaTeX Warning: Citation 'Wolff2008' on page 87 undefined on input line 272.
+
+
+LaTeX Warning: Citation 'Duckworth:2012tx' on page 87 undefined on input line 2
+73.
+
+
+LaTeX Warning: Citation 'Fairchild2016' on page 87 undefined on input line 273.
+
+
+
+LaTeX Warning: Citation 'Ciger2004a' on page 87 undefined on input line 275.
+
+
+LaTeX Warning: Citation 'Steptoe2009' on page 87 undefined on input line 275.
+
+
+LaTeX Warning: Citation 'Steptoe2008' on page 87 undefined on input line 275.
+
+
+LaTeX Warning: Citation 'Steptoe2010a' on page 87 undefined on input line 275.
+
+
+LaTeX Warning: Citation 'Heldal2005' on page 87 undefined on input line 276.
+
+
+Underfull \vbox (badness 3240) has occurred while \output is active []
+
+ [87]
+
+LaTeX Warning: Citation 'Goodwin2000a' on page 88 undefined on input line 279.
+
+
+LaTeX Warning: Citation 'Pan2014a' on page 88 undefined on input line 280.
+
+
+LaTeX Warning: Citation 'Oyekoya2012' on page 88 undefined on input line 280.
+
+
+LaTeX Warning: Citation 'Pan2012a' on page 88 undefined on input line 280.
+
+
+LaTeX Warning: Citation 'Zhang2013a' on page 88 undefined on input line 280.
+
+
+LaTeX Warning: Citation 'Goodwin2000a' on page 88 undefined on input line 281.
+
+
+LaTeX Warning: Citation 'Lee2011b' on page 88 undefined on input line 281.
+
+
+LaTeX Warning: Citation 'Sakamoto2007' on page 88 undefined on input line 281.
+
+
+LaTeX Warning: Citation 'Tsui2011' on page 88 undefined on input line 281.
+
+
+LaTeX Warning: Citation 'Oyekoya2012' on page 88 undefined on input line 281.
+
+
+LaTeX Warning: Citation 'pan2014comparing' on page 88 undefined on input line 2
+81.
+
+
+LaTeX Warning: Citation 'Pan2012a' on page 88 undefined on input line 281.
+
+
+LaTeX Warning: Citation 'Pan2014a' on page 88 undefined on input line 281.
+
+
+LaTeX Warning: Citation 'Oyekoya2012' on page 88 undefined on input line 281.
+
+
+LaTeX Warning: Citation 'Kim2012' on page 88 undefined on input line 282.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--283
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [88]
+
+LaTeX Warning: Citation 'inami2000visuo' on page 89 undefined on input line 285
+.
+
+
+LaTeX Warning: Citation 'Krum2012' on page 89 undefined on input line 285.
+
+
+LaTeX Warning: Citation 'Tachi2003' on page 89 undefined on input line 286.
+
+
+LaTeX Warning: Citation 'Tachi2004' on page 89 undefined on input line 286.
+
+
+LaTeX Warning: Citation 'Hua2004' on page 89 undefined on input line 287.
+
+
+LaTeX Warning: Citation 'JSID:JSID295' on page 89 undefined on input line 288.
+
+
+LaTeX Warning: Citation 'Darken2003' on page 89 undefined on input line 289.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--290
+
+ []
+
+
+LaTeX Warning: Citation 'Sermon2000' on page 89 undefined on input line 291.
+
+
+LaTeX Warning: Citation 'Pejsa2016' on page 89 undefined on input line 292.
+
+
+LaTeX Warning: Citation 'Jones2014' on page 89 undefined on input line 292.
+
+
+LaTeX Warning: Reference `fig:room2room' on page 89 undefined on input line 292
+.
+
+
+Overfull \hbox (0.96938pt too wide) in paragraph at lines 291--293
+\T1/ptm/m/n/10.95 (-20) Paul Ser-mon ex-per-i-mented with pro-jec-tion onto bed
+s in his telem-atic dream-ing work [[]]. 
+ []
+
+
+LaTeX Warning: Citation 'Lehment2014' on page 89 undefined on input line 295.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [89]
+
+LaTeX Warning: Citation 'Bradner:2002:WDM:587078.587110' on page 90 undefined o
+n input line 297.
+
+
+LaTeX Warning: Citation 'Avrahami2007' on page 90 undefined on input line 297.
+
+
+LaTeX Warning: Citation 'Gergle2006' on page 90 undefined on input line 297.
+
+
+LaTeX Warning: Citation 'Greenhalgh2001a' on page 90 undefined on input line 29
+8.
+
+
+LaTeX Warning: Citation 'Greenhalgh2001' on page 90 undefined on input line 298
+.
+
+
+LaTeX Warning: Citation 'Bradner:2002:WDM:587078.587110' on page 90 undefined o
+n input line 299.
+
+
+LaTeX Warning: Citation 'Avrahami2007' on page 90 undefined on input line 299.
+
+
+LaTeX Warning: Citation 'Gasparello:2011in' on page 90 undefined on input line 
+300.
+
+
+LaTeX Warning: Citation 'Moore:2010jt' on page 90 undefined on input line 300.
+
+
+LaTeX Warning: Citation 'Roberts2015' on page 90 undefined on input line 300.
+
+
+LaTeX Warning: Citation 'Park1999' on page 90 undefined on input line 301.
+
+
+LaTeX Warning: Citation 'lamboray2005data' on page 90 undefined on input line 3
+01.
+
+
+Overfull \hbox (75.1113pt too wide) in paragraph at lines 297--302
+\T1/ptm/m/n/10.95 (-20) Bradner & Mark es-tab-lished that la-tency mat-ters in 
+re-mote telecol-lab-o-ra-tion [[]],
+ []
+
+
+LaTeX Warning: Citation 'Blanche2010' on page 90 undefined on input line 304.
+
+
+LaTeX Warning: Citation 'tay2008updatable' on page 90 undefined on input line 3
+04.
+
+
+LaTeX Warning: Citation 'jones2009headspin' on page 90 undefined on input line 
+305.
+
+
+LaTeX Warning: Citation 'eldes2013multi' on page 90 undefined on input line 306
+.
+
+
+LaTeX Warning: Citation 'Yendo2010' on page 90 undefined on input line 307.
+
+
+Overfull \hbox (36.521pt too wide) in paragraph at lines 304--309
+\T1/ptm/m/n/10.95 (-20) Similarly Jones et al. ``Head-SPIN" is a one-to-many 3D
+ video tele-con-fer-enc-ing sys-tem [[]]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--309
+
+ []
+
+
+LaTeX Warning: Citation 'Slovak2009' on page 90 undefined on input line 313.
+
+
+LaTeX Warning: Citation 'DeGreef2001' on page 90 undefined on input line 313.
+
+
+LaTeX Warning: Citation 'Judge2010' on page 90 undefined on input line 313.
+
+
+LaTeX Warning: Citation 'Lottridge2009' on page 90 undefined on input line 314.
+
+
+
+LaTeX Warning: Citation 'Pejsa2016' on page 90 undefined on input line 315.
+
+
+LaTeX Warning: Citation 'orts2016holoportation' on page 90 undefined on input l
+ine 315.
+
+
+LaTeX Warning: Citation 'Tang2013' on page 90 undefined on input line 315.
+
+
+LaTeX Warning: Citation 'Gaver1992' on page 90 undefined on input line 316.
+
+
+LaTeX Warning: Citation 'Fish1993' on page 90 undefined on input line 317.
+
+
+LaTeX Warning: Citation 'Dennis1990' on page 90 undefined on input line 318.
+
+
+LaTeX Warning: Citation 'Fayard2007' on page 90 undefined on input line 320.
+
+
+LaTeX Warning: Citation 'horgen1999excellence' on page 90 undefined on input li
+ne 321.
+
+
+LaTeX Warning: Citation 'Monk2002' on page 90 undefined on input line 322.
+
+
+LaTeX Warning: Citation 'Schroeder2001' on page 90 undefined on input line 322.
+
+
+
+LaTeX Warning: Citation 'Wolff2008' on page 90 undefined on input line 322.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [90]
+Underfull \vbox (badness 4492) has occurred while \output is active []
+
+ [91]
+
+LaTeX Warning: Citation 'Okutomi:1993ez' on page 92 undefined on input line 327
+.
+
+
+LaTeX Warning: Citation 'Cooke2002' on page 92 undefined on input line 327.
+
+
+LaTeX Warning: Citation 'Cooke2002a' on page 92 undefined on input line 327.
+
+
+LaTeX Warning: Citation 'Sadagic2001' on page 92 undefined on input line 328.
+
+
+LaTeX Warning: Citation 'pan2014comparing' on page 92 undefined on input line 3
+29.
+
+
+LaTeX Warning: Citation 'Mekuria2013' on page 92 undefined on input line 330.
+
+
+Overfull \hbox (9.39737pt too wide) in paragraph at lines 327--331
+\T1/ptm/m/n/10.95 (-20) ward avatar me-di-ated con-ver-sa-tion when view-ing 2D
+ dis-plays at oblique an-gles [[]]. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--331
+
+ []
+
+
+LaTeX Warning: Citation 'Allard2006' on page 92 undefined on input line 332.
+
+
+LaTeX Warning: Citation 'Petit:2008tva' on page 92 undefined on input line 332.
+
+
+
+LaTeX Warning: Citation 'Matusik2000' on page 92 undefined on input line 332.
+
+
+LaTeX Warning: Citation 'Starck2008' on page 92 undefined on input line 332.
+
+
+LaTeX Warning: Citation 'Franco2003' on page 92 undefined on input line 332.
+
+
+LaTeX Warning: Citation 'Baumgart1975' on page 92 undefined on input line 332.
+
+
+LaTeX Warning: Citation 'Laurentini1994a' on page 92 undefined on input line 33
+2.
+
+
+LaTeX Warning: Citation 'Grau2007' on page 92 undefined on input line 332.
+
+
+LaTeX Warning: Citation 'Waizenegger2011' on page 92 undefined on input line 33
+2.
+
+
+LaTeX Warning: Citation 'Franco2009' on page 92 undefined on input line 332.
+
+
+LaTeX Warning: Citation 'Feldmann2009' on page 92 undefined on input line 332.
+
+
+LaTeX Warning: Citation 'Cooke2000' on page 92 undefined on input line 332.
+
+
+LaTeX Warning: Citation 'Starck2003' on page 92 undefined on input line 332.
+
+
+LaTeX Warning: Citation 'Maimone2011' on page 92 undefined on input line 333.
+
+
+LaTeX Warning: Citation 'Hu:1986ww' on page 92 undefined on input line 334.
+
+
+LaTeX Warning: Citation 'Zillner2014' on page 92 undefined on input line 334.
+
+
+LaTeX Warning: Citation 'Cooke_image-basedrendering' on page 92 undefined on in
+put line 337.
+
+
+LaTeX Warning: Citation 'Petit2010' on page 92 undefined on input line 338.
+
+
+LaTeX Warning: Citation 'Kuster2012a' on page 92 undefined on input line 339.
+
+
+LaTeX Warning: Citation 'Maimone2011a' on page 92 undefined on input line 340.
+
+
+LaTeX Warning: Citation 'Dou2016' on page 92 undefined on input line 341.
+
+
+LaTeX Warning: Citation 'Roberts2015' on page 92 undefined on input line 342.
+
+
+LaTeX Warning: Citation 'Roberts2013' on page 92 undefined on input line 342.
+
+
+LaTeX Warning: Citation 'Gross2003' on page 92 undefined on input line 343.
+
+
+LaTeX Warning: Citation 'Klie2006' on page 92 undefined on input line 344.
+
+
+LaTeX Warning: Citation 'Schreer:2008ty' on page 92 undefined on input line 345
+.
+
+
+LaTeX Warning: Citation 'Maimone2013' on page 92 undefined on input line 346.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--347
+
+ []
+
+
+Underfull \vbox (badness 5133) has occurred while \output is active []
+
+ [92]
+
+LaTeX Warning: Citation 'Voida2012' on page 93 undefined on input line 355.
+
+
+LaTeX Warning: Citation 'greenberg1976role' on page 93 undefined on input line 
+356.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--360
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [93]
+[94]
+
+Package hyperref Warning: Suppressing link with empty target on input line 447.
+
+
+[95]) [96]
 Chapter 9.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 197.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 (09_deployment.tex
-<Images//deployment.png, id=1704, 721.4955pt x 769.1937pt>
+<Images//deployment.png, id=1818, 721.4955pt x 769.1937pt>
 File: Images//deployment.png Graphic file (type png)
 <use Images//deployment.png>
 Package pdftex.def Info: Images//deployment.png  used on input line 4.
 (pdftex.def)             Requested size: 426.79135pt x 455.01752pt.
- [81
+ [97
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 36--41
@@ -1956,7 +4858,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--41
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [82 <./Images//deployment.png (PNG copy)>] [83] [84
+ [98 <./Images//deployment.png (PNG copy)>] [99] [100
 
 ]
 Chapter 10.
@@ -1964,39 +4866,39 @@ File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 78.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-<Images//proxmoxmap.png, id=1726, 1347.0325pt x 1356.06625pt>
+<Images//proxmoxmap.png, id=1841, 1347.0325pt x 1356.06625pt>
 File: Images//proxmoxmap.png Graphic file (type png)
 <use Images//proxmoxmap.png>
 Package pdftex.def Info: Images//proxmoxmap.png  used on input line 81.
 (pdftex.def)             Requested size: 426.79135pt x 429.64615pt.
-) [85] [86 <./Images//proxmoxmap.png (PNG copy)>]
+) [101] [102 <./Images//proxmoxmap.png (PNG copy)>]
 Chapter 11.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 200.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-[87
+[103
 
-] [88]
-<Images//globalclassroom.png, id=1745, 1484.04437pt x 1121.18875pt>
+] [104]
+<Images//globalclassroom.png, id=1860, 1484.04437pt x 1121.18875pt>
 File: Images//globalclassroom.png Graphic file (type png)
 <use Images//globalclassroom.png>
 Package pdftex.def Info: Images//globalclassroom.png  used on input line 318.
 (pdftex.def)             Requested size: 426.79135pt x 322.43335pt.
-<Images//systemc4.png, id=1746, 1576.89125pt x 1024.82875pt>
+<Images//systemc4.png, id=1861, 1576.89125pt x 1024.82875pt>
 File: Images//systemc4.png Graphic file (type png)
 <use Images//systemc4.png>
 Package pdftex.def Info: Images//systemc4.png  used on input line 324.
 (pdftex.def)             Requested size: 426.79135pt x 277.36424pt.
- [89 <./Images//globalclassroom.png>] [90 <./Images//systemc4.png>]
+ [105 <./Images//globalclassroom.png>] [106 <./Images//systemc4.png>]
 Chapter 12.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 330.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-[91
+[107
 
-] [92
+] [108
 
 ]
 Chapter 13.
@@ -2004,15 +4906,15 @@ File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 332.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-[93] [94
+[109] [110
 
-] (metaverseBTC.ptc) [95] [96] (HOWTO.tex
+] (metaverseBTC.ptc) [111] [112] (HOWTO.tex
 Overfull \hbox (15.06967pt too wide) in paragraph at lines 79--84
 []\T1/ptm/m/n/10.95 (-20) Keep in mind that this setup uses the Prox-mox VE in-
 staller (https://www.proxmox.com/en/proxmox-
  []
 
-[97]
+[113]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
 35.
  (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
@@ -2028,28 +4930,28 @@ Overfull \hbox (8.90321pt too wide) in paragraph at lines 174--174
 curity main contrib[] 
  []
 
-[98]
+[114]
 Overfull \hbox (76.80367pt too wide) in paragraph at lines 253--253
 []\T1/cmtt/m/n/10.95 $ docker run --rm -it --privileged -v $(pwd):/vyos -w /vyo
 s vyos/vyos-build:equuleus bash[] 
  []
 
-[99]
+[115]
 Overfull \hbox (78.71973pt too wide) in paragraph at lines 296--299
 []\T1/ptm/m/n/10.95 (-20) n the Disk tab leave the de-faults (this ex-ceeds re-
 quire-ments https://docs.vyos.io/en/latest/installation/install.html) 
  []
 
-[100]
+[116]
 Overfull \hbox (4.36926pt too wide) in paragraph at lines 426--430
 []\T1/ptm/m/n/10.95 (-20) In the main, the in-stall guide (https://github.com/f
 ort-nix/nix-bitcoin/blob/master/docs/install.md)
  []
 
-[101]) [102] (metaverseBTC.ptc) [103
+[117]) [118] (metaverseBTC.ptc) [119
 
-] [104]
-<Images//JOH.jpg, id=1884, 110.66344pt x 165.61874pt>
+] [120]
+<Images//JOH.jpg, id=1998, 110.66344pt x 165.61874pt>
 File: Images//JOH.jpg Graphic file (type jpg)
 <use Images//JOH.jpg>
 Package pdftex.def Info: Images//JOH.jpg  used on input line 351.
@@ -2059,7 +4961,7 @@ Overfull \hbox (140.84192pt too wide) in paragraph at lines 346--353
 [][][]$[]$ 
  []
 
-<Images//UA.jpg, id=1885, 200.75pt x 200.75pt>
+<Images//UA.jpg, id=1999, 200.75pt x 200.75pt>
 File: Images//UA.jpg Graphic file (type jpg)
 <use Images//UA.jpg>
 Package pdftex.def Info: Images//UA.jpg  used on input line 360.
@@ -2069,7 +4971,7 @@ Overfull \hbox (140.84192pt too wide) in paragraph at lines 354--362
 [][][]$[]$ 
  []
 
-[105 <./Images//JOH.jpg> <./Images//UA.jpg>] [106
+[121 <./Images//JOH.jpg> <./Images//UA.jpg>] [122
 
 ]
 
@@ -2081,7 +4983,7 @@ Package biblatex Warning: Split bibliography detected.
 (biblatex)                This warning can be suppressed with
 (biblatex)                '\BiblatexSplitbibDefernumbersWarningOff'.
 
-[107]
+[123] [124]
 
 Package biblatex Warning: Split bibliography detected.
 (biblatex)                Many simple split bibliography setups with
@@ -2091,7 +4993,7 @@ Package biblatex Warning: Split bibliography detected.
 (biblatex)                This warning can be suppressed with
 (biblatex)                '\BiblatexSplitbibDefernumbersWarningOff'.
 
-[108] [109] [110
+[125] [126
 
 ] (metaverseBTC.ind)
 \tf@ptc=\write9
@@ -2109,48 +5011,61 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34097 strings out of 478927
- 630858 string characters out of 2853008
- 1469011 words of memory out of 3000000
- 50419 multiletter control sequences out of 15000+600000
- 517268 words of font info for 404 fonts, out of 8000000 for 9000
+ 35176 strings out of 478582
+ 667943 string characters out of 2844816
+ 1472564 words of memory out of 3000000
+ 51761 multiletter control sequences out of 15000+600000
+ 583415 words of font info for 410 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 98i,17n,97p,2518b,1346s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section*.9} has been referenced but does not exis
-t, replaced by a fixed one
+ 98i,17n,94p,2518b,1359s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+pdfTeX warning (dest): name{section*.9} has been referenced but does not exist,
+ replaced by a fixed one
+
 
 pdfTeX warning (dest): name{ux5cux23ux5cux23Upload-the-ISO-image-to-the-Proxmox
 -VE-server} has been referenced but does not exist, replaced by a fixed one
 
+
 pdfTeX warning (dest): name{cite.0@poon2016bitcoin} has been referenced but doe
 s not exist, replaced by a fixed one
+
 
 pdfTeX warning (dest): name{cite.0@delgado2018analysis} has been referenced but
  does not exist, replaced by a fixed one
 
+
 pdfTeX warning (dest): name{cite.0@croman2016scaling} has been referenced but d
 oes not exist, replaced by a fixed one
+
 
 pdfTeX warning (dest): name{cite.0@makarov2021blockchain} has been referenced b
 ut does not exist, replaced by a fixed one
 
+
 pdfTeX warning (dest): name{cite.0@haber1990time} has been referenced but does 
 not exist, replaced by a fixed one
+
 
 pdfTeX warning (dest): name{cite.0@callas1998openpgp} has been referenced but d
 oes not exist, replaced by a fixed one
 
+
 pdfTeX warning (dest): name{cite.0@cypherPunkMailList} has been referenced but 
 does not exist, replaced by a fixed one
+
 
 pdfTeX warning (dest): name{cite.0@salinCosts} has been referenced but does not
  exist, replaced by a fixed one
 
+
 pdfTeX warning (dest): name{cite.0@ford2005peer} has been referenced but does n
 ot exist, replaced by a fixed one
 
+
 pdfTeX warning (dest): name{cite.0@costigan2018world} has been referenced but d
 oes not exist, replaced by a fixed one
+
 
 pdfTeX warning (dest): name{cite.0@semanticWeb} has been referenced but does no
 t exist, replaced by a fixed one
@@ -2164,9 +5079,9 @@ uagk8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
 tmb8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/ut
 mr8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utm
 ri8a.pfb>
-Output written on metaverseBTC.pdf (110 pages, 11740212 bytes).
+Output written on metaverseBTC.pdf (126 pages, 11828141 bytes).
 PDF statistics:
- 2204 PDF objects out of 2487 (max. 8388607)
- 445 named destinations out of 1000 (max. 500000)
+ 2330 PDF objects out of 2487 (max. 8388607)
+ 504 named destinations out of 1000 (max. 500000)
  118584 words of extra memory for PDF output out of 128383 (max. 10000000)
 

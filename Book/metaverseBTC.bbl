@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.1 $
+% $ biblatex bbl format version 3.2 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -19,6 +19,35 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
+    \entry{aiken2020zooming}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4677ceabcc0b34ec759b14d37cffe8fd}{%
+           family={Aiken},
+           familyi={A\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage UK: London, England}%
+      }
+      \strng{namehash}{4677ceabcc0b34ec759b14d37cffe8fd}
+      \strng{fullhash}{4677ceabcc0b34ec759b14d37cffe8fd}
+      \strng{bibnamehash}{4677ceabcc0b34ec759b14d37cffe8fd}
+      \strng{authorbibnamehash}{4677ceabcc0b34ec759b14d37cffe8fd}
+      \strng{authornamehash}{4677ceabcc0b34ec759b14d37cffe8fd}
+      \strng{authorfullhash}{4677ceabcc0b34ec759b14d37cffe8fd}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Index on Censorship}
+      \field{number}{2}
+      \field{title}{Zooming in on privacy concerns: Video app Zoom is surging in popularity. In our rush to stay connected, we need to make security checks and not reveal more than we think}
+      \field{volume}{49}
+      \field{year}{2020}
+      \field{pages}{24\bibrangedash 27}
+      \range{pages}{4}
+    \endentry
     \entry{oxford2021salvador}{article}{}
       \name{author}{1}{}{%
         {{hash=d6fa497e4b1f574f08a65af5bc72bf5c}{%
@@ -1302,6 +1331,41 @@
       \verb :C\:/Users/its352/Google Drive/DataVis/literature_repository/bitcoin/bitcoin.pdf:PDF
       \endverb
     \endentry
+    \entry{oeppen2020human}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a0c31358f2c8d33613415f51f53ed078}{%
+           family={Oeppen},
+           familyi={O\bibinitperiod},
+           given={RS},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a1f1c077e6536d93ac1f40bf9ba342dc}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=8723a748485e69e860fdf656ac45d0d2}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={PA},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{bf612ae66d086154ae62e8653c55f845}
+      \strng{fullhash}{bf612ae66d086154ae62e8653c55f845}
+      \strng{bibnamehash}{bf612ae66d086154ae62e8653c55f845}
+      \strng{authorbibnamehash}{bf612ae66d086154ae62e8653c55f845}
+      \strng{authornamehash}{bf612ae66d086154ae62e8653c55f845}
+      \strng{authorfullhash}{bf612ae66d086154ae62e8653c55f845}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{British Journal of Oral and Maxillofacial Surgery}
+      \field{title}{Human factors recognition at virtual meetings and video conferencing: how to get the best performance from yourself and others}
+      \field{year}{2020}
+    \endentry
     \entry{poon2016bitcoin}{misc}{}
       \name{author}{2}{}{%
         {{hash=810a1119de65fee46a025e89e00509b0}{%
@@ -1631,7 +1695,250 @@
       \field{year}{2022}
     \endentry
   \enddatalist
+  \missing{2002}
+  \missing{Adalgeirsson2010}
+  \missing{Adamczyk2007}
+  \missing{AlMoubayed2012}
+  \missing{Allard2006}
+  \missing{Anstis1969}
+  \missing{Argyle}
+  \missing{Argyle1965}
+  \missing{Argyle1969}
+  \missing{Argyle1976}
+  \missing{Avrahami2007}
+  \missing{Bailenson2002}
+  \missing{Bailenson2006}
+  \missing{Bandyopadhyay}
+  \missing{Bardram2012}
+  \missing{Baren}
+  \missing{Bartneck2007}
+  \missing{Bartneck2009}
+  \missing{Bartneck2009a}
+  \missing{Baumgart1975}
+  \missing{Beck2011}
+  \missing{Beck2013}
+  \missing{Benford1998}
+  \missing{Benford:1995hh}
+  \missing{Benjamin2012}
+  \missing{Biocca1997}
+  \missing{Biocca2003}
+  \missing{Biocca2003a}
+  \missing{Blanche2010}
+  \missing{Bock2008}
+  \missing{Bocker1996}
+  \missing{Bohannon2013}
+  \missing{Boker2011}
+  \missing{Bondareva2004}
+  \missing{Bradner:2002:WDM:587078.587110}
+  \missing{Bulu2012}
+  \missing{Buxton1992a}
+  \missing{Chen2002}
+  \missing{Ciger2004a}
+  \missing{Colburn2000a}
+  \missing{Cook1977}
+  \missing{Cooke2000}
+  \missing{Cooke2002}
+  \missing{Cooke2002a}
+  \missing{Cooke_image-basedrendering}
+  \missing{Dalsgaard2011}
+  \missing{Darken2003}
+  \missing{DeGreef2001}
+  \missing{Dennis1990}
+  \missing{Desai2011}
+  \missing{Ding2007}
+  \missing{Divorra2010}
+  \missing{Dou2016}
+  \missing{Duckworth:2012tx}
+  \missing{Eijk2010}
+  \missing{Erickson2011}
+  \missing{Fagel2010}
+  \missing{Fairchild2016}
+  \missing{Fayard2007}
+  \missing{Feldmann2009}
+  \missing{Ferscha1999}
+  \missing{Fish1993}
+  \missing{Franco2003}
+  \missing{Franco2009}
+  \missing{Fuchs:2002ww}
+  \missing{Fullwood2006a}
+  \missing{Garau2001}
+  \missing{Garau2003}
+  \missing{Garrison1999}
+  \missing{Gasparello:2011in}
+  \missing{Gaver1992}
+  \missing{Gergle2006}
+  \missing{Gillies2005}
+  \missing{Goebbels2003}
+  \missing{Goodwin2000a}
+  \missing{Grau2007}
+  \missing{Greenhalgh2001}
+  \missing{Greenhalgh2001a}
+  \missing{Grimstead2005a}
+  \missing{Gross2003}
+  \missing{Gunawardena1997}
+  \missing{Harms2004}
+  \missing{Hauber2005}
+  \missing{Hauber2006}
+  \missing{Hedge1978}
+  \missing{Heldal2005}
+  \missing{Heldner2010}
+  \missing{Ho2008}
+  \missing{Ho:2010:RUV:1853385.1853509}
+  \missing{Hu:1986ww}
+  \missing{Hua2004}
+  \missing{Ichikawa1995}
+  \missing{Ishii1993}
+  \missing{Itoh2005}
+  \missing{JSID:JSID295}
+  \missing{Jamil2011}
+  \missing{Jetter2011a}
+  \missing{Jones2014}
+  \missing{Jouppi2004}
+  \missing{Judge2010}
+  \missing{Katagiri2007}
+  \missing{Kauff2002}
+  \missing{Kauff2002a}
+  \missing{Kendon1967}
+  \missing{Kim2012}
+  \missing{Kleinke1986a}
+  \missing{Klie2006}
+  \missing{Kluttz2009}
+  \missing{Kristoffersson2011}
+  \missing{Kristoffersson2013}
+  \missing{Krum2012}
+  \missing{Kulik2011}
+  \missing{Kuster2012a}
+  \missing{Langton2000}
+  \missing{Langton2000a}
+  \missing{Laurentini1994a}
+  \missing{Lee2011b}
+  \missing{Lehment2014}
+  \missing{Lincoln2009}
+  \missing{Lincoln:2010it}
+  \missing{Loomis2008}
+  \missing{Lottridge2009}
+  \missing{Low2001}
+  \missing{Luff2011}
+  \missing{Macrae2002}
+  \missing{Maimone2011}
+  \missing{Maimone2011a}
+  \missing{Maimone2013}
+  \missing{Marti2005}
+  \missing{Matusik2000}
+  \missing{Mekuria2013}
+  \missing{Mitchell2011}
+  \missing{Monk2002}
+  \missing{Moore:2010jt}
+  \missing{Mori1970}
+  \missing{Moubayed2012}
+  \missing{Murray2007}
+  \missing{Murray2009a}
+  \missing{Nagendran}
+  \missing{Nguyen2005}
+  \missing{Norris2012}
+  \missing{Norris2013a}
+  \missing{Novick1996}
+  \missing{Nowak2001}
+  \missing{Okada:1994et}
+  \missing{Okutomi:1993ez}
+  \missing{Otsuka2005}
+  \missing{Otsuka2013}
+  \missing{Oyekoya2012}
+  \missing{Pan2012a}
+  \missing{Pan2014a}
+  \missing{Park1999}
+  \missing{Paulos1998}
+  \missing{Pejsa2016}
+  \missing{Petit2010}
+  \missing{Petit:2008tva}
+  \missing{Raskar1998}
+  \missing{Raskar2001a}
+  \missing{Regenbrecht2015}
+  \missing{Rienks2010}
+  \missing{Rivera-Gutierrez2012}
+  \missing{Roberts2003}
+  \missing{Roberts2005}
+  \missing{Roberts2012}
+  \missing{Roberts2013}
+  \missing{Roberts2015}
+  \missing{Sadagic2001}
+  \missing{Sakamoto2007}
+  \missing{Schreer2005}
+  \missing{Schreer:2008ty}
+  \missing{Schroeder2001}
+  \missing{Schuemie2001}
+  \missing{Sermon2000}
+  \missing{SkypeStats}
+  \missing{Slater1999}
+  \missing{Slater2004}
+  \missing{Slovak2009}
+  \missing{Starck2003}
+  \missing{Starck2008}
+  \missing{Steptoe2008}
+  \missing{Steptoe2009}
+  \missing{Steptoe2010a}
+  \missing{Steptoe2010b}
+  \missing{Stiefelhagen2001}
+  \missing{Stiefelhagen2002}
+  \missing{Stiefelhagen:2002:HOG:506443.506634}
+  \missing{Strait2014}
+  \missing{Symons2004}
+  \missing{Tachi2003}
+  \missing{Tachi2004}
+  \missing{Tang2006}
+  \missing{Tang2010}
+  \missing{Tang2013}
+  \missing{Troje1998}
+  \missing{Tse2007}
+  \missing{Tsui2011}
+  \missing{Tsui2012}
+  \missing{Usoh2000a}
+  \missing{Vertegaal00effectsof}
+  \missing{Vertegaal2001}
+  \missing{Vertegaal2002}
+  \missing{Vertegaal2003}
+  \missing{Vishwanath2005}
+  \missing{Voida2012}
+  \missing{Waizenegger2011}
+  \missing{Wilson2000}
+  \missing{Wolff2008}
+  \missing{Wollaston1824}
+  \missing{Yee2007a}
+  \missing{Yendo2010}
+  \missing{Zhang2013a}
+  \missing{Zillner2014}
+  \missing{argyle1976gaze}
+  \missing{bloom2015does}
+  \missing{buxton1992telepresence}
+  \missing{centralinertia}
+  \missing{doi:10.1080/01449299508914633}
+  \missing{doi:10.1080/713755908}
+  \missing{eldes2013multi}
   \missing{emp2006putting}
+  \missing{fulk1987social}
+  \missing{globalworkplace}
+  \missing{googleStatsProjectionMapping}
+  \missing{greenberg1976role}
+  \missing{haythornthwaite1995work}
+  \missing{heeter1992being}
+  \missing{horgen1999excellence}
+  \missing{inami2000visuo}
+  \missing{john2001use}
+  \missing{jones2009headspin}
+  \missing{jouppi2002mutually}
+  \missing{lamboray2005data}
+  \missing{loomis2012sensory}
+  \missing{orts2016holoportation}
+  \missing{pan2014comparing}
+  \missing{prakash2020characteristic}
+  \missing{projectionmappingweb2013}
+  \missing{rosenthal1947two}
+  \missing{skychange}
+  \missing{steinmeyer2013science}
+  \missing{tay2008updatable}
+  \missing{ting2012understanding}
+  \missing{tuddenham2009territorial}
+  \missing{zoomblog}
 \endrefsection
 \endinput
 
