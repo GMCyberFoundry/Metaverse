@@ -281,6 +281,51 @@
       \field{title}{3rd global cryptoasset benchmarking study}
       \field{year}{2020}
     \endentry
+    \entry{Bloom2015-rg}{article}{}
+      \name{author}{4}{}{%
+        {{hash=1f9ed1162402cc5a63ec1d1f470ea527}{%
+           family={Bloom},
+           familyi={B\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=eb9b1fe5fa3eac72a38dcccd3c657460}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7b39b57e9cfb66ab4a4d302e4f51ad91}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=649bb256731d8642682bf5e5fe0c9c4a}{%
+           family={Ying},
+           familyi={Y\bibinitperiod},
+           given={Zhichun\bibnamedelima Jenny},
+           giveni={Z\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{bb325fe46940bbf5d2eabf28a8415da6}
+      \strng{fullhash}{2659902b245054648f3837389c7a4ce8}
+      \strng{bibnamehash}{bb325fe46940bbf5d2eabf28a8415da6}
+      \strng{authorbibnamehash}{bb325fe46940bbf5d2eabf28a8415da6}
+      \strng{authornamehash}{bb325fe46940bbf5d2eabf28a8415da6}
+      \strng{authorfullhash}{2659902b245054648f3837389c7a4ce8}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Q. J. Econ.}
+      \field{number}{1}
+      \field{title}{Does working from home work? Evidence from a Chinese experiment}
+      \field{volume}{130}
+      \field{year}{2015}
+      \field{pages}{165\bibrangedash 218}
+      \range{pages}{54}
+      \keyw{litsurvey.bib}
+    \endentry
     \entry{bordo1983some}{article}{}
       \name{author}{1}{}{%
         {{hash=140670e47810ad9b00d4c97c7119db7c}{%
@@ -1724,7 +1769,6 @@
   \missing{Biocca2003}
   \missing{Biocca2003a}
   \missing{Blanche2010}
-  \missing{Bock2008}
   \missing{Bocker1996}
   \missing{Bohannon2013}
   \missing{Boker2011}
@@ -1732,7 +1776,6 @@
   \missing{Bradner:2002:WDM:587078.587110}
   \missing{Bulu2012}
   \missing{Buxton1992a}
-  \missing{Chen2002}
   \missing{Ciger2004a}
   \missing{Colburn2000a}
   \missing{Cook1977}
@@ -1745,11 +1788,9 @@
   \missing{DeGreef2001}
   \missing{Dennis1990}
   \missing{Desai2011}
-  \missing{Ding2007}
   \missing{Divorra2010}
   \missing{Dou2016}
   \missing{Duckworth:2012tx}
-  \missing{Eijk2010}
   \missing{Erickson2011}
   \missing{Fagel2010}
   \missing{Fairchild2016}
@@ -1863,6 +1904,7 @@
   \missing{Roberts2015}
   \missing{Sadagic2001}
   \missing{Sakamoto2007}
+  \missing{Schrammel2007}
   \missing{Schreer2005}
   \missing{Schreer:2008ty}
   \missing{Schroeder2001}
@@ -1908,9 +1950,7 @@
   \missing{Zhang2013a}
   \missing{Zillner2014}
   \missing{argyle1976gaze}
-  \missing{bloom2015does}
   \missing{buxton1992telepresence}
-  \missing{centralinertia}
   \missing{doi:10.1080/01449299508914633}
   \missing{doi:10.1080/713755908}
   \missing{eldes2013multi}
