@@ -5982,6 +5982,103 @@
       \range{pages}{10}
       \keyw{Spherical displays,remote collaboration,telepres; avatars; telepresence; mixed reality; telerobotics;litsurvey.bib}
     \endentry
+    \entry{Paulos1998}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=e842bb545123587c01c345962c06e0ed}{%
+           family={Paulos},
+           familyi={P\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=fa344b67077711bfaa0525254de2977a}{%
+           family={Canny},
+           familyi={C\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {ACM Press/Addison-Wesley Publishing Co.}%
+      }
+      \list{location}{1}{%
+        {Los Angeles, California, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM Press/Addison-Wesley Publishing Co.}%
+      }
+      \strng{namehash}{2ff16d894b335da05b1eab9b0bc7b823}
+      \strng{fullhash}{2ff16d894b335da05b1eab9b0bc7b823}
+      \strng{bibnamehash}{2ff16d894b335da05b1eab9b0bc7b823}
+      \strng{authorbibnamehash}{2ff16d894b335da05b1eab9b0bc7b823}
+      \strng{authornamehash}{2ff16d894b335da05b1eab9b0bc7b823}
+      \strng{authorfullhash}{2ff16d894b335da05b1eab9b0bc7b823}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
+      \field{month}{\#jan\#}
+      \field{series}{CHI '98}
+      \field{title}{{PRoP}: personal roving presence}
+      \field{year}{1998}
+      \field{pages}{296\bibrangedash 303}
+      \range{pages}{8}
+      \keyw{tele-embodiment,tele-presence,gesturing,robotics,telecommunications,tele-work,tele-robotics,tele-conferencing,computer-mediated human-human interaction,tele-action;litsurvey.bib}
+    \endentry
+    \entry{Pejsa2016}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=aa2a340965d98b1b9c32f1f078ecd23d}{%
+           family={Pejsa},
+           familyi={P\bibinitperiod},
+           given={Tomislav},
+           giveni={T\bibinitperiod}}}%
+        {{hash=0ea74ae69d5c417ed33f5fdae7ac5958}{%
+           family={Kantor},
+           familyi={K\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2c511d23516d76038744bfd9895fd71d}{%
+           family={Benko},
+           familyi={B\bibinitperiod},
+           given={Hrvoje},
+           giveni={H\bibinitperiod}}}%
+        {{hash=3d0ae76d5eaf6e21504714c3fd0765b4}{%
+           family={Ofek},
+           familyi={O\bibinitperiod},
+           given={Eyal},
+           giveni={E\bibinitperiod}}}%
+        {{hash=b06c5730edff94b151e7e0d81439cbdf}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {ACM}%
+      }
+      \list{location}{1}{%
+        {San Francisco, California, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{57c10c0533f6e35a777f7f6a3de384c1}
+      \strng{fullhash}{d4b10cdb068c08d5faa85d9165672e96}
+      \strng{bibnamehash}{57c10c0533f6e35a777f7f6a3de384c1}
+      \strng{authorbibnamehash}{57c10c0533f6e35a777f7f6a3de384c1}
+      \strng{authornamehash}{57c10c0533f6e35a777f7f6a3de384c1}
+      \strng{authorfullhash}{d4b10cdb068c08d5faa85d9165672e96}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 19th {ACM} Conference on {Computer-Supported} Cooperative Work \& Social Computing}
+      \field{month}{\#feb\#}
+      \field{series}{CSCW '16}
+      \field{title}{{Room2Room}: Enabling {Life-Size} Telepresence in a Projected Augmented Reality Environment}
+      \field{year}{2016}
+      \field{pages}{1716\bibrangedash 1725}
+      \range{pages}{10}
+      \keyw{projector camera system,spatial augmented reality,projection-mapping,Telepresence,spatial interfaces;litsurvey.bib}
+    \endentry
     \entry{poon2016bitcoin}{misc}{}
       \name{author}{2}{}{%
         {{hash=810a1119de65fee46a025e89e00509b0}{%
@@ -6031,6 +6128,67 @@
       \field{labeltitlesource}{title}
       \field{title}{The Future of Money: How the Digital Revolution is Transforming Currencies and Finance}
       \field{year}{2021}
+    \endentry
+    \entry{Raskar1998}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=8843732e3271ea6b1e5a66e24f6c6a43}{%
+           family={Raskar},
+           familyi={R\bibinitperiod},
+           given={Ramesh},
+           giveni={R\bibinitperiod}}}%
+        {{hash=19eb8ef0f1cf49ad4375a0a4acc3a385}{%
+           family={Welch},
+           familyi={W\bibinitperiod},
+           given={Greg},
+           giveni={G\bibinitperiod}}}%
+        {{hash=33835d57f3fe4f05f5bd3c8516974bb5}{%
+           family={Cutts},
+           familyi={C\bibinitperiod},
+           given={Matt},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7a4c7f803c273cad643ec7e6d95a1acd}{%
+           family={Lake},
+           familyi={L\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2e624e38f17760fe2ca5f78d5b58a0e8}{%
+           family={Stesin},
+           familyi={S\bibinitperiod},
+           given={Lev},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a3d6ad3f45e7df3d836a90ee70430028}{%
+           family={Fuchs},
+           familyi={F\bibinitperiod},
+           given={Henry},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {ACM}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{8cc379d96cba1be27f97e3973bdf1d93}
+      \strng{fullhash}{d6e63d822919245baa47b27e6dd9466c}
+      \strng{bibnamehash}{8cc379d96cba1be27f97e3973bdf1d93}
+      \strng{authorbibnamehash}{8cc379d96cba1be27f97e3973bdf1d93}
+      \strng{authornamehash}{8cc379d96cba1be27f97e3973bdf1d93}
+      \strng{authorfullhash}{d6e63d822919245baa47b27e6dd9466c}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 25th annual conference on Computer graphics and interactive techniques}
+      \field{month}{\#jul\#}
+      \field{series}{SIGGRAPH '98}
+      \field{title}{The office of the future: a unified approach to image-based modeling and spatially immersive displays}
+      \field{year}{1998}
+      \field{pages}{179\bibrangedash 188}
+      \range{pages}{10}
+      \keyw{image-based rendering,depth,image-based modeling,reflectance,calibration,virtual environments,display,range,projection,intensity blending,autocalibration,spatially immersive display;litsurvey.bib}
     \endentry
     \entry{rauchs2018distributed}{article}{}
       \name{author}{8}{}{%
@@ -6088,6 +6246,507 @@
       \field{journaltitle}{Available at SSRN 3230013}
       \field{title}{Distributed ledger technology systems: A conceptual framework}
       \field{year}{2018}
+    \endentry
+    \entry{Regenbrecht2015}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7dc8a1be4d57790fcccd12ed85845c30}{%
+           family={Regenbrecht},
+           familyi={R\bibinitperiod},
+           given={Holger},
+           giveni={H\bibinitperiod}}}%
+        {{hash=b14ab5f66d5567c3df51a9f32e8b5aa7}{%
+           family={Langlotz},
+           familyi={L\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1349f3cd628300199b86780afb56b67}
+      \strng{fullhash}{a1349f3cd628300199b86780afb56b67}
+      \strng{bibnamehash}{a1349f3cd628300199b86780afb56b67}
+      \strng{authorbibnamehash}{a1349f3cd628300199b86780afb56b67}
+      \strng{authornamehash}{a1349f3cd628300199b86780afb56b67}
+      \strng{authorfullhash}{a1349f3cd628300199b86780afb56b67}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Videoconferencing allows geographically dispersed parties to communicate by simultaneous audio and video transmissions. It is used in a variety of application scenarios with a wide range of coordination needs and efforts, such as private chat, discussion meetings, and negotiation tasks. In particular, in scenarios requiring certain levels of trust and judgement non-verbal communication, cues are highly important for effective communication. Mutual gaze support plays a central role in those high coordination need scenarios but generally lacks adequate technical support from videoconferencing systems. In this paper, we review technical concepts and implementations for mutual gaze support in videoconferencing, classify them, evaluate them according to a defined set of criteria, and give recommendations for future developments. Our review gives decision makers, researchers, and developers a tool to systematically apply and further develop videoconferencing systems in ``serious'' settings requiring mutual gaze. This should lead to well-informed decisions regarding the use and development of this technology and to a more widespread exploitation of the benefits of videoconferencing in general. For example, if videoconferencing systems supported high-quality mutual gaze in an easy-to-set-up and easy-to-use way, we could hold more effective and efficient recruitment interviews, court hearings, or contract negotiations.}
+      \field{journaltitle}{Communications of the Association for Information Systems}
+      \field{number}{1}
+      \field{title}{Mutual Gaze Support in Videoconferencing Reviewed}
+      \field{volume}{37}
+      \field{year}{2015}
+      \field{pages}{45}
+      \range{pages}{1}
+      \keyw{litsurvey.bib}
+    \endentry
+    \entry{Rienks2010}{unpublished}{}
+      \name{author}{3}{}{%
+        {{hash=b45376a3bc617ffe3f97af13a6500b91}{%
+           family={Rienks},
+           familyi={R\bibinitperiod},
+           given={Rutger},
+           giveni={R\bibinitperiod}}}%
+        {{hash=2bb9cbd401a4c95faf6cbab0f6983eae}{%
+           family={Poppe},
+           familyi={P\bibinitperiod},
+           given={Ronald},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a0c1e455e2eb8b730cfa713d474d8657}{%
+           family={Heylen},
+           familyi={H\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{defbc6b9d5375a9864d6e74a5be08424}
+      \strng{fullhash}{defbc6b9d5375a9864d6e74a5be08424}
+      \strng{bibnamehash}{defbc6b9d5375a9864d6e74a5be08424}
+      \strng{authorbibnamehash}{defbc6b9d5375a9864d6e74a5be08424}
+      \strng{authornamehash}{defbc6b9d5375a9864d6e74a5be08424}
+      \strng{authorfullhash}{defbc6b9d5375a9864d6e74a5be08424}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{\#jan\#}
+      \field{number}{Article 2}
+      \field{title}{Differences in head orientation behavior for speakers and listeners: An experiment in a virtual environment}
+      \field{year}{2010}
+      \keyw{perception of gaze,virtual environments,gaze behavior,focus of attention,multiparty conversation,Head orientation;litsurvey.bib}
+    \endentry
+    \entry{Rivera-Gutierrez2012}{article}{}
+      \name{author}{8}{}{%
+        {{hash=e49375c08a2d5aaf8e3d11045404bfb0}{%
+           family={Rivera-Gutierrez},
+           familyi={R\bibinithyphendelim G\bibinitperiod},
+           given={Diego},
+           giveni={D\bibinitperiod}}}%
+        {{hash=19eb8ef0f1cf49ad4375a0a4acc3a385}{%
+           family={Welch},
+           familyi={W\bibinitperiod},
+           given={Greg},
+           giveni={G\bibinitperiod}}}%
+        {{hash=c4c893eba86ab5994ce4d57a629e0c87}{%
+           family={Lincoln},
+           familyi={L\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=175c4fc7867d806e733602876db129b2}{%
+           family={Whitton},
+           familyi={W\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1d065bacbef50ccca0e36e08f4cf446f}{%
+           family={Cendan},
+           familyi={C\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1c442ac8349c03971cf8d9f51aa50ba1}{%
+           family={Chesnutt},
+           familyi={C\bibinitperiod},
+           given={David\bibnamedelima A},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=a3d6ad3f45e7df3d836a90ee70430028}{%
+           family={Fuchs},
+           familyi={F\bibinitperiod},
+           given={Henry},
+           giveni={H\bibinitperiod}}}%
+        {{hash=6629558de9ea2f787a45d3449244983d}{%
+           family={Lok},
+           familyi={L\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{92270b437f547e9bbc96aa7a0fc001fe}
+      \strng{fullhash}{e47a481dd75a3374ef3fe6d6083fc997}
+      \strng{bibnamehash}{92270b437f547e9bbc96aa7a0fc001fe}
+      \strng{authorbibnamehash}{92270b437f547e9bbc96aa7a0fc001fe}
+      \strng{authornamehash}{92270b437f547e9bbc96aa7a0fc001fe}
+      \strng{authorfullhash}{e47a481dd75a3374ef3fe6d6083fc997}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We introduce the notion of Shader Lamps Virtual Patients (SLVP) - the combination of projector-based Shader Lamps Avatars and interactive virtual humans. This paradigm uses Shader Lamps Avatars technology to give a 3D physical presence to conversational virtual humans, improving their social interactivity and enabling them to share the physical space with the user. The paradigm scales naturally to multiple viewers, allowing for scenarios where an instructor and multiple students are involved in the training. We have developed a physical-virtual patient for medical students to conduct ophthalmic exams, in an interactive training experience. In this experience, the trainee practices multiple skills simultaneously, including using a surrogate optical instrument in front of a physical head, conversing with the patient about his fears, observing realistic head motion, and practicing patient safety. Here we present a prototype system and results from a preliminary formative evaluation of the system.}
+      \field{journaltitle}{Stud. Health Technol. Inform.}
+      \field{title}{Shader Lamps Virtual Patients: the physical manifestation of virtual patients}
+      \field{volume}{173}
+      \field{year}{2012}
+      \field{pages}{372\bibrangedash 378}
+      \range{pages}{7}
+      \keyw{Clinical Competence,Computer Simulation,Diagnostic Techniques,Ophthalmological,Humans,Imaging,Three-Dimensional,Patients,User-Computer Interface;litsurvey.bib}
+    \endentry
+    \entry{Roberts2005}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=027c89bbec21d03dab7772825169dd35}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=6c787db665a4d8fd9e7af8a0a43d8d67}{%
+           family={Al-Liabi},
+           familyi={A\bibinithyphendelim L\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=35e17c51ed3133996ff7cd5b962349ff}{%
+           family={Wolff},
+           familyi={W\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=cc41eef0458d27003fc71345e6d8fd16}{%
+           family={Otto},
+           familyi={O\bibinitperiod},
+           given={O},
+           giveni={O\bibinitperiod}}}%
+        {{hash=393cdf917bb6004a7505f7a39bbabe83}{%
+           family={Al-Khalifah},
+           familyi={A\bibinithyphendelim K\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Eurographics Association}%
+      }
+      \strng{namehash}{2db6320bf19b4c0565dc665238fefbde}
+      \strng{fullhash}{1467d47f8bc38c94641990ebea554785}
+      \strng{bibnamehash}{2db6320bf19b4c0565dc665238fefbde}
+      \strng{authorbibnamehash}{2db6320bf19b4c0565dc665238fefbde}
+      \strng{authornamehash}{2db6320bf19b4c0565dc665238fefbde}
+      \strng{authorfullhash}{1467d47f8bc38c94641990ebea554785}
+      \field{extraname}{1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{IPT/EGVE}}
+      \field{title}{Reducing Fragmentation in Telecollaboration by Using {IPT} Interfaces}
+      \field{year}{2005}
+      \field{pages}{211\bibrangedash 216}
+      \range{pages}{6}
+      \keyw{litsurvey.bib}
+    \endentry
+    \entry{Roberts2015}{article}{}
+      \name{author}{9}{}{%
+        {{hash=8d8b45200e2e98c760d0264d3d876467}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={D\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=ed95b1cab0bb06fd2f51c226b3e1447e}{%
+           family={Fairchild},
+           familyi={F\bibinitperiod},
+           given={A\bibnamedelima J},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=ef22981ad092a999a2dd44f7af338429}{%
+           family={Campion},
+           familyi={C\bibinitperiod},
+           given={S\bibnamedelima P},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=567de451fe50544792425823edd12820}{%
+           family={O'Hare},
+           familyi={O\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6e5551455771b040c7d6be5d5df5cf60}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={C\bibnamedelima M},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=1813dcea9d6eb3e9ffcc83bfd9e83542}{%
+           family={Aspin},
+           familyi={A\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=22f2cbc3d921fd5f45685d5345f519bf}{%
+           family={Duckworth},
+           familyi={D\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=0b8bf25f4fd0821e86c687090dc7ff5f}{%
+           family={Gasparello},
+           familyi={G\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3a7370d78cb00e4680fab453e73d1e77}{%
+           family={Tecchia},
+           familyi={T\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{7055a618c730c1142500f2e5abdae2a5}
+      \strng{fullhash}{9e2dc1f1a958e493e8f392480a0d7f79}
+      \strng{bibnamehash}{7055a618c730c1142500f2e5abdae2a5}
+      \strng{authorbibnamehash}{7055a618c730c1142500f2e5abdae2a5}
+      \strng{authornamehash}{7055a618c730c1142500f2e5abdae2a5}
+      \strng{authorfullhash}{9e2dc1f1a958e493e8f392480a0d7f79}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Supporting a wide set of linked non-verbal resources remains an evergreen challenge for communication technology, limiting effectiveness in many applications. Interpersonal distance, gaze, posture and facial expression, are interpreted together to manage and add meaning to most conversations. Yet today's technologies favor some above others. This induces confusion in conversations, and is believed to limit both feelings of togetherness and trust, and growth of empathy and rapport. Solving this problem will allow technologies to support most rather than a few interactional scenarios. It is likely to benefit teamwork and team cohesion, distributed decision-making and health and wellbeing applications such as tele-therapy, tele-consultation, and isolation. We introduce withyou, our telepresence research platform. This paper describes the end-to-end system including the psychology of human interaction and how this drives requirements throughout the design and implementation. Our technology approach is to combine the winning characteristics of video conferencing and immersive collaborative virtual environments. This is to allow, for example, people walking past each other to exchange a glance and smile. A systematic explanation of the theory brings together the linked nature of non-verbal communication and how it is influenced by technology. This leads to functional requirements for telepresence, in terms of the balance of visual, spatial and temporal qualities. The first end-to-end description of withyou describes all major processes and the display and capture environment. An unprecedented characterization of our approach is given in terms of the above qualities and what influences them. This leads to non-functional requirements in terms of number and place of cameras and the avoidance of resultant bottlenecks. Proposals are given for improved distribution of processes across networks, computers, and multi-core CPU and GPU. Simple conservative estimation shows that both approaches should meet our requirements. One is implemented and shown to meet minimum and come close to desirable requirements.}
+      \field{journaltitle}{IEEE J. Sel. Top. Signal Process.}
+      \field{month}{\#apr\#}
+      \field{number}{3}
+      \field{title}{withyou---An Experimental {End-to-End} Telepresence System Using {Video-Based} Reconstruction}
+      \field{volume}{9}
+      \field{year}{2015}
+      \field{pages}{562\bibrangedash 574}
+      \range{pages}{13}
+      \keyw{groupware;teleconferencing;virtual reality;end-to-end telepresence system;video-based reconstruction;human interaction psychology;video conferencing;immersive collaborative virtual environments;nonverbal communication;functional requirements;temporal qualities;spatial qualities;visual qualities;resultant bottlenecks;withyou;Visualization;Avatars;Cameras;Three-dimensional displays;Context;Image reconstruction;Collaboration;Computer supported cooperative working;computer vision;virtual reality;litsurvey.bib}
+    \endentry
+    \entry{Roberts2003}{article}{}
+      \name{author}{4}{}{%
+        {{hash=86564133883e8d78a1e36e4d91d49c5e}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a0b0e349e986f8d03e8d56e854fd2f02}{%
+           family={Wolff},
+           familyi={W\bibinitperiod},
+           given={Robin},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a679d6b9c314ce2f0eaac73bf22e7678}{%
+           family={Otto},
+           familyi={O\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod}}}%
+        {{hash=2584ff7f6b9e97a051689f203d723fb3}{%
+           family={Steed},
+           familyi={S\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{6da7913dc707229006291b37ce212ef0}
+      \strng{fullhash}{261d0024a33e60248850fb5f6210fc87}
+      \strng{bibnamehash}{6da7913dc707229006291b37ce212ef0}
+      \strng{authorbibnamehash}{6da7913dc707229006291b37ce212ef0}
+      \strng{authornamehash}{6da7913dc707229006291b37ce212ef0}
+      \strng{authorfullhash}{261d0024a33e60248850fb5f6210fc87}
+      \field{extraname}{3}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Many tasks require teamwork. Team members may work concurrently, but there must be some occasions of coming together. Collaborative virtual environments (CVEs) allow distributed teams to come together across distance to share a task. Studies of CVE systems have tended to focus on the sense of presence or copresence with other people. They have avoided studying close interaction between us-ers, such as the shared manipulation of objects, because CVEs suffer from inherent network delays and often have cumbersome user interfaces. Little is known about the ef-fectiveness of collaboration in tasks requiring various forms of object sharing and, in particular, the concurrent manipu-lation of objects. This paper investigates the effectiveness of supporting teamwork among a geographically distributed group in a task that requires the shared manipulation of objects. To complete the task, users must share objects through con-current manipulation of both the same and distinct at-tributes. The effectiveness of teamwork is measured in terms of time taken to achieve each step, as well as the impression of users. The effect of interface is examined by comparing various combinations of walk-in cubic immersive projection technology (IPT) displays and desktop devices.}
+      \field{journaltitle}{Presence: Teleoperators and Virtual Environments}
+      \field{month}{\#dec\#}
+      \field{number}{6}
+      \field{title}{Constructing a Gazebo: Supporting Teamwork in a Tightly Coupled, Distributed Task in Virtual Reality}
+      \field{volume}{12}
+      \field{year}{2003}
+      \field{pages}{644\bibrangedash 657}
+      \range{pages}{14}
+      \keyw{litsurvey.bib}
+    \endentry
+    \entry{Roberts2012}{article}{}
+      \name{author}{3}{}{%
+        {{hash=778e4e9d3c1020a3048eb7e5b96f14e1}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={David\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a0b0e349e986f8d03e8d56e854fd2f02}{%
+           family={Wolff},
+           familyi={W\bibinitperiod},
+           given={Robin},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a679d6b9c314ce2f0eaac73bf22e7678}{%
+           family={Otto},
+           familyi={O\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d40647351edc9223452d919bc7fce9b2}
+      \strng{fullhash}{d40647351edc9223452d919bc7fce9b2}
+      \strng{bibnamehash}{d40647351edc9223452d919bc7fce9b2}
+      \strng{authorbibnamehash}{d40647351edc9223452d919bc7fce9b2}
+      \strng{authornamehash}{d40647351edc9223452d919bc7fce9b2}
+      \strng{authorfullhash}{d40647351edc9223452d919bc7fce9b2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Collaboration and teamwork is important in many areas of our lives. People come together to share and discuss ideas, split and distribute work or help and support each other. The sharing of information and artefacts is a central part of collaboration. This often involves the manipulation of shared objects, both sequentially as well as concurrently. For coordinating an efficient collaboration, communication between the team members is necessary. This can happen verbally in form of speech or text and non-verbally through gesturing, pointing, gaze or facial expressions and the referencing and manipulation of shared objects. Collaborative Virtual Environments (CVE) allow remote users to come together and interact with each other and virtual objects within a computer simulated environment. Immersive display interfaces, such as a walk-in display (e.g. CAVE), that place a human physically into the synthetic environment, lend themselves well to support a natural manipulation of objects as well a set of natural non-verbal human communication, as they can both capture and display human movement. Communication of tracking data, however, can saturate the network and result in delay or loss of messages vital to the manipulation of shared objects. This paper investigates the reality of shared object manipulation between remote users collaborating through linked walk-in displays and extends our research in [27]. Various forms of shared interaction are examined through a set of structured sub tasks within a representative construction task. We report on extensive user-trials between three walk-in displays in the UK and Austria linked over the Internet using a CVE, and demonstrate such effects on a naive implementation of a benchmark application, the Gazebo building task. We then present and evaluate application-level workarounds and conclude by suggesting solutions that may be implemented within next-generation CVE infrastructures.}
+      \field{journaltitle}{Comput. Inform.}
+      \field{month}{\#mar\#}
+      \field{number}{1}
+      \field{title}{Supporting a Closely Coupled Task between a Distributed Team: Using Immersive Virtual Reality Technology}
+      \field{volume}{24}
+      \field{year}{2012}
+      \field{pages}{7\bibrangedash 29}
+      \range{pages}{23}
+      \keyw{litsurvey.bib}
+    \endentry
+    \entry{Roberts2013}{article}{}
+      \name{author}{5}{}{%
+        {{hash=778e4e9d3c1020a3048eb7e5b96f14e1}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={David\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=681401396c6c063e977ccebb9472713d}{%
+           family={Rae},
+           familyi={R\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=52e14773596c3043b6fb760fa8b411ec}{%
+           family={Duckworth},
+           familyi={D\bibinitperiod},
+           given={Tobias\bibnamedelima W},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=7967b8294ac129852fbde0f1692d81a4}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Carl\bibnamedelima M},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=b9de89cf0b9a5db9eefc3f8f4a0cc2d3}{%
+           family={Aspin},
+           familyi={A\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{dfdce49e37ce6d4a58f9f1a4fa05c609}
+      \strng{fullhash}{a5a02584b63758ec98d3903076e6cfa8}
+      \strng{bibnamehash}{dfdce49e37ce6d4a58f9f1a4fa05c609}
+      \strng{authorbibnamehash}{dfdce49e37ce6d4a58f9f1a4fa05c609}
+      \strng{authornamehash}{dfdce49e37ce6d4a58f9f1a4fa05c609}
+      \strng{authorfullhash}{a5a02584b63758ec98d3903076e6cfa8}
+      \field{extraname}{4}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The aim of our experiment is to determine if eye-gaze can be estimated from a virtuality human: to within the accuracies that underpin social interaction; and reliably across gaze poses and camera arrangements likely in every day settings. The scene is set by explaining why Immersive Virtuality Telepresence has the potential to meet the grand challenge of faithfully communicating both the appearance and the focus of attention of a remote human participant within a shared 3D computer-supported context. Within the experiment n=22 participants rotated static 3D virtuality humans, reconstructed from surround images, until they felt most looked at. The dependent variable was absolute angular error, which was compared to that underpinning social gaze behaviour in the natural world. Independent variables were 1) relative orientations of eye, head and body of captured subject; and 2) subset of cameras used to texture the form. Analysis looked for statistical and practical significance and qualitative corroborating evidence. The analysed results tell us much about the importance and detail of the relationship between gaze pose, method of video based reconstruction, and camera arrangement. They tell us that virtuality can reproduce gaze to an accuracy useful in social interaction, but with the adopted method of Video Based Reconstruction, this is highly dependent on combination of gaze pose and camera arrangement. This suggests changes in the VBR approach in order to allow more flexible camera arrangements. The work is of interest to those wanting to support expressive meetings that are both socially and spatially situated, and particular those using or building Immersive Virtuality Telepresence to accomplish this. It is also of relevance to the use of virtuality humans in applications ranging from the study of human interactions to gaming and the crossing of the stage line in films and TV.}
+      \field{journaltitle}{IEEE Trans. Vis. Comput. Graph.}
+      \field{month}{\#apr\#}
+      \field{number}{4}
+      \field{title}{Estimating the gaze of a virtuality human}
+      \field{volume}{19}
+      \field{year}{2013}
+      \field{pages}{681\bibrangedash 690}
+      \range{pages}{10}
+      \keyw{litsurvey.bib}
+    \endentry
+    \entry{Sadagic2001}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=4151203f6b31912503bf1a4d98232930}{%
+           family={Sadagic},
+           familyi={S\bibinitperiod},
+           given={Amela},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b4b83cf47bb47cbfa46513eb479e61ae}{%
+           family={Towles},
+           familyi={T\bibinitperiod},
+           given={Herman},
+           giveni={H\bibinitperiod}}}%
+        {{hash=4788552e28291a279861c0f93d2ae521}{%
+           family={Holden},
+           familyi={H\bibinitperiod},
+           given={Loring},
+           giveni={L\bibinitperiod}}}%
+        {{hash=26789faf98e6ba54553cd620a8da71b2}{%
+           family={Daniilidis},
+           familyi={D\bibinitperiod},
+           given={Kostas},
+           giveni={K\bibinitperiod}}}%
+        {{hash=08dba95c5c6ba1b65ae48bc9c906404f}{%
+           family={Zeleznik},
+           familyi={Z\bibinitperiod},
+           given={Bob},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{e0f7cff832d8799e6c75230786d34306}
+      \strng{fullhash}{594c410b5810cc66322ddaef8e3103d3}
+      \strng{bibnamehash}{e0f7cff832d8799e6c75230786d34306}
+      \strng{authorbibnamehash}{e0f7cff832d8799e6c75230786d34306}
+      \strng{authornamehash}{e0f7cff832d8799e6c75230786d34306}
+      \strng{authorfullhash}{594c410b5810cc66322ddaef8e3103d3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{4th Annual International Workshop on Presence}
+      \field{title}{Tele-immersion portal: Towards an ultimate synthesis of computer graphics and computer vision systems}
+      \field{year}{2001}
+      \field{pages}{21\bibrangedash 23}
+      \range{pages}{3}
+      \keyw{litsurvey.bib}
+    \endentry
+    \entry{Sakamoto2007}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=3ba21dc07f9266b590bc7b8074cf0003}{%
+           family={Sakamoto},
+           familyi={S\bibinitperiod},
+           given={Daisuke},
+           giveni={D\bibinitperiod}}}%
+        {{hash=401c2b6898c4cc146157500b540f459b}{%
+           family={Kanda},
+           familyi={K\bibinitperiod},
+           given={Takayuki},
+           giveni={T\bibinitperiod}}}%
+        {{hash=492af212809a32f6c0f2172748c40fd3}{%
+           family={Ono},
+           familyi={O\bibinitperiod},
+           given={Tetsuo},
+           giveni={T\bibinitperiod}}}%
+        {{hash=65969149151d8c3a46cb3adda3d7d701}{%
+           family={Ishiguro},
+           familyi={I\bibinitperiod},
+           given={Hiroshi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=798e47eba69923a73b15644c26f0b2b7}{%
+           family={Hagita},
+           familyi={H\bibinitperiod},
+           given={Norihiro},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {IEEE}%
+      }
+      \list{location}{1}{%
+        {Arlington, Virginia, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{6c277a66dfe96c727df50eae2fc0523f}
+      \strng{fullhash}{59cf37ca6f0185d74fa1687f7301fe22}
+      \strng{bibnamehash}{6c277a66dfe96c727df50eae2fc0523f}
+      \strng{authorbibnamehash}{6c277a66dfe96c727df50eae2fc0523f}
+      \strng{authornamehash}{6c277a66dfe96c727df50eae2fc0523f}
+      \strng{authorfullhash}{59cf37ca6f0185d74fa1687f7301fe22}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the {ACM/IEEE} international conference on Human-robot interaction}
+      \field{month}{\#mar\#}
+      \field{series}{HRI '07}
+      \field{title}{Android as a telecommunication medium with a human-like presence}
+      \field{year}{2007}
+      \field{pages}{193\bibrangedash 200}
+      \range{pages}{8}
+      \keyw{android science,telepresence,telecommunication,humanoid robot;litsurvey.bib}
     \endentry
     \entry{salinCosts}{misc}{}
       \name{author}{1}{}{%
@@ -6172,6 +6831,282 @@
       \field{pages}{145\bibrangedash 166}
       \range{pages}{22}
     \endentry
+    \entry{Schrammel2007}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=3b0e973226f7efb4614f9cd3f1c54388}{%
+           family={Schrammel},
+           familyi={S\bibinitperiod},
+           given={Johann},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8aca62e43bd5b6be2d4997330b26f355}{%
+           family={Geven},
+           familyi={G\bibinitperiod},
+           given={Arjan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a2af1bf13d86be7688c76a1562e06c77}{%
+           family={Sefelin},
+           familyi={S\bibinitperiod},
+           given={Reinhard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9d04cbd42ed09035ecade34520a9a040}{%
+           family={Tscheligi},
+           familyi={T\bibinitperiod},
+           given={Manfred},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {ACM}%
+      }
+      \list{location}{1}{%
+        {San Jose, California, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{dfdb55d6d1d9b476ce4d6bfab68237ee}
+      \strng{fullhash}{f7536b7221615e95d89772d4583fa477}
+      \strng{bibnamehash}{dfdb55d6d1d9b476ce4d6bfab68237ee}
+      \strng{authorbibnamehash}{dfdb55d6d1d9b476ce4d6bfab68237ee}
+      \strng{authornamehash}{dfdb55d6d1d9b476ce4d6bfab68237ee}
+      \strng{authorfullhash}{f7536b7221615e95d89772d4583fa477}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
+      \field{month}{\#apr\#}
+      \field{series}{CHI '07}
+      \field{title}{``Look!'': using the gaze direction of embodied agents}
+      \field{year}{2007}
+      \field{pages}{1187\bibrangedash 1190}
+      \range{pages}{4}
+      \keyw{gaze direction,embodied agent,computer vision;litsurvey.bib}
+    \endentry
+    \entry{Schreer2005}{incollection}{}
+      \name{author}{6}{}{%
+        {{hash=533850552d0596be72b7a0fbbdfc40b0}{%
+           family={Schreer},
+           familyi={S\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod}}}%
+        {{hash=f9d3b8c86bfa74262a7aa5ba77759628}{%
+           family={Tanger},
+           familyi={T\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3733615b0de90d45eae517c044259fd8}{%
+           family={Eisert},
+           familyi={E\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=6c29097715f40af6aaa5d30893022563}{%
+           family={Kauff},
+           familyi={K\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=1c20a415741c73a8f455ebdc150cf0ec}{%
+           family={Kaspar},
+           familyi={K\bibinitperiod},
+           given={Bernhard},
+           giveni={B\bibinitperiod}}}%
+        {{hash=90dd9631b512bb8925e01d12175aff6f}{%
+           family={Englert},
+           familyi={E\bibinitperiod},
+           given={Roman},
+           giveni={R\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=19ca143efaaea0b22bc6fad56e333cc5}{%
+           family={Roli},
+           familyi={R\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod}}}%
+        {{hash=8390d603ee5ca6d50f378cff898a71e8}{%
+           family={Vitulano},
+           familyi={V\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{02210e3f21503d21b4aeb4724c5f51c1}
+      \strng{fullhash}{c8f4d346d4d34e39ba1769d202a3b0c1}
+      \strng{bibnamehash}{02210e3f21503d21b4aeb4724c5f51c1}
+      \strng{authorbibnamehash}{02210e3f21503d21b4aeb4724c5f51c1}
+      \strng{authornamehash}{02210e3f21503d21b4aeb4724c5f51c1}
+      \strng{authorfullhash}{c8f4d346d4d34e39ba1769d202a3b0c1}
+      \strng{editorbibnamehash}{9916b3f26890bee9cace4a2ea5e2a961}
+      \strng{editornamehash}{9916b3f26890bee9cace4a2ea5e2a961}
+      \strng{editorfullhash}{9916b3f26890bee9cace4a2ea5e2a961}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Image Analysis and Processing -- {ICIAP} 2005}
+      \field{series}{Lecture Notes in Computer Science}
+      \field{title}{{Real-Time} Avatar Animation Steered by Live Body Motion}
+      \field{volume}{3617}
+      \field{year}{2005}
+      \field{pages}{147\bibrangedash 154}
+      \range{pages}{8}
+      \keyw{litsurvey.bib}
+    \endentry
+    \entry{Schroeder2001}{article}{}
+      \name{author}{8}{}{%
+        {{hash=c225c090163bb2a011a697f941a27ef9}{%
+           family={Schroeder},
+           familyi={S\bibinitperiod},
+           given={Ralph},
+           giveni={R\bibinitperiod}}}%
+        {{hash=2584ff7f6b9e97a051689f203d723fb3}{%
+           family={Steed},
+           familyi={S\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5bf7f27d15e5acd5af8f68137dfc10e4}{%
+           family={Axelsson},
+           familyi={A\bibinitperiod},
+           given={Ann-Sofie},
+           giveni={A\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=6eb2308d23d94e8a6fe393d2ba52fe7a}{%
+           family={Heldal},
+           familyi={H\bibinitperiod},
+           given={Ilona},
+           giveni={I\bibinitperiod}}}%
+        {{hash=1d07bf9796b4f9308720d04d92949c14}{%
+           family={Abelin},
+           familyi={A\bibinitperiod},
+           given={{Å}sa},
+           giveni={Å\bibinitperiod}}}%
+        {{hash=d3df4d245150eff0807f5f1655b5b974}{%
+           family={Wideström},
+           familyi={W\bibinitperiod},
+           given={Josef},
+           giveni={J\bibinitperiod}}}%
+        {{hash=11eca79a30fe5f056f7dd2c08183ad58}{%
+           family={Nilsson},
+           familyi={N\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=df83b602f850d5091f5ab7de4726e66e}{%
+           family={Slater},
+           familyi={S\bibinitperiod},
+           given={Mel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{9c863f5f2c8615c21efe8c715c30ed0e}
+      \strng{fullhash}{a8be1525ad8b73a2547987f03e94f289}
+      \strng{bibnamehash}{9c863f5f2c8615c21efe8c715c30ed0e}
+      \strng{authorbibnamehash}{9c863f5f2c8615c21efe8c715c30ed0e}
+      \strng{authornamehash}{9c863f5f2c8615c21efe8c715c30ed0e}
+      \strng{authorfullhash}{a8be1525ad8b73a2547987f03e94f289}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this paper we present the results of a trial in which two participants collaborated on a puzzle-solving task in networked virtual environments. The task was a Rubik's cube type puzzle, and this meant that the two participants had to interact with the space and with each other very intensively---and they did this successfully despite the limitation of the networked situation. We compare collaboration in networked immersive projection technology (IPT's) systems with previous results concerning collaboration in an IPT system linked with a desktop computer, and also with collaboration on the same task in the real world. Our findings show that the task performance in networked IPT's and in the real scenario are very similar to each other---whereas IPT-to-desktop performance is much poorer. Results about participants' experience of `presence', `co-presence' and collaboration shed further light on these findings.}
+      \field{journaltitle}{Comput. Graph.}
+      \field{month}{\#oct\#}
+      \field{number}{5}
+      \field{title}{Collaborating in networked immersive spaces: as good as being there together?}
+      \field{volume}{25}
+      \field{year}{2001}
+      \field{pages}{781\bibrangedash 788}
+      \range{pages}{8}
+      \keyw{Virtual environments; Immersive projection technology systems; Collaboration; Presence; Co-presence;litsurvey.bib}
+    \endentry
+    \entry{Schuemie2001}{article}{}
+      \name{author}{4}{}{%
+        {{hash=320213d2fce5ff1f2bb3c2e4993c5023}{%
+           family={Schuemie},
+           familyi={S\bibinitperiod},
+           given={M\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=3f834ad709c76210dcb3c1f2d7ae14a1}{%
+           family={Straaten},
+           familyi={S\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=31318844a5028888663278d0fb0d57f6}{%
+           family={Krijn},
+           familyi={K\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=180b59545af522c8f4a54c1b1be04f35}{%
+           family={Mast},
+           familyi={M\bibinitperiod},
+           given={C\bibnamedelima A},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Mary Ann Liebert, Inc.}%
+      }
+      \strng{namehash}{174aaccf4051f80256e819ffe20bdc2c}
+      \strng{fullhash}{cc074898451db2a22b44fa704e86b5ac}
+      \strng{bibnamehash}{174aaccf4051f80256e819ffe20bdc2c}
+      \strng{authorbibnamehash}{174aaccf4051f80256e819ffe20bdc2c}
+      \strng{authornamehash}{174aaccf4051f80256e819ffe20bdc2c}
+      \strng{authorfullhash}{cc074898451db2a22b44fa704e86b5ac}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Virtual Reality (VR) is starting to be used in psychological therapy around the world. However, a thorough understanding of the reason why VR is effective and what effect it has on the human psyche is still missing. Most research on this subject is related to the concept of presence. This paper gives an up-to-date overview of research in this diverse field. It starts with the most prevailing definitions and theories on presence, most of which attribute special roles for the mental process of attention and for mental models of the virtual space. A review of the phenomena thought to be effected by presence shows that there is still a strong need for research on this subject because little conclusive evidence exists regarding the relationship between presence and phenoma such as emotional responses to virtual stimuli. An investigation shows there has been substantial research for developing methods for measuring presence and research regarding factors that contribute to presence. Knowledge of these contributing factors can play a vital role in development of new VR applications, but key knowledge elements in this area are still missing.}
+      \field{journaltitle}{Cyberpsychol. Behav.}
+      \field{month}{\#apr\#}
+      \field{number}{2}
+      \field{title}{Research on presence in virtual reality: a survey}
+      \field{volume}{4}
+      \field{year}{2001}
+      \field{pages}{183\bibrangedash 201}
+      \range{pages}{19}
+      \keyw{litsurvey.bib}
+    \endentry
+    \entry{Sermon2000}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2e9fc8eecc707e0d51722d503b92a7f3}{%
+           family={Sermon},
+           familyi={S\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{2e9fc8eecc707e0d51722d503b92a7f3}
+      \strng{fullhash}{2e9fc8eecc707e0d51722d503b92a7f3}
+      \strng{bibnamehash}{2e9fc8eecc707e0d51722d503b92a7f3}
+      \strng{authorbibnamehash}{2e9fc8eecc707e0d51722d503b92a7f3}
+      \strng{authornamehash}{2e9fc8eecc707e0d51722d503b92a7f3}
+      \strng{authorfullhash}{2e9fc8eecc707e0d51722d503b92a7f3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Leonardo}
+      \field{month}{\#apr\#}
+      \field{number}{2}
+      \field{title}{Telematic Dreaming}
+      \field{volume}{33}
+      \field{year}{2000}
+      \field{pages}{90\bibrangedash 90}
+      \range{pages}{1}
+      \keyw{litsurvey.bib}
+    \endentry
     \entry{sermon2008they}{article}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -6194,6 +7129,463 @@
       \field{labeltitlesource}{title}
       \field{title}{They live (in Second Life)}
       \field{year}{2008}
+    \endentry
+    \entry{Slater1999}{article}{}
+      \name{author}{1}{}{%
+        {{hash=df83b602f850d5091f5ab7de4726e66e}{%
+           family={Slater},
+           familyi={S\bibinitperiod},
+           given={Mel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{df83b602f850d5091f5ab7de4726e66e}
+      \strng{fullhash}{df83b602f850d5091f5ab7de4726e66e}
+      \strng{bibnamehash}{df83b602f850d5091f5ab7de4726e66e}
+      \strng{authorbibnamehash}{df83b602f850d5091f5ab7de4726e66e}
+      \strng{authornamehash}{df83b602f850d5091f5ab7de4726e66e}
+      \strng{authorfullhash}{df83b602f850d5091f5ab7de4726e66e}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Presence: Teleoperators and Virtual Environments}
+      \field{month}{\#oct\#}
+      \field{number}{5}
+      \field{title}{Measuring Presence: A Response to the Witmer and Singer Presence Questionnaire}
+      \field{volume}{8}
+      \field{year}{1999}
+      \field{pages}{560\bibrangedash 565}
+      \range{pages}{6}
+      \keyw{litsurvey.bib}
+    \endentry
+    \entry{Slater2004}{article}{}
+      \name{author}{1}{}{%
+        {{hash=df83b602f850d5091f5ab7de4726e66e}{%
+           family={Slater},
+           familyi={S\bibinitperiod},
+           given={Mel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{df83b602f850d5091f5ab7de4726e66e}
+      \strng{fullhash}{df83b602f850d5091f5ab7de4726e66e}
+      \strng{bibnamehash}{df83b602f850d5091f5ab7de4726e66e}
+      \strng{authorbibnamehash}{df83b602f850d5091f5ab7de4726e66e}
+      \strng{authornamehash}{df83b602f850d5091f5ab7de4726e66e}
+      \strng{authorfullhash}{df83b602f850d5091f5ab7de4726e66e}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper argues that a scientific basis for ?presence? as it's usually understood in virtual environments research, can not be established on the basis of postexperience presence questionnaires alone. To illustrate the point, an arbitrary mental attribute called ?colorfulness of the experience? is conjured up, and a set of questions administered to 74 respondents with an online questionnaire. The results suggested that colorfulness of yesterday's experiences was associated with the extent to which a person accomplished their tasks, and also associated with yesterday being a ?good?, ?pleasant?, but not frustrating day. The meaning lessness of this analysis illustrates that the equivalent methodology used by presence researchers, may, similarly, bring into being the idea of presence in the minds of VE participants. However, it is argued that there can be no evidence on this methodological basis that presence played any role in their actual mental activity or behavior at the time of the experience. It is concluded that presence researchers must move away from heavy reliance on questionnaires in order to make any progress in this area.}
+      \field{journaltitle}{Presence: Teleoperators and Virtual Environments}
+      \field{month}{\#aug\#}
+      \field{number}{4}
+      \field{title}{How Colorful Was Your Day? Why Questionnaires Cannot Assess Presence in Virtual Environments}
+      \field{volume}{13}
+      \field{year}{2004}
+      \field{pages}{484\bibrangedash 493}
+      \range{pages}{10}
+      \keyw{litsurvey.bib}
+    \endentry
+    \entry{Slovak2009}{incollection}{}
+      \name{author}{3}{}{%
+        {{hash=54ad891a582983798b2df15771bd3a1e}{%
+           family={Slovák},
+           familyi={S\bibinitperiod},
+           given={Petr},
+           giveni={P\bibinitperiod}}}%
+        {{hash=148d229e140506741ea362c6552d010b}{%
+           family={Troubil},
+           familyi={T\bibinitperiod},
+           given={Pavel},
+           giveni={P\bibinitperiod}}}%
+        {{hash=343ebca4acda7d8e5af4bbaaa0f6f357}{%
+           family={Holub},
+           familyi={H\bibinitperiod},
+           given={Petr},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{editor}{7}{}{%
+        {{hash=3e527e16ebad7513b14e79589da2a516}{%
+           family={Gross},
+           familyi={G\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+        {{hash=472b2d6b1a0f257bcf757c79515e3bb2}{%
+           family={Gulliksen},
+           familyi={G\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a932c98beecedaa44d7a9b9b77811a09}{%
+           family={Kotzé},
+           familyi={K\bibinitperiod},
+           given={Paula},
+           giveni={P\bibinitperiod}}}%
+        {{hash=d0ebe4bdbee586c70f545e8ec5b863e5}{%
+           family={Oestreicher},
+           familyi={O\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod}}}%
+        {{hash=91779e8d5b875867d491385500e54a30}{%
+           family={Palanque},
+           familyi={P\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+        {{hash=676ab0e64f5284db05c46b122351621d}{%
+           family={Prates},
+           familyi={P\bibinitperiod},
+           given={Raquel\bibnamedelima Oliveira},
+           giveni={R\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=b01e3ac9fd360e086fd265423db98670}{%
+           family={Winckler},
+           familyi={W\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{3eb648e667755034a51a0a5a01cf8172}
+      \strng{fullhash}{3eb648e667755034a51a0a5a01cf8172}
+      \strng{bibnamehash}{3eb648e667755034a51a0a5a01cf8172}
+      \strng{authorbibnamehash}{3eb648e667755034a51a0a5a01cf8172}
+      \strng{authornamehash}{3eb648e667755034a51a0a5a01cf8172}
+      \strng{authorfullhash}{3eb648e667755034a51a0a5a01cf8172}
+      \strng{editorbibnamehash}{7338de0e618ea9194c72647bbab64ab7}
+      \strng{editornamehash}{7338de0e618ea9194c72647bbab64ab7}
+      \strng{editorfullhash}{ce79aa8043cf7240ec09fedaeac10f01}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Human-Computer} Interaction -- {INTERACT} 2009}
+      \field{series}{Lecture Notes in Computer Science}
+      \field{title}{{GColl}: A Flexible Videoconferencing Environment for {Group-to-Group} Interaction}
+      \field{volume}{5727}
+      \field{year}{2009}
+      \field{pages}{165\bibrangedash 168}
+      \range{pages}{4}
+      \keyw{litsurvey.bib}
+    \endentry
+    \entry{Starck2003}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=1540c5c2c280b8bb51281a0670cc2968}{%
+           family={Starck},
+           familyi={S\bibinitperiod},
+           given={J\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Citeseer}%
+      }
+      \strng{namehash}{1540c5c2c280b8bb51281a0670cc2968}
+      \strng{fullhash}{1540c5c2c280b8bb51281a0670cc2968}
+      \strng{bibnamehash}{1540c5c2c280b8bb51281a0670cc2968}
+      \strng{authorbibnamehash}{1540c5c2c280b8bb51281a0670cc2968}
+      \strng{authornamehash}{1540c5c2c280b8bb51281a0670cc2968}
+      \strng{authorfullhash}{1540c5c2c280b8bb51281a0670cc2968}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Human modelling from multiple views}
+      \field{type}{phdthesis}
+      \field{year}{2003}
+      \keyw{litsurvey.bib}
+    \endentry
+    \entry{Starck2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6154e89e0567ae353efe1b019ca742b1}{%
+           family={Starck},
+           familyi={S\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5dea3144ba12b0f069a5735888879d6d}{%
+           family={Hilton},
+           familyi={H\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{a38abea41c996e0d4d293df69d089ae8}
+      \strng{fullhash}{a38abea41c996e0d4d293df69d089ae8}
+      \strng{bibnamehash}{a38abea41c996e0d4d293df69d089ae8}
+      \strng{authorbibnamehash}{a38abea41c996e0d4d293df69d089ae8}
+      \strng{authornamehash}{a38abea41c996e0d4d293df69d089ae8}
+      \strng{authorfullhash}{a38abea41c996e0d4d293df69d089ae8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Image-based modelling allows the reconstruction of highly realistic digital models from real-world objects. This paper presents a model-based approach to recover animated models of people from multiple view video images. Two contributions are made, a multiple resolution model-based framework is introduced that combines multiple visual cues in reconstruction. Second, a novel mesh parameterisation is presented to preserve the vertex parameterisation in the model for animation. A prior humanoid surface model is first decomposed into multiple levels of detail and represented as a hierarchical deformable model for image fitting. A novel mesh parameterisation is presented that allows propagation of deformation in the model hierarchy and regularisation of surface deformation to preserve vertex parameterisation and animation structure. The hierarchical model is then used to fuse multiple shape cues from silhouette, stereo and sparse feature data in a coarse-to-fine strategy to recover a model that reproduces the appearance in the images. The framework is compared to physics-based deformable surface fitting at a single resolution, demonstrating an improved reconstruction accuracy against ground-truth data with a reduced model distortion. Results demonstrate realistic modelling of real people with accurate shape and appearance while preserving model structure for use in animation.}
+      \field{journaltitle}{Comput. Vis. Image Underst.}
+      \field{month}{\#aug\#}
+      \field{number}{2}
+      \field{title}{Model-based human shape reconstruction from multiple views}
+      \field{volume}{111}
+      \field{year}{2008}
+      \field{pages}{179\bibrangedash 194}
+      \range{pages}{16}
+      \keyw{Image-based modelling; Deformable model; Multiple resolution mesh; Shape-from-silhouette; Stereo vision; Character animation;litsurvey.bib}
+    \endentry
+    \entry{Steptoe2009}{inproceedings}{}
+      \name{author}{8}{}{%
+        {{hash=84d3653a6aa025ea0636e20047436eb9}{%
+           family={Steptoe},
+           familyi={S\bibinitperiod},
+           given={W},
+           giveni={W\bibinitperiod}}}%
+        {{hash=f9ee432a97bf8da1f48ee325b4801462}{%
+           family={Oyekoya},
+           familyi={O\bibinitperiod},
+           given={O},
+           giveni={O\bibinitperiod}}}%
+        {{hash=a02e1109654bd6921878114da0b228ca}{%
+           family={Murgia},
+           familyi={M\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=35e17c51ed3133996ff7cd5b962349ff}{%
+           family={Wolff},
+           familyi={W\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=eb6c07ba799c84f49e8345345b3e50b4}{%
+           family={Rae},
+           familyi={R\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4982572cd6b3398f3983f1508400571b}{%
+           family={Guimaraes},
+           familyi={G\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=027c89bbec21d03dab7772825169dd35}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b624b55b68ec6becfd1c6e71952ebd61}{%
+           family={Steed},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{d9f5308fe722a6e675192f48579d5791}
+      \strng{fullhash}{83cbe5e0dab23c180f71b6ab7cfc5aaa}
+      \strng{bibnamehash}{d9f5308fe722a6e675192f48579d5791}
+      \strng{authorbibnamehash}{d9f5308fe722a6e675192f48579d5791}
+      \strng{authornamehash}{d9f5308fe722a6e675192f48579d5791}
+      \strng{authorfullhash}{83cbe5e0dab23c180f71b6ab7cfc5aaa}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In face-to-face collaboration, eye gaze is used both as a bidirectional signal to monitor and indicate focus of attention and action, as well as a resource to manage the interaction. In remote interaction supported by immersive collaborative virtual environments (ICVEs), embodied avatars representing and controlled by each participant share a virtual space. We report on a study designed to evaluate methods of avatar eye gaze control during an object-focused puzzle scenario performed between three networked CAVEtrade-like systems. We compare tracked gaze, in which avatars' eyes are controlled by head-mounted mobile eye trackers worn by participants, to a gaze model informed by head orientation for saccade generation, and static gaze featuring non-moving eyes. We analyse task performance, subjective user experience, and interactional behaviour. While not providing statistically significant benefit over static gaze, tracked gaze is observed as the highest performing condition. However, the gaze model resulted in significantly lower task performance and increased error rate.}
+      \field{booktitle}{2009 {IEEE} Virtual Reality Conference}
+      \field{month}{\#mar\#}
+      \field{title}{Eye Tracking for Avatar Eye Gaze Control During {Object-Focused} Multiparty Interaction in Immersive Collaborative Virtual Environments}
+      \field{year}{2009}
+      \field{pages}{83\bibrangedash 90}
+      \range{pages}{8}
+      \keyw{avatars;groupware;human computer interaction;avatar eye gaze control;object-focused multiparty interaction;immersive collaborative virtual environment;face-to-face collaboration;remote interaction;puzzle scenario;head-mounted mobile eye tracking;saccade generation;Avatars;Collaboration;Virtual environment;Eyes;Remote monitoring;Resource management;Design methodology;Control systems;Performance evaluation;Performance analysis;Immersive Collaborative Virtual Environments;Eye Tracking;Avatars;Eye Gaze;Behavioural Realism;I.3.7 [Computer Graphics]: Three-Dimensional Graphics and Realism\?V̀irtual Reality;H.4.3 [Information Systems Applications]: Communications Applications\?C̀omputer conferencing,teleconferencing,and videoconferencing;I.3.7 [Computer Graphics]: Three-Dimensional Graphics and Realism\?Ànimation;litsurvey.bib}
+    \endentry
+    \entry{Steptoe2008}{inproceedings}{}
+      \name{author}{8}{}{%
+        {{hash=d8fc3634fc0a0836c1894da9b75838f0}{%
+           family={Steptoe},
+           familyi={S\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+        {{hash=a0b0e349e986f8d03e8d56e854fd2f02}{%
+           family={Wolff},
+           familyi={W\bibinitperiod},
+           given={Robin},
+           giveni={R\bibinitperiod}}}%
+        {{hash=de8afbd08f4fbe66af783f5d82600ba9}{%
+           family={Murgia},
+           familyi={M\bibinitperiod},
+           given={Alessio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e6f88a6a12411e13be84232535270e6d}{%
+           family={Guimaraes},
+           familyi={G\bibinitperiod},
+           given={Estefania},
+           giveni={E\bibinitperiod}}}%
+        {{hash=681401396c6c063e977ccebb9472713d}{%
+           family={Rae},
+           familyi={R\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a4f8cf2e5b5f8caa62b6fd8b9e4eea3e}{%
+           family={Sharkey},
+           familyi={S\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=86564133883e8d78a1e36e4d91d49c5e}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=2584ff7f6b9e97a051689f203d723fb3}{%
+           family={Steed},
+           familyi={S\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Diego, CA, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{d99ab293f02caca07d2f6d112115dc7e}
+      \strng{fullhash}{0aa6e612508526b4babfcd939afe3f7f}
+      \strng{bibnamehash}{d99ab293f02caca07d2f6d112115dc7e}
+      \strng{authorbibnamehash}{d99ab293f02caca07d2f6d112115dc7e}
+      \strng{authornamehash}{d99ab293f02caca07d2f6d112115dc7e}
+      \strng{authorfullhash}{0aa6e612508526b4babfcd939afe3f7f}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2008 {ACM} conference on Computer supported cooperative work}
+      \field{month}{\#nov\#}
+      \field{series}{CSCW '08}
+      \field{title}{{Eye-tracking for avatar eye-gaze and interactional analysis in immersive collaborative virtual environments}}
+      \field{year}{2008}
+      \field{pages}{197\bibrangedash 200}
+      \range{pages}{4}
+      \keyw{social presence,eye-tracking,eye-gaze,immersive collaborative virtual environments,telecommunication,avatars;litsurvey.bib}
+    \endentry
+    \entry{Stiefelhagen2002}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=c3514fe522675a7dff97151dbfcd1162}{%
+           family={Stiefelhagen},
+           familyi={S\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{c3514fe522675a7dff97151dbfcd1162}
+      \strng{fullhash}{c3514fe522675a7dff97151dbfcd1162}
+      \strng{bibnamehash}{c3514fe522675a7dff97151dbfcd1162}
+      \strng{authorbibnamehash}{c3514fe522675a7dff97151dbfcd1162}
+      \strng{authornamehash}{c3514fe522675a7dff97151dbfcd1162}
+      \strng{authorfullhash}{c3514fe522675a7dff97151dbfcd1162}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The author presents an overview of his work on tracking focus of attention in meeting situations. He has developed a system capable of estimating participants' focus of attention from multiple cues. In the system he employs an omni-directional camera to simultaneously track the faces of participants sitting around a meeting table and uses neural networks to estimate their head poses. In addition, he uses microphones to detect who is speaking. The system predicts participants' focus of attention from acoustic and visual information separately, and then combines the output of the audio- and video-based focus of attention predictors. In addition he reports recent experimental results: In order to determine how well we can predict a subject's focus of attention solely on the basis of his or her head orientation, he has conducted an experiment in which he recorded head and eye orientations of participants in a meeting using special tracking equipment. The results demonstrate that head orientation was a sufficient indicator of the subjects' focus target in 89\% of the time. Furthermore he discusses how the neural networks used to estimate head orientation can be adapted to work in new locations and under new illumination conditions.}
+      \field{booktitle}{Proceedings. Fourth {IEEE} International Conference on Multimodal Interfaces}
+      \field{month}{\#oct\#}
+      \field{title}{Tracking focus of attention in meetings}
+      \field{year}{2002}
+      \field{pages}{273\bibrangedash 280}
+      \range{pages}{8}
+      \keyw{tracking;image motion analysis;neural nets;speech recognition;lighting;user interfaces;focus of attention tracking;meetings;multiple cues;omni-directional camera;neural networks;head pose estimation;microphones;visual information;head orientation;illumination;acoustic information;attention predictors;video;audio;experimental results;Head;Face detection;Focusing;Cameras;Lighting;Competitive intelligence;Humans;Layout;Interactive systems;Laboratories;litsurvey.bib}
+    \endentry
+    \entry{Stiefelhagen2001}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=ef5e729dbb1c49871a5c4d578763ee74}{%
+           family={Stiefelhagen},
+           familyi={S\bibinitperiod},
+           given={Rainer},
+           giveni={R\bibinitperiod}}}%
+        {{hash=4656453b716273b4ea07ab731e9b6dd5}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ee512468e17074b50ab9ee5869969f35}{%
+           family={Waibel},
+           familyi={W\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {ACM}%
+      }
+      \list{location}{1}{%
+        {Orlando, Florida, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{89b476244643bca57ef812c03ef13b10}
+      \strng{fullhash}{89b476244643bca57ef812c03ef13b10}
+      \strng{bibnamehash}{89b476244643bca57ef812c03ef13b10}
+      \strng{authorbibnamehash}{89b476244643bca57ef812c03ef13b10}
+      \strng{authornamehash}{89b476244643bca57ef812c03ef13b10}
+      \strng{authorfullhash}{89b476244643bca57ef812c03ef13b10}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2001 workshop on Perceptive user interfaces}
+      \field{month}{\#nov\#}
+      \field{series}{PUI '01}
+      \field{title}{Estimating focus of attention based on gaze and sound}
+      \field{year}{2001}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \keyw{intelligent environments,meeting analysis,focus of attention,gaze tracking;litsurvey.bib}
+    \endentry
+    \entry{Strait2014}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=8e6a39f92f221bd1da677c254b81303b}{%
+           family={Strait},
+           familyi={S\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9d85f3996d59456443121726a70e6ae8}{%
+           family={Scheutz},
+           familyi={S\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{32f02b1387856ff9e40e6969b7803463}
+      \strng{fullhash}{32f02b1387856ff9e40e6969b7803463}
+      \strng{bibnamehash}{32f02b1387856ff9e40e6969b7803463}
+      \strng{authorbibnamehash}{32f02b1387856ff9e40e6969b7803463}
+      \strng{authornamehash}{32f02b1387856ff9e40e6969b7803463}
+      \strng{authorfullhash}{32f02b1387856ff9e40e6969b7803463}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Uncanny Valley Hypothesis (UVH) describes the sudden change in a person's affect from affinity to aversion that is evoked by robots that border a human-like appearance. The portion of the human-likeness spectrum in which such aversion is posited to occur is referred to as the ``uncanny valley''. However, evidence in support of the UVH is primarily based on subjectively assessed evaluations. Thus it remains an open question as to whether there are behavioral or neurophysiological manifestations of uncanny valley effects. To address this gap in literature, we investigated the activation of the anterior prefrontal cortex (PFC) - a region of the brain associated with emotion regulation - in response to a series of robots with varying human-likeness. We hypothesized that highly human-like robots - which have been found to receive negative subjective attributions - will also elicit increased activity in the PFC versus humans or robots with lesser degrees of human-likeness in accordance with the UVH. Our results show a ``valley'' in brain activity in the PFC corresponding to the valley observed via subjective measures alone, thus suggesting one neural manifestation (the PFC) of uncanny valley effects and further supporting the affective response (aversion) posited to occur by the UVH. However, the results also reveal a second ``uncanny valley'' in prefrontal hemodynamics, which suggests that the effects (and the contributing factors) are more complex than previously understood.}
+      \field{booktitle}{The 23rd {IEEE} International Symposium on Robot and Human Interactive Communication}
+      \field{month}{\#aug\#}
+      \field{title}{Measuring users' responses to humans, robots, and human-like robots with functional near infrared spectroscopy}
+      \field{year}{2014}
+      \field{pages}{1128\bibrangedash 1133}
+      \range{pages}{6}
+      \keyw{humanoid robots;infrared spectroscopy;prefrontal hemodynamics;affective response;neural manifestation;brain activity;PFC versus humans;emotion regulation;anterior prefrontal cortex;uncanny valley effects;neurophysiological manifestations;human-likeness spectrum;human-like appearance;UVH;uncanny valley hypothesis;functional near infrared spectroscopy;human-like robots;user responses;Robots;Hemodynamics;Atmospheric measurements;Particle measurements;Spectroscopy;Visualization;Face;litsurvey.bib}
     \endentry
     \entry{stroukal2018can}{article}{}
       \true{moreauthor}
@@ -6227,6 +7619,47 @@
       \field{pages}{36\bibrangedash 53}
       \range{pages}{18}
     \endentry
+    \entry{Symons2004}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=5c0de69644121b12dc6f65ecd944a16c}{%
+           family={Symons},
+           familyi={S\bibinitperiod},
+           given={Lawrence\bibnamedelima A},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=22e595676144d4b85dd23e562ae68c67}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Kang},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f69421ffb022e24a87fa5620e151535e}{%
+           family={Cedrone},
+           familyi={C\bibinitperiod},
+           given={Caroline\bibnamedelima C},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=20fa2df95f69746b2b71637790607310}{%
+           family={Nishimura},
+           familyi={N\bibinitperiod},
+           given={Mayu},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{736bde54af93fa6d6005b5cbfe20fca8}
+      \strng{fullhash}{aaeaf3eeb2720da5ac5a0763ef35b9a0}
+      \strng{bibnamehash}{736bde54af93fa6d6005b5cbfe20fca8}
+      \strng{authorbibnamehash}{736bde54af93fa6d6005b5cbfe20fca8}
+      \strng{authornamehash}{736bde54af93fa6d6005b5cbfe20fca8}
+      \strng{authorfullhash}{aaeaf3eeb2720da5ac5a0763ef35b9a0}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The authors measured observers' ability to determine direction of gaze toward an object in space. In Experiment 1, they determined the difference threshold for determining whether a live ``looker'' was looking to the left or right of a target point. Acuity for eye direction was quite high (approximately 30 s arc). Viewing the movement of the looker's eyes did not improve acuity. When one of the looker's eyes was occluded, the observers' acuity was disrupted and their point of subjective equality was shifted away from the exposed eye. Experiment 2 was a replication of Experiment 1, but digitized gaze displays were used. The results of Experiment 3 showed that the acuity for direction of gaze depended on the position of the looker's target. Overall, the results indicated that humans are highly sensitive to gaze direction and that information from both eyes is used to determine direction of regard.}
+      \field{title}{What are you looking at? Acuity for triadic eye gaze}
+      \field{volume}{131}
+      \field{year}{2004}
+      \field{pages}{451\bibrangedash 469}
+      \range{pages}{19}
+      \keyw{Adult,Eye Movements,Female,Humans,Interpersonal Relations,Visual Acuity,Visual Perception;litsurvey.bib}
+    \endentry
     \entry{szabo1997formalizing}{article}{}
       \name{author}{1}{}{%
         {{hash=7a8fa37f931a316fe587067d55ea90fb}{%
@@ -6248,6 +7681,447 @@
       \field{journaltitle}{First monday}
       \field{title}{Formalizing and securing relationships on public networks}
       \field{year}{1997}
+    \endentry
+    \entry{Tachi2003}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=7e503ccca58443d8c973aeb451dbc817}{%
+           family={Tachi},
+           familyi={T\bibinitperiod},
+           given={Susumu},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{7e503ccca58443d8c973aeb451dbc817}
+      \strng{fullhash}{7e503ccca58443d8c973aeb451dbc817}
+      \strng{bibnamehash}{7e503ccca58443d8c973aeb451dbc817}
+      \strng{authorbibnamehash}{7e503ccca58443d8c973aeb451dbc817}
+      \strng{authornamehash}{7e503ccca58443d8c973aeb451dbc817}
+      \strng{authorfullhash}{7e503ccca58443d8c973aeb451dbc817}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 5th Virtual Reality International Conference ({VRIC2003}) pp}
+      \field{title}{Telexistence and retro-reflective projection technology ({RPT})}
+      \field{volume}{69}
+      \field{year}{2003}
+      \field{pages}{1\bibrangedash 69}
+      \range{pages}{69}
+      \keyw{litsurvey.bib}
+    \endentry
+    \entry{Tachi2004}{article}{}
+      \name{author}{4}{}{%
+        {{hash=7e503ccca58443d8c973aeb451dbc817}{%
+           family={Tachi},
+           familyi={T\bibinitperiod},
+           given={Susumu},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e832759316a1dc19c9d37ff5c55fdf74}{%
+           family={Kawakami},
+           familyi={K\bibinitperiod},
+           given={Naoki},
+           giveni={N\bibinitperiod}}}%
+        {{hash=e186aca228c222fae783ec37b53a154d}{%
+           family={Inami},
+           familyi={I\bibinitperiod},
+           given={Masahiko},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b27658caa21aaf4667a8f9647469367e}{%
+           family={Zaitsu},
+           familyi={Z\bibinitperiod},
+           given={Yoshitaka},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {World Scientific Publishing Co.}%
+      }
+      \strng{namehash}{c2521f165d0de5a08079a143c9193433}
+      \strng{fullhash}{1351977324d0f46912d5ef94c9055061}
+      \strng{bibnamehash}{c2521f165d0de5a08079a143c9193433}
+      \strng{authorbibnamehash}{c2521f165d0de5a08079a143c9193433}
+      \strng{authornamehash}{c2521f165d0de5a08079a143c9193433}
+      \strng{authorfullhash}{1351977324d0f46912d5ef94c9055061}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Telexistence is fundamentally a concept named for the technology that enables a human being to have a real-time sensation of being at a place other than where he or she actually is, and to interact with the remote environment, which may be real, virtual, or a combination of both. It also refers to an advanced type of teleoperation system that enables an operator at the controls to perform remote tasks dexterously with the feeling of existing in a surrogate robot. Although conventional telexistence systems provide an operator the real-time sensation of being in a remote environment, persons in the remote environment have only the sensation that a surrogate robot is present, not the operator. Mutual telexistence aims to solve this problem so that the existence of the operator is apparent to persons in the remote environment by providing mutual sensations of presence. This paper proposes a method of mutual telexistence using projection technology with retro-reflective objects, and describes experimental hardware constructed to demonstrate the feasibility of the proposed method.}
+      \field{journaltitle}{Int. J. Humanoid Rob.}
+      \field{month}{\#mar\#}
+      \field{number}{01}
+      \field{title}{{MUTUAL} {TELEXISTENCE} {SYSTEM} {USING} {RETRO-REFLECTIVE} {PROJECTION} {TECHNOLOGY}}
+      \field{volume}{01}
+      \field{year}{2004}
+      \field{pages}{45\bibrangedash 64}
+      \range{pages}{20}
+      \keyw{litsurvey.bib}
+    \endentry
+    \entry{Tang2006}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=d40bbfaa08c4d334f7db220898692040}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+        {{hash=795a99893c2a080a084deb26e429696e}{%
+           family={Tory},
+           familyi={T\bibinitperiod},
+           given={Melanie},
+           giveni={M\bibinitperiod}}}%
+        {{hash=084dda1920e15e4d0b808c49b40e4673}{%
+           family={Po},
+           familyi={P\bibinitperiod},
+           given={Barry},
+           giveni={B\bibinitperiod}}}%
+        {{hash=8193cbbeb32e4a2ab7f7e3fd51ec990a}{%
+           family={Neumann},
+           familyi={N\bibinitperiod},
+           given={Petra},
+           giveni={P\bibinitperiod}}}%
+        {{hash=7392c87f336887365212b906f7e36640}{%
+           family={Carpendale},
+           familyi={C\bibinitperiod},
+           given={Sheelagh},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {ACM}%
+      }
+      \list{location}{1}{%
+        {Montréal, Québec, Canada}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{2cab72ebdb4620955f7a148a0de21b38}
+      \strng{fullhash}{807a3e83905ce4f44afd57bf70bb1d20}
+      \strng{bibnamehash}{2cab72ebdb4620955f7a148a0de21b38}
+      \strng{authorbibnamehash}{2cab72ebdb4620955f7a148a0de21b38}
+      \strng{authornamehash}{2cab72ebdb4620955f7a148a0de21b38}
+      \strng{authorfullhash}{807a3e83905ce4f44afd57bf70bb1d20}
+      \field{extraname}{1}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
+      \field{month}{\#apr\#}
+      \field{series}{CHI '06}
+      \field{title}{Collaborative coupling over tabletop displays}
+      \field{year}{2006}
+      \field{pages}{1181\bibrangedash 1190}
+      \range{pages}{10}
+      \keyw{mixed focus collaboration,coordination,collaborative coupling,collaborative tabletop displays,single display groupware;litsurvey.bib}
+    \endentry
+    \entry{Tang2010}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=d40bbfaa08c4d334f7db220898692040}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d5d2e74ef74eef1ff393e0477d891523}{%
+           family={Pahud},
+           familyi={P\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0e3f2e4008eae58f045d17d431e2227c}{%
+           family={Inkpen},
+           familyi={I\bibinitperiod},
+           given={Kori},
+           giveni={K\bibinitperiod}}}%
+        {{hash=2c511d23516d76038744bfd9895fd71d}{%
+           family={Benko},
+           familyi={B\bibinitperiod},
+           given={Hrvoje},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f1d27ea74ac8ef0c7241b81fc87ab984}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={John\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=93299a02e7b94c43debf02ca6980dd79}{%
+           family={Buxton},
+           familyi={B\bibinitperiod},
+           given={Bill},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {ACM}%
+      }
+      \list{location}{1}{%
+        {Savannah, Georgia, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{2cab72ebdb4620955f7a148a0de21b38}
+      \strng{fullhash}{b8eec3291043ce138170200dd9532428}
+      \strng{bibnamehash}{2cab72ebdb4620955f7a148a0de21b38}
+      \strng{authorbibnamehash}{2cab72ebdb4620955f7a148a0de21b38}
+      \strng{authornamehash}{2cab72ebdb4620955f7a148a0de21b38}
+      \strng{authorfullhash}{b8eec3291043ce138170200dd9532428}
+      \field{extraname}{2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2010 {ACM} conference on Computer supported cooperative work}
+      \field{month}{\#feb\#}
+      \field{series}{CSCW '10}
+      \field{title}{Three's company: understanding communication channels in three-way distributed collaboration}
+      \field{year}{2010}
+      \field{pages}{271\bibrangedash 280}
+      \range{pages}{10}
+      \keyw{tabletop,media space,video-mediated communication,shared workspace;litsurvey.bib}
+    \endentry
+    \entry{Tang2013}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=f1d27ea74ac8ef0c7241b81fc87ab984}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={John\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=4a67b2cfdea06a9ccec17195cc5498de}{%
+           family={Xiao},
+           familyi={X\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=494b1717414c207faa4e7e7bbc93d221}{%
+           family={Hoff},
+           familyi={H\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod}}}%
+        {{hash=511cfeb00ded619971daafa25754678b}{%
+           family={Venolia},
+           familyi={V\bibinitperiod},
+           given={Gina},
+           giveni={G\bibinitperiod}}}%
+        {{hash=e566e1391644cfa3731f5300dd9eb010}{%
+           family={Therien},
+           familyi={T\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=55215f88c1145a34d6d303b83db49e14}{%
+           family={Roseway},
+           familyi={R\bibinitperiod},
+           given={Asta},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {ACM}%
+      }
+      \list{location}{1}{%
+        {Paris, France}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{5a05f45f756506a759bd93e8374e2ed6}
+      \strng{fullhash}{c32d145d3c1e01a95e54aebebaa3355c}
+      \strng{bibnamehash}{5a05f45f756506a759bd93e8374e2ed6}
+      \strng{authorbibnamehash}{5a05f45f756506a759bd93e8374e2ed6}
+      \strng{authornamehash}{5a05f45f756506a759bd93e8374e2ed6}
+      \strng{authorfullhash}{c32d145d3c1e01a95e54aebebaa3355c}
+      \field{extraname}{3}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
+      \field{month}{\#apr\#}
+      \field{series}{CHI '13}
+      \field{title}{{HomeProxy}: exploring a physical proxy for video communication in the home}
+      \field{year}{2013}
+      \field{pages}{1339\bibrangedash 1342}
+      \range{pages}{4}
+      \keyw{asynchronous video,home,physical proxies,video chat;litsurvey.bib}
+    \endentry
+    \entry{Troje1998}{article}{}
+      \name{author}{2}{}{%
+        {{hash=74aabd8d697675355804584276b79ec9}{%
+           family={Troje},
+           familyi={T\bibinitperiod},
+           given={N\bibnamedelima F},
+           giveni={N\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=83a47324e680ccf379c5cbd34f0d787f}{%
+           family={Siebeck},
+           familyi={S\bibinitperiod},
+           given={U},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications}%
+      }
+      \strng{namehash}{64303ce3b898e229c15cbb449e217a04}
+      \strng{fullhash}{64303ce3b898e229c15cbb449e217a04}
+      \strng{bibnamehash}{64303ce3b898e229c15cbb449e217a04}
+      \strng{authorbibnamehash}{64303ce3b898e229c15cbb449e217a04}
+      \strng{authornamehash}{64303ce3b898e229c15cbb449e217a04}
+      \strng{authorfullhash}{64303ce3b898e229c15cbb449e217a04}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Changing the position of a light source illuminating a human face induces an apparent shift of the perceived orientation of that face. The direction of this apparent shift is opposite to the shift of the light source. We demonstrated the illumination-induced apparent orientation shift (IAOS), quantified it in terms of the physical orientation shift needed to compensate for it, and evaluated the results in the context of possible mechanisms underlying orientation judgment. Results indicate that IAOS depends not only on the angle between the two light source positions, but also on the mean orientation of the face. Availability of cues coded in the visual texture of the face did not affect IAOS. The most effective cue was the location of the visible outline of the face. IAOS seems to be due to a shift of this outline when shadowed areas on the face merge with the black background. We conclude that an important mechanism for orientation judgment is based on a comparison of visible parts left and right of the profile line.}
+      \field{journaltitle}{Perception}
+      \field{number}{6}
+      \field{title}{Illumination-induced apparent shift in orientation of human heads}
+      \field{volume}{27}
+      \field{year}{1998}
+      \field{pages}{671\bibrangedash 680}
+      \range{pages}{10}
+      \keyw{litsurvey.bib}
+    \endentry
+    \entry{Tse2007}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=71019316eb33686736e0ca4b63915460}{%
+           family={Tse},
+           familyi={T\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod}}}%
+        {{hash=afd726d6941957394b38cd785611b77d}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Chia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=235c46d06eaf0fbe7ff9c72d756b03a9}{%
+           family={Greenberg},
+           familyi={G\bibinitperiod},
+           given={Saul},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e0468b73f9a60e0ff111ff13b107fa48}{%
+           family={Forlines},
+           familyi={F\bibinitperiod},
+           given={Clifton},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {ACM}%
+      }
+      \list{location}{1}{%
+        {San Jose, California, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{590b0bab4b1f51f3711f5b6bedd1ef37}
+      \strng{fullhash}{f44406746a48e0f420078e41b97a55a1}
+      \strng{bibnamehash}{590b0bab4b1f51f3711f5b6bedd1ef37}
+      \strng{authorbibnamehash}{590b0bab4b1f51f3711f5b6bedd1ef37}
+      \strng{authornamehash}{590b0bab4b1f51f3711f5b6bedd1ef37}
+      \strng{authorfullhash}{f44406746a48e0f420078e41b97a55a1}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
+      \field{month}{\#apr\#}
+      \field{series}{CHI '07}
+      \field{title}{How pairs interact over a multimodal digital table}
+      \field{year}{2007}
+      \field{pages}{215\bibrangedash 218}
+      \range{pages}{4}
+      \keyw{digital tables,speech,gestures,multimodal interaction;litsurvey.bib}
+    \endentry
+    \entry{Tsui2012}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=e5523e01580cc3d2511df692717b0a0a}{%
+           family={Tsui},
+           familyi={T\bibinitperiod},
+           given={Katherine\bibnamedelima M},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=36243c7dc1c1e55685bc49004bada72d}{%
+           family={Desai},
+           familyi={D\bibinitperiod},
+           given={Munjal},
+           giveni={M\bibinitperiod}}}%
+        {{hash=82db4480f4e9276c89b68afd2e8cfed3}{%
+           family={Yanco},
+           familyi={Y\bibinitperiod},
+           given={Holly\bibnamedelima A},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {ACM}%
+      }
+      \list{location}{1}{%
+        {College Park, Maryland}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{45fc6bda299c194994f30d1930bbf772}
+      \strng{fullhash}{45fc6bda299c194994f30d1930bbf772}
+      \strng{bibnamehash}{45fc6bda299c194994f30d1930bbf772}
+      \strng{authorbibnamehash}{45fc6bda299c194994f30d1930bbf772}
+      \strng{authornamehash}{45fc6bda299c194994f30d1930bbf772}
+      \strng{authorfullhash}{45fc6bda299c194994f30d1930bbf772}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Workshop on Performance Metrics for Intelligent Systems}
+      \field{month}{\#mar\#}
+      \field{series}{PerMIS '12}
+      \field{title}{Towards measuring the quality of interaction: communication through telepresence robots}
+      \field{year}{2012}
+      \field{pages}{101\bibrangedash 108}
+      \range{pages}{8}
+      \keyw{human-computer interaction,embodied video-mediated communication,human-robot interaction;litsurvey.bib}
+    \endentry
+    \entry{Tsui2011}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=e5523e01580cc3d2511df692717b0a0a}{%
+           family={Tsui},
+           familyi={T\bibinitperiod},
+           given={Katherine\bibnamedelima M},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=36243c7dc1c1e55685bc49004bada72d}{%
+           family={Desai},
+           familyi={D\bibinitperiod},
+           given={Munjal},
+           giveni={M\bibinitperiod}}}%
+        {{hash=82db4480f4e9276c89b68afd2e8cfed3}{%
+           family={Yanco},
+           familyi={Y\bibinitperiod},
+           given={Holly\bibnamedelima A},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=7fd911e0f9f6bd36107c728ff1d6b298}{%
+           family={Uhlik},
+           familyi={U\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {IEEE}%
+      }
+      \list{location}{1}{%
+        {Lausanne, Switzerland}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{31acf57401c069923f0a01fe20ef1d6a}
+      \strng{fullhash}{9acb37476607d456b589c70051beb074}
+      \strng{bibnamehash}{31acf57401c069923f0a01fe20ef1d6a}
+      \strng{authorbibnamehash}{31acf57401c069923f0a01fe20ef1d6a}
+      \strng{authornamehash}{31acf57401c069923f0a01fe20ef1d6a}
+      \strng{authorfullhash}{9acb37476607d456b589c70051beb074}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 6th international conference on Human-robot interaction}
+      \field{month}{\#mar\#}
+      \field{series}{HRI '11}
+      \field{title}{Exploring use cases for telepresence robots}
+      \field{year}{2011}
+      \field{pages}{11\bibrangedash 18}
+      \range{pages}{8}
+      \keyw{video conferencing,teleoperation,remote presence;litsurvey.bib}
     \endentry
     \entry{cypherPunkMailList}{misc}{}
       \name{author}{1}{}{%
@@ -6273,6 +8147,279 @@
       \verb{url}
       \verb https://mailing-list-archive.cryptoanarchy.wiki
       \endverb
+    \endentry
+    \entry{Vertegaal2002}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=0bc9b8eb2f86ec2ccdc986a6e106dbd0}{%
+           family={Vertegaal},
+           familyi={V\bibinitperiod},
+           given={Roel},
+           giveni={R\bibinitperiod}}}%
+        {{hash=1b3a5cb66517b8edfd1471227739840a}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Yaping},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {IEEE}%
+      }
+      \list{location}{1}{%
+        {New Orleans, Louisiana, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{eb70307e62db6258bb3f70899bc5c339}
+      \strng{fullhash}{eb70307e62db6258bb3f70899bc5c339}
+      \strng{bibnamehash}{eb70307e62db6258bb3f70899bc5c339}
+      \strng{authorbibnamehash}{eb70307e62db6258bb3f70899bc5c339}
+      \strng{authornamehash}{eb70307e62db6258bb3f70899bc5c339}
+      \strng{authorfullhash}{eb70307e62db6258bb3f70899bc5c339}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2002 {ACM} conference on Computer supported cooperative work}
+      \field{month}{\#nov\#}
+      \field{series}{CSCW '02}
+      \field{title}{Explaining effects of eye gaze on mediated group conversations: amount or synchronization?}
+      \field{year}{2002}
+      \field{pages}{41\bibrangedash 48}
+      \range{pages}{8}
+      \keyw{gaze,eye tracking,avatars,attentive interfaces,agents,multiparty mediated communication;litsurvey.bib}
+    \endentry
+    \entry{Vertegaal2001}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=0bc9b8eb2f86ec2ccdc986a6e106dbd0}{%
+           family={Vertegaal},
+           familyi={V\bibinitperiod},
+           given={Roel},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3023ca4687e8a80a00439abe5bfc96b9}{%
+           family={Slagter},
+           familyi={S\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=68b857b374009de301f6f5a060d291eb}{%
+           family={Veer},
+           familyi={V\bibinitperiod},
+           given={Gerrit},
+           giveni={G\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=502bc6b9f3abf9e924285aa3910e08cd}{%
+           family={Nijholt},
+           familyi={N\bibinitperiod},
+           given={Anton},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Seattle, Washington, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{3c6467577ad4f8de2af8dc68e7c9e1d1}
+      \strng{fullhash}{90a501aa7f495a179aa64fa6f6f4fea6}
+      \strng{bibnamehash}{3c6467577ad4f8de2af8dc68e7c9e1d1}
+      \strng{authorbibnamehash}{3c6467577ad4f8de2af8dc68e7c9e1d1}
+      \strng{authornamehash}{3c6467577ad4f8de2af8dc68e7c9e1d1}
+      \strng{authorfullhash}{90a501aa7f495a179aa64fa6f6f4fea6}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
+      \field{month}{\#mar\#}
+      \field{series}{CHI '01}
+      \field{title}{Eye gaze patterns in conversations: there is more to conversational agents than meets the eyes}
+      \field{year}{2001}
+      \field{pages}{301\bibrangedash 308}
+      \range{pages}{8}
+      \keyw{attention-based interfaces,attentive agents,communication,conversational attention,eye tracking,gaze,multiparty; multiparty communication; tracking;litsurvey.bib}
+    \endentry
+    \entry{Vishwanath2005}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=c7f50f5555731dbb4657cd28bba25059}{%
+           family={Vishwanath},
+           familyi={V\bibinitperiod},
+           given={Dhanraj},
+           giveni={D\bibinitperiod}}}%
+        {{hash=02c2b9f20188e6c382aeededa7c3a572}{%
+           family={Girshick},
+           familyi={G\bibinitperiod},
+           given={Ahna\bibnamedelima R},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=9aedef0b48c2fdd36bb3122136b3e8da}{%
+           family={Banks},
+           familyi={B\bibinitperiod},
+           given={Martin\bibnamedelima S},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{3750619fbe2292f61d67a5e9d876fe38}
+      \strng{fullhash}{3750619fbe2292f61d67a5e9d876fe38}
+      \strng{bibnamehash}{3750619fbe2292f61d67a5e9d876fe38}
+      \strng{authorbibnamehash}{3750619fbe2292f61d67a5e9d876fe38}
+      \strng{authornamehash}{3750619fbe2292f61d67a5e9d876fe38}
+      \strng{authorfullhash}{3750619fbe2292f61d67a5e9d876fe38}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Why pictures look right when viewed from the wrong place}
+      \field{volume}{8}
+      \field{year}{2005}
+      \field{pages}{1401\bibrangedash 1410}
+      \range{pages}{10}
+      \keyw{litsurvey.bib}
+    \endentry
+    \entry{Voida2012}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=c823c8b89169412ea42c703f424fecf9}{%
+           family={Voida},
+           familyi={V\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod}}}%
+        {{hash=46057756c7decb704cfff0baef79cab5}{%
+           family={Bos},
+           familyi={B\bibinitperiod},
+           given={Nathan},
+           giveni={N\bibinitperiod}}}%
+        {{hash=ff3c9f6b75f49b735a94e18cfde4ee41}{%
+           family={Olson},
+           familyi={O\bibinitperiod},
+           given={Judith},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f1c2351dfcb7b8a9db391d669a3da19d}{%
+           family={Olson},
+           familyi={O\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod}}}%
+        {{hash=8de4dffea93610dd00a582b071eba171}{%
+           family={Dunning},
+           familyi={D\bibinitperiod},
+           given={Lauren},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {ACM}%
+      }
+      \list{location}{1}{%
+        {Austin, Texas, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{3fc053852ef509cc963e3083172c8351}
+      \strng{fullhash}{851b35155854611e8abf90853f317bd7}
+      \strng{bibnamehash}{3fc053852ef509cc963e3083172c8351}
+      \strng{authorbibnamehash}{3fc053852ef509cc963e3083172c8351}
+      \strng{authornamehash}{3fc053852ef509cc963e3083172c8351}
+      \strng{authorfullhash}{851b35155854611e8abf90853f317bd7}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
+      \field{month}{\#may\#}
+      \field{series}{CHI '12}
+      \field{title}{Cross-cutting faultlines of location and shared identity in the intergroup cooperation of partially distributed groups}
+      \field{year}{2012}
+      \field{pages}{3101\bibrangedash 3110}
+      \range{pages}{10}
+      \keyw{shared identity,faultline,partially distributed work,intergroup cooperation;litsurvey.bib}
+    \endentry
+    \entry{Waizenegger2011}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=4e01ce8686e11138dbe44cf621e2a9b6}{%
+           family={Waizenegger},
+           familyi={W\bibinitperiod},
+           given={W},
+           giveni={W\bibinitperiod}}}%
+        {{hash=02e0503e9c03e12d5b3f9f2fbb67a869}{%
+           family={Atzpadin},
+           familyi={A\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f80ee1f3bdf37f0875722416fea2b451}{%
+           family={Schreer},
+           familyi={S\bibinitperiod},
+           given={O},
+           giveni={O\bibinitperiod}}}%
+        {{hash=98ac4440a93c47621c261da17bcbdc0b}{%
+           family={Feldmann},
+           familyi={F\bibinitperiod},
+           given={I},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{f4228a25a64dc768c6bb9f0d9d697eca}
+      \strng{fullhash}{580571b523c8d1db0ab6dac0ad5b4e9c}
+      \strng{bibnamehash}{f4228a25a64dc768c6bb9f0d9d697eca}
+      \strng{authorbibnamehash}{f4228a25a64dc768c6bb9f0d9d697eca}
+      \strng{authornamehash}{f4228a25a64dc768c6bb9f0d9d697eca}
+      \strng{authorfullhash}{580571b523c8d1db0ab6dac0ad5b4e9c}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents a novel real-time approach for robust high precision and high quality depth estimation. It extends recent work on real-time Patch-Sweeping by combining the advantages of a robust hybrid stereo-based disparity estimator with the high accuracy of the Patch-Sweeping approach. It over- comes limitations of the existing Patch-Sweep approach, such as limited search range. Further, it implicitly benefits from the high robustness as well as time consistency of the disparity estimator. The presented overall algorithmic system concept introduces a powerful alternative to traditional real-time depth estimation approaches. Additionally, the proposed algorithmic structures allow a high degree of parallelization. Based on this, the computational effort could be efficiently balanced between GPU and CPU processing. The target platform of the proposed algorithmic chain is a real-time immersive 3D video communication system which requires highly accurate 3D estimation results for a high quality virtual eye contact generation.}
+      \field{booktitle}{2011 18th {IEEE} International Conference on Image Processing}
+      \field{month}{\#sep\#}
+      \field{title}{Patch-sweeping with robust prior for high precision depth estimation in real-time systems}
+      \field{year}{2011}
+      \field{pages}{881\bibrangedash 884}
+      \range{pages}{4}
+      \keyw{estimation theory;graphics processing units;multiprocessing systems;real-time systems;solid modelling;stereo image processing;video communication;robust high precision;robust high quality depth estimation;real-time patch sweeping approach;robust hybrid stereo-based disparity estimator;search range;time consistency;overall algorithmic system;high parallelization degree;GPU processing;CPU processing;real-time immersive 3D video communication system;high quality virtual eye contact generation;3D estimation;Three dimensional displays;Real time systems;Streaming media;Estimation;Robustness;Cameras;Conferences;Patch sweeping;HRM;Depth estimation;3D Video Communication;Real-time;GPGPU;Cuda;litsurvey.bib}
+    \endentry
+    \entry{Wilson2000}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=1752c104557bcd72f737f416c649674d}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Hugh\bibnamedelima R},
+           giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=786869f1818d1b2b4881f6e1188cd5a1}{%
+           family={Wilkinson},
+           familyi={W\bibinitperiod},
+           given={Frances},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e5ea77ad811faf226abdebd59a3b7b3e}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Li-Ming},
+           giveni={L\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=fc763d3e47d886e709e107a1fef943b1}{%
+           family={Castillo},
+           familyi={C\bibinitperiod},
+           given={Maja},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{08e88983fada14a869fb42cd53ca94c8}
+      \strng{fullhash}{4ddbfa72270f375c7abe280edfcc0742}
+      \strng{bibnamehash}{08e88983fada14a869fb42cd53ca94c8}
+      \strng{authorbibnamehash}{08e88983fada14a869fb42cd53ca94c8}
+      \strng{authornamehash}{08e88983fada14a869fb42cd53ca94c8}
+      \strng{authorfullhash}{4ddbfa72270f375c7abe280edfcc0742}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Perception of head orientation}
+      \field{volume}{40}
+      \field{year}{2000}
+      \field{pages}{459\bibrangedash 472}
+      \range{pages}{14}
+      \keyw{litsurvey.bib}
     \endentry
     \entry{Wolff2008}{inproceedings}{}
       \name{author}{8}{}{%
@@ -6339,6 +8486,80 @@
       \range{pages}{8}
       \keyw{biology computing;eye;virtual reality;eye gaze;EyeCVE;tele-presence system;avatar representations;nonverbal communication;physical locations;eye movements;Cameras;Videoconference;Avatars;Video sharing;Virtual environment;Humans;Eyes;Head;Focusing;Displays;litsurvey.bib}
     \endentry
+    \entry{Wollaston1824}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=cc81f1ba9e38dd4a7d6a338a8dbf0b71}{%
+           family={Wollaston},
+           familyi={W\bibinitperiod},
+           given={William\bibnamedelima Hyde},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{cc81f1ba9e38dd4a7d6a338a8dbf0b71}
+      \strng{fullhash}{cc81f1ba9e38dd4a7d6a338a8dbf0b71}
+      \strng{bibnamehash}{cc81f1ba9e38dd4a7d6a338a8dbf0b71}
+      \strng{authorbibnamehash}{cc81f1ba9e38dd4a7d6a338a8dbf0b71}
+      \strng{authornamehash}{cc81f1ba9e38dd4a7d6a338a8dbf0b71}
+      \strng{authorfullhash}{cc81f1ba9e38dd4a7d6a338a8dbf0b71}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{On the apparent direction of eyes in a portrait}
+      \field{year}{1824}
+      \field{pages}{247\bibrangedash 256}
+      \range{pages}{10}
+      \keyw{litsurvey.bib}
+    \endentry
+    \entry{Yendo2010}{article}{}
+      \name{author}{4}{}{%
+        {{hash=5651d261d67e20469da9a266e2c96652}{%
+           family={Yendo},
+           familyi={Y\bibinitperiod},
+           given={Tomohiro},
+           giveni={T\bibinitperiod}}}%
+        {{hash=aa621f54fa35d7bc560c88ff83c92651}{%
+           family={Fujii},
+           familyi={F\bibinitperiod},
+           given={Toshiaki},
+           giveni={T\bibinitperiod}}}%
+        {{hash=58b9d289eca9c9a0bbb0395c5f742749}{%
+           family={Tanimoto},
+           familyi={T\bibinitperiod},
+           given={Masayuki},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fdc5b11c25b1fb8bad45d243e87e2428}{%
+           family={Panahpour\bibnamedelima Tehrani},
+           familyi={P\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Mehrdad},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{1b85fcab5884d8c61f808c12a19b92b9}
+      \strng{fullhash}{fb4fec093531e7124bc243e573d311e5}
+      \strng{bibnamehash}{1b85fcab5884d8c61f808c12a19b92b9}
+      \strng{authorbibnamehash}{1b85fcab5884d8c61f808c12a19b92b9}
+      \strng{authornamehash}{1b85fcab5884d8c61f808c12a19b92b9}
+      \strng{authorfullhash}{fb4fec093531e7124bc243e573d311e5}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We propose a 3D video display technique that allows multiple viewers to see 3D images from a 360-degree horizontal arc without wearing 3D glasses. This technique uses a cylindrical parallax barrier and a one-dimensional light source array. We have developed an experimental display system using this technique. Since this technique is based on the parallax panoramagram, the parallax number and resolution are limited by the diffraction at the parallax barrier. In order to solve this problem, we improved the technique by revolving the parallax barrier. The improved technique was incorporated into two experimental display systems. The newer one is capable of displaying 3D color video images within a 200-mm diameter and a 256-mm height. Images have a resolution of 1254 circumferential pixels and 256 vertical pixels, and are refreshed at 30Hz. Each pixel has a viewing angle of 60 degrees that is divided into over 70 views so that the angular parallax interval of each pixel is less than 1 degree. These pixels are arranged on a cylindrical surface to allow for the produced 3D images to be observed from all directions. In this case, observers may barely perceive the discrete parallax.}
+      \field{journaltitle}{J. Vis. Commun. Image Represent.}
+      \field{month}{\#jul\#}
+      \field{number}{5}
+      \field{title}{The Seelinder: Cylindrical {3D} display viewable from 360 degrees}
+      \field{volume}{21}
+      \field{year}{2010}
+      \field{pages}{586\bibrangedash 594}
+      \range{pages}{9}
+      \keyw{Autostereoscopic display; Multi-view; Omnidirectional; Ray-space; Light field; Parallax barrier;litsurvey.bib}
+    \endentry
     \entry{zabka2022short}{article}{}
       \name{author}{4}{}{%
         {{hash=0929c3eef927003b10ff044b1786c2d3}{%
@@ -6374,6 +8595,57 @@
       \field{labeltitlesource}{title}
       \field{title}{Short Paper: A Centrality Analysis of the Lightning Network}
       \field{year}{2022}
+    \endentry
+    \entry{Zillner2014}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=6d82a8d1d58ee41e5871655e51b0b321}{%
+           family={Zillner},
+           familyi={Z\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod}}}%
+        {{hash=70efa21aa4d24061e93300c8df0a64ad}{%
+           family={Rhemann},
+           familyi={R\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=19d80a2a01693de3631decaa652d4d3f}{%
+           family={Izadi},
+           familyi={I\bibinitperiod},
+           given={Shahram},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c8862e8d9c35c57433ef39acd5444865}{%
+           family={Haller},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {ACM}%
+      }
+      \list{location}{1}{%
+        {Honolulu, Hawaii, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{61536c1d787c1ae3941c274a198ae82c}
+      \strng{fullhash}{40eef0669f40e0d21deb6f93beaf8057}
+      \strng{bibnamehash}{61536c1d787c1ae3941c274a198ae82c}
+      \strng{authorbibnamehash}{61536c1d787c1ae3941c274a198ae82c}
+      \strng{authornamehash}{61536c1d787c1ae3941c274a198ae82c}
+      \strng{authorfullhash}{40eef0669f40e0d21deb6f93beaf8057}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 27th annual {ACM} symposium on User interface software and technology}
+      \field{month}{\#oct\#}
+      \field{series}{UIST '14}
+      \field{title}{3D-board: a whole-body remote collaborative whiteboard}
+      \field{year}{2014}
+      \field{pages}{471\bibrangedash 479}
+      \range{pages}{9}
+      \keyw{interactive whiteboard,reconstruction,remote collaboration,shared workspace,teleconferencing;litsurvey.bib}
     \endentry
   \enddatalist
   \missing{2002}
@@ -6424,65 +8696,18 @@
   \missing{Pan2012a}
   \missing{Pan2014a}
   \missing{Park1999}
-  \missing{Paulos1998}
-  \missing{Pejsa2016}
   \missing{Petit2010}
   \missing{Petit:2008tva}
-  \missing{Raskar1998}
   \missing{Raskar2001a}
-  \missing{Regenbrecht2015}
-  \missing{Rienks2010}
-  \missing{Rivera-Gutierrez2012}
-  \missing{Roberts2003}
-  \missing{Roberts2005}
-  \missing{Roberts2012}
-  \missing{Roberts2013}
-  \missing{Roberts2015}
-  \missing{Sadagic2001}
-  \missing{Sakamoto2007}
-  \missing{Schrammel2007}
-  \missing{Schreer2005}
   \missing{Schreer:2008ty}
-  \missing{Schroeder2001}
-  \missing{Schuemie2001}
-  \missing{Sermon2000}
-  \missing{Slater1999}
-  \missing{Slater2004}
-  \missing{Slovak2009}
-  \missing{Starck2003}
-  \missing{Starck2008}
-  \missing{Steptoe2008}
-  \missing{Steptoe2009}
   \missing{Steptoe2010a}
   \missing{Steptoe2010b}
-  \missing{Stiefelhagen2001}
-  \missing{Stiefelhagen2002}
   \missing{Stiefelhagen:2002:HOG:506443.506634}
-  \missing{Strait2014}
-  \missing{Symons2004}
-  \missing{Tachi2003}
-  \missing{Tachi2004}
-  \missing{Tang2006}
-  \missing{Tang2010}
-  \missing{Tang2013}
-  \missing{Troje1998}
-  \missing{Tse2007}
-  \missing{Tsui2011}
-  \missing{Tsui2012}
   \missing{Usoh2000a}
   \missing{Vertegaal00effectsof}
-  \missing{Vertegaal2001}
-  \missing{Vertegaal2002}
   \missing{Vertegaal2003}
-  \missing{Vishwanath2005}
-  \missing{Voida2012}
-  \missing{Waizenegger2011}
-  \missing{Wilson2000}
-  \missing{Wollaston1824}
   \missing{Yee2007a}
-  \missing{Yendo2010}
   \missing{Zhang2013a}
-  \missing{Zillner2014}
   \missing{argyle1976gaze}
   \missing{buxton1992telepresence}
   \missing{doi:10.1080/01449299508914633}
