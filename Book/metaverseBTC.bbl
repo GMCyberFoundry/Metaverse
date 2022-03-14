@@ -305,6 +305,31 @@
       \range{pages}{8}
       \keyw{floor management,audio space,conversation analysis;litsurvey.bib}
     \endentry
+    \entry{Argyle1988}{book}{}
+      \name{author}{1}{}{%
+        {{hash=471852a6e38018e79130628828fc61c4}{%
+           family={Argyle},
+           familyi={A\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Methuen}%
+      }
+      \strng{namehash}{471852a6e38018e79130628828fc61c4}
+      \strng{fullhash}{471852a6e38018e79130628828fc61c4}
+      \strng{bibnamehash}{471852a6e38018e79130628828fc61c4}
+      \strng{authorbibnamehash}{471852a6e38018e79130628828fc61c4}
+      \strng{authornamehash}{471852a6e38018e79130628828fc61c4}
+      \strng{authorfullhash}{471852a6e38018e79130628828fc61c4}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bodily communication}
+      \field{year}{1988}
+      \keyw{litsurvey.bib}
+    \endentry
     \entry{Argyle1976}{book}{}
       \name{author}{2}{}{%
         {{hash=471852a6e38018e79130628828fc61c4}{%
@@ -3809,6 +3834,38 @@
       \field{title}{Cryptocurrency Is Garbage. So Is Blockchain.}
       \field{year}{2020}
     \endentry
+    \entry{Goodwin2000}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ddd3acbf8201f1b0324e16ffb16d828e}{%
+           family={Goodwin},
+           familyi={G\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{ddd3acbf8201f1b0324e16ffb16d828e}
+      \strng{fullhash}{ddd3acbf8201f1b0324e16ffb16d828e}
+      \strng{bibnamehash}{ddd3acbf8201f1b0324e16ffb16d828e}
+      \strng{authorbibnamehash}{ddd3acbf8201f1b0324e16ffb16d828e}
+      \strng{authornamehash}{ddd3acbf8201f1b0324e16ffb16d828e}
+      \strng{authorfullhash}{ddd3acbf8201f1b0324e16ffb16d828e}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A theory of action must come to terms with both the details of language use and the way in which the social, cultural, material and sequential structure of the environment where action occurs figure into its organization. In this paper it will be suggested that a primordial site for the analysis of human language, cognition, and action consists of a situation in which multiple participants are attempting to carry out courses of action in concert with each other through talk while attending to both the larger activities that their current actions are ambedded within, and relevant phenomena in their surround. Using as data video recordings of young girls playing hopscotch and archaeologists classifying color, it will be argued that human action is built throught the simultaneous deployment of a range of quite different kinds of semiotic resources. Talk itself contains multiple sign systems with alternative properties. Strips of talk gain their power as social action via their placement within larger sequential structures, encompassing activities, and participation frameworks constituted through displays of mutual orientation made by the actors' bodies. The body is used in a quite different way to perform gesture, again a class of phenomena that encompasses structurally different types of sign systems. Both talk and gesture can index, construe or treat as irrelevant, entities in the participants' surround. Moreover, material structure in the surround, such as graphic fields of various types, can provide semiotic structure without which the constitution of particular kinds of action being invoked through talk would be impossible. In brief it will be argued that the construction of action through talk within situated interaction is accomplished through the temporally unfolding juxtaposition of quite different kinds of semiotic resources, and that moreover through this process the human body is made publicly visible as the site for a range of structurally different kinds of displays implicated in the constitution of the actions of the moment.}
+      \field{journaltitle}{J. Pragmat.}
+      \field{month}{\#sep\#}
+      \field{number}{10}
+      \field{title}{Action and embodiment within situated human interaction}
+      \field{volume}{32}
+      \field{year}{2000}
+      \field{pages}{1489\bibrangedash 1522}
+      \range{pages}{34}
+      \keyw{Theory of action; Conversation analysis; Talk-in-interaction; Embodiment; Gestures; Semiotic fields;litsurvey.bib}
+    \endentry
     \entry{Grau2007}{inproceedings}{}
       \name{author}{5}{}{%
         {{hash=deab1af73b71442fde018ad8d4922e6c}{%
@@ -5122,6 +5179,30 @@
       \field{pages}{52\bibrangedash 57}
       \range{pages}{6}
     \endentry
+    \entry{katagiri2007aiduti}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=62b1f0564bc7fd0f8c16251a2ad046c0}{%
+           family={Katagiri},
+           familyi={K\bibinitperiod},
+           given={Yasuhiro},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{62b1f0564bc7fd0f8c16251a2ad046c0}
+      \strng{fullhash}{62b1f0564bc7fd0f8c16251a2ad046c0}
+      \strng{bibnamehash}{62b1f0564bc7fd0f8c16251a2ad046c0}
+      \strng{authorbibnamehash}{62b1f0564bc7fd0f8c16251a2ad046c0}
+      \strng{authornamehash}{62b1f0564bc7fd0f8c16251a2ad046c0}
+      \strng{authorfullhash}{62b1f0564bc7fd0f8c16251a2ad046c0}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Workshop on Embodied Language Processing}
+      \field{title}{Aiduti in Japanese multi-party design conversations}
+      \field{year}{2007}
+      \field{pages}{9\bibrangedash 16}
+      \range{pages}{8}
+    \endentry
     \entry{Kauff2002}{inproceedings}{}
       \name{author}{2}{}{%
         {{hash=6c29097715f40af6aaa5d30893022563}{%
@@ -5249,6 +5330,40 @@
       \field{pages}{2531\bibrangedash 2540}
       \range{pages}{10}
       \keyw{motion parallax,cylindrical display,videoconference,organic user interfaces,3d video,telepresence;litsurvey.bib}
+    \endentry
+    \entry{Kleinke1986}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ca0b408c89659857617600c16e4f05f1}{%
+           family={Kleinke},
+           familyi={K\bibinitperiod},
+           given={C\bibnamedelima L},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{ca0b408c89659857617600c16e4f05f1}
+      \strng{fullhash}{ca0b408c89659857617600c16e4f05f1}
+      \strng{bibnamehash}{ca0b408c89659857617600c16e4f05f1}
+      \strng{authorbibnamehash}{ca0b408c89659857617600c16e4f05f1}
+      \strng{authornamehash}{ca0b408c89659857617600c16e4f05f1}
+      \strng{authorfullhash}{ca0b408c89659857617600c16e4f05f1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychol. Bull.}
+      \field{month}{\#jul\#}
+      \field{number}{1}
+      \field{title}{Gaze and eye contact: a research review}
+      \field{volume}{100}
+      \field{year}{1986}
+      \field{pages}{78\bibrangedash 100}
+      \range{pages}{23}
+      \keyw{litsurvey.bib}
     \endentry
     \entry{Kleinsmith2013}{article}{}
       \name{author}{2}{}{%
@@ -9402,6 +9517,36 @@
       \range{pages}{4}
       \keyw{asynchronous video,home,physical proxies,video chat;litsurvey.bib}
     \endentry
+    \entry{Ting-Toomey2012}{book}{}
+      \name{author}{2}{}{%
+        {{hash=c558f2de09687a8bfaa7fffd55be3807}{%
+           family={Ting-Toomey},
+           familyi={T\bibinithyphendelim T\bibinitperiod},
+           given={Stella},
+           giveni={S\bibinitperiod}}}%
+        {{hash=97ac32ac178c0cae4d784c8ad23c8eae}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={Leeva\bibnamedelima C},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press New York, NY}%
+      }
+      \strng{namehash}{beb5d1b85a16a873d421626d97f55054}
+      \strng{fullhash}{beb5d1b85a16a873d421626d97f55054}
+      \strng{bibnamehash}{beb5d1b85a16a873d421626d97f55054}
+      \strng{authorbibnamehash}{beb5d1b85a16a873d421626d97f55054}
+      \strng{authornamehash}{beb5d1b85a16a873d421626d97f55054}
+      \strng{authorfullhash}{beb5d1b85a16a873d421626d97f55054}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Understanding intercultural communication}
+      \field{year}{2012}
+      \keyw{litsurvey.bib}
+    \endentry
     \entry{Troje1998}{article}{}
       \name{author}{2}{}{%
         {{hash=74aabd8d697675355804584276b79ec9}{%
@@ -10294,7 +10439,6 @@
   \missing{3dlightfield}
   \missing{6162881}
   \missing{6790745}
-  \missing{AlMoubayed2012}
   \missing{Argyle}
   \missing{Bandyopadhyay}
   \missing{Baren}
@@ -10325,7 +10469,6 @@
   \missing{Hu:1986ww}
   \missing{JSID:JSID295}
   \missing{Jetter2011a}
-  \missing{Katagiri2007}
   \missing{Kauff2002a}
   \missing{Kleinke1986a}
   \missing{Kuster2012a}
@@ -10362,6 +10505,7 @@
   \missing{Vertegaal2003}
   \missing{Yee2007a}
   \missing{Zhang2013a}
+  \missing{argyle1976}
   \missing{argyle1976gaze}
   \missing{bailenson2003interpersonal}
   \missing{berger1975some}
@@ -10384,7 +10528,7 @@
   \missing{jones2009headspin}
   \missing{jouppi2002mutually}
   \missing{lamboray2005data}
-  \missing{loomis2012sensory}
+  \missing{loomis2012}
   \missing{norman2002psychopathology}
   \missing{o2018telethrone}
   \missing{ohba1998facial}
@@ -10395,10 +10539,8 @@
   \missing{risko2011eyes}
   \missing{rosenthal1947two}
   \missing{schiano2004categorical}
-  \missing{skychange}
   \missing{steinmeyer2013science}
   \missing{tay2008updatable}
-  \missing{ting2012understanding}
   \missing{tuddenham2009territorial}
 \endrefsection
 \endinput

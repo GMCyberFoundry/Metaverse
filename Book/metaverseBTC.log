@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  14 MAR 2022 12:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  14 MAR 2022 13:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1378,13 +1378,6 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                AlMoubayed2012
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                Argyle
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
@@ -1589,13 +1582,6 @@ Package biblatex Warning: The following entry could not be found
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
 (biblatex)                Jetter2011a
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Katagiri2007
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1854,6 +1840,13 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
+(biblatex)                argyle1976
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
 (biblatex)                argyle1976gaze
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
@@ -2008,7 +2001,7 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                loomis2012sensory
+(biblatex)                loomis2012
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -2085,13 +2078,6 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                skychange
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                steinmeyer2013science
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
@@ -2100,13 +2086,6 @@ Package biblatex Warning: The following entry could not be found
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
 (biblatex)                tay2008updatable
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                ting2012understanding
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -2425,138 +2404,133 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--60
 <Images//settlement2021.jpg, id=1273, 899.36pt x 634.37pt>
 File: Images//settlement2021.jpg Graphic file (type jpg)
 <use Images//settlement2021.jpg>
-Package pdftex.def Info: Images//settlement2021.jpg  used on input line 69.
+Package pdftex.def Info: Images//settlement2021.jpg  used on input line 70.
 (pdftex.def)             Requested size: 426.79135pt x 301.03848pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--77
+Underfull \hbox (badness 10000) in paragraph at lines 63--78
 
  []
 
 [34]
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
 <Images//gource.png, id=1302, 1016.1162pt x 242.1045pt>
 File: Images//gource.png Graphic file (type png)
 <use Images//gource.png>
-Package pdftex.def Info: Images//gource.png  used on input line 82.
+Package pdftex.def Info: Images//gource.png  used on input line 83.
 (pdftex.def)             Requested size: 426.79135pt x 101.69058pt.
-[35 <./Images//settlement2021.jpg>]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35 <./Images//settlement2021.jpg>]
 <Images//ECDSA.png, id=1318, 981.6675pt x 984.67876pt>
 File: Images//ECDSA.png Graphic file (type png)
 <use Images//ECDSA.png>
-Package pdftex.def Info: Images//ECDSA.png  used on input line 96.
+Package pdftex.def Info: Images//ECDSA.png  used on input line 97.
 (pdftex.def)             Requested size: 426.79135pt x 428.0914pt.
  [36 <./Images//gource.png>] [37 <./Images//ECDSA.png (PNG copy)>]
 <Images//energyNYT.png, id=1342, 1204.5pt x 677.53125pt>
 File: Images//energyNYT.png Graphic file (type png)
 <use Images//energyNYT.png>
-Package pdftex.def Info: Images//energyNYT.png  used on input line 109.
+Package pdftex.def Info: Images//energyNYT.png  used on input line 110.
 (pdftex.def)             Requested size: 426.79135pt x 240.07556pt.
-<Images//miningshare.png, id=1350, 378.91562pt x 273.02pt>
+
+Underfull \vbox (badness 1917) has occurred while \output is active []
+
+ [38 <./Images//energyNYT.png>]
+<Images//miningshare.png, id=1365, 378.91562pt x 273.02pt>
 File: Images//miningshare.png Graphic file (type png)
 <use Images//miningshare.png>
-Package pdftex.def Info: Images//miningshare.png  used on input line 119.
+Package pdftex.def Info: Images//miningshare.png  used on input line 125.
 (pdftex.def)             Requested size: 426.79135pt x 307.52168pt.
-<Images//goldmanvgold.jpg, id=1367, 1174.3875pt x 890.32625pt>
+<Images//goldmanvgold.jpg, id=1382, 1174.3875pt x 890.32625pt>
 File: Images//goldmanvgold.jpg Graphic file (type jpg)
 <use Images//goldmanvgold.jpg>
-Package pdftex.def Info: Images//goldmanvgold.jpg  used on input line 127.
+Package pdftex.def Info: Images//goldmanvgold.jpg  used on input line 133.
 (pdftex.def)             Requested size: 426.79135pt x 323.5603pt.
- [38 <./Images//energyNYT.png>] [39 <./Images//miningshare.png>] [40 <./Images/
-/goldmanvgold.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 158--159
+ [39 <./Images//miningshare.png>] [40 <./Images//goldmanvgold.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--162
+Underfull \hbox (badness 10000) in paragraph at lines 166--168
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--169
-
- []
-
-[41]
-Underfull \hbox (badness 10000) in paragraph at lines 178--180
-
- []
-
-<Images//lightningAdoption.jpg, id=1422, 423.83344pt x 572.1375pt>
-File: Images//lightningAdoption.jpg Graphic file (type jpg)
-<use Images//lightningAdoption.jpg>
-Package pdftex.def Info: Images//lightningAdoption.jpg  used on input line 189.
-
-(pdftex.def)             Requested size: 426.79135pt x 576.15193pt.
-[42] [43 <./Images//lightningAdoption.jpg>]
-<Images//LnBitsPoS.png, id=1449, 291.18788pt x 508.90125pt>
-File: Images//LnBitsPoS.png Graphic file (type png)
-<use Images//LnBitsPoS.png>
-Package pdftex.def Info: Images//LnBitsPoS.png  used on input line 213.
-(pdftex.def)             Requested size: 341.43437pt x 596.77875pt.
-
-Underfull \vbox (badness 1881) has occurred while \output is active []
-
- [44]
-[45 <./Images//LnBitsPoS.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [46]
-Underfull \hbox (badness 10000) in paragraph at lines 244--249
+ [41]
+Underfull \hbox (badness 10000) in paragraph at lines 173--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--186
+
+ []
+
+[42]
+<Images//lightningAdoption.jpg, id=1435, 423.83344pt x 572.1375pt>
+File: Images//lightningAdoption.jpg Graphic file (type jpg)
+<use Images//lightningAdoption.jpg>
+Package pdftex.def Info: Images//lightningAdoption.jpg  used on input line 195.
+
+(pdftex.def)             Requested size: 426.79135pt x 576.15193pt.
+<Images//LnBitsPoS.png, id=1451, 291.18788pt x 508.90125pt>
+File: Images//LnBitsPoS.png Graphic file (type png)
+<use Images//LnBitsPoS.png>
+Package pdftex.def Info: Images//LnBitsPoS.png  used on input line 219.
+(pdftex.def)             Requested size: 341.43437pt x 596.77875pt.
+ [43] [44 <./Images//lightningAdoption.jpg>] [45 <./Images//LnBitsPoS.png (PNG 
+copy)>] [46]
+Underfull \hbox (badness 10000) in paragraph at lines 250--255
 
  []
 
 [47]
-Underfull \hbox (badness 10000) in paragraph at lines 287--289
-
- []
-
-
-Underfull \vbox (badness 6708) has occurred while \output is active []
+Underfull \vbox (badness 3861) has occurred while \output is active []
 
  [48]
-Underfull \hbox (badness 10000) in paragraph at lines 338--342
+Underfull \hbox (badness 10000) in paragraph at lines 293--295
+
+ []
+
+[49]
+Underfull \hbox (badness 10000) in paragraph at lines 344--348
 
  []
 
 
-Underfull \vbox (badness 1635) has occurred while \output is active []
-
- [49]
-
 LaTeX Warning: Reference `https://gist.github.com/RubenSomsen/96505e99dc061d6af
-6b757ff74434e70' on page 50 undefined on input line 354.
+6b757ff74434e70' on page 50 undefined on input line 360.
 
 
 LaTeX Warning: Reference `https://gist.github.com/RubenSomsen/c9f0a92493e06b0e2
-9acced61ca9f49a' on page 50 undefined on input line 354.
+9acced61ca9f49a' on page 50 undefined on input line 360.
 
-<Images//messariICO.jpg, id=1506, 963.6pt x 542.025pt>
+<Images//messariICO.jpg, id=1513, 963.6pt x 542.025pt>
 File: Images//messariICO.jpg Graphic file (type jpg)
 <use Images//messariICO.jpg>
-Package pdftex.def Info: Images//messariICO.jpg  used on input line 363.
+Package pdftex.def Info: Images//messariICO.jpg  used on input line 369.
 (pdftex.def)             Requested size: 426.79135pt x 240.06314pt.
 [50]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [51 <./Images//messariICO.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 395--397
+Underfull \hbox (badness 10000) in paragraph at lines 401--403
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 408--410
+[52]
+Underfull \hbox (badness 10000) in paragraph at lines 414--416
 
  []
 
-
-Underfull \vbox (badness 4072) has occurred while \output is active []
-
- [52])
-[53] [54
+) [53] [54
 
 ]
 Chapter 4.
@@ -2588,7 +2562,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 127--128
 
  []
 
-<Images//BitcoinShareOfMoney.jpg, id=1606, 2862.695pt x 1575.8875pt>
+<Images//BitcoinShareOfMoney.jpg, id=1613, 2862.695pt x 1575.8875pt>
 File: Images//BitcoinShareOfMoney.jpg Graphic file (type jpg)
 <use Images//BitcoinShareOfMoney.jpg>
 Package pdftex.def Info: Images//BitcoinShareOfMoney.jpg  used on input line 13
@@ -2617,7 +2591,7 @@ Package pdftex.def Info: Images//orange2.jpg  used on input line 189.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [65]
-<Images//DID.jpg, id=1644, 843.90282pt x 585.68813pt>
+<Images//DID.jpg, id=1651, 843.90282pt x 585.68813pt>
 File: Images//DID.jpg Graphic file (type jpg)
 <use Images//DID.jpg>
 Package pdftex.def Info: Images//DID.jpg  used on input line 20.
@@ -2672,7 +2646,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--9
 
  []
 
-<Images//muskWeb3.png, id=1705, 408.02437pt x 168.63pt>
+<Images//muskWeb3.png, id=1712, 408.02437pt x 168.63pt>
 File: Images//muskWeb3.png Graphic file (type png)
 <use Images//muskWeb3.png>
 Package pdftex.def Info: Images//muskWeb3.png  used on input line 12.
@@ -2685,549 +2659,516 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--8
 [73
 
 ]
-
-LaTeX Warning: Citation 'skychange' on page 74 undefined on input line 9.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 9--13
 
  []
 
-[74 <./Images//muskWeb3.png>]
+[74 <./Images//muskWeb3.png>] [75]
 
-LaTeX Warning: Citation 'AlMoubayed2012' on page 75 undefined on input line 16.
-
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--19
-
- []
+LaTeX Warning: Citation 'loomis2012' on page 76 undefined on input line 48.
 
 
-LaTeX Warning: Citation 'Argyle' on page 75 undefined on input line 22.
-
-
-LaTeX Warning: Citation 'Kleinke1986a' on page 75 undefined on input line 41.
-
-
-LaTeX Warning: Citation 'ting2012understanding' on page 75 undefined on input l
-ine 42.
-
-
-LaTeX Warning: Citation 'Katagiri2007' on page 75 undefined on input line 44.
-
-
-LaTeX Warning: Citation 'loomis2012sensory' on page 75 undefined on input line 
-45.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--46
-
- []
-
-[75]
-
-LaTeX Warning: Citation 'Goodwin2000a' on page 76 undefined on input line 47.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--49
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
 
  []
 
 
-LaTeX Warning: Citation 'Argyle' on page 76 undefined on input line 59.
-
-
-LaTeX Warning: Citation 'argyle1976gaze' on page 76 undefined on input line 59.
-
+LaTeX Warning: Citation 'argyle1976' on page 76 undefined on input line 63.
 
 
 LaTeX Warning: Citation 'Vertegaal00effectsof' on page 76 undefined on input li
-ne 60.
+ne 64.
 
 
-LaTeX Warning: Citation 'Colburn2000a' on page 76 undefined on input line 62.
+LaTeX Warning: Citation 'Colburn2000a' on page 76 undefined on input line 66.
 
 
 LaTeX Warning: Citation 'doi:10.1080/713755908' on page 76 undefined on input l
-ine 66.
+ine 70.
 
 
-LaTeX Warning: Citation 'Eijk2010' on page 76 undefined on input line 68.
+LaTeX Warning: Citation 'Eijk2010' on page 76 undefined on input line 72.
 
 
-LaTeX Warning: Citation 'Steptoe2010a' on page 76 undefined on input line 70.
+LaTeX Warning: Citation 'Steptoe2010a' on page 76 undefined on input line 74.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--72
+Underfull \hbox (badness 10000) in paragraph at lines 63--76
 
  []
-
-[76]
-
-LaTeX Warning: Citation 'argyle1976gaze' on page 77 undefined on input line 73.
-
-
-
-LaTeX Warning: Citation 'Argyle' on page 77 undefined on input line 73.
-
-
-LaTeX Warning: Citation 'Kleinke1986a' on page 77 undefined on input line 74.
-
-
-LaTeX Warning: Citation 'Vertegaal00effectsof' on page 77 undefined on input li
-ne 81.
-
-
-LaTeX Warning: Citation 'john2001use' on page 77 undefined on input line 82.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [76]
+
+LaTeX Warning: Citation 'argyle1976gaze' on page 77 undefined on input line 77.
+
+
+
+LaTeX Warning: Citation 'Argyle' on page 77 undefined on input line 77.
+
+
+LaTeX Warning: Citation 'Kleinke1986a' on page 77 undefined on input line 78.
+
+
+Underfull \vbox (badness 2478) has occurred while \output is active []
+
  [77]
 
+LaTeX Warning: Citation 'Vertegaal00effectsof' on page 78 undefined on input li
+ne 85.
+
+
+LaTeX Warning: Citation 'john2001use' on page 78 undefined on input line 86.
+
+
 LaTeX Warning: Citation 'Stiefelhagen:2002:HOG:506443.506634' on page 78 undefi
-ned on input line 87.
+ned on input line 91.
 
 
-LaTeX Warning: Citation 'Langton2000a' on page 78 undefined on input line 88.
+LaTeX Warning: Citation 'Langton2000a' on page 78 undefined on input line 92.
 
 
-Overfull \hbox (0.59625pt too wide) in paragraph at lines 86--93
+Overfull \hbox (0.59625pt too wide) in paragraph at lines 90--97
 \T1/ptm/m/n/10.95 (-20) 68.9% to the over-all gaze di-rec-tion on av-er-age'' [
 []], though
  []
 
 
-LaTeX Warning: Citation 'Kleinke1986a' on page 78 undefined on input line 94.
+LaTeX Warning: Citation 'Kleinke1986a' on page 78 undefined on input line 98.
 
 
-LaTeX Warning: Citation 'Kleinke1986a' on page 78 undefined on input line 94.
-
-
-LaTeX Warning: Citation 'schiano2004categorical' on page 78 undefined on input 
-line 98.
-
-
-LaTeX Warning: Citation 'ohba1998facial' on page 78 undefined on input line 98.
-
-
-
-LaTeX Warning: Citation 'Hofmann20061683' on page 78 undefined on input line 98
-.
-
-
-LaTeX Warning: Citation 'Argyle' on page 78 undefined on input line 100.
-
-
-LaTeX Warning: Citation '10.2307/40971262' on page 78 undefined on input line 1
-01.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 97--103
-
- []
+LaTeX Warning: Citation 'Kleinke1986a' on page 78 undefined on input line 98.
 
 [78]
 
-LaTeX Warning: Citation 'Murray2009a' on page 79 undefined on input line 105.
+LaTeX Warning: Citation 'schiano2004categorical' on page 79 undefined on input 
+line 102.
 
-<Images//murrayeyegaze.jpg, id=1874, 377.15906pt x 241.65282pt>
+
+LaTeX Warning: Citation 'ohba1998facial' on page 79 undefined on input line 102
+.
+
+
+LaTeX Warning: Citation 'Hofmann20061683' on page 79 undefined on input line 10
+2.
+
+
+LaTeX Warning: Citation 'Argyle' on page 79 undefined on input line 104.
+
+
+LaTeX Warning: Citation '10.2307/40971262' on page 79 undefined on input line 1
+05.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--107
+
+ []
+
+
+LaTeX Warning: Citation 'Murray2009a' on page 79 undefined on input line 109.
+
+<Images//murrayeyegaze.jpg, id=1890, 377.15906pt x 241.65282pt>
 File: Images//murrayeyegaze.jpg Graphic file (type jpg)
 <use Images//murrayeyegaze.jpg>
-Package pdftex.def Info: Images//murrayeyegaze.jpg  used on input line 108.
+Package pdftex.def Info: Images//murrayeyegaze.jpg  used on input line 112.
 (pdftex.def)             Requested size: 426.79135pt x 273.45166pt.
 
-LaTeX Warning: Citation 'Argyle' on page 79 undefined on input line 115.
-
-
-LaTeX Warning: Citation 'Hofmann20061683' on page 79 undefined on input line 11
-5.
-
-
-LaTeX Warning: Citation '6790745' on page 79 undefined on input line 116.
-
-
-LaTeX Warning: Citation 'bailenson2003interpersonal' on page 79 undefined on in
-put line 116.
-
-
-LaTeX Warning: Citation '6790745' on page 79 undefined on input line 116.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 LaTeX Warning: Citation 'Argyle' on page 79 undefined on input line 119.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--120
+LaTeX Warning: Citation 'Hofmann20061683' on page 79 undefined on input line 11
+9.
+
+
+LaTeX Warning: Citation '6790745' on page 79 undefined on input line 120.
+
+
+LaTeX Warning: Citation 'bailenson2003interpersonal' on page 79 undefined on in
+put line 120.
+
+
+LaTeX Warning: Citation '6790745' on page 79 undefined on input line 120.
+
+
+LaTeX Warning: Citation 'Argyle' on page 79 undefined on input line 123.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--124
 
  []
 
-
-Underfull \vbox (badness 1796) has occurred while \output is active []
-
- [79 <./Images//murrayeyegaze.jpg>]
+[79]
 
 LaTeX Warning: Citation 'carlston2013oxford' on page 80 undefined on input line
- 121.
+ 125.
 
 
-LaTeX Warning: Citation 'Argyle' on page 80 undefined on input line 125.
+LaTeX Warning: Citation 'Argyle' on page 80 undefined on input line 129.
 
 
 LaTeX Warning: Citation 'Hofmann20061683' on page 80 undefined on input line 12
-5.
+9.
 
 
-LaTeX Warning: Citation 'Pan2008a' on page 80 undefined on input line 125.
+LaTeX Warning: Citation 'Pan2008a' on page 80 undefined on input line 129.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--131
+Underfull \hbox (badness 10000) in paragraph at lines 125--135
 
  []
 
-[80]
+[80 <./Images//murrayeyegaze.jpg>]
 
-LaTeX Warning: Citation 'berger1975some' on page 81 undefined on input line 133
+LaTeX Warning: Citation 'berger1975some' on page 81 undefined on input line 137
 .
 
 
-LaTeX Warning: Citation 'Parsons922' on page 81 undefined on input line 136.
+LaTeX Warning: Citation 'Parsons922' on page 81 undefined on input line 140.
 
 
-LaTeX Warning: Citation 'risko2011eyes' on page 81 undefined on input line 137.
+LaTeX Warning: Citation 'risko2011eyes' on page 81 undefined on input line 141.
 
 
 
 LaTeX Warning: Citation 'porter2008reading' on page 81 undefined on input line 
-144.
+148.
 
 
-LaTeX Warning: Citation 'Steptoe2010b' on page 81 undefined on input line 144.
-
-
-LaTeX Warning: Citation '2015' on page 81 undefined on input line 148.
-
-
-LaTeX Warning: Citation 'jouppi2002mutually' on page 81 undefined on input line
- 149.
-
-[81]
-
-LaTeX Warning: Citation 'O'Malley1996' on page 82 undefined on input line 151.
-
-
-LaTeX Warning: Citation 'Dourish1993' on page 82 undefined on input line 152.
-
-
-LaTeX Warning: Citation 'Eijk2010' on page 82 undefined on input line 153.
-
-
-LaTeX Warning: Citation 'Sellen1992a' on page 82 undefined on input line 154.
-
-
-LaTeX Warning: Citation 'Sellen1995a' on page 82 undefined on input line 154.
-
-
-LaTeX Warning: Citation 'Kuster2012b' on page 82 undefined on input line 159.
-
-
-LaTeX Warning: Citation 'CiscoSystems' on page 82 undefined on input line 166.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 162--170
-
- []
+LaTeX Warning: Citation 'Steptoe2010b' on page 81 undefined on input line 148.
 
 
 Underfull \vbox (badness 1540) has occurred while \output is active []
 
- [82]
+ [81]
 
-LaTeX Warning: Citation 'heeter1992being' on page 83 undefined on input line 18
-6.
+LaTeX Warning: Citation '2015' on page 82 undefined on input line 152.
+
+
+LaTeX Warning: Citation 'jouppi2002mutually' on page 82 undefined on input line
+ 153.
+
+
+LaTeX Warning: Citation 'O'Malley1996' on page 82 undefined on input line 155.
+
+
+LaTeX Warning: Citation 'Dourish1993' on page 82 undefined on input line 156.
+
+
+LaTeX Warning: Citation 'Eijk2010' on page 82 undefined on input line 157.
+
+
+LaTeX Warning: Citation 'Sellen1992a' on page 82 undefined on input line 158.
+
+
+LaTeX Warning: Citation 'Sellen1995a' on page 82 undefined on input line 158.
+
+
+LaTeX Warning: Citation 'Kuster2012b' on page 82 undefined on input line 163.
+
+
+LaTeX Warning: Citation 'CiscoSystems' on page 82 undefined on input line 170.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--174
+
+ []
+
+[82]
+
+LaTeX Warning: Citation 'heeter1992being' on page 83 undefined on input line 19
+0.
 
 
 LaTeX Warning: Citation 'doi:10.1080/01449299508914633' on page 83 undefined on
- input line 186.
+ input line 190.
 
 
-LaTeX Warning: Citation 'fulk1987social' on page 83 undefined on input line 186
+LaTeX Warning: Citation 'fulk1987social' on page 83 undefined on input line 190
 .
 
 
 LaTeX Warning: Citation 'haythornthwaite1995work' on page 83 undefined on input
- line 186.
+ line 190.
 
 
-LaTeX Warning: Citation 'Biocca2003a' on page 83 undefined on input line 189.
+LaTeX Warning: Citation 'Biocca2003a' on page 83 undefined on input line 193.
 
 
 LaTeX Warning: Citation 'jouppi2002mutually' on page 83 undefined on input line
- 191.
+ 195.
 
 
-Overfull \hbox (19.93236pt too wide) in paragraph at lines 186--193
+Overfull \hbox (19.93236pt too wide) in paragraph at lines 190--197
 \T1/ptm/m/n/10.95 (-20) other", and de-scribes the au-to-matic re-sponses to co
 m-plex so-cial cues [[],
  []
 
 [83]
 
-LaTeX Warning: Citation 'Usoh2000a' on page 84 undefined on input line 206.
+LaTeX Warning: Citation 'Usoh2000a' on page 84 undefined on input line 210.
 
 
-LaTeX Warning: Citation 'Baren' on page 84 undefined on input line 208.
+LaTeX Warning: Citation 'Baren' on page 84 undefined on input line 212.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--214
+Underfull \hbox (badness 10000) in paragraph at lines 216--218
 
  []
-
-
-LaTeX Warning: Citation 'steinmeyer2013science' on page 84 undefined on input l
-ine 218.
-
-
-LaTeX Warning: Citation 'rosenthal1947two' on page 84 undefined on input line 2
-18.
-
-
-LaTeX Warning: Citation 'buxton1992telepresence' on page 84 undefined on input 
-line 218.
-
-
-LaTeX Warning: Citation 'Vertegaal2003' on page 84 undefined on input line 219.
-
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [84]
-Underfull \hbox (badness 10000) in paragraph at lines 222--224
+
+LaTeX Warning: Citation 'steinmeyer2013science' on page 85 undefined on input l
+ine 222.
+
+
+LaTeX Warning: Citation 'rosenthal1947two' on page 85 undefined on input line 2
+22.
+
+
+LaTeX Warning: Citation 'buxton1992telepresence' on page 85 undefined on input 
+line 222.
+
+
+LaTeX Warning: Citation 'Vertegaal2003' on page 85 undefined on input line 223.
+
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--228
 
  []
 
 
-LaTeX Warning: Citation 'Buxton1992a' on page 85 undefined on input line 227.
+LaTeX Warning: Citation 'Buxton1992a' on page 85 undefined on input line 231.
 
 
-LaTeX Warning: Citation 'Norris2013a' on page 85 undefined on input line 231.
+LaTeX Warning: Citation 'Norris2013a' on page 85 undefined on input line 235.
 
 
 LaTeX Warning: Citation 'tuddenham2009territorial' on page 85 undefined on inpu
-t line 233.
+t line 237.
 
 
-LaTeX Warning: Citation 'Jetter2011a' on page 85 undefined on input line 234.
+LaTeX Warning: Citation 'Jetter2011a' on page 85 undefined on input line 238.
 
-[85]
-Underfull \hbox (badness 10000) in paragraph at lines 238--242
+
+Underfull \vbox (badness 8132) has occurred while \output is active []
+
+ [85]
+Underfull \hbox (badness 10000) in paragraph at lines 242--246
 
  []
 
 
-LaTeX Warning: Citation 'Kauff2002a' on page 86 undefined on input line 244.
+LaTeX Warning: Citation 'Kauff2002a' on page 86 undefined on input line 248.
 
 
-LaTeX Warning: Citation 'Fuchs:2002ww' on page 86 undefined on input line 244.
+LaTeX Warning: Citation 'Fuchs:2002ww' on page 86 undefined on input line 248.
 
 
 LaTeX Warning: Citation 'jones2009headspin' on page 86 undefined on input line 
-244.
+248.
 
 
-LaTeX Warning: Citation 'Okada:1994et' on page 86 undefined on input line 245.
+LaTeX Warning: Citation 'Okada:1994et' on page 86 undefined on input line 249.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--246
+Underfull \hbox (badness 10000) in paragraph at lines 247--250
 
  []
 
-
-Underfull \vbox (badness 1540) has occurred while \output is active []
-
- [86]
-Underfull \hbox (badness 10000) in paragraph at lines 248--251
+[86]
+Underfull \hbox (badness 10000) in paragraph at lines 252--255
 
  []
 
 
 LaTeX Warning: Citation 'gotsch2018telehuman2' on page 87 undefined on input li
-ne 253.
+ne 257.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 256--257
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
 
  []
 
 
-LaTeX Warning: Citation 'Bartneck2009a' on page 87 undefined on input line 261.
+LaTeX Warning: Citation 'Bartneck2009a' on page 87 undefined on input line 265.
 
 
 
-LaTeX Warning: Citation 'Yee2007a' on page 87 undefined on input line 266.
+LaTeX Warning: Citation 'Yee2007a' on page 87 undefined on input line 270.
 
 
 LaTeX Warning: Citation 'Ho:2010:RUV:1853385.1853509' on page 87 undefined on i
-nput line 267.
+nput line 271.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--269
+Underfull \hbox (badness 10000) in paragraph at lines 264--273
 
  []
 
 [87]
 
-LaTeX Warning: Citation 'Lee2011b' on page 88 undefined on input line 272.
+LaTeX Warning: Citation 'Lee2011b' on page 88 undefined on input line 276.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--276
+Underfull \hbox (badness 10000) in paragraph at lines 276--280
 
  []
 
 
-LaTeX Warning: Citation 'Lincoln:2010it' on page 88 undefined on input line 279
+LaTeX Warning: Citation 'Lincoln:2010it' on page 88 undefined on input line 283
 .
 
 
-LaTeX Warning: Citation 'Raskar2001a' on page 88 undefined on input line 279.
+LaTeX Warning: Citation 'Raskar2001a' on page 88 undefined on input line 283.
 
 
-LaTeX Warning: Citation 'Lee2011b' on page 88 undefined on input line 279.
+LaTeX Warning: Citation 'Lee2011b' on page 88 undefined on input line 283.
 
 
 LaTeX Warning: Citation 'pan2014comparing' on page 88 undefined on input line 2
-79.
+83.
 
 
-LaTeX Warning: Citation 'Pan2012a' on page 88 undefined on input line 279.
+LaTeX Warning: Citation 'Pan2012a' on page 88 undefined on input line 283.
 
 
-LaTeX Warning: Citation 'Pan2014a' on page 88 undefined on input line 279.
+LaTeX Warning: Citation 'Pan2014a' on page 88 undefined on input line 283.
 
 
-LaTeX Warning: Citation 'Nagendran' on page 88 undefined on input line 280.
+LaTeX Warning: Citation 'Nagendran' on page 88 undefined on input line 284.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--282
+Underfull \hbox (badness 10000) in paragraph at lines 283--286
 
  []
 
 
-LaTeX Warning: Citation 'projectionmappingweb2013' on page 88 undefined on inpu
-t line 285.
+Underfull \vbox (badness 2165) has occurred while \output is active []
+
+ [88]
+
+LaTeX Warning: Citation 'projectionmappingweb2013' on page 89 undefined on inpu
+t line 289.
 
 
-LaTeX Warning: Citation 'Low2001' on page 88 undefined on input line 285.
+LaTeX Warning: Citation 'Low2001' on page 89 undefined on input line 289.
 
 
-LaTeX Warning: Citation 'Raskar2001a' on page 88 undefined on input line 285.
+LaTeX Warning: Citation 'Raskar2001a' on page 89 undefined on input line 289.
 
 
-LaTeX Warning: Citation 'googleStatsProjectionMapping' on page 88 undefined on 
-input line 285.
+LaTeX Warning: Citation 'googleStatsProjectionMapping' on page 89 undefined on 
+input line 289.
 
 
-LaTeX Warning: Citation 'Raskar2001a' on page 88 undefined on input line 286.
+LaTeX Warning: Citation 'Raskar2001a' on page 89 undefined on input line 290.
 
 
-LaTeX Warning: Citation 'Bandyopadhyay' on page 88 undefined on input line 287.
+LaTeX Warning: Citation 'Bandyopadhyay' on page 89 undefined on input line 291.
 
 
 
-LaTeX Warning: Citation 'Lincoln:2010it' on page 88 undefined on input line 288
+LaTeX Warning: Citation 'Lincoln:2010it' on page 89 undefined on input line 292
 .
 
-[88]
 
 LaTeX Warning: Citation 'tay2008updatable' on page 89 undefined on input line 2
-92.
+96.
 
 
 LaTeX Warning: Citation 'jones2009headspin' on page 89 undefined on input line 
-293.
+297.
 
 
-LaTeX Warning: Citation 'eldes2013multi' on page 89 undefined on input line 294
+LaTeX Warning: Citation 'eldes2013multi' on page 89 undefined on input line 298
 .
 
 
-Overfull \hbox (36.521pt too wide) in paragraph at lines 292--297
+Overfull \hbox (36.521pt too wide) in paragraph at lines 296--301
 \T1/ptm/m/n/10.95 (-20) Similarly Jones et al. ``Head-SPIN" is a one-to-many 3D
  video tele-con-fer-enc-ing sys-tem [[]]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--297
+Underfull \hbox (badness 10000) in paragraph at lines 296--301
 
  []
 
 
 LaTeX Warning: Citation 'Criminisi:2003ji' on page 89 undefined on input line 3
-00.
+04.
 
 
 LaTeX Warning: Citation 'broxton2020immersive' on page 89 undefined on input li
-ne 301.
+ne 305.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 300--304
+Underfull \hbox (badness 10000) in paragraph at lines 304--308
 
  []
 
 [89]
 
-LaTeX Warning: Citation 'Okutomi:1993ez' on page 90 undefined on input line 305
+LaTeX Warning: Citation 'Okutomi:1993ez' on page 90 undefined on input line 309
 .
 
 
-LaTeX Warning: Citation 'Cooke2002a' on page 90 undefined on input line 305.
+LaTeX Warning: Citation 'Cooke2002a' on page 90 undefined on input line 309.
 
 
 LaTeX Warning: Citation 'pan2014comparing' on page 90 undefined on input line 3
-07.
+11.
 
 
-Overfull \hbox (9.39737pt too wide) in paragraph at lines 305--309
+Overfull \hbox (9.39737pt too wide) in paragraph at lines 309--313
 \T1/ptm/m/n/10.95 (-20) ward avatar me-di-ated con-ver-sa-tion when view-ing 2D
  dis-plays at oblique an-gles [[]]. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 305--309
+Underfull \hbox (badness 10000) in paragraph at lines 309--313
 
  []
 
 
-LaTeX Warning: Citation 'Petit:2008tva' on page 90 undefined on input line 310.
+LaTeX Warning: Citation 'Petit:2008tva' on page 90 undefined on input line 314.
 
 
 
 LaTeX Warning: Citation 'Laurentini1994a' on page 90 undefined on input line 31
-0.
+4.
 
 
-LaTeX Warning: Citation 'Hu:1986ww' on page 90 undefined on input line 312.
+LaTeX Warning: Citation 'Hu:1986ww' on page 90 undefined on input line 316.
 
 
 LaTeX Warning: Citation 'Cooke_image-basedrendering' on page 90 undefined on in
-put line 315.
+put line 319.
 
 
-LaTeX Warning: Citation 'Petit2010' on page 90 undefined on input line 316.
+LaTeX Warning: Citation 'Petit2010' on page 90 undefined on input line 320.
 
 
-LaTeX Warning: Citation 'Kuster2012a' on page 90 undefined on input line 317.
+LaTeX Warning: Citation 'Kuster2012a' on page 90 undefined on input line 321.
 
 
-LaTeX Warning: Citation 'Maimone2011a' on page 90 undefined on input line 318.
+LaTeX Warning: Citation 'Maimone2011a' on page 90 undefined on input line 322.
 
 
-LaTeX Warning: Citation 'Schreer:2008ty' on page 90 undefined on input line 323
+LaTeX Warning: Citation 'Schreer:2008ty' on page 90 undefined on input line 327
 .
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 315--325
+Underfull \hbox (badness 10000) in paragraph at lines 319--329
 
  []
 
@@ -3236,362 +3177,373 @@ Underfull \vbox (badness 5133) has occurred while \output is active []
 
  [90]
 
-LaTeX Warning: Citation 'Okutomi:1993ez' on page 91 undefined on input line 334
+LaTeX Warning: Citation 'Okutomi:1993ez' on page 91 undefined on input line 338
 .
 
 
-LaTeX Warning: Citation 'Cooke2002a' on page 91 undefined on input line 334.
+LaTeX Warning: Citation 'Cooke2002a' on page 91 undefined on input line 338.
 
 
 LaTeX Warning: Citation 'pan2014comparing' on page 91 undefined on input line 3
-36.
+40.
 
 
-Overfull \hbox (9.39737pt too wide) in paragraph at lines 333--338
+Overfull \hbox (9.39737pt too wide) in paragraph at lines 337--342
 \T1/ptm/m/n/10.95 (-20) ward avatar me-di-ated con-ver-sa-tion when view-ing 2D
  dis-plays at oblique an-gles [[]]. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 333--338
+Underfull \hbox (badness 10000) in paragraph at lines 337--342
 
  []
-
-
-LaTeX Warning: Citation 'Petit:2008tva' on page 91 undefined on input line 339.
-
-
-
-LaTeX Warning: Citation 'Laurentini1994a' on page 91 undefined on input line 33
-9.
-
-
-LaTeX Warning: Citation 'Hu:1986ww' on page 91 undefined on input line 341.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [91]
 
+LaTeX Warning: Citation 'Petit:2008tva' on page 92 undefined on input line 343.
+
+
+
+LaTeX Warning: Citation 'Laurentini1994a' on page 92 undefined on input line 34
+3.
+
+
+LaTeX Warning: Citation 'Hu:1986ww' on page 92 undefined on input line 345.
+
+
 LaTeX Warning: Citation 'Cooke_image-basedrendering' on page 92 undefined on in
-put line 345.
+put line 349.
 
 
-LaTeX Warning: Citation 'Petit2010' on page 92 undefined on input line 346.
+LaTeX Warning: Citation 'Petit2010' on page 92 undefined on input line 350.
 
 
-LaTeX Warning: Citation 'Kuster2012a' on page 92 undefined on input line 347.
+LaTeX Warning: Citation 'Kuster2012a' on page 92 undefined on input line 351.
 
 
-LaTeX Warning: Citation 'Maimone2011a' on page 92 undefined on input line 348.
+LaTeX Warning: Citation 'Maimone2011a' on page 92 undefined on input line 352.
 
 
-LaTeX Warning: Citation 'Schreer:2008ty' on page 92 undefined on input line 353
+LaTeX Warning: Citation 'Schreer:2008ty' on page 92 undefined on input line 357
 .
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 345--355
-
- []
-
-
-LaTeX Warning: Citation 'Grimstead2005a' on page 92 undefined on input line 363
-.
-
-
-LaTeX Warning: Citation 'Benford1998' on page 92 undefined on input line 363.
-
-
-LaTeX Warning: Citation 'Murray2009a' on page 92 undefined on input line 364.
-
-
-LaTeX Warning: Citation 'Benford:1995hh' on page 92 undefined on input line 364
-.
-
-
-LaTeX Warning: Citation 'Steptoe2010b' on page 92 undefined on input line 365.
-
-
-LaTeX Warning: Citation 'Duckworth:2012tx' on page 92 undefined on input line 3
-67.
-
-
-LaTeX Warning: Citation 'Fairchild2016' on page 92 undefined on input line 367.
-
-
-
-LaTeX Warning: Citation 'Ciger2004a' on page 92 undefined on input line 369.
-
-
-LaTeX Warning: Citation 'Steptoe2010a' on page 92 undefined on input line 369.
-
-
-Underfull \vbox (badness 7667) has occurred while \output is active []
-
- [92]
-
-LaTeX Warning: Citation 'Goodwin2000a' on page 93 undefined on input line 373.
-
-
-LaTeX Warning: Citation 'Pan2014a' on page 93 undefined on input line 374.
-
-
-LaTeX Warning: Citation 'Pan2012a' on page 93 undefined on input line 374.
-
-
-LaTeX Warning: Citation 'Zhang2013a' on page 93 undefined on input line 374.
-
-
-LaTeX Warning: Citation 'Goodwin2000a' on page 93 undefined on input line 375.
-
-
-LaTeX Warning: Citation 'Lee2011b' on page 93 undefined on input line 375.
-
-
-LaTeX Warning: Citation 'pan2014comparing' on page 93 undefined on input line 3
-75.
-
-
-LaTeX Warning: Citation 'Pan2012a' on page 93 undefined on input line 375.
-
-
-LaTeX Warning: Citation 'Pan2014a' on page 93 undefined on input line 375.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 372--377
+Underfull \hbox (badness 10000) in paragraph at lines 349--359
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [93]
+ [92]
 
-LaTeX Warning: Citation 'inami2000visuo' on page 94 undefined on input line 379
+LaTeX Warning: Citation 'Grimstead2005a' on page 93 undefined on input line 367
 .
 
 
-LaTeX Warning: Citation 'JSID:JSID295' on page 94 undefined on input line 382.
+LaTeX Warning: Citation 'Benford1998' on page 93 undefined on input line 367.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 378--384
+LaTeX Warning: Citation 'Murray2009a' on page 93 undefined on input line 368.
+
+
+LaTeX Warning: Citation 'Benford:1995hh' on page 93 undefined on input line 368
+.
+
+
+LaTeX Warning: Citation 'Steptoe2010b' on page 93 undefined on input line 369.
+
+
+LaTeX Warning: Citation 'Duckworth:2012tx' on page 93 undefined on input line 3
+71.
+
+
+LaTeX Warning: Citation 'Fairchild2016' on page 93 undefined on input line 371.
+
+
+
+LaTeX Warning: Citation 'Ciger2004a' on page 93 undefined on input line 373.
+
+
+LaTeX Warning: Citation 'Steptoe2010a' on page 93 undefined on input line 373.
+
+
+LaTeX Warning: Citation 'Goodwin2000a' on page 93 undefined on input line 377.
+
+
+LaTeX Warning: Citation 'Pan2014a' on page 93 undefined on input line 378.
+
+
+LaTeX Warning: Citation 'Pan2012a' on page 93 undefined on input line 378.
+
+
+LaTeX Warning: Citation 'Zhang2013a' on page 93 undefined on input line 378.
+
+
+LaTeX Warning: Citation 'Goodwin2000a' on page 93 undefined on input line 379.
+
+
+LaTeX Warning: Citation 'Lee2011b' on page 93 undefined on input line 379.
+
+
+LaTeX Warning: Citation 'pan2014comparing' on page 93 undefined on input line 3
+79.
+
+
+LaTeX Warning: Citation 'Pan2012a' on page 93 undefined on input line 379.
+
+
+LaTeX Warning: Citation 'Pan2014a' on page 93 undefined on input line 379.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--381
+
+ []
+
+[93]
+
+LaTeX Warning: Citation 'inami2000visuo' on page 94 undefined on input line 383
+.
+
+
+LaTeX Warning: Citation 'JSID:JSID295' on page 94 undefined on input line 386.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--388
 
  []
 
 
-LaTeX Warning: Reference `fig:room2room' on page 94 undefined on input line 386
+LaTeX Warning: Reference `fig:room2room' on page 94 undefined on input line 390
 .
-
-
-LaTeX Warning: Citation 'Bradner:2002:WDM:587078.587110' on page 94 undefined o
-n input line 392.
-
-
-LaTeX Warning: Citation 'Greenhalgh2001a' on page 94 undefined on input line 39
-3.
-
-
-LaTeX Warning: Citation 'Bradner:2002:WDM:587078.587110' on page 94 undefined o
-n input line 394.
-
-
-LaTeX Warning: Citation 'Gasparello:2011in' on page 94 undefined on input line 
-395.
-
-
-LaTeX Warning: Citation 'Moore:2010jt' on page 94 undefined on input line 395.
-
-
-LaTeX Warning: Citation 'Park1999' on page 94 undefined on input line 396.
-
-
-LaTeX Warning: Citation 'lamboray2005data' on page 94 undefined on input line 3
-96.
-
-
-Overfull \hbox (75.1113pt too wide) in paragraph at lines 392--397
-\T1/ptm/m/n/10.95 (-20) Bradner & Mark es-tab-lished that la-tency mat-ters in 
-re-mote telecol-lab-o-ra-tion [[]],
- []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [94]
 
-LaTeX Warning: Citation 'DeGreef2001' on page 95 undefined on input line 401.
+LaTeX Warning: Citation 'Bradner:2002:WDM:587078.587110' on page 95 undefined o
+n input line 396.
+
+
+LaTeX Warning: Citation 'Greenhalgh2001a' on page 95 undefined on input line 39
+7.
+
+
+LaTeX Warning: Citation 'Bradner:2002:WDM:587078.587110' on page 95 undefined o
+n input line 398.
+
+
+LaTeX Warning: Citation 'Gasparello:2011in' on page 95 undefined on input line 
+399.
+
+
+LaTeX Warning: Citation 'Moore:2010jt' on page 95 undefined on input line 399.
+
+
+LaTeX Warning: Citation 'Park1999' on page 95 undefined on input line 400.
+
+
+LaTeX Warning: Citation 'lamboray2005data' on page 95 undefined on input line 4
+00.
+
+
+Overfull \hbox (75.1113pt too wide) in paragraph at lines 396--401
+\T1/ptm/m/n/10.95 (-20) Bradner & Mark es-tab-lished that la-tency mat-ters in 
+re-mote telecol-lab-o-ra-tion [[]],
+ []
+
+
+LaTeX Warning: Citation 'DeGreef2001' on page 95 undefined on input line 405.
 
 
 LaTeX Warning: Citation 'orts2016holoportation' on page 95 undefined on input l
-ine 403.
+ine 407.
 
 
 LaTeX Warning: Citation 'horgen1999excellence' on page 95 undefined on input li
-ne 409.
+ne 413.
+
+[95]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [96]
+
+LaTeX Warning: Citation 'greenberg1976role' on page 97 undefined on input line 
+419.
 
 
-Underfull \vbox (badness 6316) has occurred while \output is active []
-
- [95]
-
-LaTeX Warning: Citation 'greenberg1976role' on page 96 undefined on input line 
-415.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 414--417
+Underfull \hbox (badness 10000) in paragraph at lines 418--421
 
  []
 
 
-Underfull \vbox (badness 7273) has occurred while \output is active []
-
- [96]
-
-LaTeX Warning: Citation 'Goodwin2000a' on page 97 undefined on input line 420.
+LaTeX Warning: Citation 'Goodwin2000a' on page 97 undefined on input line 424.
 
 
-LaTeX Warning: Citation 'Argyle' on page 97 undefined on input line 420.
+LaTeX Warning: Citation 'Argyle' on page 97 undefined on input line 424.
 
 
 LaTeX Warning: Citation 'Hofmann20061683' on page 97 undefined on input line 42
-0.
+4.
 
 
-LaTeX Warning: Citation 'Pan2008a' on page 97 undefined on input line 420.
+LaTeX Warning: Citation 'Pan2008a' on page 97 undefined on input line 424.
 
 
-LaTeX Warning: Citation 'Argyle' on page 97 undefined on input line 422.
+LaTeX Warning: Citation 'Argyle' on page 97 undefined on input line 426.
 
 
-LaTeX Warning: Citation 'ohba1998facial' on page 97 undefined on input line 422
+LaTeX Warning: Citation 'ohba1998facial' on page 97 undefined on input line 426
 .
 
 
 LaTeX Warning: Citation 'pan2014comparing' on page 97 undefined on input line 4
-26.
+30.
 
 
-LaTeX Warning: Citation 'Pan2012a' on page 97 undefined on input line 426.
+LaTeX Warning: Citation 'Pan2012a' on page 97 undefined on input line 430.
 
 
-LaTeX Warning: Citation 'Pan2014a' on page 97 undefined on input line 426.
+LaTeX Warning: Citation 'Pan2014a' on page 97 undefined on input line 430.
 
 
-LaTeX Warning: Citation 'inami2000visuo' on page 97 undefined on input line 428
+LaTeX Warning: Citation 'inami2000visuo' on page 97 undefined on input line 432
 .
 
 
 LaTeX Warning: Citation 'gotsch2018telehuman2' on page 97 undefined on input li
-ne 428.
+ne 432.
 
 
-LaTeX Warning: Citation 'o2018telethrone' on page 97 undefined on input line 42
-8.
+LaTeX Warning: Citation 'o2018telethrone' on page 97 undefined on input line 43
+2.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 420--429
+Underfull \hbox (badness 10000) in paragraph at lines 424--433
 
  []
 
 
-LaTeX Warning: Citation '3dlightfield' on page 97 undefined on input line 430.
+Underfull \vbox (badness 3547) has occurred while \output is active []
+
+ [97]
+
+LaTeX Warning: Citation '3dlightfield' on page 98 undefined on input line 434.
 
 
-LaTeX Warning: Reference `compare' on page 97 undefined on input line 430.
+LaTeX Warning: Reference `compare' on page 98 undefined on input line 434.
 
 
-LaTeX Warning: Citation '6162881' on page 97 undefined on input line 431.
+LaTeX Warning: Citation '6162881' on page 98 undefined on input line 435.
 
 
-LaTeX Warning: Reference `compare' on page 97 undefined on input line 431.
+LaTeX Warning: Reference `compare' on page 98 undefined on input line 435.
 
 
-LaTeX Warning: Citation '1255811' on page 97 undefined on input line 432.
+LaTeX Warning: Citation '1255811' on page 98 undefined on input line 436.
 
-[97]
 
 LaTeX Warning: Citation 'gibson2014ecological' on page 98 undefined on input li
-ne 436.
+ne 440.
 
 
 LaTeX Warning: Citation 'norman2002psychopathology' on page 98 undefined on inp
-ut line 436.
+ut line 440.
 
 
-Overfull \hbox (56.43642pt too wide) in paragraph at lines 436--441
+Overfull \hbox (56.43642pt too wide) in paragraph at lines 440--445
 \T1/ptm/m/n/10.95 (-20) Affordances are prop-er-ties of the en-vi-ron-ment that
  of-fer ac-tions to ap-pro-pri-ate or-gan-isms [[]].
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 436--441
+Underfull \hbox (badness 10000) in paragraph at lines 440--445
 
  []
 
 
-LaTeX Warning: Citation 'Kleinke1986a' on page 98 undefined on input line 449.
+LaTeX Warning: Citation 'Kleinke1986a' on page 98 undefined on input line 453.
 
 
-LaTeX Warning: Citation 'Kleinke1986a' on page 98 undefined on input line 449.
+LaTeX Warning: Citation 'Kleinke1986a' on page 98 undefined on input line 453.
 
-<Images//frameworkVenn.png, id=2380, 509.40312pt x 432.11438pt>
+<Images//frameworkVenn.png, id=2399, 509.40312pt x 432.11438pt>
 File: Images//frameworkVenn.png Graphic file (type png)
 <use Images//frameworkVenn.png>
-Package pdftex.def Info: Images//frameworkVenn.png  used on input line 458.
+Package pdftex.def Info: Images//frameworkVenn.png  used on input line 462.
 (pdftex.def)             Requested size: 426.79135pt x 362.05049pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[98]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [99 <./Images//frameworkVenn.png>]
-<Images//conceptualFrameworkBoxandStick.png, id=2396, 4494.29062pt x 2770.35pt>
+ [98]
+[99 <./Images//frameworkVenn.png>]
+<Images//conceptualFrameworkBoxandStick.png, id=2413, 4494.29062pt x 2770.35pt>
 
 File: Images//conceptualFrameworkBoxandStick.png Graphic file (type png)
 <use Images//conceptualFrameworkBoxandStick.png>
 Package pdftex.def Info: Images//conceptualFrameworkBoxandStick.png  used on in
-put line 486.
+put line 490.
 (pdftex.def)             Requested size: 426.79135pt x 263.05917pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 )
 Underfull \hbox (badness 10000) in paragraph at lines 20--22
 
  []
 
-[100 <./Images//conceptualFrameworkBoxandStick.png>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
  []
 
+[100]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [101 <./Images//conceptualFrameworkBoxandStick.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 51--52
 
  []
 
-[101] [102] [103] [104]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [102]
+Underfull \vbox (badness 2653) has occurred while \output is active []
+
+ [103]
+[104]
 
 Package hyperref Warning: Suppressing link with empty target on input line 186.
 
 
 
-Underfull \vbox (badness 2443) has occurred while \output is active []
+Underfull \vbox (badness 1558) has occurred while \output is active []
 
- [105])
-[106]
+ [105]
+Underfull \vbox (badness 7704) has occurred while \output is active []
+
+ [106])
+[107] [108
+
+]
 Chapter 9.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 198.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 (09_deployment.tex
-<Images//deployment.png, id=2469, 721.4955pt x 769.1937pt>
+<Images//deployment.png, id=2496, 721.4955pt x 769.1937pt>
 File: Images//deployment.png Graphic file (type png)
 <use Images//deployment.png>
 Package pdftex.def Info: Images//deployment.png  used on input line 4.
 (pdftex.def)             Requested size: 426.79135pt x 455.01752pt.
- [107
-
-]
+ [109]
 Underfull \hbox (badness 10000) in paragraph at lines 36--41
 
  []
@@ -3599,7 +3551,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--41
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [108 <./Images//deployment.png (PNG copy)>] [109] [110
+ [110 <./Images//deployment.png (PNG copy)>] [111] [112
 
 ]
 Chapter 10.
@@ -3607,39 +3559,39 @@ File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 78.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-<Images//proxmoxmap.png, id=2492, 1347.0325pt x 1356.06625pt>
+<Images//proxmoxmap.png, id=2519, 1347.0325pt x 1356.06625pt>
 File: Images//proxmoxmap.png Graphic file (type png)
 <use Images//proxmoxmap.png>
 Package pdftex.def Info: Images//proxmoxmap.png  used on input line 81.
 (pdftex.def)             Requested size: 426.79135pt x 429.64615pt.
-) [111] [112 <./Images//proxmoxmap.png (PNG copy)>]
+) [113] [114 <./Images//proxmoxmap.png (PNG copy)>]
 Chapter 11.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 201.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-[113
+[115
 
-] [114]
-<Images//globalclassroom.png, id=2510, 1484.04437pt x 1121.18875pt>
+] [116]
+<Images//globalclassroom.png, id=2538, 1484.04437pt x 1121.18875pt>
 File: Images//globalclassroom.png Graphic file (type png)
 <use Images//globalclassroom.png>
 Package pdftex.def Info: Images//globalclassroom.png  used on input line 319.
 (pdftex.def)             Requested size: 426.79135pt x 322.43335pt.
-<Images//systemc4.png, id=2511, 1576.89125pt x 1024.82875pt>
+<Images//systemc4.png, id=2539, 1576.89125pt x 1024.82875pt>
 File: Images//systemc4.png Graphic file (type png)
 <use Images//systemc4.png>
 Package pdftex.def Info: Images//systemc4.png  used on input line 325.
 (pdftex.def)             Requested size: 426.79135pt x 277.36424pt.
- [115 <./Images//globalclassroom.png>] [116 <./Images//systemc4.png>]
+ [117 <./Images//globalclassroom.png>] [118 <./Images//systemc4.png>]
 Chapter 12.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 331.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-[117
+[119
 
-] [118
+] [120
 
 ]
 Chapter 13.
@@ -3647,15 +3599,15 @@ File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 333.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-[119] [120
+[121] [122
 
-] (metaverseBTC.ptc) [121] [122] (HOWTO.tex
+] (metaverseBTC.ptc) [123] [124] (HOWTO.tex
 Overfull \hbox (15.06967pt too wide) in paragraph at lines 79--84
 []\T1/ptm/m/n/10.95 (-20) Keep in mind that this setup uses the Prox-mox VE in-
 staller (https://www.proxmox.com/en/proxmox-
  []
 
-[123]
+[125]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
 35.
  (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
@@ -3671,48 +3623,48 @@ Overfull \hbox (8.90321pt too wide) in paragraph at lines 174--174
 curity main contrib[] 
  []
 
-[124]
+[126]
 Overfull \hbox (76.80367pt too wide) in paragraph at lines 253--253
 []\T1/cmtt/m/n/10.95 $ docker run --rm -it --privileged -v $(pwd):/vyos -w /vyo
 s vyos/vyos-build:equuleus bash[] 
  []
 
-[125]
+[127]
 Overfull \hbox (78.71973pt too wide) in paragraph at lines 296--299
 []\T1/ptm/m/n/10.95 (-20) n the Disk tab leave the de-faults (this ex-ceeds re-
 quire-ments https://docs.vyos.io/en/latest/installation/install.html) 
  []
 
-[126]
+[128]
 Overfull \hbox (4.36926pt too wide) in paragraph at lines 426--430
 []\T1/ptm/m/n/10.95 (-20) In the main, the in-stall guide (https://github.com/f
 ort-nix/nix-bitcoin/blob/master/docs/install.md)
  []
 
-[127]) [128] (metaverseBTC.ptc) [129
+[129]) [130] (metaverseBTC.ptc) [131
 
-] [130]
-<Images//JOH.jpg, id=2649, 110.66344pt x 165.61874pt>
+] [132]
+<Images//JOH.jpg, id=2676, 110.66344pt x 165.61874pt>
 File: Images//JOH.jpg Graphic file (type jpg)
 <use Images//JOH.jpg>
-Package pdftex.def Info: Images//JOH.jpg  used on input line 352.
+Package pdftex.def Info: Images//JOH.jpg  used on input line 353.
 (pdftex.def)             Requested size: 113.33228pt x 169.6213pt.
 
-Overfull \hbox (140.84192pt too wide) in paragraph at lines 347--354
+Overfull \hbox (140.84192pt too wide) in paragraph at lines 348--355
 [][][]$[]$ 
  []
 
-<Images//UA.jpg, id=2650, 200.75pt x 200.75pt>
+<Images//UA.jpg, id=2677, 200.75pt x 200.75pt>
 File: Images//UA.jpg Graphic file (type jpg)
 <use Images//UA.jpg>
-Package pdftex.def Info: Images//UA.jpg  used on input line 361.
+Package pdftex.def Info: Images//UA.jpg  used on input line 362.
 (pdftex.def)             Requested size: 113.33228pt x 113.33511pt.
 
-Overfull \hbox (140.84192pt too wide) in paragraph at lines 355--363
+Overfull \hbox (140.84192pt too wide) in paragraph at lines 356--364
 [][][]$[]$ 
  []
 
-[131 <./Images//JOH.jpg> <./Images//UA.jpg>] [132
+[133 <./Images//JOH.jpg> <./Images//UA.jpg>] [134
 
 ]
 
@@ -3726,204 +3678,212 @@ Package biblatex Warning: Split bibliography detected.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bailenson2006' on input line 380.
+(biblatex)                at entry 'Bailenson2006' on input line 381.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bock2008' on input line 380.
+(biblatex)                at entry 'Bock2008' on input line 381.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bohannon2013' on input line 380.
+(biblatex)                at entry 'Bohannon2013' on input line 381.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Boker2011' on input line 380.
+(biblatex)                at entry 'Boker2011' on input line 381.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bulu2012' on input line 380.
+(biblatex)                at entry 'Bulu2012' on input line 381.
 
-[133]
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Chartrand1999' on input line 380.
-
+[135]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Chovil1991' on input line 380.
+(biblatex)                at entry 'Chartrand1999' on input line 381.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Ekman1993' on input line 380.
+(biblatex)                at entry 'Chovil1991' on input line 381.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Fayard2007' on input line 380.
+(biblatex)                at entry 'Ekman1993' on input line 381.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Fels2000' on input line 380.
+(biblatex)                at entry 'Fayard2007' on input line 381.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Franco2009' on input line 380.
+(biblatex)                at entry 'Fels2000' on input line 381.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Fullwood2006' on input line 380.
-
-[134]
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Gemmell2000' on input line 380.
+(biblatex)                at entry 'Franco2009' on input line 381.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Gibson1963' on input line 380.
+(biblatex)                at entry 'Fullwood2006' on input line 381.
+
+[136]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Gemmell2000' on input line 381.
 
 
-Overfull \hbox (0.9485pt too wide) in paragraph at lines 380--380
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Gibson1963' on input line 381.
+
+
+Overfull \hbox (0.9485pt too wide) in paragraph at lines 381--381
 []\T1/ptm/m/n/10.95 (-20) David Golumbia. ``Cryp-tocur-rency Is Garbage. So Is 
 Blockchain.'' In: \T1/ptm/m/it/10.95 (-20) So Is Blockchain.(June
  []
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Greenhalgh2001' on input line 380.
+(biblatex)                at entry 'Goodwin2000' on input line 381.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Gunawardena1997' on input line 380.
+(biblatex)                at entry 'Greenhalgh2001' on input line 381.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Hager1979' on input line 380.
+(biblatex)                at entry 'Gunawardena1997' on input line 381.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Heldal2005' on input line 380.
+(biblatex)                at entry 'Hager1979' on input line 381.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Heldner2010' on input line 380.
+(biblatex)                at entry 'Heldal2005' on input line 381.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Holm2010' on input line 380.
+(biblatex)                at entry 'Heldner2010' on input line 381.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Hua2004' on input line 380.
+(biblatex)                at entry 'Holm2010' on input line 381.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Iverson2005' on input line 380.
+(biblatex)                at entry 'Hua2004' on input line 381.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kleinsmith2013' on input line 380.
-
-[135]
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kluttz2009' on input line 380.
-
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kollock1998' on input line 380.
-
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kristoffersson2013' on input line 380.
-
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Langton2000' on input line 380.
-
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Macrae2002' on input line 380.
-
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Mihoub2015' on input line 380.
-
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Mitchell2011' on input line 380.
-
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Monk2002' on input line 380.
-
-[136]
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Roberts2015' on input line 380.
-
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Roberts2003' on input line 380.
-
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Roberts2012' on input line 380.
-
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Roberts2013' on input line 380.
-
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Schroeder2001' on input line 380.
-
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Schuemie2001' on input line 380.
-
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Sermon2000' on input line 380.
-
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Slater1999' on input line 380.
-
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Slater2004' on input line 380.
-
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Slessor2008' on input line 380.
-
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Starck2008' on input line 380.
+(biblatex)                at entry 'Iverson2005' on input line 381.
 
 [137]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Tachi2004' on input line 380.
+(biblatex)                at entry 'Kleinke1986' on input line 381.
 
 
-Overfull \hbox (6.97145pt too wide) in paragraph at lines 380--380
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Kleinsmith2013' on input line 381.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Kluttz2009' on input line 381.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Kollock1998' on input line 381.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Kristoffersson2013' on input line 381.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Langton2000' on input line 381.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Macrae2002' on input line 381.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Mihoub2015' on input line 381.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Mitchell2011' on input line 381.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Monk2002' on input line 381.
+
+[138]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Roberts2015' on input line 381.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Roberts2003' on input line 381.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Roberts2012' on input line 381.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Roberts2013' on input line 381.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Schroeder2001' on input line 381.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Schuemie2001' on input line 381.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Sermon2000' on input line 381.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Slater1999' on input line 381.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Slater2004' on input line 381.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Slessor2008' on input line 381.
+
+[139]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Starck2008' on input line 381.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Tachi2004' on input line 381.
+
+
+Overfull \hbox (6.97145pt too wide) in paragraph at lines 381--381
 []\T1/ptm/m/n/10.95 (-20) Susumu Tachi et al. ``MU-TUAL TELEX-IS-TENCE SYS-TEM 
 US-ING RETRO-REFLECTIVE
  []
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Watson1966' on input line 380.
+(biblatex)                at entry 'Watson1966' on input line 381.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Yendo2010' on input line 380.
+(biblatex)                at entry 'Yendo2010' on input line 381.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Zhang2007' on input line 380.
+(biblatex)                at entry 'Zhang2007' on input line 381.
 
 
 Package biblatex Warning: Split bibliography detected.
@@ -3936,9 +3896,9 @@ Package biblatex Warning: Split bibliography detected.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Argyle1976' on input line 385.
+(biblatex)                at entry 'Argyle1976' on input line 386.
 
-[138] (metaverseBTC.ind)
+[140] (metaverseBTC.ind)
 \tf@ptc=\write9
 \openout9 = `metaverseBTC.ptc'.
 
@@ -3954,13 +3914,13 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36345 strings out of 478582
- 713189 string characters out of 2844816
- 1605268 words of memory out of 3000000
- 52669 multiletter control sequences out of 15000+600000
+ 36371 strings out of 478582
+ 714133 string characters out of 2844816
+ 1612548 words of memory out of 3000000
+ 52688 multiletter control sequences out of 15000+600000
  584598 words of font info for 420 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 98i,17n,94p,2518b,1367s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 98i,17n,94p,2518b,1366s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 pdfTeX warning (dest): name{section*.9} has been referenced but does not exist,
  replaced by a fixed one
@@ -4442,12 +4402,12 @@ pdfTeX warning (dest): name{cite.0@Argyle1965} has been referenced but does not
  exist, replaced by a fixed one
 
 
+pdfTeX warning (dest): name{cite.0@katagiri2007aiduti} has been referenced but 
+does not exist, replaced by a fixed one
+
+
 pdfTeX warning (dest): name{cite.0@Otsuka2005} has been referenced but does not
  exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.0@Moubayed2012} has been referenced but does n
-ot exist, replaced by a fixed one
 
 
 pdfTeX warning (dest): name{cite.0@Vertegaal2002} has been referenced but does 
@@ -4456,6 +4416,10 @@ not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{cite.0@Nguyen2005} has been referenced but does not
  exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@Moubayed2012} has been referenced but does n
+ot exist, replaced by a fixed one
 
 
 pdfTeX warning (dest): name{cite.0@Wollaston1824} has been referenced but does 
@@ -4526,9 +4490,9 @@ uagk8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
 tmb8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/ut
 mr8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utm
 ri8a.pfb>
-Output written on metaverseBTC.pdf (138 pages, 12154139 bytes).
+Output written on metaverseBTC.pdf (140 pages, 12162293 bytes).
 PDF statistics:
- 3129 PDF objects out of 3580 (max. 8388607)
- 745 named destinations out of 1000 (max. 500000)
+ 3166 PDF objects out of 3580 (max. 8388607)
+ 752 named destinations out of 1000 (max. 500000)
  118599 words of extra memory for PDF output out of 128383 (max. 10000000)
 
