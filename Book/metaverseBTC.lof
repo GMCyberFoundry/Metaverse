@@ -28,13 +28,16 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {8.1}{\ignorespaces Elon Musk agrees with this on Twitter}}{74}{figure.8.1}%
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Eye tracked eye gaze awareness in VR. Murray et al. used immersive and semi immersive systems alongside eye trackers to examine the ability of two avatars to detect the gaze awareness of a similarly immersed collaborator.}}{79}{figure.8.2}%
+\contentsline {figure}{\numberline {8.3}{\ignorespaces The Venn diagram shows areas of research which have been identified in blue. These interlock and overlap as shown. The most relevant identified researchers from the literature are shown in black close to the fields of study which they represent. This diagram is a view of the core assumptions for the research, with the most important fields at the centre. }}{99}{figure.8.3}%
+\contentsline {figure}{\numberline {8.4}{\ignorespaces Connected concepts revealed during the review, and roughly how they relate to one another. The web moves top left to bottom right as the attention focuses. The left hand column shows the broad flow from interpersonal communication in the real (top) to home working (bottom).}}{100}{figure.8.4}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {9.1}{\ignorespaces Proposed deployment of the software within the VMs on a single hardware system.}}{98}{figure.9.1}%
+\contentsline {figure}{\numberline {9.1}{\ignorespaces Proposed deployment of the software within the VMs on a single hardware system.}}{108}{figure.9.1}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {10.1}{\ignorespaces Current diagram of the proxmox as seen on the github.}}{102}{figure.10.1}%
+\contentsline {figure}{\numberline {10.1}{\ignorespaces Current diagram of the proxmox as seen on the github.}}{112}{figure.10.1}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {11.1}{\ignorespaces Functional elements for infrastructure.}}{105}{figure.11.1}%
-\contentsline {figure}{\numberline {11.2}{\ignorespaces Client server C4 diagrams.}}{106}{figure.11.2}%
+\contentsline {figure}{\numberline {11.1}{\ignorespaces Functional elements for infrastructure.}}{115}{figure.11.1}%
+\contentsline {figure}{\numberline {11.2}{\ignorespaces Client server C4 diagrams.}}{116}{figure.11.2}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \contentsfinish 
