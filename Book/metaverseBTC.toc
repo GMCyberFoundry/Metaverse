@@ -47,7 +47,7 @@
 \contentsline {section}{\numberline {3.7}Bitcoin adjacent chains}{49}{section.3.7}%
 \contentsline {subsection}{\numberline {3.7.1}Stacks and STX}{49}{subsection.3.7.1}%
 \contentsline {subsubsection}{\numberline {3.7.1.1}Citycoins}{49}{subsubsection.3.7.1.1}%
-\contentsline {subsection}{\numberline {3.7.2}Sovryn and RSK}{50}{subsection.3.7.2}%
+\contentsline {subsection}{\numberline {3.7.2}Sovryn and RSK}{49}{subsection.3.7.2}%
 \contentsline {subsection}{\numberline {3.7.3}Sidechains}{50}{subsection.3.7.3}%
 \contentsline {subsection}{\numberline {3.7.4}Spacechains}{50}{subsection.3.7.4}%
 \contentsline {subsection}{\numberline {3.7.5}Drivechain}{50}{subsection.3.7.5}%
@@ -111,33 +111,33 @@
 \contentsline {subsection}{\numberline {8.3.1}Vocal}{75}{subsection.8.3.1}%
 \contentsline {subsection}{\numberline {8.3.2}Nonverbal}{76}{subsection.8.3.2}%
 \contentsline {subsubsection}{\numberline {8.3.2.1}Gaze}{77}{subsubsection.8.3.2.1}%
-\contentsline {subsubsection}{\numberline {8.3.2.2}Mutual Gaze}{77}{subsubsection.8.3.2.2}%
+\contentsline {subsubsection}{\numberline {8.3.2.2}Mutual Gaze}{78}{subsubsection.8.3.2.2}%
 \contentsline {subsubsection}{\numberline {8.3.2.3}Head Orientation}{78}{subsubsection.8.3.2.3}%
 \contentsline {subsubsection}{\numberline {8.3.2.4}Combined Head and Eye Gaze}{78}{subsubsection.8.3.2.4}%
-\contentsline {subsubsection}{\numberline {8.3.2.5}Other Upper Body: Overview}{78}{subsubsection.8.3.2.5}%
+\contentsline {subsubsection}{\numberline {8.3.2.5}Other Upper Body: Overview}{79}{subsubsection.8.3.2.5}%
 \contentsline {subsubsection}{\numberline {8.3.2.6}Effect of Shared Objects on Gaze}{79}{subsubsection.8.3.2.6}%
 \contentsline {section}{\numberline {8.4}Psychology of Technology-Mediated Interaction}{79}{section.8.4}%
 \contentsline {subsection}{\numberline {8.4.1}Proxemics}{79}{subsection.8.4.1}%
 \contentsline {subsection}{\numberline {8.4.2}Attention}{80}{subsection.8.4.2}%
 \contentsline {subsection}{\numberline {8.4.3}Behaviour}{81}{subsection.8.4.3}%
-\contentsline {subsubsection}{\numberline {8.4.3.1}Perception Of Honesty}{81}{subsubsection.8.4.3.1}%
+\contentsline {subsubsection}{\numberline {8.4.3.1}Perception Of Honesty}{82}{subsubsection.8.4.3.1}%
 \contentsline {subsection}{\numberline {8.4.4}Dyadic}{82}{subsection.8.4.4}%
 \contentsline {subsubsection}{\numberline {8.4.4.1}Point to Point Telephony (Audio only)}{82}{subsubsection.8.4.4.1}%
 \contentsline {subsubsection}{\numberline {8.4.4.2}Point to Point Video Conferencing}{82}{subsubsection.8.4.4.2}%
-\contentsline {subsection}{\numberline {8.4.5}Triadic and Small Group}{82}{subsection.8.4.5}%
+\contentsline {subsection}{\numberline {8.4.5}Triadic and Small Group}{83}{subsection.8.4.5}%
 \contentsline {subsection}{\numberline {8.4.6}Presence, Co-presence, and Social Presence}{83}{subsection.8.4.6}%
 \contentsline {subsection}{\numberline {8.4.7}Other Systems to Support Business}{85}{subsection.8.4.7}%
 \contentsline {subsection}{\numberline {8.4.8}Mutual Gaze in Telepresence}{85}{subsection.8.4.8}%
 \contentsline {subsection}{\numberline {8.4.9}Other Systems to Support Business}{85}{subsection.8.4.9}%
-\contentsline {subsubsection}{\numberline {8.4.9.1}Ad-hoc in SecondLife, immersive VR}{85}{subsubsection.8.4.9.1}%
+\contentsline {subsubsection}{\numberline {8.4.9.1}Ad-hoc in SecondLife, immersive VR}{86}{subsubsection.8.4.9.1}%
 \contentsline {subsubsection}{\numberline {8.4.9.2}Tabletop and Shared Task}{86}{subsubsection.8.4.9.2}%
 \contentsline {subsection}{\numberline {8.4.10}Beyond 2D Screens}{86}{subsection.8.4.10}%
-\contentsline {subsubsection}{\numberline {8.4.10.1}Spatially Faithful Group}{86}{subsubsection.8.4.10.1}%
+\contentsline {subsubsection}{\numberline {8.4.10.1}Spatially Faithful Group}{87}{subsubsection.8.4.10.1}%
 \contentsline {subsubsection}{\numberline {8.4.10.2}Robots, Shader Lamp, and Hybrid}{87}{subsubsection.8.4.10.2}%
 \contentsline {subsubsection}{\numberline {8.4.10.3}Holography and Volumetric}{89}{subsubsection.8.4.10.3}%
-\contentsline {subsubsection}{\numberline {8.4.10.4}Reconstructed Viewpoint}{89}{subsubsection.8.4.10.4}%
+\contentsline {subsubsection}{\numberline {8.4.10.4}Reconstructed Viewpoint}{90}{subsubsection.8.4.10.4}%
 \contentsline {subsubsection}{\numberline {8.4.10.5}Immersive Collaborative Virtual Environments}{93}{subsubsection.8.4.10.5}%
-\contentsline {subsubsection}{\numberline {8.4.10.6}Situated Displays}{93}{subsubsection.8.4.10.6}%
+\contentsline {subsubsection}{\numberline {8.4.10.6}Situated Displays}{94}{subsubsection.8.4.10.6}%
 \contentsline {subsubsection}{\numberline {8.4.10.7}Retro-reflective Projective Technology (RPT)}{94}{subsubsection.8.4.10.7}%
 \contentsline {subsubsection}{\numberline {8.4.10.8}Furniture as a Mediating Display}{95}{subsubsection.8.4.10.8}%
 \contentsline {subsubsection}{\numberline {8.4.10.9}Augmented Reality Collaboration}{95}{subsubsection.8.4.10.9}%
