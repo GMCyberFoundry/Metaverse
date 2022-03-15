@@ -1551,105 +1551,6 @@
       \field{title}{Avatars, Affordances, and Interfaces: Virtual Reality Tools for Learning.}
       \field{year}{1993}
     \endentry
-    \entry{Argyle1976}{book}{}
-      \name{author}{2}{}{%
-        {{hash=471852a6e38018e79130628828fc61c4}{%
-           family={Argyle},
-           familyi={A\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod}}}%
-        {{hash=bd21ce75a6a60a33677b9b23d308d4eb}{%
-           family={Cook},
-           familyi={C\bibinitperiod},
-           given={Mark},
-           giveni={M\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \list{publisher}{1}{%
-        {Cambridge University Press}%
-      }
-      \strng{namehash}{ca268e3b4d032f52937751cdf8866b08}
-      \strng{fullhash}{ca268e3b4d032f52937751cdf8866b08}
-      \strng{bibnamehash}{ca268e3b4d032f52937751cdf8866b08}
-      \strng{authorbibnamehash}{ca268e3b4d032f52937751cdf8866b08}
-      \strng{authornamehash}{ca268e3b4d032f52937751cdf8866b08}
-      \strng{authorfullhash}{ca268e3b4d032f52937751cdf8866b08}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{\#jan\#}
-      \field{title}{Gaze and Mutual Gaze}
-      \field{year}{1976}
-      \keyw{litsurvey.bib}
-    \endentry
-    \entry{Wolff2008}{inproceedings}{}
-      \name{author}{8}{}{%
-        {{hash=35e17c51ed3133996ff7cd5b962349ff}{%
-           family={Wolff},
-           familyi={W\bibinitperiod},
-           given={R},
-           giveni={R\bibinitperiod}}}%
-        {{hash=027c89bbec21d03dab7772825169dd35}{%
-           family={Roberts},
-           familyi={R\bibinitperiod},
-           given={D},
-           giveni={D\bibinitperiod}}}%
-        {{hash=a02e1109654bd6921878114da0b228ca}{%
-           family={Murgia},
-           familyi={M\bibinitperiod},
-           given={A},
-           giveni={A\bibinitperiod}}}%
-        {{hash=db37e329b1691cce1af9fc39bf7b936c}{%
-           family={Murray},
-           familyi={M\bibinitperiod},
-           given={N},
-           giveni={N\bibinitperiod}}}%
-        {{hash=eb6c07ba799c84f49e8345345b3e50b4}{%
-           family={Rae},
-           familyi={R\bibinitperiod},
-           given={J},
-           giveni={J\bibinitperiod}}}%
-        {{hash=84d3653a6aa025ea0636e20047436eb9}{%
-           family={Steptoe},
-           familyi={S\bibinitperiod},
-           given={W},
-           giveni={W\bibinitperiod}}}%
-        {{hash=b624b55b68ec6becfd1c6e71952ebd61}{%
-           family={Steed},
-           familyi={S\bibinitperiod},
-           given={A},
-           giveni={A\bibinitperiod}}}%
-        {{hash=0ca7254fa8151f55876e4638993af38e}{%
-           family={Sharkey},
-           familyi={S\bibinitperiod},
-           given={P},
-           giveni={P\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Ieee}%
-      }
-      \strng{namehash}{b49b33ac71f7106d94c9c7bf1a356498}
-      \strng{fullhash}{7f09c21d897a2760e854c9eb2557d217}
-      \strng{bibnamehash}{b49b33ac71f7106d94c9c7bf1a356498}
-      \strng{authorbibnamehash}{b49b33ac71f7106d94c9c7bf1a356498}
-      \strng{authornamehash}{b49b33ac71f7106d94c9c7bf1a356498}
-      \strng{authorfullhash}{7f09c21d897a2760e854c9eb2557d217}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Eye gaze is an important conversational resource that until now could only be supported across a distance if people were rooted to the spot. We introduce EyeCVE, the worldpsilas first tele-presence system that allows people in different physical locations to not only see what each other are doing but follow each otherpsilas eyes, even when walking about. Projected into each space are avatar representations of remote participants, that reproduce not only body, head and hand movements, but also those of the eyes. Spatial and temporal alignment of remote spaces allows the focus of gaze as well as activity and gesture to be used as a resource for non-verbal communication. The temporal challenge met was to reproduce eye movements quick enough and often enough to interpret their focus during a multi-way interaction, along with communicating other verbal and non-verbal language. The spatial challenge met was to maintain communicational eye gaze while allowing free movement of participants within a virtually shared common frame of reference. This paper reports on the technical and especially temporal characteristics of the system.}
-      \field{booktitle}{2008 12th {IEEE/ACM} International Symposium on Distributed Simulation and {Real-Time} Applications}
-      \field{month}{\#oct\#}
-      \field{title}{Communicating Eye Gaze across a Distance without Rooting Participants to the Spot}
-      \field{year}{2008}
-      \field{pages}{111\bibrangedash 118}
-      \range{pages}{8}
-      \keyw{biology computing;eye;virtual reality;eye gaze;EyeCVE;tele-presence system;avatar representations;nonverbal communication;physical locations;eye movements;Cameras;Videoconference;Avatars;Video sharing;Virtual environment;Humans;Eyes;Head;Focusing;Displays;litsurvey.bib}
-    \endentry
     \entry{Bloom2015}{article}{}
       \name{author}{4}{}{%
         {{hash=1f9ed1162402cc5a63ec1d1f470ea527}{%
@@ -1773,8 +1674,8 @@
       \strng{authorbibnamehash}{4677ceabcc0b34ec759b14d37cffe8fd}
       \strng{authornamehash}{4677ceabcc0b34ec759b14d37cffe8fd}
       \strng{authorfullhash}{4677ceabcc0b34ec759b14d37cffe8fd}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Index on Censorship}
@@ -1784,6 +1685,71 @@
       \field{year}{2020}
       \field{pages}{24\bibrangedash 27}
       \range{pages}{4}
+    \endentry
+    \entry{Wolff2008}{inproceedings}{}
+      \name{author}{8}{}{%
+        {{hash=35e17c51ed3133996ff7cd5b962349ff}{%
+           family={Wolff},
+           familyi={W\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=027c89bbec21d03dab7772825169dd35}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a02e1109654bd6921878114da0b228ca}{%
+           family={Murgia},
+           familyi={M\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=db37e329b1691cce1af9fc39bf7b936c}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=eb6c07ba799c84f49e8345345b3e50b4}{%
+           family={Rae},
+           familyi={R\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=84d3653a6aa025ea0636e20047436eb9}{%
+           family={Steptoe},
+           familyi={S\bibinitperiod},
+           given={W},
+           giveni={W\bibinitperiod}}}%
+        {{hash=b624b55b68ec6becfd1c6e71952ebd61}{%
+           family={Steed},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0ca7254fa8151f55876e4638993af38e}{%
+           family={Sharkey},
+           familyi={S\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Ieee}%
+      }
+      \strng{namehash}{b49b33ac71f7106d94c9c7bf1a356498}
+      \strng{fullhash}{7f09c21d897a2760e854c9eb2557d217}
+      \strng{bibnamehash}{b49b33ac71f7106d94c9c7bf1a356498}
+      \strng{authorbibnamehash}{b49b33ac71f7106d94c9c7bf1a356498}
+      \strng{authornamehash}{b49b33ac71f7106d94c9c7bf1a356498}
+      \strng{authorfullhash}{7f09c21d897a2760e854c9eb2557d217}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Eye gaze is an important conversational resource that until now could only be supported across a distance if people were rooted to the spot. We introduce EyeCVE, the worldpsilas first tele-presence system that allows people in different physical locations to not only see what each other are doing but follow each otherpsilas eyes, even when walking about. Projected into each space are avatar representations of remote participants, that reproduce not only body, head and hand movements, but also those of the eyes. Spatial and temporal alignment of remote spaces allows the focus of gaze as well as activity and gesture to be used as a resource for non-verbal communication. The temporal challenge met was to reproduce eye movements quick enough and often enough to interpret their focus during a multi-way interaction, along with communicating other verbal and non-verbal language. The spatial challenge met was to maintain communicational eye gaze while allowing free movement of participants within a virtually shared common frame of reference. This paper reports on the technical and especially temporal characteristics of the system.}
+      \field{booktitle}{2008 12th {IEEE/ACM} International Symposium on Distributed Simulation and {Real-Time} Applications}
+      \field{month}{\#oct\#}
+      \field{title}{Communicating Eye Gaze across a Distance without Rooting Participants to the Spot}
+      \field{year}{2008}
+      \field{pages}{111\bibrangedash 118}
+      \range{pages}{8}
+      \keyw{biology computing;eye;virtual reality;eye gaze;EyeCVE;tele-presence system;avatar representations;nonverbal communication;physical locations;eye movements;Cameras;Videoconference;Avatars;Video sharing;Virtual environment;Humans;Eyes;Head;Focusing;Displays;litsurvey.bib}
     \endentry
     \entry{oeppen2020human}{article}{}
       \name{author}{3}{}{%
@@ -2280,8 +2246,8 @@
       \strng{authorbibnamehash}{471852a6e38018e79130628828fc61c4}
       \strng{authornamehash}{471852a6e38018e79130628828fc61c4}
       \strng{authorfullhash}{471852a6e38018e79130628828fc61c4}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Bodily communication}
@@ -2550,12 +2516,46 @@
       \strng{authorbibnamehash}{c1cae42303fed83aa43c1245dbb5db68}
       \strng{authornamehash}{c1cae42303fed83aa43c1245dbb5db68}
       \strng{authorfullhash}{c1cae42303fed83aa43c1245dbb5db68}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Non-verbal communication for correlational characters}
       \field{year}{2005}
+      \keyw{litsurvey.bib}
+    \endentry
+    \entry{Argyle1976}{book}{}
+      \name{author}{2}{}{%
+        {{hash=471852a6e38018e79130628828fc61c4}{%
+           family={Argyle},
+           familyi={A\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bd21ce75a6a60a33677b9b23d308d4eb}{%
+           family={Cook},
+           familyi={C\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{ca268e3b4d032f52937751cdf8866b08}
+      \strng{fullhash}{ca268e3b4d032f52937751cdf8866b08}
+      \strng{bibnamehash}{ca268e3b4d032f52937751cdf8866b08}
+      \strng{authorbibnamehash}{ca268e3b4d032f52937751cdf8866b08}
+      \strng{authornamehash}{ca268e3b4d032f52937751cdf8866b08}
+      \strng{authorfullhash}{ca268e3b4d032f52937751cdf8866b08}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{\#jan\#}
+      \field{title}{Gaze and Mutual Gaze}
+      \field{year}{1976}
       \keyw{litsurvey.bib}
     \endentry
     \entry{Argyle1965}{inproceedings}{}
@@ -2580,8 +2580,8 @@
       \strng{authorbibnamehash}{3b013a09acfc0b8edc9abd81d365f2ab}
       \strng{authornamehash}{3b013a09acfc0b8edc9abd81d365f2ab}
       \strng{authorfullhash}{3b013a09acfc0b8edc9abd81d365f2ab}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Eye-contact, Distance And Affiliation}
@@ -2609,8 +2609,8 @@
       \strng{authorbibnamehash}{aaea8f5724dc9b00d02319d2750b75f9}
       \strng{authornamehash}{aaea8f5724dc9b00d02319d2750b75f9}
       \strng{authorfullhash}{aaea8f5724dc9b00d02319d2750b75f9}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Gaze, Mutual Gaze, and Proximity}
@@ -2634,8 +2634,8 @@
       \strng{authorbibnamehash}{7db80fa33edea7342014bc75aaa11c7b}
       \strng{authornamehash}{7db80fa33edea7342014bc75aaa11c7b}
       \strng{authorfullhash}{7db80fa33edea7342014bc75aaa11c7b}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Films of two-person conversations were transcribed and analyzed from the point of view of how gaze direction is related to utterance and silence. It was found that patterns of looking were systematically related to features of talk and could be accounted for in terms of the monitoring functions of gaze. At the same time, evidence was presented that suggested that gaze direction may also play a role in the regulation of turn-taking in conversation.}
@@ -2670,8 +2670,8 @@
       \strng{authorbibnamehash}{4edea707a3ce6776eb5412b5505f2a78}
       \strng{authornamehash}{4edea707a3ce6776eb5412b5505f2a78}
       \strng{authorfullhash}{4edea707a3ce6776eb5412b5505f2a78}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Full gaze awareness, defined here as knowing what someone is looking at, might be expected to be a powerful communicative resource when the conversation concerns some object of common interest in the environment. This article sets out to demonstrate this possibility in the context of video-mediated communication. An experiment is reported in which pairs complete a communication task using a novel apparatus that supports full gaze awareness (GA) and mutual gaze (eye contact). This ``GA display'' was contrasted with 2 control conditions, mutual gaze without full gaze awareness and audio only. The GA display reduced the number of turns and number of words required to complete the task by about 1/2 in comparison with the 2 control conditions. The results of a subsequent conversational games analysis suggest that at least part of this saving comes about because full gaze awareness provides an alternative nonlinguistic channel for checking one's own and the other person's understanding of what was said.}
@@ -2953,8 +2953,8 @@
       \strng{authorbibnamehash}{d62cabf5328049c3734220936220ceda}
       \strng{authornamehash}{d62cabf5328049c3734220936220ceda}
       \strng{authorfullhash}{ff5a2cebed581fbeb88e6a0394daaef1}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Previous research has highlighted the pivotal role played by gaze detection and interpretation in the development of social cognition. Extending work of this kind, the present research investigated the effects of eye gaze on basic aspects of the person-perception process, namely, person construal and the extraction of category-related knowledge from semantic memory. It was anticipated that gaze direction would moderate the efficiency of the mental operations through which these social-cognitive products are generated. Specifically, eye gaze was expected to influence both the speed with which targets could be categorized as men and women and the rate at which associated stereotypic material could be accessed from semantic memory. The results of two experiments supported these predictions: Targets with nondeviated (i.e., direct) eye gaze elicited facilitated categorical responses. The implications of these findings for recent treatments of person perception are considered.}
@@ -2997,8 +2997,8 @@
       \strng{authorbibnamehash}{736bde54af93fa6d6005b5cbfe20fca8}
       \strng{authornamehash}{736bde54af93fa6d6005b5cbfe20fca8}
       \strng{authorfullhash}{aaeaf3eeb2720da5ac5a0763ef35b9a0}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The authors measured observers' ability to determine direction of gaze toward an object in space. In Experiment 1, they determined the difference threshold for determining whether a live ``looker'' was looking to the left or right of a target point. Acuity for eye direction was quite high (approximately 30 s arc). Viewing the movement of the looker's eyes did not improve acuity. When one of the looker's eyes was occluded, the observers' acuity was disrupted and their point of subjective equality was shifted away from the exposed eye. Experiment 2 was a replication of Experiment 1, but digitized gaze displays were used. The results of Experiment 3 showed that the acuity for direction of gaze depended on the position of the looker's target. Overall, the results indicated that humans are highly sensitive to gaze direction and that information from both eyes is used to determine direction of regard.}
@@ -3186,8 +3186,8 @@
       \strng{authorbibnamehash}{89b476244643bca57ef812c03ef13b10}
       \strng{authornamehash}{89b476244643bca57ef812c03ef13b10}
       \strng{authorfullhash}{89b476244643bca57ef812c03ef13b10}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2001 workshop on Perceptive user interfaces}
@@ -3216,8 +3216,8 @@
       \strng{authorbibnamehash}{c3514fe522675a7dff97151dbfcd1162}
       \strng{authornamehash}{c3514fe522675a7dff97151dbfcd1162}
       \strng{authorfullhash}{c3514fe522675a7dff97151dbfcd1162}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The author presents an overview of his work on tracking focus of attention in meeting situations. He has developed a system capable of estimating participants' focus of attention from multiple cues. In the system he employs an omni-directional camera to simultaneously track the faces of participants sitting around a meeting table and uses neural networks to estimate their head poses. In addition, he uses microphones to detect who is speaking. The system predicts participants' focus of attention from acoustic and visual information separately, and then combines the output of the audio- and video-based focus of attention predictors. In addition he reports recent experimental results: In order to determine how well we can predict a subject's focus of attention solely on the basis of his or her head orientation, he has conducted an experiment in which he recorded head and eye orientations of participants in a meeting using special tracking equipment. The results demonstrate that head orientation was a sufficient indicator of the subjects' focus target in 89\% of the time. Furthermore he discusses how the neural networks used to estimate head orientation can be adapted to work in new locations and under new illumination conditions.}
@@ -3282,8 +3282,8 @@
       \strng{authornamehash}{d9f5308fe722a6e675192f48579d5791}
       \strng{authorfullhash}{83cbe5e0dab23c180f71b6ab7cfc5aaa}
       \field{extraname}{1}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In face-to-face collaboration, eye gaze is used both as a bidirectional signal to monitor and indicate focus of attention and action, as well as a resource to manage the interaction. In remote interaction supported by immersive collaborative virtual environments (ICVEs), embodied avatars representing and controlled by each participant share a virtual space. We report on a study designed to evaluate methods of avatar eye gaze control during an object-focused puzzle scenario performed between three networked CAVEtrade-like systems. We compare tracked gaze, in which avatars' eyes are controlled by head-mounted mobile eye trackers worn by participants, to a gaze model informed by head orientation for saccade generation, and static gaze featuring non-moving eyes. We analyse task performance, subjective user experience, and interactional behaviour. While not providing statistically significant benefit over static gaze, tracked gaze is observed as the highest performing condition. However, the gaze model resulted in significantly lower task performance and increased error rate.}
@@ -3475,8 +3475,8 @@
       \strng{authorbibnamehash}{64303ce3b898e229c15cbb449e217a04}
       \strng{authornamehash}{64303ce3b898e229c15cbb449e217a04}
       \strng{authorfullhash}{64303ce3b898e229c15cbb449e217a04}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Changing the position of a light source illuminating a human face induces an apparent shift of the perceived orientation of that face. The direction of this apparent shift is opposite to the shift of the light source. We demonstrated the illumination-induced apparent orientation shift (IAOS), quantified it in terms of the physical orientation shift needed to compensate for it, and evaluated the results in the context of possible mechanisms underlying orientation judgment. Results indicate that IAOS depends not only on the angle between the two light source positions, but also on the mean orientation of the face. Availability of cues coded in the visual texture of the face did not affect IAOS. The most effective cue was the location of the visible outline of the face. IAOS seems to be due to a shift of this outline when shadowed areas on the face merge with the black background. We conclude that an important mechanism for orientation judgment is based on a comparison of visible parts left and right of the profile line.}
@@ -3544,8 +3544,8 @@
       \strng{authorbibnamehash}{bc6360074e4ba0420622421785bf077c}
       \strng{authornamehash}{bc6360074e4ba0420622421785bf077c}
       \strng{authorfullhash}{d4b288a31cdb70b2bb4da32416f39e6c}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{During conversation, women tend to nod their heads more frequently and more vigorously than men. An individual speaking with a woman tends to nod his or her head more than when speaking with a man. Is this due to social expectation or due to coupled motion dynamics between the speakers? We present a novel methodology that allows us to randomly assign apparent identity during free conversation in a video-conference, thereby dissociating apparent sex from motion dynamics. The method uses motion-tracked synthesized avatars that are accepted by naive participants as being live video. We find that 1) motion dynamics affect head movements but that apparent sex does not; 2) judgments of sex are driven almost entirely by appearance; and 3) ratings of masculinity and femininity rely on a combination of both appearance and dynamics. Together, these findings are consistent with the hypothesis of separate perceptual streams for appearance and biological motion. In addition, our results are consistent with a view that head movements in conversation form a low level perception and action system that can operate independently from top-down social expectations.}
@@ -3810,6 +3810,45 @@
       \field{pages}{163\bibrangedash 194}
       \range{pages}{32}
       \keyw{litsurvey.bib}
+    \endentry
+    \entry{Hofmann2006}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a38d1c025c34e2c18ffdf3df388549d1}{%
+           family={Hofmann},
+           familyi={H\bibinitperiod},
+           given={Stefan\bibnamedelima G},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=f48bdfa340f07fa64a6e8627baaeb8bc}{%
+           family={Suvak},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=33c034ced7f4b8296b89d94ac416ed4e}{%
+           family={Litz},
+           familyi={L\bibinitperiod},
+           given={Brett\bibnamedelima T},
+           giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a5c29d537215d5555ffdffb069b0dea}
+      \strng{fullhash}{7a5c29d537215d5555ffdffb069b0dea}
+      \strng{bibnamehash}{7a5c29d537215d5555ffdffb069b0dea}
+      \strng{authorbibnamehash}{7a5c29d537215d5555ffdffb069b0dea}
+      \strng{authornamehash}{7a5c29d537215d5555ffdffb069b0dea}
+      \strng{authorfullhash}{7a5c29d537215d5555ffdffb069b0dea}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{To study sex differences in the recognition of human faces with different facial expressions, 65 female and 64 male participants learned to associate names with various male and female neutral faces. During the recall phase, participants were then asked to name the same persons depicting different emotional expressions (neutral, happy, angry, and fearful). Females were faster than males at naming male faces, and males were faster than females at naming female faces. All participants were faster at naming neutral or happy female faces than neural or happy male faces. These results suggest that opposite-sex faces require less processing time than same-sex faces, which is consistent with an evolutionary account.}
+      \field{journaltitle}{Pers. Individ. Dif.}
+      \field{month}{\#jun\#}
+      \field{number}{8}
+      \field{title}{Sex differences in face recognition and influence of facial affect}
+      \field{volume}{40}
+      \field{year}{2006}
+      \field{pages}{1683\bibrangedash 1690}
+      \range{pages}{8}
+      \keyw{Sex difference; Recognition; Facial affect; Emotional processing; Reaction time; Evolutionary psychology;litsurvey.bib}
     \endentry
     \entry{Iverson2005}{article}{}
       \name{author}{2}{}{%
@@ -10825,10 +10864,10 @@
   \missing{Yee2007a}
   \missing{Zhang2013a}
   \missing{bailenson2003interpersonal}
-  \missing{berger1975some}
+  \missing{berger1975}
   \missing{broxton2020immersive}
   \missing{buxton1992telepresence}
-  \missing{carlston2013oxford}
+  \missing{carlston2013}
   \missing{doi:10.1080/01449299508914633}
   \missing{eldes2013multi}
   \missing{fulk1987social}
@@ -10845,6 +10884,7 @@
   \missing{lamboray2005data}
   \missing{norman2002psychopathology}
   \missing{o2018telethrone}
+  \missing{ohba1998}
   \missing{ohba1998facial}
   \missing{orts2016holoportation}
   \missing{pan2014comparing}
@@ -10852,7 +10892,7 @@
   \missing{projectionmappingweb2013}
   \missing{risko2011eyes}
   \missing{rosenthal1947two}
-  \missing{schiano2004categorical}
+  \missing{schiano2004}
   \missing{steinmeyer2013science}
   \missing{tay2008updatable}
   \missing{tuddenham2009territorial}
