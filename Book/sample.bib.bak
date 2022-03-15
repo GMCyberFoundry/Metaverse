@@ -13125,4 +13125,12 @@
   volume  = {16},
 }
 
+@InProceedings{katagiri2007aiduti,
+  author    = {Katagiri, Yasuhiro},
+  booktitle = {Proceedings of the Workshop on Embodied Language Processing},
+  title     = {Aiduti in Japanese multi-party design conversations},
+  year      = {2007},
+  pages     = {9--16},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

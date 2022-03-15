@@ -982,6 +982,30 @@
       \field{title}{El Salvador bitcoin experiment comes with risks}
       \field{year}{2021}
     \endentry
+    \entry{griffith2021electrify}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c469d16f6e8aceb32f1aadd3323f5895}{%
+           family={Griffith},
+           familyi={G\bibinitperiod},
+           given={Saul},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{c469d16f6e8aceb32f1aadd3323f5895}
+      \strng{fullhash}{c469d16f6e8aceb32f1aadd3323f5895}
+      \strng{bibnamehash}{c469d16f6e8aceb32f1aadd3323f5895}
+      \strng{authorbibnamehash}{c469d16f6e8aceb32f1aadd3323f5895}
+      \strng{authornamehash}{c469d16f6e8aceb32f1aadd3323f5895}
+      \strng{authorfullhash}{c469d16f6e8aceb32f1aadd3323f5895}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Electrify: An Optimist's Playbook for Our Clean Energy Future}
+      \field{year}{2021}
+    \endentry
     \entry{baur2021bitcoin}{article}{}
       \name{author}{2}{}{%
         {{hash=1ce923a1009897ad72fa3ab179f295a6}{%
@@ -1004,8 +1028,8 @@
       \strng{authorbibnamehash}{98526eb5477111524c3fb21910495fdd}
       \strng{authornamehash}{98526eb5477111524c3fb21910495fdd}
       \strng{authorfullhash}{98526eb5477111524c3fb21910495fdd}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Finance Research Letters}

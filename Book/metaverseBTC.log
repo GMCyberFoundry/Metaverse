@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  14 MAR 2022 18:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  15 MAR 2022 10:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2367,33 +2367,33 @@ File: Images//ECDSA.png Graphic file (type png)
 <use Images//ECDSA.png>
 Package pdftex.def Info: Images//ECDSA.png  used on input line 97.
 (pdftex.def)             Requested size: 426.79135pt x 428.0914pt.
- [36 <./Images//gource.png>] [37 <./Images//ECDSA.png (PNG copy)>]
-<Images//energyNYT.png, id=1341, 1204.5pt x 677.53125pt>
+<Images//energyNYT.png, id=1329, 1204.5pt x 677.53125pt>
 File: Images//energyNYT.png Graphic file (type png)
 <use Images//energyNYT.png>
-Package pdftex.def Info: Images//energyNYT.png  used on input line 110.
+Package pdftex.def Info: Images//energyNYT.png  used on input line 108.
 (pdftex.def)             Requested size: 426.79135pt x 240.07556pt.
+ [36 <./Images//gource.png>] [37 <./Images//ECDSA.png (PNG copy)>]
+<Images//miningshare.png, id=1350, 378.91562pt x 273.02pt>
+File: Images//miningshare.png Graphic file (type png)
+<use Images//miningshare.png>
+Package pdftex.def Info: Images//miningshare.png  used on input line 117.
+(pdftex.def)             Requested size: 426.79135pt x 307.52168pt.
+<Images//goldmanvgold.jpg, id=1371, 1174.3875pt x 890.32625pt>
+File: Images//goldmanvgold.jpg Graphic file (type jpg)
+<use Images//goldmanvgold.jpg>
+Package pdftex.def Info: Images//goldmanvgold.jpg  used on input line 128.
+(pdftex.def)             Requested size: 426.79135pt x 323.5603pt.
 
 Underfull \vbox (badness 1917) has occurred while \output is active []
 
- [38 <./Images//energyNYT.png>]
-<Images//miningshare.png, id=1364, 378.91562pt x 273.02pt>
-File: Images//miningshare.png Graphic file (type png)
-<use Images//miningshare.png>
-Package pdftex.def Info: Images//miningshare.png  used on input line 125.
-(pdftex.def)             Requested size: 426.79135pt x 307.52168pt.
-<Images//goldmanvgold.jpg, id=1381, 1174.3875pt x 890.32625pt>
-File: Images//goldmanvgold.jpg Graphic file (type jpg)
-<use Images//goldmanvgold.jpg>
-Package pdftex.def Info: Images//goldmanvgold.jpg  used on input line 133.
-(pdftex.def)             Requested size: 426.79135pt x 323.5603pt.
- [39 <./Images//miningshare.png>] [40 <./Images//goldmanvgold.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
+ [38 <./Images//energyNYT.png>] [39 <./Images//miningshare.png>] [40 <./Images/
+/goldmanvgold.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--167
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
 
  []
 
@@ -2401,12 +2401,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 165--167
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [41]
-Underfull \hbox (badness 10000) in paragraph at lines 172--174
+Underfull \hbox (badness 10000) in paragraph at lines 167--169
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--185
+Underfull \hbox (badness 10000) in paragraph at lines 178--180
 
  []
 
@@ -2414,17 +2414,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 183--185
 <Images//lightningAdoption.jpg, id=1434, 423.83344pt x 572.1375pt>
 File: Images//lightningAdoption.jpg Graphic file (type jpg)
 <use Images//lightningAdoption.jpg>
-Package pdftex.def Info: Images//lightningAdoption.jpg  used on input line 194.
+Package pdftex.def Info: Images//lightningAdoption.jpg  used on input line 189.
 
 (pdftex.def)             Requested size: 426.79135pt x 576.15193pt.
 <Images//LnBitsPoS.png, id=1450, 291.18788pt x 508.90125pt>
 File: Images//LnBitsPoS.png Graphic file (type png)
 <use Images//LnBitsPoS.png>
-Package pdftex.def Info: Images//LnBitsPoS.png  used on input line 218.
+Package pdftex.def Info: Images//LnBitsPoS.png  used on input line 213.
 (pdftex.def)             Requested size: 341.43437pt x 596.77875pt.
  [43] [44 <./Images//lightningAdoption.jpg>] [45 <./Images//LnBitsPoS.png (PNG 
 copy)>] [46]
-Underfull \hbox (badness 10000) in paragraph at lines 249--254
+Underfull \hbox (badness 10000) in paragraph at lines 244--249
 
  []
 
@@ -2432,38 +2432,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 249--254
 Underfull \vbox (badness 1629) has occurred while \output is active []
 
  [48]
-Underfull \hbox (badness 10000) in paragraph at lines 292--294
+Underfull \hbox (badness 10000) in paragraph at lines 287--289
 
  []
 
 [49]
-Underfull \hbox (badness 10000) in paragraph at lines 343--347
+Underfull \hbox (badness 10000) in paragraph at lines 338--342
 
  []
 
 
 LaTeX Warning: Reference `https://gist.github.com/RubenSomsen/96505e99dc061d6af
-6b757ff74434e70' on page 50 undefined on input line 359.
+6b757ff74434e70' on page 50 undefined on input line 354.
 
 
 LaTeX Warning: Reference `https://gist.github.com/RubenSomsen/c9f0a92493e06b0e2
-9acced61ca9f49a' on page 50 undefined on input line 359.
+9acced61ca9f49a' on page 50 undefined on input line 354.
 
 <Images//messariICO.jpg, id=1512, 963.6pt x 542.025pt>
 File: Images//messariICO.jpg Graphic file (type jpg)
 <use Images//messariICO.jpg>
-Package pdftex.def Info: Images//messariICO.jpg  used on input line 368.
+Package pdftex.def Info: Images//messariICO.jpg  used on input line 363.
 (pdftex.def)             Requested size: 426.79135pt x 240.06314pt.
 [50]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [51 <./Images//messariICO.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 400--402
+Underfull \hbox (badness 10000) in paragraph at lines 395--397
 
  []
 
 [52]
-Underfull \hbox (badness 10000) in paragraph at lines 413--415
+Underfull \hbox (badness 10000) in paragraph at lines 408--410
 
  []
 
@@ -3796,13 +3796,13 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36397 strings out of 478582
- 715669 string characters out of 2844816
- 1622351 words of memory out of 3000000
- 52708 multiletter control sequences out of 15000+600000
+ 36402 strings out of 478582
+ 715890 string characters out of 2844816
+ 1624064 words of memory out of 3000000
+ 52712 multiletter control sequences out of 15000+600000
  584471 words of font info for 418 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 98i,17n,94p,2521b,1367s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 98i,17n,94p,2419b,1367s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 pdfTeX warning (dest): name{section*.9} has been referenced but does not exist,
  replaced by a fixed one
@@ -4392,9 +4392,9 @@ uagk8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
 tmb8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/ut
 mr8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utm
 ri8a.pfb>
-Output written on metaverseBTC.pdf (142 pages, 12167424 bytes).
+Output written on metaverseBTC.pdf (142 pages, 12167670 bytes).
 PDF statistics:
- 3203 PDF objects out of 3580 (max. 8388607)
- 761 named destinations out of 1000 (max. 500000)
+ 3204 PDF objects out of 3580 (max. 8388607)
+ 762 named destinations out of 1000 (max. 500000)
  118599 words of extra memory for PDF output out of 128383 (max. 10000000)
 
