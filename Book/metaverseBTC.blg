@@ -1,332 +1,332 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'metaverseBTC.blg'
-[186] biber-MSWIN64:340> INFO - === 
-[233] Biber.pm:418> INFO - Reading 'metaverseBTC.bcf'
-[915] Biber.pm:972> INFO - Found 358 citekeys in bib section 0
-[941] Biber.pm:4383> INFO - Processing section 0
-[960] Biber.pm:4574> INFO - Looking for bibtex file 'sample.bib' for section 0
-[1079] bibtex.pm:1713> INFO - LaTeX decoding ...
-[2421] bibtex.pm:1518> INFO - Found BibTeX data source 'sample.bib'
-[4041] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[4041] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[4041] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[4041] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
-[4272] bbl.pm:654> INFO - Writing 'metaverseBTC.bbl' with encoding 'UTF-8'
-[4456] bbl.pm:757> INFO - Output to metaverseBTC.bbl
-[4457] Biber.pm:130> WARN - Duplicate entry key: 'Argyle1976' in file 'sample.bib', skipping ...
-[4457] Biber.pm:130> WARN - Duplicate entry key: 'Bailenson2003' in file 'sample.bib', skipping ...
-[4457] Biber.pm:130> WARN - Duplicate entry key: 'Balogh2010' in file 'sample.bib', skipping ...
-[4457] Biber.pm:130> WARN - Duplicate entry key: 'Bartneck2009' in file 'sample.bib', skipping ...
-[4457] Biber.pm:130> WARN - Duplicate entry key: 'Bekkering2006' in file 'sample.bib', skipping ...
-[4457] Biber.pm:130> WARN - Duplicate entry key: 'Biocca1997' in file 'sample.bib', skipping ...
-[4457] Biber.pm:130> WARN - Duplicate entry key: 'Biocca2003' in file 'sample.bib', skipping ...
-[4457] Biber.pm:130> WARN - Duplicate entry key: 'Biocca2003' in file 'sample.bib', skipping ...
-[4457] Biber.pm:130> WARN - Duplicate entry key: 'Bondareva2004' in file 'sample.bib', skipping ...
-[4457] Biber.pm:130> WARN - Duplicate entry key: 'Boote2005' in file 'sample.bib', skipping ...
-[4457] Biber.pm:130> WARN - Duplicate entry key: 'Bulling2013' in file 'sample.bib', skipping ...
-[4457] Biber.pm:130> WARN - Duplicate entry key: 'Buxton1992' in file 'sample.bib', skipping ...
-[4457] Biber.pm:130> WARN - Duplicate entry key: 'Buxton1992' in file 'sample.bib', skipping ...
-[4457] Biber.pm:130> WARN - Duplicate entry key: 'Carranza2003' in file 'sample.bib', skipping ...
-[4457] Biber.pm:130> WARN - Duplicate entry key: 'Cooke2002' in file 'sample.bib', skipping ...
-[4457] Biber.pm:130> WARN - Duplicate entry key: 'Cooke2002' in file 'sample.bib', skipping ...
-[4457] Biber.pm:130> WARN - Duplicate entry key: 'Criminisi2007' in file 'sample.bib', skipping ...
-[4458] Biber.pm:130> WARN - Duplicate entry key: 'Duckworth2011' in file 'sample.bib', skipping ...
-[4458] Biber.pm:130> WARN - Duplicate entry key: 'Fairchild2017' in file 'sample.bib', skipping ...
-[4458] Biber.pm:130> WARN - Duplicate entry key: 'Gaver1992' in file 'sample.bib', skipping ...
-[4458] Biber.pm:130> WARN - Duplicate entry key: 'Greenhalgh2001' in file 'sample.bib', skipping ...
-[4458] Biber.pm:130> WARN - Duplicate entry key: 'Grimstead2005' in file 'sample.bib', skipping ...
-[4458] Biber.pm:130> WARN - Duplicate entry key: 'Gross2003' in file 'sample.bib', skipping ...
-[4458] Biber.pm:130> WARN - Duplicate entry key: 'Hauber2006' in file 'sample.bib', skipping ...
-[4458] Biber.pm:130> WARN - Duplicate entry key: 'Hua2004' in file 'sample.bib', skipping ...
-[4458] Biber.pm:130> WARN - Duplicate entry key: 'Ichikawa1995' in file 'sample.bib', skipping ...
-[4458] Biber.pm:130> WARN - Duplicate entry key: 'Jones2009' in file 'sample.bib', skipping ...
-[4458] Biber.pm:130> WARN - Duplicate entry key: 'Kauff2002' in file 'sample.bib', skipping ...
-[4458] Biber.pm:130> WARN - Duplicate entry key: 'Kauff2002' in file 'sample.bib', skipping ...
-[4458] Biber.pm:130> WARN - Duplicate entry key: 'Kluttz2009' in file 'sample.bib', skipping ...
-[4458] Biber.pm:130> WARN - Duplicate entry key: 'Krauss1996' in file 'sample.bib', skipping ...
-[4458] Biber.pm:130> WARN - Duplicate entry key: 'Kuster2012' in file 'sample.bib', skipping ...
-[4458] Biber.pm:130> WARN - Duplicate entry key: 'Kuster2012' in file 'sample.bib', skipping ...
-[4458] Biber.pm:130> WARN - Duplicate entry key: 'Kuster2012' in file 'sample.bib', skipping ...
-[4458] Biber.pm:130> WARN - Duplicate entry key: 'Langton2000' in file 'sample.bib', skipping ...
-[4458] Biber.pm:130> WARN - Duplicate entry key: 'Langton2000' in file 'sample.bib', skipping ...
-[4458] Biber.pm:130> WARN - Duplicate entry key: 'Langton2000' in file 'sample.bib', skipping ...
-[4458] Biber.pm:130> WARN - Duplicate entry key: 'Lincoln2010' in file 'sample.bib', skipping ...
-[4458] Biber.pm:130> WARN - Duplicate entry key: 'Loomis2008' in file 'sample.bib', skipping ...
-[4458] Biber.pm:130> WARN - Duplicate entry key: 'Macrae2002' in file 'sample.bib', skipping ...
-[4458] Biber.pm:130> WARN - Duplicate entry key: 'Maimone2011' in file 'sample.bib', skipping ...
-[4459] Biber.pm:130> WARN - Duplicate entry key: 'Maimone2011' in file 'sample.bib', skipping ...
-[4459] Biber.pm:130> WARN - Duplicate entry key: 'Munsell2013' in file 'sample.bib', skipping ...
-[4459] Biber.pm:130> WARN - Duplicate entry key: 'Nguyen2005' in file 'sample.bib', skipping ...
-[4459] Biber.pm:130> WARN - Duplicate entry key: 'Otsuka2013' in file 'sample.bib', skipping ...
-[4459] Biber.pm:130> WARN - Duplicate entry key: 'Pan2008' in file 'sample.bib', skipping ...
-[4459] Biber.pm:130> WARN - Duplicate entry key: 'Pan2014' in file 'sample.bib', skipping ...
-[4459] Biber.pm:130> WARN - Duplicate entry key: 'Perez-Marcos2012' in file 'sample.bib', skipping ...
-[4459] Biber.pm:130> WARN - Duplicate entry key: 'Porter2008' in file 'sample.bib', skipping ...
-[4459] Biber.pm:130> WARN - Duplicate entry key: 'Raskar2001' in file 'sample.bib', skipping ...
-[4459] Biber.pm:130> WARN - Duplicate entry key: 'Regenbrecht2002' in file 'sample.bib', skipping ...
-[4459] Biber.pm:130> WARN - Duplicate entry key: 'Remondino2006' in file 'sample.bib', skipping ...
-[4459] Biber.pm:130> WARN - Duplicate entry key: 'Roberts2009' in file 'sample.bib', skipping ...
-[4459] Biber.pm:130> WARN - Duplicate entry key: 'Roberts2009' in file 'sample.bib', skipping ...
-[4459] Biber.pm:130> WARN - Duplicate entry key: 'Roberts2009' in file 'sample.bib', skipping ...
-[4459] Biber.pm:130> WARN - Duplicate entry key: 'Romano2001' in file 'sample.bib', skipping ...
-[4459] Biber.pm:130> WARN - Duplicate entry key: 'Romano2001' in file 'sample.bib', skipping ...
-[4459] Biber.pm:130> WARN - Duplicate entry key: 'Sellen1992' in file 'sample.bib', skipping ...
-[4459] Biber.pm:130> WARN - Duplicate entry key: 'Sellen1995' in file 'sample.bib', skipping ...
-[4460] Biber.pm:130> WARN - Duplicate entry key: 'Sellen1992' in file 'sample.bib', skipping ...
-[4460] Biber.pm:130> WARN - Duplicate entry key: 'Slater1999' in file 'sample.bib', skipping ...
-[4460] Biber.pm:130> WARN - Duplicate entry key: 'Slater2000' in file 'sample.bib', skipping ...
-[4460] Biber.pm:130> WARN - Duplicate entry key: 'Starck2008' in file 'sample.bib', skipping ...
-[4460] Biber.pm:130> WARN - Duplicate entry key: 'Steptoe2010' in file 'sample.bib', skipping ...
-[4460] Biber.pm:130> WARN - Duplicate entry key: 'Stiefelhagen2002' in file 'sample.bib', skipping ...
-[4460] Biber.pm:130> WARN - Duplicate entry key: 'Tsui2011' in file 'sample.bib', skipping ...
-[4460] Biber.pm:130> WARN - Duplicate entry key: 'Usoh2000' in file 'sample.bib', skipping ...
-[4460] Biber.pm:130> WARN - Duplicate entry key: 'Vertegaal1999' in file 'sample.bib', skipping ...
-[4460] Biber.pm:130> WARN - Duplicate entry key: 'Vertegaal2002' in file 'sample.bib', skipping ...
-[4460] Biber.pm:130> WARN - Duplicate entry key: 'Walther2002' in file 'sample.bib', skipping ...
-[4460] Biber.pm:130> WARN - Duplicate entry key: 'Yee2007' in file 'sample.bib', skipping ...
-[4460] Biber.pm:130> WARN - Duplicate entry key: 'Zajonc1980' in file 'sample.bib', skipping ...
-[4460] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Wolff2008' is not an integer - this will probably not sort properly.
-[4460] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Fullwood2006' is not an integer - this will probably not sort properly.
-[4460] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Nguyen2005' is not an integer - this will probably not sort properly.
-[4460] Biber.pm:130> WARN - legacy month field '\#nov\#' in entry 'Vertegaal2002' is not an integer - this will probably not sort properly.
-[4461] Biber.pm:130> WARN - legacy month field '\#jun\#' in entry 'Van_Eijk2010' is not an integer - this will probably not sort properly.
-[4461] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Bock2008' is not an integer - this will probably not sort properly.
-[4461] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Chen2002' is not an integer - this will probably not sort properly.
-[4461] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Heldner2010' is not an integer - this will probably not sort properly.
-[4461] Biber.pm:130> WARN - legacy month field '\#jul\#' in entry 'Kleinke1986' is not an integer - this will probably not sort properly.
-[4461] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Otsuka2005' is not an integer - this will probably not sort properly.
-[4461] Biber.pm:130> WARN - legacy month field '\#sep\#' in entry 'Goodwin2000' is not an integer - this will probably not sort properly.
-[4461] Biber.pm:130> WARN - legacy month field '\#jan\#' in entry 'Argyle1976' is not an integer - this will probably not sort properly.
-[4461] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Monk2002' is not an integer - this will probably not sort properly.
-[4461] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Novick1996' is not an integer - this will probably not sort properly.
-[4461] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Vertegaal2001' is not an integer - this will probably not sort properly.
-[4461] Biber.pm:130> WARN - legacy month field '\#aug\#' in entry 'Langton2000' is not an integer - this will probably not sort properly.
-[4461] Biber.pm:130> WARN - legacy month field '\#sep\#' in entry 'Macrae2002' is not an integer - this will probably not sort properly.
-[4461] Biber.pm:130> WARN - legacy month field '\#jul\#' in entry 'Kluttz2009' is not an integer - this will probably not sort properly.
-[4461] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Schrammel2007' is not an integer - this will probably not sort properly.
-[4461] Biber.pm:130> WARN - legacy month field '\#nov\#' in entry 'Stiefelhagen2001' is not an integer - this will probably not sort properly.
-[4461] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Stiefelhagen2002' is not an integer - this will probably not sort properly.
-[4461] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Steptoe2009' is not an integer - this will probably not sort properly.
-[4461] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Fagel2010' is not an integer - this will probably not sort properly.
-[4461] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Bohannon2013' is not an integer - this will probably not sort properly.
-[4462] Biber.pm:130> WARN - legacy month field '\#jun\#' in entry 'Boker2011' is not an integer - this will probably not sort properly.
-[4462] Biber.pm:130> WARN - legacy month field '\#jan\#' in entry 'Rienks2010' is not an integer - this will probably not sort properly.
-[4462] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Nguyen2009' is not an integer - this will probably not sort properly.
-[4462] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Ekman1993' is not an integer - this will probably not sort properly.
-[4462] Biber.pm:130> WARN - legacy month field '\#jan\#' in entry 'Chovil1991' is not an integer - this will probably not sort properly.
-[4462] Biber.pm:130> WARN - Possible typo (case mismatch) between citation and datasource keys: 'schiano2004' and 'Schiano2004' in file 'sample.bib'
-[4462] Biber.pm:130> WARN - Possible typo (case mismatch) between citation and datasource keys: 'ohba1998' and 'Ohba1998' in file 'sample.bib'
-[4462] Biber.pm:130> WARN - legacy month field '\#jun\#' in entry 'Hofmann2006' is not an integer - this will probably not sort properly.
-[4462] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Iverson2005' is not an integer - this will probably not sort properly.
-[4462] Biber.pm:130> WARN - legacy month field '\#jan\#' in entry 'Krauss1996' is not an integer - this will probably not sort properly.
-[4462] Biber.pm:130> WARN - legacy month field '\#jan\#' in entry 'Kleinsmith2013' is not an integer - this will probably not sort properly.
-[4462] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Ou2005' is not an integer - this will probably not sort properly.
-[4462] Biber.pm:130> WARN - legacy month field '\#aug\#' in entry 'Murray2009' is not an integer - this will probably not sort properly.
-[4462] Biber.pm:130> WARN - legacy month field '\#aug\#' in entry 'Watson1966' is not an integer - this will probably not sort properly.
-[4462] Biber.pm:130> WARN - legacy month field '\#dec\#' in entry 'Slessor2008' is not an integer - this will probably not sort properly.
-[4462] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Yee2007' is not an integer - this will probably not sort properly.
-[4462] Biber.pm:130> WARN - legacy month field '\#sep\#' in entry 'Blascovich2002' is not an integer - this will probably not sort properly.
-[4462] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Hager1979' is not an integer - this will probably not sort properly.
-[4462] Biber.pm:130> WARN - Possible typo (case mismatch) between citation and datasource keys: 'carlston2013' and 'Carlston2013' in file 'sample.bib'
-[4462] Biber.pm:130> WARN - legacy month field '\#jun\#' in entry 'Sellen1992' is not an integer - this will probably not sort properly.
-[4463] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Deckers2013' is not an integer - this will probably not sort properly.
-[4463] Biber.pm:130> WARN - legacy month field '\#sep\#' in entry 'Gibson1963' is not an integer - this will probably not sort properly.
-[4463] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Fels2000' is not an integer - this will probably not sort properly.
-[4463] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Voida2012' is not an integer - this will probably not sort properly.
-[4463] Biber.pm:130> WARN - Possible typo (case mismatch) between citation and datasource keys: 'berger1975' and 'Berger1975' in file 'sample.bib'
-[4463] Biber.pm:130> WARN - legacy month field '\#sep\#' in entry 'Mihoub2015' is not an integer - this will probably not sort properly.
-[4463] Biber.pm:130> WARN - legacy month field '\#jun\#' in entry 'Chartrand1999' is not an integer - this will probably not sort properly.
-[4463] Biber.pm:130> WARN - legacy month field '\#aug\#' in entry 'Kollock1998' is not an integer - this will probably not sort properly.
-[4463] Biber.pm:130> WARN - legacy month field '\#sep\#' in entry 'Cuddihy2000' is not an integer - this will probably not sort properly.
-[4463] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Hancock2004' is not an integer - this will probably not sort properly.
-[4463] Biber.pm:130> WARN - legacy month field '\#jun\#' in entry 'Holm2010' is not an integer - this will probably not sort properly.
-[4463] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Roberts2015' is not an integer - this will probably not sort properly.
-[4463] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Aoki2003' is not an integer - this will probably not sort properly.
-[4463] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Criminisi2003' is not an integer - this will probably not sort properly.
-[4463] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Roberts2013' is not an integer - this will probably not sort properly.
-[4463] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Gemmell2000' is not an integer - this will probably not sort properly.
-[4463] Biber.pm:130> WARN - legacy month field '\#feb\#' in entry 'Pejsa2016' is not an integer - this will probably not sort properly.
-[4463] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Schuemie2001' is not an integer - this will probably not sort properly.
-[4463] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Slater1999' is not an integer - this will probably not sort properly.
-[4464] Biber.pm:130> WARN - legacy month field '\#jan\#' in entry 'Gunawardena1997' is not an integer - this will probably not sort properly.
-[4464] Biber.pm:130> WARN - legacy month field '\#jan\#' in entry 'Bulu2012' is not an integer - this will probably not sort properly.
-[4464] Biber.pm:130> WARN - legacy month field '\#aug\#' in entry 'Slater2004' is not an integer - this will probably not sort properly.
-[4464] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Bardram2012' is not an integer - this will probably not sort properly.
-[4464] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Adamczyk2007' is not an integer - this will probably not sort properly.
-[4464] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Ishii1993' is not an integer - this will probably not sort properly.
-[4464] Biber.pm:130> WARN - legacy month field '\#feb\#' in entry 'Tang2010' is not an integer - this will probably not sort properly.
-[4464] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Tse2007' is not an integer - this will probably not sort properly.
-[4464] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Tang2006' is not an integer - this will probably not sort properly.
-[4464] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Norris2012' is not an integer - this will probably not sort properly.
-[4464] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Luff2011' is not an integer - this will probably not sort properly.
-[4464] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Jamil2011' is not an integer - this will probably not sort properly.
-[4464] Biber.pm:130> WARN - legacy month field '\#nov\#' in entry 'Hauber2006' is not an integer - this will probably not sort properly.
-[4464] Biber.pm:130> WARN - legacy month field '\#sep\#' in entry 'Kauff2002' is not an integer - this will probably not sort properly.
-[4464] Biber.pm:130> WARN - legacy month field '\#dec\#' in entry 'Kulik2011' is not an integer - this will probably not sort properly.
-[4464] Biber.pm:130> WARN - legacy month field '\#dec\#' in entry 'Otsuka2013' is not an integer - this will probably not sort properly.
-[4464] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Marti2005' is not an integer - this will probably not sort properly.
-[4464] Biber.pm:130> WARN - legacy month field '\#aug\#' in entry 'Bartneck2007' is not an integer - this will probably not sort properly.
-[4464] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Mitchell2011' is not an integer - this will probably not sort properly.
-[4464] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Ho2008' is not an integer - this will probably not sort properly.
-[4465] Biber.pm:130> WARN - legacy month field '\#aug\#' in entry 'Strait2014' is not an integer - this will probably not sort properly.
-[4465] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Adalgeirsson2010' is not an integer - this will probably not sort properly.
-[4465] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Tsui2011' is not an integer - this will probably not sort properly.
-[4465] Biber.pm:130> WARN - legacy month field '\#jan\#' in entry 'Paulos1998' is not an integer - this will probably not sort properly.
-[4465] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Kristoffersson2013' is not an integer - this will probably not sort properly.
-[4465] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Desai2011' is not an integer - this will probably not sort properly.
-[4465] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Tsui2012' is not an integer - this will probably not sort properly.
-[4465] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Sakamoto2007' is not an integer - this will probably not sort properly.
-[4465] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Lincoln2009' is not an integer - this will probably not sort properly.
-[4465] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Oyekoya2012' is not an integer - this will probably not sort properly.
-[4465] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Jouppi2004' is not an integer - this will probably not sort properly.
-[4465] Biber.pm:130> WARN - legacy month field '\#jul\#' in entry 'Raskar1998' is not an integer - this will probably not sort properly.
-[4465] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Dalsgaard2011' is not an integer - this will probably not sort properly.
-[4465] Biber.pm:130> WARN - legacy month field '\#jul\#' in entry 'Yendo2010' is not an integer - this will probably not sort properly.
-[4465] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Zhang2007' is not an integer - this will probably not sort properly.
-[4465] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Ott1993' is not an integer - this will probably not sort properly.
-[4465] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Al-Saidi2009' is not an integer - this will probably not sort properly.
-[4465] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Knoblauch2008' is not an integer - this will probably not sort properly.
-[4465] Biber.pm:130> WARN - legacy month field '\#feb\#' in entry 'Mekuria2013' is not an integer - this will probably not sort properly.
-[4465] Biber.pm:130> WARN - legacy month field '\#jan\#' in entry 'Allard2006' is not an integer - this will probably not sort properly.
-[4466] Biber.pm:130> WARN - legacy month field '\#jul\#' in entry 'Matusik2000' is not an integer - this will probably not sort properly.
-[4466] Biber.pm:130> WARN - legacy month field '\#aug\#' in entry 'Starck2008' is not an integer - this will probably not sort properly.
-[4466] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Baumgart1975' is not an integer - this will probably not sort properly.
-[4466] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Grau2007' is not an integer - this will probably not sort properly.
-[4466] Biber.pm:130> WARN - legacy month field '\#sep\#' in entry 'Waizenegger2011' is not an integer - this will probably not sort properly.
-[4466] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Franco2009' is not an integer - this will probably not sort properly.
-[4466] Biber.pm:130> WARN - legacy month field '\#nov\#' in entry 'Feldmann2009' is not an integer - this will probably not sort properly.
-[4466] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Maimone2011' is not an integer - this will probably not sort properly.
-[4466] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Zillner2014' is not an integer - this will probably not sort properly.
-[4466] Biber.pm:130> WARN - legacy month field '\#jul\#' in entry 'Dou2016' is not an integer - this will probably not sort properly.
-[4466] Biber.pm:130> WARN - legacy month field '\#jul\#' in entry 'Gross2003' is not an integer - this will probably not sort properly.
-[4466] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Maimone2013' is not an integer - this will probably not sort properly.
-[4466] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Erickson2011' is not an integer - this will probably not sort properly.
-[4466] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Goebbels2003' is not an integer - this will probably not sort properly.
-[4466] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Roberts2012' is not an integer - this will probably not sort properly.
-[4466] Biber.pm:130> WARN - legacy month field '\#aug\#' in entry 'Bailenson2006' is not an integer - this will probably not sort properly.
-[4466] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Garau2001' is not an integer - this will probably not sort properly.
-[4466] Biber.pm:130> WARN - legacy month field '\#dec\#' in entry 'Roberts2003' is not an integer - this will probably not sort properly.
-[4466] Biber.pm:130> WARN - legacy month field '\#dec\#' in entry 'Murray2007' is not an integer - this will probably not sort properly.
-[4466] Biber.pm:130> WARN - legacy month field '\#nov\#' in entry 'Steptoe2008' is not an integer - this will probably not sort properly.
-[4466] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Heldal2005' is not an integer - this will probably not sort properly.
-[4467] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Kim2012' is not an integer - this will probably not sort properly.
-[4467] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Tachi2004' is not an integer - this will probably not sort properly.
-[4467] Biber.pm:130> WARN - legacy month field '\#jan\#' in entry 'Hua2004' is not an integer - this will probably not sort properly.
-[4467] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Sermon2000' is not an integer - this will probably not sort properly.
-[4467] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Jones2014' is not an integer - this will probably not sort properly.
-[4467] Biber.pm:130> WARN - legacy month field '\#sep\#' in entry 'Lehment2014' is not an integer - this will probably not sort properly.
-[4467] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Avrahami2007' is not an integer - this will probably not sort properly.
-[4467] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Gergle2006' is not an integer - this will probably not sort properly.
-[4467] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Greenhalgh2001' is not an integer - this will probably not sort properly.
-[4467] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Judge2010' is not an integer - this will probably not sort properly.
-[4467] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Lottridge2009' is not an integer - this will probably not sort properly.
-[4467] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Tang2013' is not an integer - this will probably not sort properly.
-[4467] Biber.pm:130> WARN - legacy month field '\#dec\#' in entry 'Gaver1992' is not an integer - this will probably not sort properly.
-[4467] Biber.pm:130> WARN - legacy month field '\#jan\#' in entry 'Fish1993' is not an integer - this will probably not sort properly.
-[4467] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Fayard2007' is not an integer - this will probably not sort properly.
-[4467] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Schroeder2001' is not an integer - this will probably not sort properly.
-[4467] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\john\AppData\Local\Temp\biber_tmp_DnF_\4f254e11deca8776044b2c0962cb1230_26220.utf8, line 7445, warning: possible runaway string started at line 7444
-[4468] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\john\AppData\Local\Temp\biber_tmp_DnF_\4f254e11deca8776044b2c0962cb1230_26220.utf8, line 7454, warning: possible runaway string started at line 7453
-[4468] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\john\AppData\Local\Temp\biber_tmp_DnF_\4f254e11deca8776044b2c0962cb1230_26220.utf8, line 8935, warning: possible runaway string started at line 8934
-[4468] Biber.pm:130> WARN - I didn't find a database entry for 'schiano2004' (section 0)
-[4468] Biber.pm:130> WARN - I didn't find a database entry for 'ohba1998' (section 0)
-[4468] Biber.pm:130> WARN - I didn't find a database entry for '10.2307/40971262' (section 0)
-[4468] Biber.pm:130> WARN - I didn't find a database entry for '6790745' (section 0)
-[4468] Biber.pm:130> WARN - I didn't find a database entry for 'bailenson2003interpersonal' (section 0)
-[4468] Biber.pm:130> WARN - I didn't find a database entry for 'Argyle' (section 0)
-[4468] Biber.pm:130> WARN - I didn't find a database entry for 'carlston2013' (section 0)
-[4468] Biber.pm:130> WARN - I didn't find a database entry for 'Hofmann20061683' (section 0)
-[4468] Biber.pm:130> WARN - I didn't find a database entry for 'Pan2008a' (section 0)
-[4468] Biber.pm:130> WARN - I didn't find a database entry for 'berger1975' (section 0)
-[4469] Biber.pm:130> WARN - I didn't find a database entry for 'Parsons922' (section 0)
-[4469] Biber.pm:130> WARN - I didn't find a database entry for 'risko2011eyes' (section 0)
-[4469] Biber.pm:130> WARN - I didn't find a database entry for 'porter2008reading' (section 0)
-[4469] Biber.pm:130> WARN - I didn't find a database entry for 'Steptoe2010b' (section 0)
-[4469] Biber.pm:130> WARN - I didn't find a database entry for '2015' (section 0)
-[4469] Biber.pm:130> WARN - I didn't find a database entry for 'jouppi2002mutually' (section 0)
-[4469] Biber.pm:130> WARN - I didn't find a database entry for 'O'Malley1996' (section 0)
-[4469] Biber.pm:130> WARN - I didn't find a database entry for 'Dourish1993' (section 0)
-[4469] Biber.pm:130> WARN - I didn't find a database entry for 'Eijk2010' (section 0)
-[4469] Biber.pm:130> WARN - I didn't find a database entry for 'Sellen1992a' (section 0)
-[4469] Biber.pm:130> WARN - I didn't find a database entry for 'Sellen1995a' (section 0)
-[4469] Biber.pm:130> WARN - I didn't find a database entry for 'Kuster2012b' (section 0)
-[4470] Biber.pm:130> WARN - I didn't find a database entry for 'CiscoSystems' (section 0)
-[4470] Biber.pm:130> WARN - I didn't find a database entry for 'heeter1992being' (section 0)
-[4470] Biber.pm:130> WARN - I didn't find a database entry for 'doi:10.1080/01449299508914633' (section 0)
-[4470] Biber.pm:130> WARN - I didn't find a database entry for 'fulk1987social' (section 0)
-[4470] Biber.pm:130> WARN - I didn't find a database entry for 'haythornthwaite1995work' (section 0)
-[4470] Biber.pm:130> WARN - I didn't find a database entry for 'Biocca2003a' (section 0)
-[4470] Biber.pm:130> WARN - I didn't find a database entry for 'Usoh2000a' (section 0)
-[4470] Biber.pm:130> WARN - I didn't find a database entry for 'Baren' (section 0)
-[4470] Biber.pm:130> WARN - I didn't find a database entry for 'steinmeyer2013science' (section 0)
-[4470] Biber.pm:130> WARN - I didn't find a database entry for 'rosenthal1947two' (section 0)
-[4470] Biber.pm:130> WARN - I didn't find a database entry for 'buxton1992telepresence' (section 0)
-[4470] Biber.pm:130> WARN - I didn't find a database entry for 'Vertegaal2003' (section 0)
-[4470] Biber.pm:130> WARN - I didn't find a database entry for 'Buxton1992a' (section 0)
-[4470] Biber.pm:130> WARN - I didn't find a database entry for 'Norris2013a' (section 0)
-[4470] Biber.pm:130> WARN - I didn't find a database entry for 'tuddenham2009territorial' (section 0)
-[4470] Biber.pm:130> WARN - I didn't find a database entry for 'Jetter2011a' (section 0)
-[4470] Biber.pm:130> WARN - I didn't find a database entry for 'Kauff2002a' (section 0)
-[4470] Biber.pm:130> WARN - I didn't find a database entry for 'Fuchs:2002ww' (section 0)
-[4471] Biber.pm:130> WARN - I didn't find a database entry for 'jones2009headspin' (section 0)
-[4471] Biber.pm:130> WARN - I didn't find a database entry for 'Okada:1994et' (section 0)
-[4471] Biber.pm:130> WARN - I didn't find a database entry for 'gotsch2018telehuman2' (section 0)
-[4471] Biber.pm:130> WARN - I didn't find a database entry for 'Bartneck2009a' (section 0)
-[4471] Biber.pm:130> WARN - I didn't find a database entry for 'Yee2007a' (section 0)
-[4471] Biber.pm:130> WARN - I didn't find a database entry for 'Ho:2010:RUV:1853385.1853509' (section 0)
-[4471] Biber.pm:130> WARN - I didn't find a database entry for 'Lee2011b' (section 0)
-[4471] Biber.pm:130> WARN - I didn't find a database entry for 'Lincoln:2010it' (section 0)
-[4471] Biber.pm:130> WARN - I didn't find a database entry for 'Raskar2001a' (section 0)
-[4471] Biber.pm:130> WARN - I didn't find a database entry for 'pan2014comparing' (section 0)
-[4471] Biber.pm:130> WARN - I didn't find a database entry for 'Pan2012a' (section 0)
-[4471] Biber.pm:130> WARN - I didn't find a database entry for 'Pan2014a' (section 0)
-[4471] Biber.pm:130> WARN - I didn't find a database entry for 'Nagendran' (section 0)
-[4471] Biber.pm:130> WARN - I didn't find a database entry for 'projectionmappingweb2013' (section 0)
-[4471] Biber.pm:130> WARN - I didn't find a database entry for 'Low2001' (section 0)
-[4471] Biber.pm:130> WARN - I didn't find a database entry for 'googleStatsProjectionMapping' (section 0)
-[4471] Biber.pm:130> WARN - I didn't find a database entry for 'Bandyopadhyay' (section 0)
-[4471] Biber.pm:130> WARN - I didn't find a database entry for 'tay2008updatable' (section 0)
-[4471] Biber.pm:130> WARN - I didn't find a database entry for 'eldes2013multi' (section 0)
-[4471] Biber.pm:130> WARN - I didn't find a database entry for 'Criminisi:2003ji' (section 0)
-[4471] Biber.pm:130> WARN - I didn't find a database entry for 'broxton2020immersive' (section 0)
-[4471] Biber.pm:130> WARN - I didn't find a database entry for 'Okutomi:1993ez' (section 0)
-[4472] Biber.pm:130> WARN - I didn't find a database entry for 'Cooke2002a' (section 0)
-[4472] Biber.pm:130> WARN - I didn't find a database entry for 'Petit:2008tva' (section 0)
-[4472] Biber.pm:130> WARN - I didn't find a database entry for 'Laurentini1994a' (section 0)
-[4472] Biber.pm:130> WARN - I didn't find a database entry for 'Hu:1986ww' (section 0)
-[4472] Biber.pm:130> WARN - I didn't find a database entry for 'Cooke_image-basedrendering' (section 0)
-[4472] Biber.pm:130> WARN - I didn't find a database entry for 'Petit2010' (section 0)
-[4472] Biber.pm:130> WARN - I didn't find a database entry for 'Kuster2012a' (section 0)
-[4472] Biber.pm:130> WARN - I didn't find a database entry for 'Maimone2011a' (section 0)
-[4472] Biber.pm:130> WARN - I didn't find a database entry for 'Schreer:2008ty' (section 0)
-[4472] Biber.pm:130> WARN - I didn't find a database entry for 'Grimstead2005a' (section 0)
-[4472] Biber.pm:130> WARN - I didn't find a database entry for 'Benford1998' (section 0)
-[4472] Biber.pm:130> WARN - I didn't find a database entry for 'Murray2009a' (section 0)
-[4472] Biber.pm:130> WARN - I didn't find a database entry for 'Benford:1995hh' (section 0)
-[4472] Biber.pm:130> WARN - I didn't find a database entry for 'Duckworth:2012tx' (section 0)
-[4472] Biber.pm:130> WARN - I didn't find a database entry for 'Fairchild2016' (section 0)
-[4472] Biber.pm:130> WARN - I didn't find a database entry for 'Ciger2004a' (section 0)
-[4472] Biber.pm:130> WARN - I didn't find a database entry for 'Steptoe2010a' (section 0)
-[4472] Biber.pm:130> WARN - I didn't find a database entry for 'Goodwin2000a' (section 0)
-[4472] Biber.pm:130> WARN - I didn't find a database entry for 'Zhang2013a' (section 0)
-[4472] Biber.pm:130> WARN - I didn't find a database entry for 'inami2000visuo' (section 0)
-[4472] Biber.pm:130> WARN - I didn't find a database entry for 'JSID:JSID295' (section 0)
-[4473] Biber.pm:130> WARN - I didn't find a database entry for 'Bradner:2002:WDM:587078.587110' (section 0)
-[4473] Biber.pm:130> WARN - I didn't find a database entry for 'Greenhalgh2001a' (section 0)
-[4473] Biber.pm:130> WARN - I didn't find a database entry for 'Gasparello:2011in' (section 0)
-[4473] Biber.pm:130> WARN - I didn't find a database entry for 'Moore:2010jt' (section 0)
-[4473] Biber.pm:130> WARN - I didn't find a database entry for 'Park1999' (section 0)
-[4473] Biber.pm:130> WARN - I didn't find a database entry for 'lamboray2005data' (section 0)
-[4473] Biber.pm:130> WARN - I didn't find a database entry for 'DeGreef2001' (section 0)
-[4473] Biber.pm:130> WARN - I didn't find a database entry for 'orts2016holoportation' (section 0)
-[4473] Biber.pm:130> WARN - I didn't find a database entry for 'horgen1999excellence' (section 0)
-[4473] Biber.pm:130> WARN - I didn't find a database entry for 'greenberg1976role' (section 0)
-[4473] Biber.pm:130> WARN - I didn't find a database entry for 'ohba1998facial' (section 0)
-[4473] Biber.pm:130> WARN - I didn't find a database entry for 'o2018telethrone' (section 0)
-[4473] Biber.pm:130> WARN - I didn't find a database entry for '3dlightfield' (section 0)
-[4473] Biber.pm:130> WARN - I didn't find a database entry for '6162881' (section 0)
-[4473] Biber.pm:130> WARN - I didn't find a database entry for '1255811' (section 0)
-[4473] Biber.pm:130> WARN - I didn't find a database entry for 'gibson2014ecological' (section 0)
-[4473] Biber.pm:130> WARN - I didn't find a database entry for 'norman2002psychopathology' (section 0)
-[4473] Biber.pm:130> WARN - I didn't find a database entry for 'Kleinke1986a' (section 0)
-[4473] Biber.pm:132> INFO - WARNINGS: 316
+[136] biber-MSWIN64:340> INFO - === 
+[177] Biber.pm:418> INFO - Reading 'metaverseBTC.bcf'
+[788] Biber.pm:972> INFO - Found 358 citekeys in bib section 0
+[812] Biber.pm:4383> INFO - Processing section 0
+[826] Biber.pm:4574> INFO - Looking for bibtex file 'sample.bib' for section 0
+[922] bibtex.pm:1713> INFO - LaTeX decoding ...
+[2459] bibtex.pm:1518> INFO - Found BibTeX data source 'sample.bib'
+[4243] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[4243] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[4243] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[4243] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[4464] bbl.pm:654> INFO - Writing 'metaverseBTC.bbl' with encoding 'UTF-8'
+[4674] bbl.pm:757> INFO - Output to metaverseBTC.bbl
+[4674] Biber.pm:130> WARN - Duplicate entry key: 'Argyle1976' in file 'sample.bib', skipping ...
+[4674] Biber.pm:130> WARN - Duplicate entry key: 'Bailenson2003' in file 'sample.bib', skipping ...
+[4674] Biber.pm:130> WARN - Duplicate entry key: 'Balogh2010' in file 'sample.bib', skipping ...
+[4674] Biber.pm:130> WARN - Duplicate entry key: 'Bartneck2009' in file 'sample.bib', skipping ...
+[4675] Biber.pm:130> WARN - Duplicate entry key: 'Bekkering2006' in file 'sample.bib', skipping ...
+[4675] Biber.pm:130> WARN - Duplicate entry key: 'Biocca1997' in file 'sample.bib', skipping ...
+[4675] Biber.pm:130> WARN - Duplicate entry key: 'Biocca2003' in file 'sample.bib', skipping ...
+[4675] Biber.pm:130> WARN - Duplicate entry key: 'Biocca2003' in file 'sample.bib', skipping ...
+[4675] Biber.pm:130> WARN - Duplicate entry key: 'Bondareva2004' in file 'sample.bib', skipping ...
+[4675] Biber.pm:130> WARN - Duplicate entry key: 'Boote2005' in file 'sample.bib', skipping ...
+[4675] Biber.pm:130> WARN - Duplicate entry key: 'Bulling2013' in file 'sample.bib', skipping ...
+[4675] Biber.pm:130> WARN - Duplicate entry key: 'Buxton1992' in file 'sample.bib', skipping ...
+[4675] Biber.pm:130> WARN - Duplicate entry key: 'Buxton1992' in file 'sample.bib', skipping ...
+[4675] Biber.pm:130> WARN - Duplicate entry key: 'Carranza2003' in file 'sample.bib', skipping ...
+[4675] Biber.pm:130> WARN - Duplicate entry key: 'Cooke2002' in file 'sample.bib', skipping ...
+[4675] Biber.pm:130> WARN - Duplicate entry key: 'Cooke2002' in file 'sample.bib', skipping ...
+[4675] Biber.pm:130> WARN - Duplicate entry key: 'Criminisi2007' in file 'sample.bib', skipping ...
+[4675] Biber.pm:130> WARN - Duplicate entry key: 'Duckworth2011' in file 'sample.bib', skipping ...
+[4675] Biber.pm:130> WARN - Duplicate entry key: 'Fairchild2017' in file 'sample.bib', skipping ...
+[4675] Biber.pm:130> WARN - Duplicate entry key: 'Gaver1992' in file 'sample.bib', skipping ...
+[4675] Biber.pm:130> WARN - Duplicate entry key: 'Greenhalgh2001' in file 'sample.bib', skipping ...
+[4675] Biber.pm:130> WARN - Duplicate entry key: 'Grimstead2005' in file 'sample.bib', skipping ...
+[4675] Biber.pm:130> WARN - Duplicate entry key: 'Gross2003' in file 'sample.bib', skipping ...
+[4675] Biber.pm:130> WARN - Duplicate entry key: 'Hauber2006' in file 'sample.bib', skipping ...
+[4676] Biber.pm:130> WARN - Duplicate entry key: 'Hua2004' in file 'sample.bib', skipping ...
+[4676] Biber.pm:130> WARN - Duplicate entry key: 'Ichikawa1995' in file 'sample.bib', skipping ...
+[4676] Biber.pm:130> WARN - Duplicate entry key: 'Jones2009' in file 'sample.bib', skipping ...
+[4676] Biber.pm:130> WARN - Duplicate entry key: 'Kauff2002' in file 'sample.bib', skipping ...
+[4676] Biber.pm:130> WARN - Duplicate entry key: 'Kauff2002' in file 'sample.bib', skipping ...
+[4676] Biber.pm:130> WARN - Duplicate entry key: 'Kluttz2009' in file 'sample.bib', skipping ...
+[4676] Biber.pm:130> WARN - Duplicate entry key: 'Krauss1996' in file 'sample.bib', skipping ...
+[4676] Biber.pm:130> WARN - Duplicate entry key: 'Kuster2012' in file 'sample.bib', skipping ...
+[4676] Biber.pm:130> WARN - Duplicate entry key: 'Kuster2012' in file 'sample.bib', skipping ...
+[4676] Biber.pm:130> WARN - Duplicate entry key: 'Kuster2012' in file 'sample.bib', skipping ...
+[4676] Biber.pm:130> WARN - Duplicate entry key: 'Langton2000' in file 'sample.bib', skipping ...
+[4676] Biber.pm:130> WARN - Duplicate entry key: 'Langton2000' in file 'sample.bib', skipping ...
+[4676] Biber.pm:130> WARN - Duplicate entry key: 'Langton2000' in file 'sample.bib', skipping ...
+[4676] Biber.pm:130> WARN - Duplicate entry key: 'Lincoln2010' in file 'sample.bib', skipping ...
+[4676] Biber.pm:130> WARN - Duplicate entry key: 'Loomis2008' in file 'sample.bib', skipping ...
+[4676] Biber.pm:130> WARN - Duplicate entry key: 'Macrae2002' in file 'sample.bib', skipping ...
+[4676] Biber.pm:130> WARN - Duplicate entry key: 'Maimone2011' in file 'sample.bib', skipping ...
+[4676] Biber.pm:130> WARN - Duplicate entry key: 'Maimone2011' in file 'sample.bib', skipping ...
+[4676] Biber.pm:130> WARN - Duplicate entry key: 'Munsell2013' in file 'sample.bib', skipping ...
+[4677] Biber.pm:130> WARN - Duplicate entry key: 'Nguyen2005' in file 'sample.bib', skipping ...
+[4677] Biber.pm:130> WARN - Duplicate entry key: 'Otsuka2013' in file 'sample.bib', skipping ...
+[4677] Biber.pm:130> WARN - Duplicate entry key: 'Pan2008' in file 'sample.bib', skipping ...
+[4677] Biber.pm:130> WARN - Duplicate entry key: 'Pan2014' in file 'sample.bib', skipping ...
+[4677] Biber.pm:130> WARN - Duplicate entry key: 'Perez-Marcos2012' in file 'sample.bib', skipping ...
+[4677] Biber.pm:130> WARN - Duplicate entry key: 'Porter2008' in file 'sample.bib', skipping ...
+[4677] Biber.pm:130> WARN - Duplicate entry key: 'Raskar2001' in file 'sample.bib', skipping ...
+[4677] Biber.pm:130> WARN - Duplicate entry key: 'Regenbrecht2002' in file 'sample.bib', skipping ...
+[4677] Biber.pm:130> WARN - Duplicate entry key: 'Remondino2006' in file 'sample.bib', skipping ...
+[4677] Biber.pm:130> WARN - Duplicate entry key: 'Roberts2009' in file 'sample.bib', skipping ...
+[4677] Biber.pm:130> WARN - Duplicate entry key: 'Roberts2009' in file 'sample.bib', skipping ...
+[4677] Biber.pm:130> WARN - Duplicate entry key: 'Roberts2009' in file 'sample.bib', skipping ...
+[4677] Biber.pm:130> WARN - Duplicate entry key: 'Romano2001' in file 'sample.bib', skipping ...
+[4677] Biber.pm:130> WARN - Duplicate entry key: 'Romano2001' in file 'sample.bib', skipping ...
+[4677] Biber.pm:130> WARN - Duplicate entry key: 'Sellen1992' in file 'sample.bib', skipping ...
+[4677] Biber.pm:130> WARN - Duplicate entry key: 'Sellen1995' in file 'sample.bib', skipping ...
+[4677] Biber.pm:130> WARN - Duplicate entry key: 'Sellen1992' in file 'sample.bib', skipping ...
+[4677] Biber.pm:130> WARN - Duplicate entry key: 'Slater1999' in file 'sample.bib', skipping ...
+[4677] Biber.pm:130> WARN - Duplicate entry key: 'Slater2000' in file 'sample.bib', skipping ...
+[4677] Biber.pm:130> WARN - Duplicate entry key: 'Starck2008' in file 'sample.bib', skipping ...
+[4678] Biber.pm:130> WARN - Duplicate entry key: 'Steptoe2010' in file 'sample.bib', skipping ...
+[4678] Biber.pm:130> WARN - Duplicate entry key: 'Stiefelhagen2002' in file 'sample.bib', skipping ...
+[4678] Biber.pm:130> WARN - Duplicate entry key: 'Tsui2011' in file 'sample.bib', skipping ...
+[4678] Biber.pm:130> WARN - Duplicate entry key: 'Usoh2000' in file 'sample.bib', skipping ...
+[4678] Biber.pm:130> WARN - Duplicate entry key: 'Vertegaal1999' in file 'sample.bib', skipping ...
+[4678] Biber.pm:130> WARN - Duplicate entry key: 'Vertegaal2002' in file 'sample.bib', skipping ...
+[4678] Biber.pm:130> WARN - Duplicate entry key: 'Walther2002' in file 'sample.bib', skipping ...
+[4678] Biber.pm:130> WARN - Duplicate entry key: 'Yee2007' in file 'sample.bib', skipping ...
+[4678] Biber.pm:130> WARN - Duplicate entry key: 'Zajonc1980' in file 'sample.bib', skipping ...
+[4678] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Wolff2008' is not an integer - this will probably not sort properly.
+[4678] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Fullwood2006' is not an integer - this will probably not sort properly.
+[4678] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Nguyen2005' is not an integer - this will probably not sort properly.
+[4678] Biber.pm:130> WARN - legacy month field '\#nov\#' in entry 'Vertegaal2002' is not an integer - this will probably not sort properly.
+[4678] Biber.pm:130> WARN - legacy month field '\#jun\#' in entry 'Van_Eijk2010' is not an integer - this will probably not sort properly.
+[4678] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Bock2008' is not an integer - this will probably not sort properly.
+[4678] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Chen2002' is not an integer - this will probably not sort properly.
+[4678] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Heldner2010' is not an integer - this will probably not sort properly.
+[4678] Biber.pm:130> WARN - legacy month field '\#jul\#' in entry 'Kleinke1986' is not an integer - this will probably not sort properly.
+[4678] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Otsuka2005' is not an integer - this will probably not sort properly.
+[4678] Biber.pm:130> WARN - legacy month field '\#sep\#' in entry 'Goodwin2000' is not an integer - this will probably not sort properly.
+[4678] Biber.pm:130> WARN - legacy month field '\#jan\#' in entry 'Argyle1976' is not an integer - this will probably not sort properly.
+[4678] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Monk2002' is not an integer - this will probably not sort properly.
+[4678] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Novick1996' is not an integer - this will probably not sort properly.
+[4679] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Vertegaal2001' is not an integer - this will probably not sort properly.
+[4679] Biber.pm:130> WARN - legacy month field '\#aug\#' in entry 'Langton2000' is not an integer - this will probably not sort properly.
+[4679] Biber.pm:130> WARN - legacy month field '\#sep\#' in entry 'Macrae2002' is not an integer - this will probably not sort properly.
+[4679] Biber.pm:130> WARN - legacy month field '\#jul\#' in entry 'Kluttz2009' is not an integer - this will probably not sort properly.
+[4679] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Schrammel2007' is not an integer - this will probably not sort properly.
+[4679] Biber.pm:130> WARN - legacy month field '\#nov\#' in entry 'Stiefelhagen2001' is not an integer - this will probably not sort properly.
+[4679] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Stiefelhagen2002' is not an integer - this will probably not sort properly.
+[4679] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Steptoe2009' is not an integer - this will probably not sort properly.
+[4679] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Fagel2010' is not an integer - this will probably not sort properly.
+[4679] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Bohannon2013' is not an integer - this will probably not sort properly.
+[4679] Biber.pm:130> WARN - legacy month field '\#jun\#' in entry 'Boker2011' is not an integer - this will probably not sort properly.
+[4679] Biber.pm:130> WARN - legacy month field '\#jan\#' in entry 'Rienks2010' is not an integer - this will probably not sort properly.
+[4679] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Nguyen2009' is not an integer - this will probably not sort properly.
+[4679] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Ekman1993' is not an integer - this will probably not sort properly.
+[4679] Biber.pm:130> WARN - legacy month field '\#jan\#' in entry 'Chovil1991' is not an integer - this will probably not sort properly.
+[4680] Biber.pm:130> WARN - Possible typo (case mismatch) between citation and datasource keys: 'schiano2004' and 'Schiano2004' in file 'sample.bib'
+[4680] Biber.pm:130> WARN - Possible typo (case mismatch) between citation and datasource keys: 'ohba1998' and 'Ohba1998' in file 'sample.bib'
+[4680] Biber.pm:130> WARN - legacy month field '\#jun\#' in entry 'Hofmann2006' is not an integer - this will probably not sort properly.
+[4680] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Iverson2005' is not an integer - this will probably not sort properly.
+[4680] Biber.pm:130> WARN - legacy month field '\#jan\#' in entry 'Krauss1996' is not an integer - this will probably not sort properly.
+[4680] Biber.pm:130> WARN - legacy month field '\#jan\#' in entry 'Kleinsmith2013' is not an integer - this will probably not sort properly.
+[4680] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Ou2005' is not an integer - this will probably not sort properly.
+[4680] Biber.pm:130> WARN - legacy month field '\#aug\#' in entry 'Murray2009' is not an integer - this will probably not sort properly.
+[4680] Biber.pm:130> WARN - legacy month field '\#aug\#' in entry 'Watson1966' is not an integer - this will probably not sort properly.
+[4680] Biber.pm:130> WARN - legacy month field '\#dec\#' in entry 'Slessor2008' is not an integer - this will probably not sort properly.
+[4680] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Yee2007' is not an integer - this will probably not sort properly.
+[4680] Biber.pm:130> WARN - legacy month field '\#sep\#' in entry 'Blascovich2002' is not an integer - this will probably not sort properly.
+[4680] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Hager1979' is not an integer - this will probably not sort properly.
+[4680] Biber.pm:130> WARN - Possible typo (case mismatch) between citation and datasource keys: 'carlston2013' and 'Carlston2013' in file 'sample.bib'
+[4681] Biber.pm:130> WARN - legacy month field '\#jun\#' in entry 'Sellen1992' is not an integer - this will probably not sort properly.
+[4681] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Deckers2013' is not an integer - this will probably not sort properly.
+[4681] Biber.pm:130> WARN - legacy month field '\#sep\#' in entry 'Gibson1963' is not an integer - this will probably not sort properly.
+[4681] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Fels2000' is not an integer - this will probably not sort properly.
+[4681] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Voida2012' is not an integer - this will probably not sort properly.
+[4681] Biber.pm:130> WARN - Possible typo (case mismatch) between citation and datasource keys: 'berger1975' and 'Berger1975' in file 'sample.bib'
+[4681] Biber.pm:130> WARN - legacy month field '\#sep\#' in entry 'Mihoub2015' is not an integer - this will probably not sort properly.
+[4681] Biber.pm:130> WARN - legacy month field '\#jun\#' in entry 'Chartrand1999' is not an integer - this will probably not sort properly.
+[4681] Biber.pm:130> WARN - legacy month field '\#aug\#' in entry 'Kollock1998' is not an integer - this will probably not sort properly.
+[4681] Biber.pm:130> WARN - legacy month field '\#sep\#' in entry 'Cuddihy2000' is not an integer - this will probably not sort properly.
+[4681] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Hancock2004' is not an integer - this will probably not sort properly.
+[4681] Biber.pm:130> WARN - legacy month field '\#jun\#' in entry 'Holm2010' is not an integer - this will probably not sort properly.
+[4682] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Roberts2015' is not an integer - this will probably not sort properly.
+[4682] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Aoki2003' is not an integer - this will probably not sort properly.
+[4682] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Criminisi2003' is not an integer - this will probably not sort properly.
+[4682] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Roberts2013' is not an integer - this will probably not sort properly.
+[4682] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Gemmell2000' is not an integer - this will probably not sort properly.
+[4682] Biber.pm:130> WARN - legacy month field '\#feb\#' in entry 'Pejsa2016' is not an integer - this will probably not sort properly.
+[4682] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Schuemie2001' is not an integer - this will probably not sort properly.
+[4682] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Slater1999' is not an integer - this will probably not sort properly.
+[4682] Biber.pm:130> WARN - legacy month field '\#jan\#' in entry 'Gunawardena1997' is not an integer - this will probably not sort properly.
+[4682] Biber.pm:130> WARN - legacy month field '\#jan\#' in entry 'Bulu2012' is not an integer - this will probably not sort properly.
+[4682] Biber.pm:130> WARN - legacy month field '\#aug\#' in entry 'Slater2004' is not an integer - this will probably not sort properly.
+[4682] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Bardram2012' is not an integer - this will probably not sort properly.
+[4682] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Adamczyk2007' is not an integer - this will probably not sort properly.
+[4683] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Ishii1993' is not an integer - this will probably not sort properly.
+[4683] Biber.pm:130> WARN - legacy month field '\#feb\#' in entry 'Tang2010' is not an integer - this will probably not sort properly.
+[4683] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Tse2007' is not an integer - this will probably not sort properly.
+[4683] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Tang2006' is not an integer - this will probably not sort properly.
+[4683] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Norris2012' is not an integer - this will probably not sort properly.
+[4683] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Luff2011' is not an integer - this will probably not sort properly.
+[4683] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Jamil2011' is not an integer - this will probably not sort properly.
+[4683] Biber.pm:130> WARN - legacy month field '\#nov\#' in entry 'Hauber2006' is not an integer - this will probably not sort properly.
+[4683] Biber.pm:130> WARN - legacy month field '\#sep\#' in entry 'Kauff2002' is not an integer - this will probably not sort properly.
+[4683] Biber.pm:130> WARN - legacy month field '\#dec\#' in entry 'Kulik2011' is not an integer - this will probably not sort properly.
+[4683] Biber.pm:130> WARN - legacy month field '\#dec\#' in entry 'Otsuka2013' is not an integer - this will probably not sort properly.
+[4683] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Marti2005' is not an integer - this will probably not sort properly.
+[4683] Biber.pm:130> WARN - legacy month field '\#aug\#' in entry 'Bartneck2007' is not an integer - this will probably not sort properly.
+[4683] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Mitchell2011' is not an integer - this will probably not sort properly.
+[4683] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Ho2008' is not an integer - this will probably not sort properly.
+[4683] Biber.pm:130> WARN - legacy month field '\#aug\#' in entry 'Strait2014' is not an integer - this will probably not sort properly.
+[4683] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Adalgeirsson2010' is not an integer - this will probably not sort properly.
+[4683] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Tsui2011' is not an integer - this will probably not sort properly.
+[4683] Biber.pm:130> WARN - legacy month field '\#jan\#' in entry 'Paulos1998' is not an integer - this will probably not sort properly.
+[4684] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Kristoffersson2013' is not an integer - this will probably not sort properly.
+[4684] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Desai2011' is not an integer - this will probably not sort properly.
+[4684] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Tsui2012' is not an integer - this will probably not sort properly.
+[4684] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Sakamoto2007' is not an integer - this will probably not sort properly.
+[4684] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Lincoln2009' is not an integer - this will probably not sort properly.
+[4684] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Oyekoya2012' is not an integer - this will probably not sort properly.
+[4684] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Jouppi2004' is not an integer - this will probably not sort properly.
+[4684] Biber.pm:130> WARN - legacy month field '\#jul\#' in entry 'Raskar1998' is not an integer - this will probably not sort properly.
+[4684] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Dalsgaard2011' is not an integer - this will probably not sort properly.
+[4684] Biber.pm:130> WARN - legacy month field '\#jul\#' in entry 'Yendo2010' is not an integer - this will probably not sort properly.
+[4684] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Zhang2007' is not an integer - this will probably not sort properly.
+[4684] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Ott1993' is not an integer - this will probably not sort properly.
+[4684] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Al-Saidi2009' is not an integer - this will probably not sort properly.
+[4684] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Knoblauch2008' is not an integer - this will probably not sort properly.
+[4684] Biber.pm:130> WARN - legacy month field '\#feb\#' in entry 'Mekuria2013' is not an integer - this will probably not sort properly.
+[4684] Biber.pm:130> WARN - legacy month field '\#jan\#' in entry 'Allard2006' is not an integer - this will probably not sort properly.
+[4684] Biber.pm:130> WARN - legacy month field '\#jul\#' in entry 'Matusik2000' is not an integer - this will probably not sort properly.
+[4684] Biber.pm:130> WARN - legacy month field '\#aug\#' in entry 'Starck2008' is not an integer - this will probably not sort properly.
+[4684] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Baumgart1975' is not an integer - this will probably not sort properly.
+[4685] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Grau2007' is not an integer - this will probably not sort properly.
+[4685] Biber.pm:130> WARN - legacy month field '\#sep\#' in entry 'Waizenegger2011' is not an integer - this will probably not sort properly.
+[4685] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Franco2009' is not an integer - this will probably not sort properly.
+[4685] Biber.pm:130> WARN - legacy month field '\#nov\#' in entry 'Feldmann2009' is not an integer - this will probably not sort properly.
+[4685] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Maimone2011' is not an integer - this will probably not sort properly.
+[4685] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Zillner2014' is not an integer - this will probably not sort properly.
+[4685] Biber.pm:130> WARN - legacy month field '\#jul\#' in entry 'Dou2016' is not an integer - this will probably not sort properly.
+[4685] Biber.pm:130> WARN - legacy month field '\#jul\#' in entry 'Gross2003' is not an integer - this will probably not sort properly.
+[4685] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Maimone2013' is not an integer - this will probably not sort properly.
+[4685] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Erickson2011' is not an integer - this will probably not sort properly.
+[4685] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Goebbels2003' is not an integer - this will probably not sort properly.
+[4685] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Roberts2012' is not an integer - this will probably not sort properly.
+[4685] Biber.pm:130> WARN - legacy month field '\#aug\#' in entry 'Bailenson2006' is not an integer - this will probably not sort properly.
+[4685] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Garau2001' is not an integer - this will probably not sort properly.
+[4685] Biber.pm:130> WARN - legacy month field '\#dec\#' in entry 'Roberts2003' is not an integer - this will probably not sort properly.
+[4685] Biber.pm:130> WARN - legacy month field '\#dec\#' in entry 'Murray2007' is not an integer - this will probably not sort properly.
+[4685] Biber.pm:130> WARN - legacy month field '\#nov\#' in entry 'Steptoe2008' is not an integer - this will probably not sort properly.
+[4685] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Heldal2005' is not an integer - this will probably not sort properly.
+[4685] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Kim2012' is not an integer - this will probably not sort properly.
+[4685] Biber.pm:130> WARN - legacy month field '\#mar\#' in entry 'Tachi2004' is not an integer - this will probably not sort properly.
+[4685] Biber.pm:130> WARN - legacy month field '\#jan\#' in entry 'Hua2004' is not an integer - this will probably not sort properly.
+[4685] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Sermon2000' is not an integer - this will probably not sort properly.
+[4685] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Jones2014' is not an integer - this will probably not sort properly.
+[4686] Biber.pm:130> WARN - legacy month field '\#sep\#' in entry 'Lehment2014' is not an integer - this will probably not sort properly.
+[4686] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Avrahami2007' is not an integer - this will probably not sort properly.
+[4686] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Gergle2006' is not an integer - this will probably not sort properly.
+[4686] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Greenhalgh2001' is not an integer - this will probably not sort properly.
+[4686] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Judge2010' is not an integer - this will probably not sort properly.
+[4686] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Lottridge2009' is not an integer - this will probably not sort properly.
+[4686] Biber.pm:130> WARN - legacy month field '\#apr\#' in entry 'Tang2013' is not an integer - this will probably not sort properly.
+[4686] Biber.pm:130> WARN - legacy month field '\#dec\#' in entry 'Gaver1992' is not an integer - this will probably not sort properly.
+[4686] Biber.pm:130> WARN - legacy month field '\#jan\#' in entry 'Fish1993' is not an integer - this will probably not sort properly.
+[4686] Biber.pm:130> WARN - legacy month field '\#may\#' in entry 'Fayard2007' is not an integer - this will probably not sort properly.
+[4686] Biber.pm:130> WARN - legacy month field '\#oct\#' in entry 'Schroeder2001' is not an integer - this will probably not sort properly.
+[4686] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\john\AppData\Local\Temp\biber_tmp_1aWr\4f254e11deca8776044b2c0962cb1230_15184.utf8, line 7445, warning: possible runaway string started at line 7444
+[4686] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\john\AppData\Local\Temp\biber_tmp_1aWr\4f254e11deca8776044b2c0962cb1230_15184.utf8, line 7454, warning: possible runaway string started at line 7453
+[4686] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\john\AppData\Local\Temp\biber_tmp_1aWr\4f254e11deca8776044b2c0962cb1230_15184.utf8, line 8935, warning: possible runaway string started at line 8934
+[4686] Biber.pm:130> WARN - I didn't find a database entry for 'schiano2004' (section 0)
+[4686] Biber.pm:130> WARN - I didn't find a database entry for 'ohba1998' (section 0)
+[4686] Biber.pm:130> WARN - I didn't find a database entry for '10.2307/40971262' (section 0)
+[4686] Biber.pm:130> WARN - I didn't find a database entry for '6790745' (section 0)
+[4686] Biber.pm:130> WARN - I didn't find a database entry for 'bailenson2003interpersonal' (section 0)
+[4686] Biber.pm:130> WARN - I didn't find a database entry for 'Argyle' (section 0)
+[4686] Biber.pm:130> WARN - I didn't find a database entry for 'carlston2013' (section 0)
+[4686] Biber.pm:130> WARN - I didn't find a database entry for 'Hofmann20061683' (section 0)
+[4686] Biber.pm:130> WARN - I didn't find a database entry for 'Pan2008a' (section 0)
+[4686] Biber.pm:130> WARN - I didn't find a database entry for 'berger1975' (section 0)
+[4687] Biber.pm:130> WARN - I didn't find a database entry for 'Parsons922' (section 0)
+[4687] Biber.pm:130> WARN - I didn't find a database entry for 'risko2011eyes' (section 0)
+[4687] Biber.pm:130> WARN - I didn't find a database entry for 'porter2008reading' (section 0)
+[4687] Biber.pm:130> WARN - I didn't find a database entry for 'Steptoe2010b' (section 0)
+[4687] Biber.pm:130> WARN - I didn't find a database entry for '2015' (section 0)
+[4687] Biber.pm:130> WARN - I didn't find a database entry for 'jouppi2002mutually' (section 0)
+[4687] Biber.pm:130> WARN - I didn't find a database entry for 'O'Malley1996' (section 0)
+[4687] Biber.pm:130> WARN - I didn't find a database entry for 'Dourish1993' (section 0)
+[4687] Biber.pm:130> WARN - I didn't find a database entry for 'Eijk2010' (section 0)
+[4687] Biber.pm:130> WARN - I didn't find a database entry for 'Sellen1992a' (section 0)
+[4687] Biber.pm:130> WARN - I didn't find a database entry for 'Sellen1995a' (section 0)
+[4687] Biber.pm:130> WARN - I didn't find a database entry for 'Kuster2012b' (section 0)
+[4687] Biber.pm:130> WARN - I didn't find a database entry for 'CiscoSystems' (section 0)
+[4687] Biber.pm:130> WARN - I didn't find a database entry for 'heeter1992being' (section 0)
+[4687] Biber.pm:130> WARN - I didn't find a database entry for 'doi:10.1080/01449299508914633' (section 0)
+[4687] Biber.pm:130> WARN - I didn't find a database entry for 'fulk1987social' (section 0)
+[4687] Biber.pm:130> WARN - I didn't find a database entry for 'haythornthwaite1995work' (section 0)
+[4687] Biber.pm:130> WARN - I didn't find a database entry for 'Biocca2003a' (section 0)
+[4687] Biber.pm:130> WARN - I didn't find a database entry for 'Usoh2000a' (section 0)
+[4687] Biber.pm:130> WARN - I didn't find a database entry for 'Baren' (section 0)
+[4687] Biber.pm:130> WARN - I didn't find a database entry for 'steinmeyer2013science' (section 0)
+[4687] Biber.pm:130> WARN - I didn't find a database entry for 'rosenthal1947two' (section 0)
+[4687] Biber.pm:130> WARN - I didn't find a database entry for 'buxton1992telepresence' (section 0)
+[4688] Biber.pm:130> WARN - I didn't find a database entry for 'Vertegaal2003' (section 0)
+[4688] Biber.pm:130> WARN - I didn't find a database entry for 'Buxton1992a' (section 0)
+[4688] Biber.pm:130> WARN - I didn't find a database entry for 'Norris2013a' (section 0)
+[4688] Biber.pm:130> WARN - I didn't find a database entry for 'tuddenham2009territorial' (section 0)
+[4688] Biber.pm:130> WARN - I didn't find a database entry for 'Jetter2011a' (section 0)
+[4688] Biber.pm:130> WARN - I didn't find a database entry for 'Kauff2002a' (section 0)
+[4688] Biber.pm:130> WARN - I didn't find a database entry for 'Fuchs:2002ww' (section 0)
+[4688] Biber.pm:130> WARN - I didn't find a database entry for 'jones2009headspin' (section 0)
+[4688] Biber.pm:130> WARN - I didn't find a database entry for 'Okada:1994et' (section 0)
+[4688] Biber.pm:130> WARN - I didn't find a database entry for 'gotsch2018telehuman2' (section 0)
+[4688] Biber.pm:130> WARN - I didn't find a database entry for 'Bartneck2009a' (section 0)
+[4688] Biber.pm:130> WARN - I didn't find a database entry for 'Yee2007a' (section 0)
+[4688] Biber.pm:130> WARN - I didn't find a database entry for 'Ho:2010:RUV:1853385.1853509' (section 0)
+[4688] Biber.pm:130> WARN - I didn't find a database entry for 'Lee2011b' (section 0)
+[4688] Biber.pm:130> WARN - I didn't find a database entry for 'Lincoln:2010it' (section 0)
+[4688] Biber.pm:130> WARN - I didn't find a database entry for 'Raskar2001a' (section 0)
+[4688] Biber.pm:130> WARN - I didn't find a database entry for 'pan2014comparing' (section 0)
+[4688] Biber.pm:130> WARN - I didn't find a database entry for 'Pan2012a' (section 0)
+[4688] Biber.pm:130> WARN - I didn't find a database entry for 'Pan2014a' (section 0)
+[4688] Biber.pm:130> WARN - I didn't find a database entry for 'Nagendran' (section 0)
+[4688] Biber.pm:130> WARN - I didn't find a database entry for 'projectionmappingweb2013' (section 0)
+[4688] Biber.pm:130> WARN - I didn't find a database entry for 'Low2001' (section 0)
+[4688] Biber.pm:130> WARN - I didn't find a database entry for 'googleStatsProjectionMapping' (section 0)
+[4689] Biber.pm:130> WARN - I didn't find a database entry for 'Bandyopadhyay' (section 0)
+[4689] Biber.pm:130> WARN - I didn't find a database entry for 'tay2008updatable' (section 0)
+[4689] Biber.pm:130> WARN - I didn't find a database entry for 'eldes2013multi' (section 0)
+[4689] Biber.pm:130> WARN - I didn't find a database entry for 'Criminisi:2003ji' (section 0)
+[4689] Biber.pm:130> WARN - I didn't find a database entry for 'broxton2020immersive' (section 0)
+[4689] Biber.pm:130> WARN - I didn't find a database entry for 'Okutomi:1993ez' (section 0)
+[4689] Biber.pm:130> WARN - I didn't find a database entry for 'Cooke2002a' (section 0)
+[4689] Biber.pm:130> WARN - I didn't find a database entry for 'Petit:2008tva' (section 0)
+[4689] Biber.pm:130> WARN - I didn't find a database entry for 'Laurentini1994a' (section 0)
+[4689] Biber.pm:130> WARN - I didn't find a database entry for 'Hu:1986ww' (section 0)
+[4689] Biber.pm:130> WARN - I didn't find a database entry for 'Cooke_image-basedrendering' (section 0)
+[4689] Biber.pm:130> WARN - I didn't find a database entry for 'Petit2010' (section 0)
+[4689] Biber.pm:130> WARN - I didn't find a database entry for 'Kuster2012a' (section 0)
+[4689] Biber.pm:130> WARN - I didn't find a database entry for 'Maimone2011a' (section 0)
+[4689] Biber.pm:130> WARN - I didn't find a database entry for 'Schreer:2008ty' (section 0)
+[4689] Biber.pm:130> WARN - I didn't find a database entry for 'Grimstead2005a' (section 0)
+[4689] Biber.pm:130> WARN - I didn't find a database entry for 'Benford1998' (section 0)
+[4690] Biber.pm:130> WARN - I didn't find a database entry for 'Murray2009a' (section 0)
+[4690] Biber.pm:130> WARN - I didn't find a database entry for 'Benford:1995hh' (section 0)
+[4690] Biber.pm:130> WARN - I didn't find a database entry for 'Duckworth:2012tx' (section 0)
+[4690] Biber.pm:130> WARN - I didn't find a database entry for 'Fairchild2016' (section 0)
+[4690] Biber.pm:130> WARN - I didn't find a database entry for 'Ciger2004a' (section 0)
+[4690] Biber.pm:130> WARN - I didn't find a database entry for 'Steptoe2010a' (section 0)
+[4690] Biber.pm:130> WARN - I didn't find a database entry for 'Goodwin2000a' (section 0)
+[4690] Biber.pm:130> WARN - I didn't find a database entry for 'Zhang2013a' (section 0)
+[4690] Biber.pm:130> WARN - I didn't find a database entry for 'inami2000visuo' (section 0)
+[4690] Biber.pm:130> WARN - I didn't find a database entry for 'JSID:JSID295' (section 0)
+[4690] Biber.pm:130> WARN - I didn't find a database entry for 'Bradner:2002:WDM:587078.587110' (section 0)
+[4690] Biber.pm:130> WARN - I didn't find a database entry for 'Greenhalgh2001a' (section 0)
+[4691] Biber.pm:130> WARN - I didn't find a database entry for 'Gasparello:2011in' (section 0)
+[4691] Biber.pm:130> WARN - I didn't find a database entry for 'Moore:2010jt' (section 0)
+[4691] Biber.pm:130> WARN - I didn't find a database entry for 'Park1999' (section 0)
+[4691] Biber.pm:130> WARN - I didn't find a database entry for 'lamboray2005data' (section 0)
+[4691] Biber.pm:130> WARN - I didn't find a database entry for 'DeGreef2001' (section 0)
+[4691] Biber.pm:130> WARN - I didn't find a database entry for 'orts2016holoportation' (section 0)
+[4691] Biber.pm:130> WARN - I didn't find a database entry for 'horgen1999excellence' (section 0)
+[4691] Biber.pm:130> WARN - I didn't find a database entry for 'greenberg1976role' (section 0)
+[4691] Biber.pm:130> WARN - I didn't find a database entry for 'ohba1998facial' (section 0)
+[4691] Biber.pm:130> WARN - I didn't find a database entry for 'o2018telethrone' (section 0)
+[4691] Biber.pm:130> WARN - I didn't find a database entry for '3dlightfield' (section 0)
+[4691] Biber.pm:130> WARN - I didn't find a database entry for '6162881' (section 0)
+[4691] Biber.pm:130> WARN - I didn't find a database entry for '1255811' (section 0)
+[4691] Biber.pm:130> WARN - I didn't find a database entry for 'gibson2014ecological' (section 0)
+[4691] Biber.pm:130> WARN - I didn't find a database entry for 'norman2002psychopathology' (section 0)
+[4691] Biber.pm:130> WARN - I didn't find a database entry for 'Kleinke1986a' (section 0)
+[4691] Biber.pm:132> INFO - WARNINGS: 316
