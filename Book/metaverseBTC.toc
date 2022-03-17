@@ -91,17 +91,18 @@
 \contentsline {subsection}{\numberline {5.3.7}Atala Prism (ADA Ecosystem)}{66}{subsection.5.3.7}%
 \contentsline {section}{\numberline {5.4}Risks \& Challenges?}{66}{section.5.4}%
 \contentsline {chapter}{\numberline {6}Non Fungible Tokens}{67}{chapter.6}%
-\contentsline {section}{\numberline {6.1}New content}{68}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Is any of this useful?}{70}{section.6.2}%
-\contentsline {section}{\numberline {6.3}User stories / behaviours}{70}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Comparing the technologies}{70}{section.6.4}%
-\contentsline {section}{\numberline {6.5}User stories / behaviours}{71}{section.6.5}%
-\contentsline {section}{\numberline {6.6}Comparing the technologies}{71}{section.6.6}%
-\contentsline {section}{\numberline {6.7}What are the options }{72}{section.6.7}%
-\contentsline {section}{\numberline {6.8}Risks}{72}{section.6.8}%
-\contentsline {subsection}{\numberline {6.8.1}Wage slavery / pyramid schemes}{72}{subsection.6.8.1}%
-\contentsline {subsection}{\numberline {6.8.2}Energy concerns}{72}{subsection.6.8.2}%
-\contentsline {section}{\numberline {6.9}Why choose bitcoin again }{73}{section.6.9}%
+\contentsline {section}{\numberline {6.1}Digital Art}{67}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Other uses}{70}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Is any of this useful?}{70}{section.6.3}%
+\contentsline {section}{\numberline {6.4}User stories / behaviours}{70}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Comparing the technologies}{70}{section.6.5}%
+\contentsline {section}{\numberline {6.6}User stories / behaviours}{71}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Comparing the technologies}{71}{section.6.7}%
+\contentsline {section}{\numberline {6.8}What are the options }{72}{section.6.8}%
+\contentsline {section}{\numberline {6.9}Risks}{72}{section.6.9}%
+\contentsline {subsection}{\numberline {6.9.1}Wage slavery / pyramid schemes}{72}{subsection.6.9.1}%
+\contentsline {subsection}{\numberline {6.9.2}Energy concerns}{72}{subsection.6.9.2}%
+\contentsline {section}{\numberline {6.10}Why choose bitcoin again }{73}{section.6.10}%
 \contentsline {chapter}{\numberline {7}Metaverses}{74}{chapter.7}%
 \contentsline {section}{\numberline {7.1}History and market need}{74}{section.7.1}%
 \contentsline {section}{\numberline {7.2}Current telecollaboration}{74}{section.7.2}%
