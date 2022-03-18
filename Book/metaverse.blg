@@ -1,0 +1,5 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[1] Config.pm:310> INFO - Logfile is 'metaverse.blg'
+[225] biber-MSWIN64:340> INFO - === 
+[754] Utils.pm:409> ERROR - Cannot find 'metaverse.bcf'!
+[754] Biber.pm:135> INFO - ERRORS: 1

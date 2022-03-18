@@ -5024,8 +5024,10 @@
 	Kazutaka and Hayashi, Kouki and Takanishi, Atsuo},
   title = {Development of face robot to express the individual face by optimizing
 	the facial features},
-  booktitle = {Humanoid Robots, 2005 5\textbackslashtextsuperscript{th} {IEEE-RAS}
-	International Conference on},
+  booktitle = {Humanoid Robots}
+	International Conference on}
+
+,
   year = {2005},
   pages = {412--417},
   institution = {IEEE},
@@ -5318,21 +5320,12 @@
   publisher = {Elsevier}
 }
 
-@INPROCEEDINGS{Jouppi2004,
-  author = {Jouppi, Norman P and Iyer, Subu and Thomas, Stan and Slayden, April},
-  title = {{BiReality}: mutually-immersive telepresence},
-  booktitle = {Proceedings of the 12th annual {ACM} international conference on
-	Multimedia},
-  year = {2004},
-  series = {MULTIMEDIA '04},
-  pages = {860--867},
-  address = {New York, NY, USA},
-  month = {\#oct\#},
-  publisher = {Association for Computing Machinery},
-  institution = {ACM},
-  keywords = {audio conferencing, video conferencing, robotics, spatial audio, computer-supported
-	collaborative work, video mediated communication;litsurvey.bib},
-  location = {New York, NY, USA}
+@InProceedings{Jouppi2004,
+  author    = {Jouppi, Norman P and Iyer, Subu and Thomas, Stan and Slayden, April},
+  booktitle = {Proceedings of the 12th annual ACM international conference on Multimedia},
+  title     = {Bireality: mutually-immersive telepresence},
+  year      = {2004},
+  pages     = {860--867},
 }
 
 @INPROCEEDINGS{Jouppi2002,
@@ -8971,23 +8964,12 @@
 	design;litsurvey.bib}
 }
 
-@INPROCEEDINGS{Raskar1998,
-  author = {Raskar, Ramesh and Welch, Greg and Cutts, Matt and Lake, Adam and
-	Stesin, Lev and Fuchs, Henry},
-  title = {The office of the future: a unified approach to image-based modeling
-	and spatially immersive displays},
-  booktitle = {Proceedings of the 25th annual conference on Computer graphics and
-	interactive techniques},
-  year = {1998},
-  series = {SIGGRAPH '98},
-  pages = {179--188},
-  address = {New York, NY, USA},
-  month = {\#jul\#},
-  publisher = {Association for Computing Machinery},
-  institution = {ACM},
-  keywords = {image-based rendering, depth, image-based modeling, reflectance, calibration,
-	virtual environments, display, range, projection, intensity blending,
-	autocalibration, spatially immersive display;litsurvey.bib}
+@InProceedings{Raskar1998,
+  author    = {Raskar, Ramesh and Welch, Greg and Cutts, Matt and Lake, Adam and Stesin, Lev and Fuchs, Henry},
+  booktitle = {Proceedings of the 25th annual conference on Computer graphics and interactive techniques},
+  title     = {The office of the future: A unified approach to image-based modeling and spatially immersive displays},
+  year      = {1998},
+  pages     = {179--188},
 }
 
 @INCOLLECTION{Raskar2001,
@@ -13087,4 +13069,25 @@
 @Book{cantillon1756essai,
   author    = {Cantillon, Richard},
   publisher = {{\'e}diteur non identifi{\'e}},
-  title     = {Essai sur la na
+  title     = {Essai sur la nature du commerce en g{\'e}n{\'e}ral},
+  year      = {1756},
+}
+
+@Book{prasad2021future,
+  author    = {Prasad, Eswar S},
+  publisher = {Harvard University Press},
+  title     = {The Future of Money: How the Digital Revolution is Transforming Currencies and Finance},
+  year      = {2021},
+}
+
+@Article{liu2022empirical,
+  author  = {Liu, Yulin and Lu, Yuxuan and Nayak, Kartik and Zhang, Fan and Zhang, Luyao and Zhao, Yinhong},
+  journal = {arXiv preprint arXiv:2201.05574},
+  title   = {Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security},
+  year    = {2022},
+}
+
+@Article{lockwood2021exploring,
+  author    = {Lockwood, Mick},
+  journal   = {Frontiers in Blockchain},
+  title     = {Exploring value propositions to drive Se

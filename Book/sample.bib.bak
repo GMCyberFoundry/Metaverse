@@ -3197,7 +3197,7 @@
   author = {Ferscha, Alois and Johnson, James},
   title = {Distributed interaction in virtual spaces},
   booktitle = {Distributed Interactive Simulation and {Real-Time} Applications,
-	1999. Proceedings. 3\textbackslashtextsuperscript{rd} {IEEE} International
+	1999. Proceedings. 3rd IEEE International
 	Workshop on},
   year = {1999},
   pages = {5--13},
@@ -5024,7 +5024,7 @@
 	Kazutaka and Hayashi, Kouki and Takanishi, Atsuo},
   title = {Development of face robot to express the individual face by optimizing
 	the facial features},
-  booktitle = {Humanoid Robots, 2005 5\textbackslashtextsuperscript{th} {IEEE-RAS}
+ booktitle = {Humanoid Robots,
 	International Conference on},
   year = {2005},
   pages = {412--417},
@@ -5318,21 +5318,12 @@
   publisher = {Elsevier}
 }
 
-@INPROCEEDINGS{Jouppi2004,
-  author = {Jouppi, Norman P and Iyer, Subu and Thomas, Stan and Slayden, April},
-  title = {{BiReality}: mutually-immersive telepresence},
-  booktitle = {Proceedings of the 12th annual {ACM} international conference on
-	Multimedia},
-  year = {2004},
-  series = {MULTIMEDIA '04},
-  pages = {860--867},
-  address = {New York, NY, USA},
-  month = {\#oct\#},
-  publisher = {Association for Computing Machinery},
-  institution = {ACM},
-  keywords = {audio conferencing, video conferencing, robotics, spatial audio, computer-supported
-	collaborative work, video mediated communication;litsurvey.bib},
-  location = {New York, NY, USA}
+@InProceedings{Jouppi2004,
+  author    = {Jouppi, Norman P and Iyer, Subu and Thomas, Stan and Slayden, April},
+  booktitle = {Proceedings of the 12th annual ACM international conference on Multimedia},
+  title     = {Bireality: mutually-immersive telepresence},
+  year      = {2004},
+  pages     = {860--867},
 }
 
 @INPROCEEDINGS{Jouppi2002,
@@ -8971,23 +8962,12 @@
 	design;litsurvey.bib}
 }
 
-@INPROCEEDINGS{Raskar1998,
-  author = {Raskar, Ramesh and Welch, Greg and Cutts, Matt and Lake, Adam and
-	Stesin, Lev and Fuchs, Henry},
-  title = {The office of the future: a unified approach to image-based modeling
-	and spatially immersive displays},
-  booktitle = {Proceedings of the 25th annual conference on Computer graphics and
-	interactive techniques},
-  year = {1998},
-  series = {SIGGRAPH '98},
-  pages = {179--188},
-  address = {New York, NY, USA},
-  month = {\#jul\#},
-  publisher = {Association for Computing Machinery},
-  institution = {ACM},
-  keywords = {image-based rendering, depth, image-based modeling, reflectance, calibration,
-	virtual environments, display, range, projection, intensity blending,
-	autocalibration, spatially immersive display;litsurvey.bib}
+@InProceedings{Raskar1998,
+  author    = {Raskar, Ramesh and Welch, Greg and Cutts, Matt and Lake, Adam and Stesin, Lev and Fuchs, Henry},
+  booktitle = {Proceedings of the 25th annual conference on Computer graphics and interactive techniques},
+  title     = {The office of the future: A unified approach to image-based modeling and spatially immersive displays},
+  year      = {1998},
+  pages     = {179--188},
 }
 
 @INCOLLECTION{Raskar2001,
@@ -10107,7 +10087,7 @@
 @INPROCEEDINGS{Sellis1987,
   author = {Sellis, Timos K and Roussopoulos, Nick and Faloutsos, Christos},
   title = {{The {R+-Tree}: A Dynamic Index for {Multi-Dimensional} Objects}},
-  booktitle = {Proceedings of the 13\textbackslashtextsuperscript{th} International
+  booktitle = {Proceedings of the 13th International
 	Conference on Very Large Data Bases ({VLDB} '87)},
   year = {1987},
   address = {Brighton},
@@ -13131,6 +13111,58 @@
   title     = {Aiduti in Japanese multi-party design conversations},
   year      = {2007},
   pages     = {9--16},
+}
+
+@Book{griffith2021electrify,
+  author    = {Griffith, Saul},
+  publisher = {MIT Press},
+  title     = {Electrify: An Optimist's Playbook for Our Clean Energy Future},
+  year      = {2021},
+}
+
+@Article{tomlinson2003third,
+  author    = {Tomlinson, Brian Roger},
+  journal   = {Journal of Contemporary History},
+  title     = {What Was the Third World?},
+  year      = {2003},
+  number    = {2},
+  pages     = {307--321},
+  volume    = {38},
+  publisher = {Sage Publications Sage UK: London, England},
+}
+
+@TechReport{caballero2008financial,
+  author      = {Caballero, Ricardo J and Farhi, Emmanuel and Gourinchas, Pierre-Olivier},
+  institution = {National Bureau of Economic Research},
+  title       = {Financial crash, commodity prices and global imbalances},
+  year        = {2008},
+}
+
+@Book{spiro2019hidden,
+  author    = {Spiro, David E},
+  publisher = {Cornell University Press},
+  title     = {The hidden hand of American hegemony},
+  year      = {2019},
+}
+
+@Article{mathews2018china,
+  author  = {Mathews, John A and Selden, Mark},
+  journal = {The Asia-Pacific Journal},
+  title   = {China: The emergence of the Petroyuan and the challenge to US dollar hegemony},
+  year    = {2018},
+  number  = {22/3},
+  pages   = {1--12},
+  volume  = {16},
+}
+
+@Article{huang2016understanding,
+  author    = {Huang, Yiping},
+  journal   = {China Economic Review},
+  title     = {Understanding China's Belt \& Road initiative: motivation, framework and assessment},
+  year      = {2016},
+  pages     = {314--321},
+  volume    = {40},
+  publisher = {Elsevier},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
