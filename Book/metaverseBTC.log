@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  18 MAR 2022 11:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  18 MAR 2022 15:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2454,10 +2454,10 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [31 <./Images//ethemission.png>]
-<Images//settlement2021.jpg, id=1277, 899.36pt x 634.37pt>
+<Images//settlement2021.jpg, id=1278, 899.36pt x 634.37pt>
 File: Images//settlement2021.jpg Graphic file (type jpg)
 <use Images//settlement2021.jpg>
-Package pdftex.def Info: Images//settlement2021.jpg  used on input line 70.
+Package pdftex.def Info: Images//settlement2021.jpg  used on input line 73.
 (pdftex.def)             Requested size: 426.79135pt x 301.03848pt.
 
 
@@ -2469,12 +2469,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [32]
-<Images//gource.png, id=1306, 1016.1162pt x 242.1045pt>
-File: Images//gource.png Graphic file (type png)
-<use Images//gource.png>
-Package pdftex.def Info: Images//gource.png  used on input line 83.
-(pdftex.def)             Requested size: 426.79135pt x 101.69058pt.
-
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2484,10 +2478,15 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [33 <./Images//settlement2021.jpg>]
-<Images//ECDSA.png, id=1319, 981.6675pt x 984.67876pt>
+<Images//gource.png, id=1312, 1016.1162pt x 242.1045pt>
+File: Images//gource.png Graphic file (type png)
+<use Images//gource.png>
+Package pdftex.def Info: Images//gource.png  used on input line 86.
+(pdftex.def)             Requested size: 426.79135pt x 101.69058pt.
+<Images//ECDSA.png, id=1321, 981.6675pt x 984.67876pt>
 File: Images//ECDSA.png Graphic file (type png)
 <use Images//ECDSA.png>
-Package pdftex.def Info: Images//ECDSA.png  used on input line 97.
+Package pdftex.def Info: Images//ECDSA.png  used on input line 100.
 (pdftex.def)             Requested size: 426.79135pt x 428.0914pt.
 
 
@@ -2508,15 +2507,15 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [35 <./Images//ECDSA.png (PNG copy)>]
-<Images//energyNYT.png, id=1340, 1204.5pt x 677.53125pt>
+<Images//energyNYT.png, id=1341, 1204.5pt x 677.53125pt>
 File: Images//energyNYT.png Graphic file (type png)
 <use Images//energyNYT.png>
-Package pdftex.def Info: Images//energyNYT.png  used on input line 108.
+Package pdftex.def Info: Images//energyNYT.png  used on input line 111.
 (pdftex.def)             Requested size: 426.79135pt x 240.07556pt.
-<Images//miningshare.png, id=1350, 378.91562pt x 273.02pt>
+<Images//miningshare.png, id=1351, 378.91562pt x 273.02pt>
 File: Images//miningshare.png Graphic file (type png)
 <use Images//miningshare.png>
-Package pdftex.def Info: Images//miningshare.png  used on input line 117.
+Package pdftex.def Info: Images//miningshare.png  used on input line 120.
 (pdftex.def)             Requested size: 426.79135pt x 307.52168pt.
 
 
@@ -2527,11 +2526,20 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[36 <./Images//energyNYT.png>]
-<Images//goldmanvgold.jpg, id=1380, 1174.3875pt x 890.32625pt>
+[36]
+
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[37 <./Images//energyNYT.png> <./Images//miningshare.png>]
+<Images//goldmanvgold.jpg, id=1389, 1174.3875pt x 890.32625pt>
 File: Images//goldmanvgold.jpg Graphic file (type jpg)
 <use Images//goldmanvgold.jpg>
-Package pdftex.def Info: Images//goldmanvgold.jpg  used on input line 128.
+Package pdftex.def Info: Images//goldmanvgold.jpg  used on input line 131.
 (pdftex.def)             Requested size: 426.79135pt x 323.5603pt.
 
 
@@ -2542,7 +2550,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[37 <./Images//miningshare.png>]
+[38]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2551,16 +2559,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[38 <./Images//goldmanvgold.jpg>]
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[39]
+[39 <./Images//goldmanvgold.jpg>]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2570,18 +2569,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [40]
-<Images//lightningAdoption.jpg, id=1444, 423.83344pt x 572.1375pt>
-File: Images//lightningAdoption.jpg Graphic file (type jpg)
-<use Images//lightningAdoption.jpg>
-Package pdftex.def Info: Images//lightningAdoption.jpg  used on input line 189.
-
-(pdftex.def)             Requested size: 426.79135pt x 576.15193pt.
-
-Overfull \hbox (0.76907pt too wide) in paragraph at lines 203--204
-[]\T1/ptm/m/n/12 (-20) ``[][]Accounts Sys-tem[][]; Cre-ate mul-ti-ple ac-counts
-/wallets. Run for your-self, friends/family,
- []
-
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2591,21 +2578,23 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [41]
+<Images//lightningAdoption.jpg, id=1447, 423.83344pt x 572.1375pt>
+File: Images//lightningAdoption.jpg Graphic file (type jpg)
+<use Images//lightningAdoption.jpg>
+Package pdftex.def Info: Images//lightningAdoption.jpg  used on input line 190.
 
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+(pdftex.def)             Requested size: 426.79135pt x 576.15193pt.
 
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+Overfull \hbox (0.76907pt too wide) in paragraph at lines 204--205
+[]\T1/ptm/m/n/12 (-20) ``[][]Accounts Sys-tem[][]; Cre-ate mul-ti-ple ac-counts
+/wallets. Run for your-self, friends/family,
+ []
 
-[42 <./Images//lightningAdoption.jpg>]
-<Images//LnBitsPoS.png, id=1468, 291.18788pt x 508.90125pt>
+<Images//LnBitsPoS.png, id=1463, 291.18788pt x 508.90125pt>
 File: Images//LnBitsPoS.png Graphic file (type png)
 <use Images//LnBitsPoS.png>
-Package pdftex.def Info: Images//LnBitsPoS.png  used on input line 213.
+Package pdftex.def Info: Images//LnBitsPoS.png  used on input line 214.
 (pdftex.def)             Requested size: 341.43437pt x 596.77875pt.
-
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2614,7 +2603,16 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[43]
+[42]
+
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[43 <./Images//lightningAdoption.jpg>]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2661,17 +2659,26 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [48]
 
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[49]
+
 LaTeX Warning: Reference `https://gist.github.com/RubenSomsen/96505e99dc061d6af
-6b757ff74434e70' on page 49 undefined on input line 354.
+6b757ff74434e70' on page 50 undefined on input line 355.
 
 
 LaTeX Warning: Reference `https://gist.github.com/RubenSomsen/c9f0a92493e06b0e2
-9acced61ca9f49a' on page 49 undefined on input line 354.
+9acced61ca9f49a' on page 50 undefined on input line 355.
 
-<Images//messariICO.jpg, id=1526, 963.6pt x 542.025pt>
+<Images//messariICO.jpg, id=1533, 963.6pt x 542.025pt>
 File: Images//messariICO.jpg Graphic file (type jpg)
 <use Images//messariICO.jpg>
-Package pdftex.def Info: Images//messariICO.jpg  used on input line 363.
+Package pdftex.def Info: Images//messariICO.jpg  used on input line 364.
 (pdftex.def)             Requested size: 426.79135pt x 240.06314pt.
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -2681,7 +2688,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[49 <./Images//messariICO.jpg>]
+[50 <./Images//messariICO.jpg>]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2690,7 +2697,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[50]
+[51]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2699,7 +2706,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[51])
+[52])
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2708,24 +2715,15 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[52]
+[53]
 Chapter 4.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 181.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-(04_money.tex [53
+(04_money.tex [54
 
 ]
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[54]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2762,6 +2760,15 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [58]
+
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[59]
 Underfull \hbox (badness 10000) in paragraph at lines 127--128
 
  []
@@ -2774,8 +2781,8 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[59]
-<Images//BitcoinShareOfMoney.jpg, id=1649, 2862.695pt x 1575.8875pt>
+[60]
+<Images//BitcoinShareOfMoney.jpg, id=1655, 2862.695pt x 1575.8875pt>
 File: Images//BitcoinShareOfMoney.jpg Graphic file (type jpg)
 <use Images//BitcoinShareOfMoney.jpg>
 Package pdftex.def Info: Images//BitcoinShareOfMoney.jpg  used on input line 13
@@ -2790,7 +2797,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[60 <./Images//BitcoinShareOfMoney.jpg>]
+[61 <./Images//BitcoinShareOfMoney.jpg>]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2799,7 +2806,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[61] (05_daos.tex
+[62] (05_daos.tex
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2808,7 +2815,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[62]))
+[63]))
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2817,16 +2824,16 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[63]
+[64]
 Chapter 5.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 187.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-(06_identity.tex [64
+(06_identity.tex [65
 
 ]
-<Images//DID.jpg, id=1683, 843.90282pt x 585.68813pt>
+<Images//DID.jpg, id=1689, 843.90282pt x 585.68813pt>
 File: Images//DID.jpg Graphic file (type jpg)
 <use Images//DID.jpg>
 Package pdftex.def Info: Images//DID.jpg  used on input line 20.
@@ -2840,7 +2847,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[65 <./Images//DID.jpg>]
+[66 <./Images//DID.jpg>]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2849,7 +2856,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[66])
+[67])
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2858,13 +2865,13 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[67]
+[68]
 Chapter 6.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 190.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-(07_nft.tex (07_1_NFTUmran.tex [68
+(07_nft.tex (07_1_NFTUmran.tex [69
 
 ]
 
@@ -2875,16 +2882,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[69])
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[70]
+[70])
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2902,7 +2900,16 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[72] (NFTtable.tex
+[72]
+
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[73] (NFTtable.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
@@ -2921,7 +2928,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[73])
+[74])
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2930,7 +2937,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[74]
+[75]
 Chapter 7.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
@@ -2942,12 +2949,12 @@ Overfull \hbox (0.77441pt too wide) in paragraph at lines 4--4
 -son in his 1992 novel Snowcrash.
  []
 
-<Images//muskWeb3.png, id=1770, 408.02437pt x 168.63pt>
+<Images//muskWeb3.png, id=1776, 408.02437pt x 168.63pt>
 File: Images//muskWeb3.png Graphic file (type png)
 <use Images//muskWeb3.png>
 Package pdftex.def Info: Images//muskWeb3.png  used on input line 10.
 (pdftex.def)             Requested size: 426.79135pt x 176.39514pt.
-(08_b2b_telepresence_v2.tex [75
+(08_b2b_telepresence_v2.tex [76
 
 ]
 
@@ -2958,16 +2965,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[76 <./Images//muskWeb3.png>]
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[77]
+[77 <./Images//muskWeb3.png>]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3005,16 +3003,25 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [81]
 
-LaTeX Warning: Citation 'schiano2004' on page 82 undefined on input line 99.
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[82]
+
+LaTeX Warning: Citation 'schiano2004' on page 83 undefined on input line 99.
 
 
-LaTeX Warning: Citation 'ohba1998' on page 82 undefined on input line 99.
+LaTeX Warning: Citation 'ohba1998' on page 83 undefined on input line 99.
 
 
-LaTeX Warning: Citation '10.2307/40971262' on page 82 undefined on input line 1
+LaTeX Warning: Citation '10.2307/40971262' on page 83 undefined on input line 1
 02.
 
-<Images//murrayeyegaze.jpg, id=1976, 377.15906pt x 241.65282pt>
+<Images//murrayeyegaze.jpg, id=1982, 377.15906pt x 241.65282pt>
 File: Images//murrayeyegaze.jpg Graphic file (type jpg)
 <use Images//murrayeyegaze.jpg>
 Package pdftex.def Info: Images//murrayeyegaze.jpg  used on input line 109.
@@ -3030,22 +3037,22 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[82]
+[83]
 
-LaTeX Warning: Citation '6790745' on page 83 undefined on input line 117.
+LaTeX Warning: Citation '6790745' on page 84 undefined on input line 117.
 
 
-LaTeX Warning: Citation 'bailenson2003interpersonal' on page 83 undefined on in
+LaTeX Warning: Citation 'bailenson2003interpersonal' on page 84 undefined on in
 put line 117.
 
 
-LaTeX Warning: Citation '6790745' on page 83 undefined on input line 117.
+LaTeX Warning: Citation '6790745' on page 84 undefined on input line 117.
 
 
-LaTeX Warning: Citation 'Argyle' on page 83 undefined on input line 120.
+LaTeX Warning: Citation 'Argyle' on page 84 undefined on input line 120.
 
 
-LaTeX Warning: Citation 'carlston2013' on page 83 undefined on input line 122.
+LaTeX Warning: Citation 'carlston2013' on page 84 undefined on input line 122.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3055,55 +3062,19 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[83 <./Images//murrayeyegaze.jpg>]
+[84 <./Images//murrayeyegaze.jpg>]
 
-LaTeX Warning: Citation 'Hofmann20061683' on page 84 undefined on input line 12
+LaTeX Warning: Citation 'Hofmann20061683' on page 85 undefined on input line 12
 6.
 
 
-LaTeX Warning: Citation 'Pan2008a' on page 84 undefined on input line 126.
+LaTeX Warning: Citation 'Pan2008a' on page 85 undefined on input line 126.
 
 
-LaTeX Warning: Citation 'berger1975' on page 84 undefined on input line 134.
+LaTeX Warning: Citation 'berger1975' on page 85 undefined on input line 134.
 
 
-LaTeX Warning: Citation 'Parsons922' on page 84 undefined on input line 137.
-
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[84]
-
-LaTeX Warning: Citation 'risko2011eyes' on page 85 undefined on input line 138.
-
-
-
-LaTeX Warning: Citation 'porter2008reading' on page 85 undefined on input line 
-145.
-
-
-LaTeX Warning: Citation 'Steptoe2010b' on page 85 undefined on input line 145.
-
-
-LaTeX Warning: Citation '2015' on page 85 undefined on input line 149.
-
-
-LaTeX Warning: Citation 'jouppi2002mutually' on page 85 undefined on input line
- 150.
-
-
-LaTeX Warning: Citation 'O'Malley1996' on page 85 undefined on input line 152.
-
-
-LaTeX Warning: Citation 'Dourish1993' on page 85 undefined on input line 153.
-
-
-LaTeX Warning: Citation 'Eijk2010' on page 85 undefined on input line 154.
+LaTeX Warning: Citation 'Parsons922' on page 85 undefined on input line 137.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3115,16 +3086,31 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [85]
 
-LaTeX Warning: Citation 'Sellen1992a' on page 86 undefined on input line 155.
+LaTeX Warning: Citation 'risko2011eyes' on page 86 undefined on input line 138.
 
 
-LaTeX Warning: Citation 'Sellen1995a' on page 86 undefined on input line 155.
+
+LaTeX Warning: Citation 'porter2008reading' on page 86 undefined on input line 
+145.
 
 
-LaTeX Warning: Citation 'Kuster2012b' on page 86 undefined on input line 160.
+LaTeX Warning: Citation 'Steptoe2010b' on page 86 undefined on input line 145.
 
 
-LaTeX Warning: Citation 'CiscoSystems' on page 86 undefined on input line 167.
+LaTeX Warning: Citation '2015' on page 86 undefined on input line 149.
+
+
+LaTeX Warning: Citation 'jouppi2002mutually' on page 86 undefined on input line
+ 150.
+
+
+LaTeX Warning: Citation 'O'Malley1996' on page 86 undefined on input line 152.
+
+
+LaTeX Warning: Citation 'Dourish1993' on page 86 undefined on input line 153.
+
+
+LaTeX Warning: Citation 'Eijk2010' on page 86 undefined on input line 154.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3136,27 +3122,16 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [86]
 
-LaTeX Warning: Citation 'heeter1992being' on page 87 undefined on input line 18
-7.
+LaTeX Warning: Citation 'Sellen1992a' on page 87 undefined on input line 155.
 
 
-LaTeX Warning: Citation 'doi:10.1080/01449299508914633' on page 87 undefined on
- input line 187.
+LaTeX Warning: Citation 'Sellen1995a' on page 87 undefined on input line 155.
 
 
-LaTeX Warning: Citation 'fulk1987social' on page 87 undefined on input line 187
-.
+LaTeX Warning: Citation 'Kuster2012b' on page 87 undefined on input line 160.
 
 
-LaTeX Warning: Citation 'haythornthwaite1995work' on page 87 undefined on input
- line 187.
-
-
-LaTeX Warning: Citation 'Biocca2003a' on page 87 undefined on input line 190.
-
-
-LaTeX Warning: Citation 'jouppi2002mutually' on page 87 undefined on input line
- 192.
+LaTeX Warning: Citation 'CiscoSystems' on page 87 undefined on input line 167.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3168,10 +3143,27 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [87]
 
-LaTeX Warning: Citation 'Usoh2000a' on page 88 undefined on input line 207.
+LaTeX Warning: Citation 'heeter1992being' on page 88 undefined on input line 18
+7.
 
 
-LaTeX Warning: Citation 'Baren' on page 88 undefined on input line 209.
+LaTeX Warning: Citation 'doi:10.1080/01449299508914633' on page 88 undefined on
+ input line 187.
+
+
+LaTeX Warning: Citation 'fulk1987social' on page 88 undefined on input line 187
+.
+
+
+LaTeX Warning: Citation 'haythornthwaite1995work' on page 88 undefined on input
+ line 187.
+
+
+LaTeX Warning: Citation 'Biocca2003a' on page 88 undefined on input line 190.
+
+
+LaTeX Warning: Citation 'jouppi2002mutually' on page 88 undefined on input line
+ 192.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3182,35 +3174,11 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [88]
-Overfull \hbox (4.01924pt too wide) in paragraph at lines 218--218
-[]\T1/ptm/m/n/12 (-20) Many at-tempts have been made to re-unite mu-tual eye ga
-ze when us-ing tele-conferencing
- []
+
+LaTeX Warning: Citation 'Usoh2000a' on page 89 undefined on input line 207.
 
 
-LaTeX Warning: Citation 'steinmeyer2013science' on page 89 undefined on input l
-ine 219.
-
-
-LaTeX Warning: Citation 'rosenthal1947two' on page 89 undefined on input line 2
-19.
-
-
-LaTeX Warning: Citation 'buxton1992telepresence' on page 89 undefined on input 
-line 219.
-
-
-Overfull \hbox (33.33737pt too wide) in paragraph at lines 219--219
-[]\T1/ptm/m/n/12 (-20) A pop-u-lar ap-proach uses the so called 'Pep-pers Ghost
-' phe-nomenon [[]],
- []
-
-
-LaTeX Warning: Citation 'Vertegaal2003' on page 89 undefined on input line 220.
-
-
-
-LaTeX Warning: Citation 'Buxton1992a' on page 89 undefined on input line 228.
+LaTeX Warning: Citation 'Baren' on page 89 undefined on input line 209.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3221,21 +3189,35 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [89]
-
-LaTeX Warning: Citation 'Norris2013a' on page 90 undefined on input line 232.
-
-
-LaTeX Warning: Citation 'tuddenham2009territorial' on page 90 undefined on inpu
-t line 234.
+Overfull \hbox (4.01924pt too wide) in paragraph at lines 218--218
+[]\T1/ptm/m/n/12 (-20) Many at-tempts have been made to re-unite mu-tual eye ga
+ze when us-ing tele-conferencing
+ []
 
 
-LaTeX Warning: Citation 'Jetter2011a' on page 90 undefined on input line 235.
+LaTeX Warning: Citation 'steinmeyer2013science' on page 90 undefined on input l
+ine 219.
 
 
-LaTeX Warning: Citation 'Kauff2002a' on page 90 undefined on input line 245.
+LaTeX Warning: Citation 'rosenthal1947two' on page 90 undefined on input line 2
+19.
 
 
-LaTeX Warning: Citation 'Fuchs:2002ww' on page 90 undefined on input line 245.
+LaTeX Warning: Citation 'buxton1992telepresence' on page 90 undefined on input 
+line 219.
+
+
+Overfull \hbox (33.33737pt too wide) in paragraph at lines 219--219
+[]\T1/ptm/m/n/12 (-20) A pop-u-lar ap-proach uses the so called 'Pep-pers Ghost
+' phe-nomenon [[]],
+ []
+
+
+LaTeX Warning: Citation 'Vertegaal2003' on page 90 undefined on input line 220.
+
+
+
+LaTeX Warning: Citation 'Buxton1992a' on page 90 undefined on input line 228.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3247,19 +3229,20 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [90]
 
-LaTeX Warning: Citation 'jones2009headspin' on page 91 undefined on input line 
-245.
+LaTeX Warning: Citation 'Norris2013a' on page 91 undefined on input line 232.
 
 
-LaTeX Warning: Citation 'Okada:1994et' on page 91 undefined on input line 246.
+LaTeX Warning: Citation 'tuddenham2009territorial' on page 91 undefined on inpu
+t line 234.
 
 
-LaTeX Warning: Citation 'gotsch2018telehuman2' on page 91 undefined on input li
-ne 254.
+LaTeX Warning: Citation 'Jetter2011a' on page 91 undefined on input line 235.
 
 
-LaTeX Warning: Citation 'Bartneck2009a' on page 91 undefined on input line 262.
+LaTeX Warning: Citation 'Kauff2002a' on page 91 undefined on input line 245.
 
+
+LaTeX Warning: Citation 'Fuchs:2002ww' on page 91 undefined on input line 245.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3271,34 +3254,19 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [91]
 
-LaTeX Warning: Citation 'Yee2007a' on page 92 undefined on input line 267.
+LaTeX Warning: Citation 'jones2009headspin' on page 92 undefined on input line 
+245.
 
 
-LaTeX Warning: Citation 'Ho:2010:RUV:1853385.1853509' on page 92 undefined on i
-nput line 268.
+LaTeX Warning: Citation 'Okada:1994et' on page 92 undefined on input line 246.
 
 
-LaTeX Warning: Citation 'Lee2011b' on page 92 undefined on input line 273.
+LaTeX Warning: Citation 'gotsch2018telehuman2' on page 92 undefined on input li
+ne 254.
 
 
-LaTeX Warning: Citation 'Lincoln:2010it' on page 92 undefined on input line 280
-.
+LaTeX Warning: Citation 'Bartneck2009a' on page 92 undefined on input line 262.
 
-
-LaTeX Warning: Citation 'Raskar2001a' on page 92 undefined on input line 280.
-
-
-LaTeX Warning: Citation 'Lee2011b' on page 92 undefined on input line 280.
-
-
-LaTeX Warning: Citation 'pan2014comparing' on page 92 undefined on input line 2
-80.
-
-
-LaTeX Warning: Citation 'Pan2012a' on page 92 undefined on input line 280.
-
-
-LaTeX Warning: Citation 'Pan2014a' on page 92 undefined on input line 280.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3310,44 +3278,34 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [92]
 
-LaTeX Warning: Citation 'Nagendran' on page 93 undefined on input line 281.
+LaTeX Warning: Citation 'Yee2007a' on page 93 undefined on input line 267.
 
 
-LaTeX Warning: Citation 'projectionmappingweb2013' on page 93 undefined on inpu
-t line 286.
+LaTeX Warning: Citation 'Ho:2010:RUV:1853385.1853509' on page 93 undefined on i
+nput line 268.
 
 
-LaTeX Warning: Citation 'Low2001' on page 93 undefined on input line 286.
+LaTeX Warning: Citation 'Lee2011b' on page 93 undefined on input line 273.
 
 
-LaTeX Warning: Citation 'Raskar2001a' on page 93 undefined on input line 286.
-
-
-LaTeX Warning: Citation 'googleStatsProjectionMapping' on page 93 undefined on 
-input line 286.
-
-
-LaTeX Warning: Citation 'Raskar2001a' on page 93 undefined on input line 287.
-
-
-LaTeX Warning: Citation 'Bandyopadhyay' on page 93 undefined on input line 288.
-
-
-
-LaTeX Warning: Citation 'Lincoln:2010it' on page 93 undefined on input line 289
+LaTeX Warning: Citation 'Lincoln:2010it' on page 93 undefined on input line 280
 .
 
 
-LaTeX Warning: Citation 'tay2008updatable' on page 93 undefined on input line 2
-93.
+LaTeX Warning: Citation 'Raskar2001a' on page 93 undefined on input line 280.
 
 
-LaTeX Warning: Citation 'jones2009headspin' on page 93 undefined on input line 
-294.
+LaTeX Warning: Citation 'Lee2011b' on page 93 undefined on input line 280.
 
 
-LaTeX Warning: Citation 'eldes2013multi' on page 93 undefined on input line 295
-.
+LaTeX Warning: Citation 'pan2014comparing' on page 93 undefined on input line 2
+80.
+
+
+LaTeX Warning: Citation 'Pan2012a' on page 93 undefined on input line 280.
+
+
+LaTeX Warning: Citation 'Pan2014a' on page 93 undefined on input line 280.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3359,23 +3317,44 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [93]
 
-LaTeX Warning: Citation 'Criminisi:2003ji' on page 94 undefined on input line 3
-01.
+LaTeX Warning: Citation 'Nagendran' on page 94 undefined on input line 281.
 
 
-LaTeX Warning: Citation 'broxton2020immersive' on page 94 undefined on input li
-ne 302.
+LaTeX Warning: Citation 'projectionmappingweb2013' on page 94 undefined on inpu
+t line 286.
 
 
-LaTeX Warning: Citation 'Okutomi:1993ez' on page 94 undefined on input line 306
+LaTeX Warning: Citation 'Low2001' on page 94 undefined on input line 286.
+
+
+LaTeX Warning: Citation 'Raskar2001a' on page 94 undefined on input line 286.
+
+
+LaTeX Warning: Citation 'googleStatsProjectionMapping' on page 94 undefined on 
+input line 286.
+
+
+LaTeX Warning: Citation 'Raskar2001a' on page 94 undefined on input line 287.
+
+
+LaTeX Warning: Citation 'Bandyopadhyay' on page 94 undefined on input line 288.
+
+
+
+LaTeX Warning: Citation 'Lincoln:2010it' on page 94 undefined on input line 289
 .
 
 
-LaTeX Warning: Citation 'Cooke2002a' on page 94 undefined on input line 306.
+LaTeX Warning: Citation 'tay2008updatable' on page 94 undefined on input line 2
+93.
 
 
-LaTeX Warning: Citation 'pan2014comparing' on page 94 undefined on input line 3
-08.
+LaTeX Warning: Citation 'jones2009headspin' on page 94 undefined on input line 
+294.
+
+
+LaTeX Warning: Citation 'eldes2013multi' on page 94 undefined on input line 295
+.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3387,28 +3366,23 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [94]
 
-LaTeX Warning: Citation 'Petit:2008tva' on page 95 undefined on input line 311.
+LaTeX Warning: Citation 'Criminisi:2003ji' on page 95 undefined on input line 3
+01.
 
 
-
-LaTeX Warning: Citation 'Laurentini1994a' on page 95 undefined on input line 31
-1.
-
-
-LaTeX Warning: Citation 'Hu:1986ww' on page 95 undefined on input line 313.
+LaTeX Warning: Citation 'broxton2020immersive' on page 95 undefined on input li
+ne 302.
 
 
-LaTeX Warning: Citation 'Cooke_image-basedrendering' on page 95 undefined on in
-put line 316.
+LaTeX Warning: Citation 'Okutomi:1993ez' on page 95 undefined on input line 306
+.
 
 
-LaTeX Warning: Citation 'Petit2010' on page 95 undefined on input line 317.
+LaTeX Warning: Citation 'Cooke2002a' on page 95 undefined on input line 306.
 
 
-LaTeX Warning: Citation 'Kuster2012a' on page 95 undefined on input line 318.
-
-
-LaTeX Warning: Citation 'Maimone2011a' on page 95 undefined on input line 319.
+LaTeX Warning: Citation 'pan2014comparing' on page 95 undefined on input line 3
+08.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3420,34 +3394,28 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [95]
 
-LaTeX Warning: Citation 'Schreer:2008ty' on page 96 undefined on input line 324
-.
-
-
-LaTeX Warning: Citation 'Okutomi:1993ez' on page 96 undefined on input line 335
-.
-
-
-LaTeX Warning: Citation 'Cooke2002a' on page 96 undefined on input line 335.
-
-
-LaTeX Warning: Citation 'pan2014comparing' on page 96 undefined on input line 3
-37.
-
-
-LaTeX Warning: Citation 'Petit:2008tva' on page 96 undefined on input line 340.
+LaTeX Warning: Citation 'Petit:2008tva' on page 96 undefined on input line 311.
 
 
 
-LaTeX Warning: Citation 'Laurentini1994a' on page 96 undefined on input line 34
-0.
+LaTeX Warning: Citation 'Laurentini1994a' on page 96 undefined on input line 31
+1.
 
 
-LaTeX Warning: Citation 'Hu:1986ww' on page 96 undefined on input line 342.
+LaTeX Warning: Citation 'Hu:1986ww' on page 96 undefined on input line 313.
 
 
 LaTeX Warning: Citation 'Cooke_image-basedrendering' on page 96 undefined on in
-put line 346.
+put line 316.
+
+
+LaTeX Warning: Citation 'Petit2010' on page 96 undefined on input line 317.
+
+
+LaTeX Warning: Citation 'Kuster2012a' on page 96 undefined on input line 318.
+
+
+LaTeX Warning: Citation 'Maimone2011a' on page 96 undefined on input line 319.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3459,17 +3427,34 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [96]
 
-LaTeX Warning: Citation 'Petit2010' on page 97 undefined on input line 347.
-
-
-LaTeX Warning: Citation 'Kuster2012a' on page 97 undefined on input line 348.
-
-
-LaTeX Warning: Citation 'Maimone2011a' on page 97 undefined on input line 349.
-
-
-LaTeX Warning: Citation 'Schreer:2008ty' on page 97 undefined on input line 354
+LaTeX Warning: Citation 'Schreer:2008ty' on page 97 undefined on input line 324
 .
+
+
+LaTeX Warning: Citation 'Okutomi:1993ez' on page 97 undefined on input line 335
+.
+
+
+LaTeX Warning: Citation 'Cooke2002a' on page 97 undefined on input line 335.
+
+
+LaTeX Warning: Citation 'pan2014comparing' on page 97 undefined on input line 3
+37.
+
+
+LaTeX Warning: Citation 'Petit:2008tva' on page 97 undefined on input line 340.
+
+
+
+LaTeX Warning: Citation 'Laurentini1994a' on page 97 undefined on input line 34
+0.
+
+
+LaTeX Warning: Citation 'Hu:1986ww' on page 97 undefined on input line 342.
+
+
+LaTeX Warning: Citation 'Cooke_image-basedrendering' on page 97 undefined on in
+put line 346.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3481,63 +3466,17 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [97]
 
-LaTeX Warning: Citation 'Grimstead2005a' on page 98 undefined on input line 364
+LaTeX Warning: Citation 'Petit2010' on page 98 undefined on input line 347.
+
+
+LaTeX Warning: Citation 'Kuster2012a' on page 98 undefined on input line 348.
+
+
+LaTeX Warning: Citation 'Maimone2011a' on page 98 undefined on input line 349.
+
+
+LaTeX Warning: Citation 'Schreer:2008ty' on page 98 undefined on input line 354
 .
-
-
-LaTeX Warning: Citation 'Benford1998' on page 98 undefined on input line 364.
-
-
-LaTeX Warning: Citation 'Murray2009a' on page 98 undefined on input line 365.
-
-
-LaTeX Warning: Citation 'Benford:1995hh' on page 98 undefined on input line 365
-.
-
-
-LaTeX Warning: Citation 'Steptoe2010b' on page 98 undefined on input line 366.
-
-
-LaTeX Warning: Citation 'Duckworth:2012tx' on page 98 undefined on input line 3
-68.
-
-
-LaTeX Warning: Citation 'Fairchild2016' on page 98 undefined on input line 368.
-
-
-
-LaTeX Warning: Citation 'Ciger2004a' on page 98 undefined on input line 370.
-
-
-LaTeX Warning: Citation 'Steptoe2010a' on page 98 undefined on input line 370.
-
-
-LaTeX Warning: Citation 'Goodwin2000a' on page 98 undefined on input line 374.
-
-
-LaTeX Warning: Citation 'Pan2014a' on page 98 undefined on input line 375.
-
-
-LaTeX Warning: Citation 'Pan2012a' on page 98 undefined on input line 375.
-
-
-LaTeX Warning: Citation 'Zhang2013a' on page 98 undefined on input line 375.
-
-
-LaTeX Warning: Citation 'Goodwin2000a' on page 98 undefined on input line 376.
-
-
-LaTeX Warning: Citation 'Lee2011b' on page 98 undefined on input line 376.
-
-
-LaTeX Warning: Citation 'pan2014comparing' on page 98 undefined on input line 3
-76.
-
-
-LaTeX Warning: Citation 'Pan2012a' on page 98 undefined on input line 376.
-
-
-LaTeX Warning: Citation 'Pan2014a' on page 98 undefined on input line 376.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3549,11 +3488,63 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [98]
 
-LaTeX Warning: Citation 'inami2000visuo' on page 99 undefined on input line 380
+LaTeX Warning: Citation 'Grimstead2005a' on page 99 undefined on input line 364
 .
 
 
-LaTeX Warning: Citation 'JSID:JSID295' on page 99 undefined on input line 383.
+LaTeX Warning: Citation 'Benford1998' on page 99 undefined on input line 364.
+
+
+LaTeX Warning: Citation 'Murray2009a' on page 99 undefined on input line 365.
+
+
+LaTeX Warning: Citation 'Benford:1995hh' on page 99 undefined on input line 365
+.
+
+
+LaTeX Warning: Citation 'Steptoe2010b' on page 99 undefined on input line 366.
+
+
+LaTeX Warning: Citation 'Duckworth:2012tx' on page 99 undefined on input line 3
+68.
+
+
+LaTeX Warning: Citation 'Fairchild2016' on page 99 undefined on input line 368.
+
+
+
+LaTeX Warning: Citation 'Ciger2004a' on page 99 undefined on input line 370.
+
+
+LaTeX Warning: Citation 'Steptoe2010a' on page 99 undefined on input line 370.
+
+
+LaTeX Warning: Citation 'Goodwin2000a' on page 99 undefined on input line 374.
+
+
+LaTeX Warning: Citation 'Pan2014a' on page 99 undefined on input line 375.
+
+
+LaTeX Warning: Citation 'Pan2012a' on page 99 undefined on input line 375.
+
+
+LaTeX Warning: Citation 'Zhang2013a' on page 99 undefined on input line 375.
+
+
+LaTeX Warning: Citation 'Goodwin2000a' on page 99 undefined on input line 376.
+
+
+LaTeX Warning: Citation 'Lee2011b' on page 99 undefined on input line 376.
+
+
+LaTeX Warning: Citation 'pan2014comparing' on page 99 undefined on input line 3
+76.
+
+
+LaTeX Warning: Citation 'Pan2012a' on page 99 undefined on input line 376.
+
+
+LaTeX Warning: Citation 'Pan2014a' on page 99 undefined on input line 376.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3565,41 +3556,12 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [99]
 
-LaTeX Warning: Reference `fig:room2room' on page 100 undefined on input line 38
-7.
+LaTeX Warning: Citation 'inami2000visuo' on page 100 undefined on input line 38
+0.
 
 
-LaTeX Warning: Citation 'Bradner:2002:WDM:587078.587110' on page 100 undefined 
-on input line 393.
+LaTeX Warning: Citation 'JSID:JSID295' on page 100 undefined on input line 383.
 
-
-Overfull \hbox (123.23996pt too wide) in paragraph at lines 393--393
-\T1/ptm/m/n/12 (-20) Bradner & Mark es-tab-lished that la-tency mat-ters in re-
-mote telecol-lab-o-ra-tion [[]],
- []
-
-
-LaTeX Warning: Citation 'Greenhalgh2001a' on page 100 undefined on input line 3
-94.
-
-
-LaTeX Warning: Citation 'Bradner:2002:WDM:587078.587110' on page 100 undefined 
-on input line 395.
-
-
-LaTeX Warning: Citation 'Gasparello:2011in' on page 100 undefined on input line
- 396.
-
-
-LaTeX Warning: Citation 'Moore:2010jt' on page 100 undefined on input line 396.
-
-
-
-LaTeX Warning: Citation 'Park1999' on page 100 undefined on input line 397.
-
-
-LaTeX Warning: Citation 'lamboray2005data' on page 100 undefined on input line 
-397.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3611,15 +3573,41 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [100]
 
-LaTeX Warning: Citation 'DeGreef2001' on page 101 undefined on input line 402.
+LaTeX Warning: Reference `fig:room2room' on page 101 undefined on input line 38
+7.
 
 
-LaTeX Warning: Citation 'orts2016holoportation' on page 101 undefined on input 
-line 404.
+LaTeX Warning: Citation 'Bradner:2002:WDM:587078.587110' on page 101 undefined 
+on input line 393.
 
 
-LaTeX Warning: Citation 'horgen1999excellence' on page 101 undefined on input l
-ine 410.
+Overfull \hbox (123.23996pt too wide) in paragraph at lines 393--393
+\T1/ptm/m/n/12 (-20) Bradner & Mark es-tab-lished that la-tency mat-ters in re-
+mote telecol-lab-o-ra-tion [[]],
+ []
+
+
+LaTeX Warning: Citation 'Greenhalgh2001a' on page 101 undefined on input line 3
+94.
+
+
+LaTeX Warning: Citation 'Bradner:2002:WDM:587078.587110' on page 101 undefined 
+on input line 395.
+
+
+LaTeX Warning: Citation 'Gasparello:2011in' on page 101 undefined on input line
+ 396.
+
+
+LaTeX Warning: Citation 'Moore:2010jt' on page 101 undefined on input line 396.
+
+
+
+LaTeX Warning: Citation 'Park1999' on page 101 undefined on input line 397.
+
+
+LaTeX Warning: Citation 'lamboray2005data' on page 101 undefined on input line 
+397.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3631,29 +3619,15 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [101]
 
-LaTeX Warning: Citation 'greenberg1976role' on page 102 undefined on input line
- 416.
+LaTeX Warning: Citation 'DeGreef2001' on page 102 undefined on input line 402.
 
 
-LaTeX Warning: Citation 'Goodwin2000a' on page 102 undefined on input line 421.
+LaTeX Warning: Citation 'orts2016holoportation' on page 102 undefined on input 
+line 404.
 
 
-
-LaTeX Warning: Citation 'Argyle' on page 102 undefined on input line 421.
-
-
-LaTeX Warning: Citation 'Hofmann20061683' on page 102 undefined on input line 4
-21.
-
-
-LaTeX Warning: Citation 'Pan2008a' on page 102 undefined on input line 421.
-
-
-LaTeX Warning: Citation 'Argyle' on page 102 undefined on input line 423.
-
-
-LaTeX Warning: Citation 'ohba1998facial' on page 102 undefined on input line 42
-3.
+LaTeX Warning: Citation 'horgen1999excellence' on page 102 undefined on input l
+ine 410.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3665,50 +3639,29 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [102]
 
-LaTeX Warning: Citation 'pan2014comparing' on page 103 undefined on input line 
-427.
+LaTeX Warning: Citation 'greenberg1976role' on page 103 undefined on input line
+ 416.
 
 
-LaTeX Warning: Citation 'Pan2012a' on page 103 undefined on input line 427.
-
-
-LaTeX Warning: Citation 'Pan2014a' on page 103 undefined on input line 427.
-
-
-LaTeX Warning: Citation 'inami2000visuo' on page 103 undefined on input line 42
-9.
-
-
-LaTeX Warning: Citation 'gotsch2018telehuman2' on page 103 undefined on input l
-ine 429.
-
-
-LaTeX Warning: Citation 'o2018telethrone' on page 103 undefined on input line 4
-29.
-
-
-LaTeX Warning: Citation '3dlightfield' on page 103 undefined on input line 431.
+LaTeX Warning: Citation 'Goodwin2000a' on page 103 undefined on input line 421.
 
 
 
-LaTeX Warning: Reference `compare' on page 103 undefined on input line 431.
+LaTeX Warning: Citation 'Argyle' on page 103 undefined on input line 421.
 
 
-LaTeX Warning: Citation '6162881' on page 103 undefined on input line 432.
+LaTeX Warning: Citation 'Hofmann20061683' on page 103 undefined on input line 4
+21.
 
 
-LaTeX Warning: Reference `compare' on page 103 undefined on input line 432.
+LaTeX Warning: Citation 'Pan2008a' on page 103 undefined on input line 421.
 
 
-LaTeX Warning: Citation '1255811' on page 103 undefined on input line 433.
+LaTeX Warning: Citation 'Argyle' on page 103 undefined on input line 423.
 
 
-LaTeX Warning: Citation 'gibson2014ecological' on page 103 undefined on input l
-ine 437.
-
-
-LaTeX Warning: Citation 'norman2002psychopathology' on page 103 undefined on in
-put line 437.
+LaTeX Warning: Citation 'ohba1998facial' on page 103 undefined on input line 42
+3.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3720,14 +3673,69 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [103]
 
-LaTeX Warning: Citation 'Kleinke1986a' on page 104 undefined on input line 450.
+LaTeX Warning: Citation 'pan2014comparing' on page 104 undefined on input line 
+427.
+
+
+LaTeX Warning: Citation 'Pan2012a' on page 104 undefined on input line 427.
+
+
+LaTeX Warning: Citation 'Pan2014a' on page 104 undefined on input line 427.
+
+
+LaTeX Warning: Citation 'inami2000visuo' on page 104 undefined on input line 42
+9.
+
+
+LaTeX Warning: Citation 'gotsch2018telehuman2' on page 104 undefined on input l
+ine 429.
+
+
+LaTeX Warning: Citation 'o2018telethrone' on page 104 undefined on input line 4
+29.
+
+
+LaTeX Warning: Citation '3dlightfield' on page 104 undefined on input line 431.
 
 
 
-LaTeX Warning: Citation 'Kleinke1986a' on page 104 undefined on input line 450.
+LaTeX Warning: Reference `compare' on page 104 undefined on input line 431.
 
 
-<Images//frameworkVenn.png, id=2501, 509.40312pt x 432.11438pt>
+LaTeX Warning: Citation '6162881' on page 104 undefined on input line 432.
+
+
+LaTeX Warning: Reference `compare' on page 104 undefined on input line 432.
+
+
+LaTeX Warning: Citation '1255811' on page 104 undefined on input line 433.
+
+
+LaTeX Warning: Citation 'gibson2014ecological' on page 104 undefined on input l
+ine 437.
+
+
+LaTeX Warning: Citation 'norman2002psychopathology' on page 104 undefined on in
+put line 437.
+
+
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[104]
+
+LaTeX Warning: Citation 'Kleinke1986a' on page 105 undefined on input line 450.
+
+
+
+LaTeX Warning: Citation 'Kleinke1986a' on page 105 undefined on input line 450.
+
+
+<Images//frameworkVenn.png, id=2507, 509.40312pt x 432.11438pt>
 File: Images//frameworkVenn.png Graphic file (type png)
 <use Images//frameworkVenn.png>
 Package pdftex.def Info: Images//frameworkVenn.png  used on input line 459.
@@ -3743,7 +3751,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[104]
+[105]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3752,8 +3760,8 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[105 <./Images//frameworkVenn.png>]
-<Images//conceptualFrameworkBoxandStick.png, id=2516, 4494.29062pt x 2770.35pt>
+[106 <./Images//frameworkVenn.png>]
+<Images//conceptualFrameworkBoxandStick.png, id=2522, 4494.29062pt x 2770.35pt>
 
 File: Images//conceptualFrameworkBoxandStick.png Graphic file (type png)
 <use Images//conceptualFrameworkBoxandStick.png>
@@ -3769,25 +3777,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[106 <./Images//conceptualFrameworkBoxandStick.png>]
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[107]
-Underfull \hbox (badness 10000) in paragraph at lines 59--69
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--69
-
- []
-
+[107 <./Images//conceptualFrameworkBoxandStick.png>]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3797,6 +3787,15 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [108]
+Underfull \hbox (badness 10000) in paragraph at lines 59--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--69
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3825,6 +3824,15 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [111]
 
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[112]
+
 Package hyperref Warning: Suppressing link with empty target on input line 182.
 
 
@@ -3836,7 +3844,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[112])
+[113])
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3845,19 +3853,19 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[113]
+[114]
 Chapter 8.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 196.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 (09_deployment.tex
-<Images//deployment.png, id=2593, 721.4955pt x 769.1937pt>
+<Images//deployment.png, id=2599, 721.4955pt x 769.1937pt>
 File: Images//deployment.png Graphic file (type png)
 <use Images//deployment.png>
 Package pdftex.def Info: Images//deployment.png  used on input line 4.
 (pdftex.def)             Requested size: 426.79135pt x 455.01752pt.
- [114
+ [115
 
 ]
 Overfull \hbox (1.33134pt too wide) in paragraph at lines 65--65
@@ -3865,15 +3873,6 @@ Overfull \hbox (1.33134pt too wide) in paragraph at lines 65--65
 red browser exclusively for standalone
  []
 
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[115]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3891,18 +3890,27 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[117 <./Images//deployment.png (PNG copy)>]
+[117]
+
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[118 <./Images//deployment.png (PNG copy)>]
 Chapter 9.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 78.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-<Images//proxmoxmap.png, id=2616, 1347.0325pt x 1356.06625pt>
+<Images//proxmoxmap.png, id=2622, 1347.0325pt x 1356.06625pt>
 File: Images//proxmoxmap.png Graphic file (type png)
 <use Images//proxmoxmap.png>
 Package pdftex.def Info: Images//proxmoxmap.png  used on input line 81.
 (pdftex.def)             Requested size: 426.79135pt x 429.64615pt.
-) [118
+) [119
 
 ]
 
@@ -3913,13 +3921,13 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[119 <./Images//proxmoxmap.png (PNG copy)>]
+[120 <./Images//proxmoxmap.png (PNG copy)>]
 Chapter 10.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 199.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-[120
+[121
 
 ]
 
@@ -3930,13 +3938,13 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[121]
-<Images//globalclassroom.png, id=2635, 1484.04437pt x 1121.18875pt>
+[122]
+<Images//globalclassroom.png, id=2641, 1484.04437pt x 1121.18875pt>
 File: Images//globalclassroom.png Graphic file (type png)
 <use Images//globalclassroom.png>
 Package pdftex.def Info: Images//globalclassroom.png  used on input line 323.
 (pdftex.def)             Requested size: 426.79135pt x 322.43335pt.
-<Images//systemc4.png, id=2636, 1576.89125pt x 1024.82875pt>
+<Images//systemc4.png, id=2642, 1576.89125pt x 1024.82875pt>
 File: Images//systemc4.png Graphic file (type png)
 <use Images//systemc4.png>
 Package pdftex.def Info: Images//systemc4.png  used on input line 329.
@@ -3950,7 +3958,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[122 <./Images//globalclassroom.png>]
+[123 <./Images//globalclassroom.png>]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3959,13 +3967,13 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[123 <./Images//systemc4.png>]
+[124 <./Images//systemc4.png>]
 Chapter 11.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 335.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-[124
+[125
 
 ]
 Chapter 12.
@@ -3973,9 +3981,9 @@ File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 337.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-[125
+[126
 
-] (metaverseBTC.ptc) [126
+] (metaverseBTC.ptc) [127
 
 ] (HOWTO.tex
 Overfull \hbox (56.43552pt too wide) in paragraph at lines 79--84
@@ -3991,7 +3999,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[127]
+[128]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
 35.
  (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
@@ -4033,7 +4041,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[128]
+[129]
 Overfull \hbox (11.95836pt too wide) in paragraph at lines 214--216
 []\T1/ptm/m/n/12 (-20) Credit: https://dannyda.com/2020/06/01/how-to-create-an-
 internal-only-isolated-network-
@@ -4065,7 +4073,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[129]
+[130]
 Overfull \hbox (126.56917pt too wide) in paragraph at lines 296--299
 []\T1/ptm/m/n/12 (-20) n the Disk tab leave the de-faults (this ex-ceeds re-qui
 re-ments https://docs.vyos.io/en/latest/installation/install.html) 
@@ -4079,7 +4087,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[130]
+[131]
 Overfull \hbox (5.04445pt too wide) in paragraph at lines 380--380
 []\T1/cmtt/m/n/12 set protocols static route 0.0.0.0/0 next-hop 192.168.x.254 d
 istance 1[] 
@@ -4105,7 +4113,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[131]
+[132]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -4114,7 +4122,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[132])
+[133])
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -4123,10 +4131,10 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[133] (metaverseBTC.ptc) [134
+[134] (metaverseBTC.ptc) [135
 
 ]
-<Images//JOH.jpg, id=2758, 110.66344pt x 165.61874pt>
+<Images//JOH.jpg, id=2764, 110.66344pt x 165.61874pt>
 File: Images//JOH.jpg Graphic file (type jpg)
 <use Images//JOH.jpg>
 Package pdftex.def Info: Images//JOH.jpg  used on input line 357.
@@ -4136,7 +4144,7 @@ Overfull \hbox (140.84192pt too wide) in paragraph at lines 352--359
 [][][]$[]$ 
  []
 
-<Images//UA.jpg, id=2759, 200.75pt x 200.75pt>
+<Images//UA.jpg, id=2765, 200.75pt x 200.75pt>
 File: Images//UA.jpg Graphic file (type jpg)
 <use Images//UA.jpg>
 Package pdftex.def Info: Images//UA.jpg  used on input line 366.
@@ -4154,9 +4162,9 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[135 <./Images//JOH.jpg> <./Images//UA.jpg>] [136
+[136 <./Images//JOH.jpg> <./Images//UA.jpg>] [137
 
-] [137
+] [138
 
 ]
 Overfull \hbox (4.92906pt too wide) in paragraph at lines 383--383
@@ -4178,7 +4186,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[138]
+[139]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -4187,7 +4195,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[139]
+[140]
 Overfull \hbox (16.72742pt too wide) in paragraph at lines 383--383
 []\T1/ptm/m/n/12 (-20) Daniel Kraw-isz. ``Hy-per-bit-coiniza-tion''. In: \T1/pt
 m/m/it/12 (-20) On-line ver-füg-bar unter: https://nakamotoin
@@ -4209,7 +4217,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[140]
+[141]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Nguyen2005' on input line 382.
@@ -4254,7 +4262,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[141]
+[142]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Argyle1976' on input line 382.
@@ -4299,7 +4307,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[142]
+[143]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Stiefelhagen2002' on input line 382.
@@ -4340,7 +4348,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[143]
+[144]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Chovil1991' on input line 382.
@@ -4393,7 +4401,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[144]
+[145]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Hager1979' on input line 382.
@@ -4442,7 +4450,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[145]
+[146]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Hancock2004' on input line 382.
@@ -4491,7 +4499,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[146]
+[147]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Gunawardena1997' on input line 382.
@@ -4524,7 +4532,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[147]
+[148]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Tang2010' on input line 382.
@@ -4565,7 +4573,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[148]
+[149]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Kulik2011' on input line 382.
@@ -4610,7 +4618,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[149]
+[150]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Paulos1998' on input line 382.
@@ -4647,7 +4655,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[150]
+[151]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Dalsgaard2011' on input line 382.
@@ -4684,7 +4692,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[151]
+[152]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Allard2006' on input line 382.
@@ -4733,7 +4741,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[152]
+[153]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Dou2016' on input line 382.
@@ -4774,7 +4782,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[153]
+[154]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Roberts2003' on input line 382.
@@ -4815,7 +4823,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[154]
+[155]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Jones2014' on input line 382.
@@ -4860,7 +4868,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[155]
+[156]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Fish1993' on input line 382.
@@ -4881,7 +4889,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[156] (metaverseBTC.ind)
+[157] (metaverseBTC.ind)
 \tf@ptc=\write9
 \openout9 = `metaverseBTC.ptc'.
 
@@ -4897,9 +4905,9 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36758 strings out of 478582
- 729152 string characters out of 2844816
- 1636895 words of memory out of 3000000
+ 36759 strings out of 478582
+ 729160 string characters out of 2844816
+ 1636950 words of memory out of 3000000
  53015 multiletter control sequences out of 15000+600000
  583970 words of font info for 435 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -4921,9 +4929,9 @@ uagk8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
 tmb8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/ut
 mr8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utm
 ri8a.pfb>
-Output written on metaverseBTC.pdf (156 pages, 12293639 bytes).
+Output written on metaverseBTC.pdf (157 pages, 12295725 bytes).
 PDF statistics:
- 3541 PDF objects out of 3580 (max. 8388607)
- 797 named destinations out of 1000 (max. 500000)
+ 3548 PDF objects out of 3580 (max. 8388607)
+ 798 named destinations out of 1000 (max. 500000)
  117047 words of extra memory for PDF output out of 128383 (max. 10000000)
 
