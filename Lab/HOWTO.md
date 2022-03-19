@@ -266,10 +266,10 @@ vyos@vyos$ configure
 vyos@vyos#
 ```
 
-Then configure as desired. Below is configuration used in the setup here (if you use for inspiration do take care to replace the x and y octet values correctly with previously chosen values):
+Then configure as desired. Below is configuration used in the setup here (if you use for inspiration do take care to replace the x and y octet values correctly with previously chosen values. The z octet value should be something unused in the outside LAN for which the host is physically connected):
 
 ```
-set interfaces ethernet eth0 address '192.168.x.221/24'
+set interfaces ethernet eth0 address '192.168.x.z/24'
 set interfaces ethernet eth0 description 'OUTSIDE'
 set protocols static route 0.0.0.0/0 next-hop 192.168.x.254 distance 1
 set service dns forwarding system
@@ -325,7 +325,7 @@ https://github.com/fort-nix/nix-bitcoin/blob/master/docs/hardware.md
 
 In the main, the install guide (https://github.com/fort-nix/nix-bitcoin/blob/master/docs/install.md) is followed verbatim and notes with a reference to particular sections are added where appropriate.
 
-A small exception in regards to this setup is that a separate virtual disk (located on a different physical drive mirror (RAID 1)) was used to store the bitcoin database - this is optional and details are provided on how to achieve it. Also detailed is how to configure the network when using the minimal image.
+Optional - a small exception in regards to this setup is that a separate virtual disk (located on a different physical drive mirror (RAID 1)) was used to store the bitcoin database - this is optional and details are provided on how to achieve it. Also detailed is how to configure the network when using the minimal image.
 
 ### Acquiring NixOS
 
@@ -418,4 +418,114 @@ Run the following command:
 
 `nixos-install`
 
-and then reboot.
+Set the root password and then reboot.
+
+### Configure the additional drive (optional)
+
+As the additional drive was not configured at the time of the install then the parted utility will need to be available. To achieve this, edit the configuration.nix file
+
+
+`nano /etc/nixos/configuration.nix`
+
+and add the following:
+
+```
+environment.systemPackages = with pkgs; [
+    parted
+];
+```
+
+Then issue the following command:
+
+`nixos-rebuild switch`
+
+Determine the desired drive, fdisk can assist:
+
+`fdisk -l`
+
+Note: in this sytem the desired drive is /dev/sdb with 560GiB capacity but sdx is used in the following examples:
+
+Then partition:
+
+`parted /dev/sdx`
+
+```
+(parted) mklabel msdos
+(parted) mkpart primary
+File system type? ext4
+Start? 0%
+End? 100%
+quit
+```
+
+(note: it is possible to combine the above as a single line command)
+
+Then create the file system:
+
+`mkfs.ext4 -L data /dev/sdx1`
+
+Make a note of the UUID as this will be used in the next steps to mount the volume
+
+### Create port forwarding rules for SSH (optional)
+
+Providing SSH access to the VMs from outside the private network makes it easier to configure them (ability to copy and paste UUIDs etc.)
+
+This involve updates to VyOS configuration and can be temporary.
+
+Login to the vyos, you should be able do this from your local machine now as apposed to the console
+
+ssh vyos@192.168.x.z
+
+#### Debian
+
+192.168. y .2
+
+The following commands were issued to the VyOS router (obiously replacing y with the value chosen earlier)
+
+```
+configure
+
+set nat destination rule 12 description 'Port Forward: 2222 to 22 SSH on 192.168.y.2'
+set nat destination rule 12 destination port '2222'
+set nat destination rule 12 inbound-interface 'eth0'
+set nat destination rule 12 protocol 'tcp'
+set nat destination rule 12 translation address '192.168.y.2'
+set nat destination rule 12 translation port '22'
+
+commit
+```
+
+Now test
+
+Note: for the Debian VM the user account may need to be added to the SSH user group
+
+Note: you could SSH from Debian to all other hosts
+
+#### NixOS
+
+192.168. y .3
+
+Assuming access to the Debian VM via SSH is working then from the same VyOs configure session issue the following:
+
+```
+set nat destination rule 13 description 'Port Forward: 2223 to 22 SSH on 192.168.y.3'
+set nat destination rule 13 destination port '2223'
+set nat destination rule 13 inbound-interface 'eth0'
+set nat destination rule 13 protocol 'tcp'
+set nat destination rule 13 translation address '192.168.y.3'
+set nat destination rule 13 translation port '22'
+
+commit
+```
+
+Test and if all is well, save the VyOS configuration:
+
+```
+save
+```
+
+Credit: https://support.vyos.io/en/kb/articles/nat-principles
+
+Having SSH access to both the Debian and NixOS VMs will make the next stages of the process a little easier
+
+@todo hardening (SSH e.g. add keys, remove plain text or remove SSH access entirely)
