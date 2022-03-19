@@ -325,7 +325,7 @@ https://github.com/fort-nix/nix-bitcoin/blob/master/docs/hardware.md
 
 In the main, the install guide (https://github.com/fort-nix/nix-bitcoin/blob/master/docs/install.md) is followed verbatim and notes with a reference to particular sections are added where appropriate.
 
-A small exception in regards to this setup is that a separate virtual disk (located on a different physical drive mirror (RAID 1)) was used to store the bitcoin database - this is optional and details are provided on how to achieve it. Also detailed is how to configure the network when using the minimal image.
+Optional - a small exception in regards to this setup is that a separate virtual disk (located on a different physical drive mirror (RAID 1)) was used to store the bitcoin database - this is optional and details are provided on how to achieve it. Also detailed is how to configure the network when using the minimal image.
 
 ### Acquiring NixOS
 
@@ -418,4 +418,50 @@ Run the following command:
 
 `nixos-install`
 
-and then reboot.
+Set the root password and then reboot.
+
+### Configure the additional drive (optional)
+
+As the additional drive was not configured at the time of the install then the parted utility will need to be available. To achieve this, edit the configuration.nix file
+
+
+`nano /etc/nixos/configuration.nix`
+
+and add the following:
+
+```
+environment.systemPackages = with pkgs; [
+    parted
+];
+```
+
+Then issue the following command:
+
+`nixos-rebuild switch`
+
+Determine the desired drive, fdisk can assist:
+
+`fdisk -l`
+
+Note: in this sytem the desired drive is /dev/sdb with 560GiB capacity but sdx is used in the following examples:
+
+Then partition:
+
+`parted /dev/sdx`
+
+```
+(parted) mklabel msdos
+(parted) mkpart primary
+File system type? ext4
+Start? 0%
+End? 100%
+quit
+```
+
+(note: it is possible to combine the above as a single line command)
+
+Then create the file system:
+
+`mkfs.ext4 -L data /dev/sdx1`
+
+Make a note of the UUID as this will be used in the next steps to mount the volume
