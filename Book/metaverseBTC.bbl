@@ -1227,6 +1227,45 @@
       \field{title}{Short Paper: A Centrality Analysis of the Lightning Network}
       \field{year}{2022}
     \endentry
+    \entry{carlsten2016instability}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=e6796eb6f02f8ff12d4faf19c541e520}{%
+           family={Carlsten},
+           familyi={C\bibinitperiod},
+           given={Miles},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e805b09589caa915653b84399c1dd749}{%
+           family={Kalodner},
+           familyi={K\bibinitperiod},
+           given={Harry},
+           giveni={H\bibinitperiod}}}%
+        {{hash=291a73d288965917c5135ff3f4112db1}{%
+           family={Weinberg},
+           familyi={W\bibinitperiod},
+           given={S\bibnamedelima Matthew},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=95dc795a2be14c50fb6a924acc135ff8}{%
+           family={Narayanan},
+           familyi={N\bibinitperiod},
+           given={Arvind},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3f27eddce3a607e7c80192306357d060}
+      \strng{fullhash}{21c98029c1148dfe2fa12d4ee18a436f}
+      \strng{bibnamehash}{3f27eddce3a607e7c80192306357d060}
+      \strng{authorbibnamehash}{3f27eddce3a607e7c80192306357d060}
+      \strng{authornamehash}{3f27eddce3a607e7c80192306357d060}
+      \strng{authorfullhash}{21c98029c1148dfe2fa12d4ee18a436f}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security}
+      \field{title}{On the instability of bitcoin without the block reward}
+      \field{year}{2016}
+      \field{pages}{154\bibrangedash 167}
+      \range{pages}{14}
+    \endentry
     \entry{davies2010history}{book}{}
       \name{author}{1}{}{%
         {{hash=4ee93c737ba34d7335ea70711089dbf5}{%
@@ -1339,8 +1378,8 @@
       \strng{authorbibnamehash}{1c81fcf257f44be3fc86cc2c941f0efb}
       \strng{authornamehash}{1c81fcf257f44be3fc86cc2c941f0efb}
       \strng{authorfullhash}{1c81fcf257f44be3fc86cc2c941f0efb}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Financial crash, commodity prices and global imbalances}
@@ -1364,8 +1403,8 @@
       \strng{authorbibnamehash}{5d7da40e30408d9a488fa3744359c2a6}
       \strng{authornamehash}{5d7da40e30408d9a488fa3744359c2a6}
       \strng{authorfullhash}{5d7da40e30408d9a488fa3744359c2a6}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The hidden hand of American hegemony}
@@ -1691,8 +1730,8 @@
       \strng{authorbibnamehash}{4dc214c859a01c74a067082d181d6afd}
       \strng{authornamehash}{4dc214c859a01c74a067082d181d6afd}
       \strng{authorfullhash}{4dc214c859a01c74a067082d181d6afd}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Avatars, Affordances, and Interfaces: Virtual Reality Tools for Learning.}
@@ -2235,8 +2274,8 @@
       \strng{authorbibnamehash}{eb70307e62db6258bb3f70899bc5c339}
       \strng{authornamehash}{eb70307e62db6258bb3f70899bc5c339}
       \strng{authorfullhash}{eb70307e62db6258bb3f70899bc5c339}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2002 {ACM} conference on Computer supported cooperative work}
@@ -2562,8 +2601,8 @@
       \strng{authorbibnamehash}{62b1f0564bc7fd0f8c16251a2ad046c0}
       \strng{authornamehash}{62b1f0564bc7fd0f8c16251a2ad046c0}
       \strng{authorfullhash}{62b1f0564bc7fd0f8c16251a2ad046c0}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the Workshop on Embodied Language Processing}
@@ -3238,8 +3277,8 @@
       \strng{authorbibnamehash}{08e88983fada14a869fb42cd53ca94c8}
       \strng{authornamehash}{08e88983fada14a869fb42cd53ca94c8}
       \strng{authorfullhash}{4ddbfa72270f375c7abe280edfcc0742}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Perception of head orientation}
@@ -10905,8 +10944,8 @@
       \strng{authorbibnamehash}{f644326cbe100eeee6687475c9c7cd5b}
       \strng{authornamehash}{f644326cbe100eeee6687475c9c7cd5b}
       \strng{authorfullhash}{f644326cbe100eeee6687475c9c7cd5b}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Graphics interface}

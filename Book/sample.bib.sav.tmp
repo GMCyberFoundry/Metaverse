@@ -3197,8 +3197,7 @@
   author = {Ferscha, Alois and Johnson, James},
   title = {Distributed interaction in virtual spaces},
   booktitle = {Distributed Interactive Simulation and {Real-Time} Applications,
-	1999. Proceedings. 3\textbackslashtextsuperscript{rd} {IEEE} International
-	Workshop on},
+	1999. Proceedings. 3rd IEEE International Workshop on},
   year = {1999},
   pages = {5--13},
   institution = {IEEE},
@@ -5024,10 +5023,8 @@
 	Kazutaka and Hayashi, Kouki and Takanishi, Atsuo},
   title = {Development of face robot to express the individual face by optimizing
 	the facial features},
-  booktitle = {Humanoid Robots}
-	International Conference on}
-
-,
+ booktitle = {Humanoid Robots,
+	International Conference on},
   year = {2005},
   pages = {412--417},
   institution = {IEEE},
@@ -10089,7 +10086,7 @@
 @INPROCEEDINGS{Sellis1987,
   author = {Sellis, Timos K and Roussopoulos, Nick and Faloutsos, Christos},
   title = {{The {R+-Tree}: A Dynamic Index for {Multi-Dimensional} Objects}},
-  booktitle = {Proceedings of the 13\textbackslashtextsuperscript{th} International
+  booktitle = {Proceedings of the 13th International
 	Conference on Very Large Data Bases ({VLDB} '87)},
   year = {1987},
   address = {Brighton},
@@ -13090,4 +13087,6 @@
 @Article{lockwood2021exploring,
   author    = {Lockwood, Mick},
   journal   = {Frontiers in Blockchain},
-  title     = {Exploring value propositions to drive Se
+  title     = {Exploring value propositions to drive Self-Sovereign Identity adoption},
+  year      = {2021},
+  pages     = 

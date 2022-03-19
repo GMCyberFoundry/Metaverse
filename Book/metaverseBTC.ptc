@@ -2,7 +2,7 @@
 \contentsline {part}{\numberline {I}State of the art and proposal}{12}{part.1}%
 \contentsline {section}{\numberline {0.1}Conflict of interest statements}{13}{section.0.1}%
 \contentsline {chapter}{\numberline {1}Introduction}{14}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Abstract}{14}{section.1.1}%
+\contentsline {section}{\numberline {1.1}Overview}{14}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Introduction}{16}{section.1.2}%
 \contentsline {chapter}{\numberline {2}Web3 / decentralised web}{19}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Semantic web}{19}{section.2.1}%
@@ -252,13 +252,17 @@
 \contentsline {subsubsection}{\numberline {12.1.7.3}Create VyOS virtual machine}{133}{subsubsection.12.1.7.3}%
 \contentsline {subsubsection}{\numberline {12.1.7.4}Configure VyOS}{133}{subsubsection.12.1.7.4}%
 \contentsline {subsection}{\numberline {12.1.8}Install and configure a Debian virtual machine}{134}{subsection.12.1.8}%
-\contentsline {subsection}{\numberline {12.1.9}Deploying the nix-bitcoin node}{134}{subsection.12.1.9}%
+\contentsline {subsection}{\numberline {12.1.9}Deploying the nix-bitcoin node}{135}{subsection.12.1.9}%
 \contentsline {subsubsection}{\numberline {12.1.9.1}Acquiring NixOS}{135}{subsubsection.12.1.9.1}%
 \contentsline {subsubsection}{\numberline {12.1.9.2}Create a new VM}{135}{subsubsection.12.1.9.2}%
+\contentsline {subsubsection}{\numberline {12.1.9.3}Configure the additional drive (optional)}{136}{subsubsection.12.1.9.3}%
+\contentsline {subsubsection}{\numberline {12.1.9.4}Create port forwarding rules for SSH (optional)}{137}{subsubsection.12.1.9.4}%
+\contentsline {paragraph}{Debian}{137}{paragraph*.8}%
+\contentsline {paragraph}{NixOS}{137}{paragraph*.9}%
 \ttl@stoptoc {part@2}
 \ttl@stoptoc {part@2}
 \ttl@starttoc {part@3}
-\contentsline {part}{\numberline {III}Appendix}{137}{part.3}%
-\contentsline {section}{\numberline {12.2}Acknowledgements and thanks}{138}{section.12.2}%
-\contentsline {section}{\numberline {12.3}Author Biographies}{138}{section.12.3}%
+\contentsline {part}{\numberline {III}Appendix}{139}{part.3}%
+\contentsline {section}{\numberline {12.2}Acknowledgements and thanks}{140}{section.12.2}%
+\contentsline {section}{\numberline {12.3}Author Biographies}{140}{section.12.3}%
 \contentsfinish 
