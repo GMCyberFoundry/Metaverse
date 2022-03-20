@@ -18,7 +18,14 @@ Currently some compromises with privacy may be necessary. Power users vs standar
 \section{Bitcoin value management stack}
 %\lipsum[50]
 \subsection{Bitcoin Core on NixOS}
-%\lipsum[50]
+In March 2021 \href{https://www.whitesourcesoftware.com/whitesource-npm-threat-report-for-javascript-package-registry/}{several npm packages} were compromised globally as part of the cyber warfare component of the Ruso-Ukraine war. Some components of open source Bitcoin nodes such as Thunderhub and BOS were thought to be compromised by these attacks, in that their upstream dependencies brought the vulnerabilities into the nodes. This kind of attack/vulnerability is exactly why we chose to use \href{https://github.com/fort-nix/nix-bitcoin/#features}{Nix-Bitcoin} for the most important elements of the software we are deploying for SMEs.\par
+This text from the features list on github explains the enhanced security of this approach.
+\begin{itemize}
+\item Simplicity: Only services enabled in configuration.nix and their dependencies are installed, support for doas (sudo alternative), code is continuously reviewed and refined.
+\item Integrity: The Nix package manager guarantees that all dependencies are exactly specified, packages can be built from source to reduce reliance on binary caches, nix-bitcoin merge commits are signed, all commits are approved by multiple nix-bitcoin developers, upstream packages are cryptographically verified where possible, we use this software ourselves.
+\item Principle of Least Privilege: Services operate with least privileges; they each have their own user and are restricted further with systemd features, RPC whitelisting and netns-isolation. There's a non-root user operator to interact with the various services.
+\item Defense-in-depth: nix-bitcoin supports a hardened kernel, services are confined through discretionary access control, Linux namespaces, dbus firewall and seccomp-bpf with continuous improvements.
+\end{itemize}
 \subsection{Electrum server}
 \href{https://blog.blockstream.com/en-esplora-and-other-alternatives-to-electrumx/}{Options on the Blockstream website}
 %\lipsum[50]

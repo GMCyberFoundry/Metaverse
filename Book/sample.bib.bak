@@ -1801,14 +1801,14 @@
   publisher = {IEEE}
 }
 
-@Other{Chen,
-  abstract   = {Journal of Visualization, https://doi.org/10.1007/s12650-019-00551-y},
-  author     = {Yi Chen and Zeli Guan and Rong Zhang and Xiaomin Du and Yunhai Wang},
-  doi        = {10.1007/s12650-019-00551-y},
-  file       = {:C\:/Users/its352/Docear/projects/Big data/literature_repository/Data Visuaisation/s12650-019-00551-y.pdf:PDF},
-  keywords   = {Association relationship, Graph analysis, Visual analytics, Graph simplification, Interaction techniques},
-  publishers = {Springer Berlin Heidelberg},
-  title      = {A survey on visualization approaches for exploring association relationships in graph data},
+@Article{hafid2020scaling,
+  author    = {Hafid, Abdelatif and Hafid, Abdelhakim Senhaji and Samih, Mustapha},
+  journal   = {IEEE Access},
+  title     = {Scaling blockchains: A comprehensive survey},
+  year      = {2020},
+  pages     = {125244--125262},
+  volume    = {8},
+  publisher = {IEEE},
 }
 
 @ARTICLE{Cheng2011,
@@ -4312,11 +4312,11 @@
   file = {:C\:/Users/its352/Google Drive/DataVis/literature_repository/Data Visualisation/07932382.pdf:PDF}
 }
 
-@INPROCEEDINGS{Hager_undated,
-  author = {Hager, Joseph C and Ekman, Paul},
-  title = {{Long-Distance} Signals Transmission of Facial Affect},
-  pages = {77--82},
-  keywords = {litsurvey.bib}
+@Book{petzold2008annotated,
+  author    = {Petzold, Charles},
+  publisher = {Wiley Publishing},
+  title     = {The annotated Turing: a guided tour through Alan Turing's historic paper on computability and the Turing machine},
+  year      = {2008},
 }
 
 @ARTICLE{Hager1979,
@@ -13162,6 +13162,31 @@
   pages     = {314--321},
   volume    = {40},
   publisher = {Elsevier},
+}
+
+@InProceedings{carlsten2016instability,
+  author    = {Carlsten, Miles and Kalodner, Harry and Weinberg, S Matthew and Narayanan, Arvind},
+  booktitle = {Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security},
+  title     = {On the instability of bitcoin without the block reward},
+  year      = {2016},
+  pages     = {154--167},
+}
+
+@INPROCEEDINGS{Hager_undated,
+  author = {Hager, Joseph C and Ekman, Paul},
+  title = {{Long-Distance} Signals Transmission of Facial Affect},
+  pages = {77--82},
+  keywords = {litsurvey.bib}
+}
+
+@Other{Chen,
+  abstract   = {Journal of Visualization, https://doi.org/10.1007/s12650-019-00551-y},
+  author     = {Yi Chen and Zeli Guan and Rong Zhang and Xiaomin Du and Yunhai Wang},
+  doi        = {10.1007/s12650-019-00551-y},
+  file       = {:C\:/Users/its352/Docear/projects/Big data/literature_repository/Data Visuaisation/s12650-019-00551-y.pdf:PDF},
+  keywords   = {Association relationship, Graph analysis, Visual analytics, Graph simplification, Interaction techniques},
+  publishers = {Springer Berlin Heidelberg},
+  title      = {A survey on visualization approaches for exploring association relationships in graph data},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

@@ -641,6 +641,68 @@
       \field{pages}{22\bibrangedash 23}
       \range{pages}{2}
     \endentry
+    \entry{petzold2008annotated}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d629b59af1c9faa03aafb1006b08927f}{%
+           family={Petzold},
+           familyi={P\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Publishing}%
+      }
+      \strng{namehash}{d629b59af1c9faa03aafb1006b08927f}
+      \strng{fullhash}{d629b59af1c9faa03aafb1006b08927f}
+      \strng{bibnamehash}{d629b59af1c9faa03aafb1006b08927f}
+      \strng{authorbibnamehash}{d629b59af1c9faa03aafb1006b08927f}
+      \strng{authornamehash}{d629b59af1c9faa03aafb1006b08927f}
+      \strng{authorfullhash}{d629b59af1c9faa03aafb1006b08927f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The annotated Turing: a guided tour through Alan Turing's historic paper on computability and the Turing machine}
+      \field{year}{2008}
+    \endentry
+    \entry{hafid2020scaling}{article}{}
+      \name{author}{3}{}{%
+        {{hash=3402a5f763ba76cd7804482d17a78cee}{%
+           family={Hafid},
+           familyi={H\bibinitperiod},
+           given={Abdelatif},
+           giveni={A\bibinitperiod}}}%
+        {{hash=582013bd4da42c3b2f134b1c9521fbdc}{%
+           family={Hafid},
+           familyi={H\bibinitperiod},
+           given={Abdelhakim\bibnamedelima Senhaji},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=aed8853e044554f71135819e1e7ee8f6}{%
+           family={Samih},
+           familyi={S\bibinitperiod},
+           given={Mustapha},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{99b6a636621abc6298935c3dd93b5114}
+      \strng{fullhash}{99b6a636621abc6298935c3dd93b5114}
+      \strng{bibnamehash}{99b6a636621abc6298935c3dd93b5114}
+      \strng{authorbibnamehash}{99b6a636621abc6298935c3dd93b5114}
+      \strng{authornamehash}{99b6a636621abc6298935c3dd93b5114}
+      \strng{authorfullhash}{99b6a636621abc6298935c3dd93b5114}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{Scaling blockchains: A comprehensive survey}
+      \field{volume}{8}
+      \field{year}{2020}
+      \field{pages}{125244\bibrangedash 125262}
+      \range{pages}{19}
+    \endentry
     \entry{liu2022empirical}{article}{}
       \name{author}{6}{}{%
         {{hash=45013475b7175b160f9391fb1f2ccc00}{%
@@ -680,8 +742,8 @@
       \strng{authorbibnamehash}{b19a9125870510a38f7abb105731e808}
       \strng{authornamehash}{b19a9125870510a38f7abb105731e808}
       \strng{authorfullhash}{27e1a96aa37411caf5976ce79d8b1c64}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{arXiv preprint arXiv:2201.05574}
@@ -999,8 +1061,8 @@
       \strng{authorbibnamehash}{c469d16f6e8aceb32f1aadd3323f5895}
       \strng{authornamehash}{c469d16f6e8aceb32f1aadd3323f5895}
       \strng{authorfullhash}{c469d16f6e8aceb32f1aadd3323f5895}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Electrify: An Optimist's Playbook for Our Clean Energy Future}
@@ -1310,8 +1372,8 @@
       \strng{authorbibnamehash}{e3b2a8caec183dc75a77278345d2f616}
       \strng{authornamehash}{e3b2a8caec183dc75a77278345d2f616}
       \strng{authorfullhash}{e3b2a8caec183dc75a77278345d2f616}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Business and Management}
@@ -1339,8 +1401,8 @@
       \strng{authorbibnamehash}{1b6e5f06c310d21901672df564878338}
       \strng{authornamehash}{1b6e5f06c310d21901672df564878338}
       \strng{authorfullhash}{1b6e5f06c310d21901672df564878338}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Contemporary History}
@@ -1677,8 +1739,8 @@
       \strng{authorbibnamehash}{3ec84f96fd84a4c320635d0067584d9c}
       \strng{authornamehash}{3ec84f96fd84a4c320635d0067584d9c}
       \strng{authorfullhash}{3ec84f96fd84a4c320635d0067584d9c}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Online verfügbar unter: https://nakamotoin}
@@ -1702,8 +1764,8 @@
       \strng{authorbibnamehash}{77c79579ff958e99836be1d3b048a216}
       \strng{authornamehash}{77c79579ff958e99836be1d3b048a216}
       \strng{authorfullhash}{77c79579ff958e99836be1d3b048a216}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in Blockchain}
@@ -2193,8 +2255,8 @@
       \strng{authorbibnamehash}{1073d1d1d8b3ca19189a10ebcc7eea7e}
       \strng{authornamehash}{1073d1d1d8b3ca19189a10ebcc7eea7e}
       \strng{authorfullhash}{1073d1d1d8b3ca19189a10ebcc7eea7e}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Taming Mona Lisa}
@@ -2233,8 +2295,8 @@
       \strng{authornamehash}{147ccab064ffb95110c2245d5b3a7cc0}
       \strng{authorfullhash}{147ccab064ffb95110c2245d5b3a7cc0}
       \field{extraname}{1}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
@@ -2574,8 +2636,8 @@
       \strng{authorbibnamehash}{a48620f39b073a6f92ab80e9af8f7964}
       \strng{authornamehash}{a48620f39b073a6f92ab80e9af8f7964}
       \strng{authorfullhash}{a48620f39b073a6f92ab80e9af8f7964}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 7th international conference on Multimodal interfaces}
@@ -3022,8 +3084,8 @@
       \strng{authorbibnamehash}{3c6467577ad4f8de2af8dc68e7c9e1d1}
       \strng{authornamehash}{3c6467577ad4f8de2af8dc68e7c9e1d1}
       \strng{authorfullhash}{90a501aa7f495a179aa64fa6f6f4fea6}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
@@ -3055,8 +3117,8 @@
       \strng{authorbibnamehash}{60bdf10057aa68c517b4084343e51609}
       \strng{authornamehash}{60bdf10057aa68c517b4084343e51609}
       \strng{authorfullhash}{60bdf10057aa68c517b4084343e51609}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Three experiments are reported that investigate the hypothesis that head orientation and gaze direction interact in the processing of another individual's direction of social attention. A Stroop-type interference paradigm was adopted, in which gaze and head cues were placed into conflict. In separate blocks of trials, participants were asked to make speeded keypress responses contingent on either the direction of gaze, or the orientation of the head displayed in a digitized photograph of a male face. In Experiments 1 and 2, head and gaze cues showed symmetrical interference effects. Compared with congruent arrangements, incongruent head cues slowed responses to gaze cues, and incongruent gaze cues slowed responses to head cues, suggesting that head and gaze are mutually influential in the analysis of social attention direction. This mutuality was also evident in a cross-modal version of the task (Experiment 3) where participants responded to spoken directional words whilst ignoring the head/gaze images. It is argued that these interference effects arise from the independent influences of gaze and head orientation on decisions concerning social attention direction.}
@@ -3576,8 +3638,8 @@
       \strng{authorbibnamehash}{6711edaf1a5dacf076cad3e1193b234f}
       \strng{authornamehash}{6711edaf1a5dacf076cad3e1193b234f}
       \strng{authorfullhash}{3306460d9bf71f31499edeea102e082f}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 3rd international workshop on Affective interaction in natural environments}
@@ -3621,8 +3683,8 @@
       \strng{authorbibnamehash}{d365248c83ab5c36faefb3026f11298a}
       \strng{authornamehash}{d365248c83ab5c36faefb3026f11298a}
       \strng{authorfullhash}{b7b22f6316aa6f7e884557d2edf4a59e}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A relatively new form of human communication, video-conferencing has become more popular as video technology improves and with increasing demands for real-time communication across greater distances. The full effects of video-conferencing on human communication are still being explored. Video-conferencing is presumed to be a somewhat richer form of communication than email and telephone, but not quite as informative as face-to-face communication. This review explores research into the influence of eye contact on communication and how video-conferencing mediates both verbal and non-verbal interactions. Facilitation of eye contact is a challenge that must be addressed so that video-conferencing can approach the rich interactions of face-to-face communication.}
@@ -5878,8 +5940,8 @@
       \strng{authorbibnamehash}{1914840e5118a9a7cd3b400c6c9dbcca}
       \strng{authornamehash}{1914840e5118a9a7cd3b400c6c9dbcca}
       \strng{authorfullhash}{1914840e5118a9a7cd3b400c6c9dbcca}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{{AVI2004} Workshop on Environments for Personalized Information Access}
@@ -9132,8 +9194,8 @@
       \strng{authorbibnamehash}{7d89904e8ba47fe889c578cfebbf4403}
       \strng{authornamehash}{7d89904e8ba47fe889c578cfebbf4403}
       \strng{authorfullhash}{53abd5445ef772976936470678c704ff}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this paper we propose a general-purpose telepresence system design that can be adapted to a wide range of scenarios and present a framework for a proof-of-concept prototype. The prototype system allows users to see remote participants and their surroundings merged into the local environment through the use of an optical see-through head-worn display. Real-time 3D acquisition and head tracking allows the remote imagery to be seen from the correct point of view and with proper occlusion. A projector-based lighting control system permits the remote imagery to appear bright and opaque even in a lit room. Immersion can be adjusted across the VR continuum. Our approach relies only on commodity hardware; we also experiment with wider field of view custom displays.}
