@@ -13189,4 +13189,22 @@
   title      = {A survey on visualization approaches for exploring association relationships in graph data},
 }
 
+@Article{sayeed2019assessing,
+  author    = {Sayeed, Sarwar and Marco-Gisbert, Hector},
+  journal   = {Applied Sciences},
+  title     = {Assessing blockchain consensus and security mechanisms against the 51\% attack},
+  year      = {2019},
+  number    = {9},
+  pages     = {1788},
+  volume    = {9},
+  publisher = {Multidisciplinary Digital Publishing Institute},
+}
+
+@TechReport{stoeferle2018gold,
+  author      = {Stoeferle, Ronald-Peter and Valek, Mark J},
+  institution = {Technical report},
+  title       = {Gold and the Turning of the Monetary Tides},
+  year        = {2018},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

@@ -641,6 +641,40 @@
       \field{pages}{22\bibrangedash 23}
       \range{pages}{2}
     \endentry
+    \entry{sayeed2019assessing}{article}{}
+      \name{author}{2}{}{%
+        {{hash=09a1fb82079f43d166e0db8620d384c6}{%
+           family={Sayeed},
+           familyi={S\bibinitperiod},
+           given={Sarwar},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b3d6939da41c4632201ede6e2ebeea1c}{%
+           family={Marco-Gisbert},
+           familyi={M\bibinithyphendelim G\bibinitperiod},
+           given={Hector},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{42fa17c48bf56f0a336a7a1ad6fdd427}
+      \strng{fullhash}{42fa17c48bf56f0a336a7a1ad6fdd427}
+      \strng{bibnamehash}{42fa17c48bf56f0a336a7a1ad6fdd427}
+      \strng{authorbibnamehash}{42fa17c48bf56f0a336a7a1ad6fdd427}
+      \strng{authornamehash}{42fa17c48bf56f0a336a7a1ad6fdd427}
+      \strng{authorfullhash}{42fa17c48bf56f0a336a7a1ad6fdd427}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Sciences}
+      \field{number}{9}
+      \field{title}{Assessing blockchain consensus and security mechanisms against the 51\% attack}
+      \field{volume}{9}
+      \field{year}{2019}
+      \field{pages}{1788}
+      \range{pages}{1}
+    \endentry
     \entry{petzold2008annotated}{book}{}
       \name{author}{1}{}{%
         {{hash=d629b59af1c9faa03aafb1006b08927f}{%
@@ -658,8 +692,8 @@
       \strng{authorbibnamehash}{d629b59af1c9faa03aafb1006b08927f}
       \strng{authornamehash}{d629b59af1c9faa03aafb1006b08927f}
       \strng{authorfullhash}{d629b59af1c9faa03aafb1006b08927f}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The annotated Turing: a guided tour through Alan Turing's historic paper on computability and the Turing machine}
@@ -1035,8 +1069,8 @@
       \strng{authorbibnamehash}{d6fa497e4b1f574f08a65af5bc72bf5c}
       \strng{authornamehash}{d6fa497e4b1f574f08a65af5bc72bf5c}
       \strng{authorfullhash}{d6fa497e4b1f574f08a65af5bc72bf5c}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Emerald Expert Briefings}
@@ -1345,8 +1379,8 @@
       \strng{authorbibnamehash}{4ee93c737ba34d7335ea70711089dbf5}
       \strng{authornamehash}{4ee93c737ba34d7335ea70711089dbf5}
       \strng{authorfullhash}{4ee93c737ba34d7335ea70711089dbf5}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{History of money}
@@ -1471,6 +1505,82 @@
       \field{labeltitlesource}{title}
       \field{title}{The hidden hand of American hegemony}
       \field{year}{2019}
+    \endentry
+    \entry{carney2019growing}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=a8f4f2a49f22416de8db5f639af33b64}{%
+           family={Carney},
+           familyi={C\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8f4f2a49f22416de8db5f639af33b64}
+      \strng{fullhash}{a8f4f2a49f22416de8db5f639af33b64}
+      \strng{bibnamehash}{a8f4f2a49f22416de8db5f639af33b64}
+      \strng{authorbibnamehash}{a8f4f2a49f22416de8db5f639af33b64}
+      \strng{authornamehash}{a8f4f2a49f22416de8db5f639af33b64}
+      \strng{authorfullhash}{a8f4f2a49f22416de8db5f639af33b64}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Remarks at the Jackson Hole Symposium}
+      \field{title}{The growing challenges for monetary policy in the current international monetary and financial system}
+      \field{volume}{23}
+      \field{year}{2019}
+    \endentry
+    \entry{piffaretti2009reshaping}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6332254e093b61afcd149b75e35e341e}{%
+           family={Piffaretti},
+           familyi={P\bibinitperiod},
+           given={Nadia},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{6332254e093b61afcd149b75e35e341e}
+      \strng{fullhash}{6332254e093b61afcd149b75e35e341e}
+      \strng{bibnamehash}{6332254e093b61afcd149b75e35e341e}
+      \strng{authorbibnamehash}{6332254e093b61afcd149b75e35e341e}
+      \strng{authornamehash}{6332254e093b61afcd149b75e35e341e}
+      \strng{authorfullhash}{6332254e093b61afcd149b75e35e341e}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{World Bank Policy Research Working Paper}
+      \field{number}{5034}
+      \field{title}{Reshaping the international monetary architecture: lessons from Keynes' plan}
+      \field{year}{2009}
+    \endentry
+    \entry{stoeferle2018gold}{report}{}
+      \name{author}{2}{}{%
+        {{hash=21a541dea61e66ab47fe39c5b4368c1f}{%
+           family={Stoeferle},
+           familyi={S\bibinitperiod},
+           given={Ronald-Peter},
+           giveni={R\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=19065fbc24a7889bb5f4b371162af7a8}{%
+           family={Valek},
+           familyi={V\bibinitperiod},
+           given={Mark\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Technical report}%
+      }
+      \strng{namehash}{3042dc4038843c1272ef20e3c7fc9411}
+      \strng{fullhash}{3042dc4038843c1272ef20e3c7fc9411}
+      \strng{bibnamehash}{3042dc4038843c1272ef20e3c7fc9411}
+      \strng{authorbibnamehash}{3042dc4038843c1272ef20e3c7fc9411}
+      \strng{authornamehash}{3042dc4038843c1272ef20e3c7fc9411}
+      \strng{authorfullhash}{3042dc4038843c1272ef20e3c7fc9411}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gold and the Turning of the Monetary Tides}
+      \field{type}{techreport}
+      \field{year}{2018}
     \endentry
     \entry{mathews2018china}{article}{}
       \name{author}{2}{}{%
@@ -1631,8 +1741,8 @@
       \strng{authorbibnamehash}{5303ca57542266596e91d3ac98524b1c}
       \strng{authornamehash}{5303ca57542266596e91d3ac98524b1c}
       \strng{authorfullhash}{5303ca57542266596e91d3ac98524b1c}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Essai sur la nature du commerce en général}
@@ -1655,8 +1765,8 @@
       \strng{authorbibnamehash}{140670e47810ad9b00d4c97c7119db7c}
       \strng{authornamehash}{140670e47810ad9b00d4c97c7119db7c}
       \strng{authorfullhash}{140670e47810ad9b00d4c97c7119db7c}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Monetary Economics}
@@ -1684,8 +1794,8 @@
       \strng{authorbibnamehash}{bfb8d2bb070d9ca205932dede8e3853f}
       \strng{authornamehash}{bfb8d2bb070d9ca205932dede8e3853f}
       \strng{authorfullhash}{bfb8d2bb070d9ca205932dede8e3853f}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Future of Money: How the Digital Revolution is Transforming Currencies and Finance}
@@ -1713,8 +1823,8 @@
       \strng{authorbibnamehash}{af8695065272fc2c1ff681f981c353b1}
       \strng{authornamehash}{af8695065272fc2c1ff681f981c353b1}
       \strng{authorfullhash}{af8695065272fc2c1ff681f981c353b1}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Open Economies Review}
@@ -2026,8 +2136,8 @@
       \strng{authorbibnamehash}{bf612ae66d086154ae62e8653c55f845}
       \strng{authornamehash}{bf612ae66d086154ae62e8653c55f845}
       \strng{authorfullhash}{bf612ae66d086154ae62e8653c55f845}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{British Journal of Oral and Maxillofacial Surgery}
@@ -2061,8 +2171,8 @@
       \strng{authorbibnamehash}{3750619fbe2292f61d67a5e9d876fe38}
       \strng{authornamehash}{3750619fbe2292f61d67a5e9d876fe38}
       \strng{authorfullhash}{3750619fbe2292f61d67a5e9d876fe38}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Why pictures look right when viewed from the wrong place}
@@ -2099,8 +2209,8 @@
       \strng{authorbibnamehash}{aded41e3797d44dfd76cf377a9691bfb}
       \strng{authornamehash}{aded41e3797d44dfd76cf377a9691bfb}
       \strng{authorfullhash}{aded41e3797d44dfd76cf377a9691bfb}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Perception of Where a Face or Television Portrait is Looking}
@@ -2127,8 +2237,8 @@
       \strng{authorbibnamehash}{cc81f1ba9e38dd4a7d6a338a8dbf0b71}
       \strng{authornamehash}{cc81f1ba9e38dd4a7d6a338a8dbf0b71}
       \strng{authorfullhash}{cc81f1ba9e38dd4a7d6a338a8dbf0b71}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{On the apparent direction of eyes in a portrait}
@@ -2177,8 +2287,8 @@
       \strng{authorbibnamehash}{949c3fb7a1e180a746e06f56027bc891}
       \strng{authornamehash}{949c3fb7a1e180a746e06f56027bc891}
       \strng{authorfullhash}{03df2ffc9058a49f599c4238403dacf7}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Two psychophysical experiments are reported, one dealing with the visual perception of the head orientation of another person (the 'looker') and the other dealing with the perception of the looker's direction of eye gaze. The participant viewed the looker with different retinal eccentricities, ranging from foveal to far-peripheral viewing. On average, judgments of head orientation were reliable even out to the extremes of peripheral vision (90 degrees eccentricity), with better performance at the extremes when the participant was able to view the looker changing head orientation from one trial to the next. In sharp contrast, judgments of eye-gaze direction were reliable only out to 4 degrees eccentricity, signifying that the eye-gaze social signal is available to people only when they fixate near the looker's eyes. While not unexpected, this vast difference in availability of information about head direction and eye direction, both of which can serve as indicators of the looker's focus of attention, is important for understanding the dynamics of eye-gaze behavior.}
@@ -2216,8 +2326,8 @@
       \strng{authorbibnamehash}{8d5e1a286ba9ba440e8b2a415ff41547}
       \strng{authornamehash}{8d5e1a286ba9ba440e8b2a415ff41547}
       \strng{authorfullhash}{8d5e1a286ba9ba440e8b2a415ff41547}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The impact of looking into the camera during a presentation over a video link (resulting in the perception of mutual gaze) on information recall was investigated. In a face-to-face context mutual gaze has been shown to facilitate the encoding and subsequent recall of information [Fry, R., Smith, G.F., 1975. The effects of feedback and eye contact on performance of a digit-coding task. J. Soc. Psychol. 96, 145-146; Otteson, J.D., Otteson, C.R., 1980. Effect of teacher's gaze on children's story recall. Percept. Motor Skill. 50, 35-42; Sherwood, J.V., 1988. Facilitative effects of gaze upon learning. Percept. Motor Skill. 64 (3 Part 2), 1275-1278]. One explanation for these findings is that gaze acts as an arousal stimulus, which increases attentional focus and therefore enhances memory [Kelley, D.H., Gorham, J., 1988. Effects of immediacy on recall of information. Commun. Edu. 37(3), 198-207]. Two studies were conducted in order to test whether gazing at the camera during video-mediated presentations resulted in similar benefits as mutual gaze in a face-to-face context. In study 1 a confederate presented information about two fictitious soap products. In one condition, the confederate gazed at the camera for 30\% of the presentation, therefore giving the participants the impression that he was gazing in their direction. In the other condition the confederate did not gaze at the camera. Participants viewed the sales presentations from both conditions. In the condition where gaze was directed at the camera, participants recalled significantly more information about the sales presentation. Study 2 employed the same pre-recorded sales presentations used in study 1, however they were delivered to the participants under audio-only conditions (therefore, the image was switched off). Results from study 2 indicated no recall differences between the two conditions. Findings from these studies would seem to indicate that the perception of gaze aversion over a video link (a consequence of the salesman not looking into the camera) has a negative impact on information recall. This has practical implications for video-mediated presentations. In a distance learning environment lecturers could be advised to look into the camera in order to promote more efficient learning in students.}
@@ -2524,8 +2634,8 @@
       \strng{authorbibnamehash}{63d08e6bf6ef5567f21211348be98db2}
       \strng{authornamehash}{63d08e6bf6ef5567f21211348be98db2}
       \strng{authorfullhash}{63d08e6bf6ef5567f21211348be98db2}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This paper explores durational aspects of pauses, gaps and overlaps in three different conversational corpora with a view to challenge claims about precision timing in turn-taking. Distributions of pause, gap and overlap durations in conversations are presented, and methodological issues regarding the statistical treatment of such distributions are discussed. The results are related to published minimal response times for spoken utterances and thresholds for detection of acoustic silences in speech. It is shown that turn-taking is generally less precise than is often claimed by researchers in the field of conversation analysis or interactional linguistics. These results are discussed in the light of their implications for models of timing in turn-taking, and for interaction control models in speech technology. In particular, it is argued that the proportion of speaker changes that could potentially be triggered by information immediately preceding the speaker change is large enough for reactive interaction controls models to be viable in speech technology.}
@@ -2559,8 +2669,8 @@
       \strng{authorbibnamehash}{ca0b408c89659857617600c16e4f05f1}
       \strng{authornamehash}{ca0b408c89659857617600c16e4f05f1}
       \strng{authorfullhash}{ca0b408c89659857617600c16e4f05f1}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Psychol. Bull.}
@@ -2595,8 +2705,8 @@
       \strng{authorbibnamehash}{beb5d1b85a16a873d421626d97f55054}
       \strng{authornamehash}{beb5d1b85a16a873d421626d97f55054}
       \strng{authorfullhash}{beb5d1b85a16a873d421626d97f55054}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Understanding intercultural communication}
@@ -2960,8 +3070,8 @@
       \strng{authorbibnamehash}{9d4c568d2d4ce3723b578cb5b56ed55e}
       \strng{authornamehash}{9d4c568d2d4ce3723b578cb5b56ed55e}
       \strng{authorfullhash}{9d4c568d2d4ce3723b578cb5b56ed55e}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Role Of Gaze In Dialogue}
@@ -2995,8 +3105,8 @@
       \strng{authorbibnamehash}{92f3db8b86fdb9fe3fa1a64f55d62eb8}
       \strng{authornamehash}{92f3db8b86fdb9fe3fa1a64f55d62eb8}
       \strng{authorfullhash}{92f3db8b86fdb9fe3fa1a64f55d62eb8}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Explores the role of gaze in coordinating turn-taking in mixed-initiative conversation, and specifically how gaze indicators might be usefully modeled in computational dialogue systems. We analyzed about 20 minutes of videotape of eight dialogues by four pairs of subjects performing a simple face-to-face cooperative laboratory task. We extend previous studies by explicating gaze patterns in face-to-face conversations, formalizing the most frequent pattern as a computational model of turn-taking and testing the model through an agent-based simulation. Prior conversation simulations of conversational control acts relied on abstract speech-act representations of control. This study advances the computational account of dialogue through simulation of direct physical expression of gaze to coordinate conversational turns.}
@@ -3036,8 +3146,8 @@
       \strng{authorbibnamehash}{c2d4fd085a07d7062c5445d9edf77e07}
       \strng{authornamehash}{c2d4fd085a07d7062c5445d9edf77e07}
       \strng{authorfullhash}{c2d4fd085a07d7062c5445d9edf77e07}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Graphics interface}
@@ -3292,8 +3402,8 @@
       \strng{authorbibnamehash}{1e26963ab5bc0992ac5421967c3127e0}
       \strng{authornamehash}{1e26963ab5bc0992ac5421967c3127e0}
       \strng{authorfullhash}{0c653c77c63eb442713a2f4c50fbf379}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{When subjects viewed straight and turned eyes that were isolated singly or in pairs from a head that was straight or turned, they underestimated their true direction of gaze. They also underestimated the direction of head turn when both eyes were closed. However, the judged direction of gaze was improved when the eyes were layered against the heads. Judged direction of averted gaze was primarily based on the abducting eye. The effect that the deviation between an eye's optical axis and its true direction of gaze (angle kappa) has on its judged direction of gaze is discussed.}
@@ -3560,8 +3670,8 @@
       \strng{authorbibnamehash}{765606040c1afa6f0882765292815970}
       \strng{authornamehash}{765606040c1afa6f0882765292815970}
       \strng{authorfullhash}{765606040c1afa6f0882765292815970}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Eye tracking and avatar-mediated communication in immersive collaborative virtual environments}
@@ -3586,8 +3696,8 @@
       \strng{authorbibnamehash}{bd21ce75a6a60a33677b9b23d308d4eb}
       \strng{authornamehash}{bd21ce75a6a60a33677b9b23d308d4eb}
       \strng{authorfullhash}{bd21ce75a6a60a33677b9b23d308d4eb}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Reviews research on gaze and mutual gaze in social interaction and discusses techniques of measurement. The perception of different patterns is described, as well as the linkage between gaze and speech, deviant problems of gaze in psychiatric cases, and cross-cultural differences. Data are drawn principally from experimental research, but literary and anthropological sources are included where appropriate. It is concluded that gaze is one of the main nonverbal signals and that knowledge of its uses has important practical implications for treatment and training in social skills and for the design of communications equipment. (33 ref) (PsycINFO Database Record (c) 2010 APA, all rights reserved)}
@@ -5907,8 +6017,8 @@
       \strng{authorbibnamehash}{ebf5f537b49e63d063530168de15b194}
       \strng{authornamehash}{ebf5f537b49e63d063530168de15b194}
       \strng{authorfullhash}{ebf5f537b49e63d063530168de15b194}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Critical Inquiry In A Text-based Environment: Computer Conferencing In Higher Education}
@@ -9104,8 +9214,8 @@
       \strng{authorbibnamehash}{d25e44465135448fd249d54ba7848e38}
       \strng{authornamehash}{d25e44465135448fd249d54ba7848e38}
       \strng{authorfullhash}{445f6ce4164a071f67891c46a55ee7d2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{{ACM} {SIGGRAPH} 2003 Papers}
@@ -9142,8 +9252,8 @@
       \strng{authorbibnamehash}{757fcc33ec9dc1ed4b5a34b4484d12c9}
       \strng{authornamehash}{757fcc33ec9dc1ed4b5a34b4484d12c9}
       \strng{authorfullhash}{757fcc33ec9dc1ed4b5a34b4484d12c9}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{{IEEE} Workshop on Content Generation and Coding for 3D-television}
