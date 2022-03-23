@@ -31,7 +31,7 @@
 \contentsline {subsubsection}{\numberline {3.2.5.1}Taproot}{42}{subsubsection.3.2.5.1}%
 \contentsline {subsubsection}{\numberline {3.2.5.2}AnyPrevOut}{42}{subsubsection.3.2.5.2}%
 \contentsline {subsubsection}{\numberline {3.2.5.3}CheckTemplateVerify}{42}{subsubsection.3.2.5.3}%
-\contentsline {section}{\numberline {3.3}Extending the BTC ecosystem }{42}{section.3.3}%
+\contentsline {section}{\numberline {3.3}Extending the BTC ecosystem }{43}{section.3.3}%
 \contentsline {subsection}{\numberline {3.3.1}Block \& SpiralBTC}{43}{subsection.3.3.1}%
 \contentsline {subsection}{\numberline {3.3.2}BTCPayServer}{43}{subsection.3.3.2}%
 \contentsline {section}{\numberline {3.4}Lightning (Layer 2)}{43}{section.3.4}%
@@ -57,7 +57,7 @@
 \contentsline {section}{\numberline {3.8}Other chains and networks}{52}{section.3.8}%
 \contentsline {subsection}{\numberline {3.8.1}Layer 1 chains}{52}{subsection.3.8.1}%
 \contentsline {subsection}{\numberline {3.8.2}Crosschains}{53}{subsection.3.8.2}%
-\contentsline {subsection}{\numberline {3.8.3}Decentralised data}{53}{subsection.3.8.3}%
+\contentsline {subsection}{\numberline {3.8.3}Decentralised data}{54}{subsection.3.8.3}%
 \contentsline {section}{\numberline {3.9}Risks and mitigations}{54}{section.3.9}%
 \contentsline {subsection}{\numberline {3.9.1}Digital assets}{54}{subsection.3.9.1}%
 \contentsline {subsection}{\numberline {3.9.2}Bitcoin specifically}{54}{subsection.3.9.2}%
@@ -70,41 +70,39 @@
 \contentsline {subsection}{\numberline {4.2.3}Money transfer operators}{58}{subsection.4.2.3}%
 \contentsline {subsection}{\numberline {4.2.4}Digital disruptive fintech}{58}{subsection.4.2.4}%
 \contentsline {subsection}{\numberline {4.2.5}Stablecoins}{59}{subsection.4.2.5}%
-\contentsline {section}{\numberline {4.3}Central bank digital currencies}{59}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Bitcoin as a money}{62}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Risks}{63}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}Hyperbitcoinization}{64}{subsection.4.5.1}%
-\contentsline {section}{\numberline {4.6}Does DeFi matter to SMEs }{64}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Do DAOs matter to SMEs}{65}{section.4.7}%
+\contentsline {section}{\numberline {4.3}Central bank digital currencies}{60}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Bitcoin as a money}{63}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Risks}{64}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Hyperbitcoinization}{65}{subsection.4.5.1}%
+\contentsline {section}{\numberline {4.6}Does DeFi matter to SMEs }{65}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Do DAOs matter to SMEs}{66}{section.4.7}%
 \contentsline {subsection}{\numberline {4.7.1}Bisq DAO}{66}{subsection.4.7.1}%
-\contentsline {subsection}{\numberline {4.7.2}Risks}{66}{subsection.4.7.2}%
-\contentsline {chapter}{\numberline {5}Distributed Self Sovereign Identity}{67}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Applications of DID/SSI}{67}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Classic DID/SSI}{68}{section.5.2}%
-\contentsline {subsubsection}{\numberline {5.2.0.1}DID principles}{69}{subsubsection.5.2.0.1}%
-\contentsline {subsubsection}{\numberline {5.2.0.2}What's in a DID document?}{69}{subsubsection.5.2.0.2}%
-\contentsline {section}{\numberline {5.3}Newer Technologies}{69}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}Slashtags}{69}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.3.2}LNURL-Auth}{69}{subsection.5.3.2}%
-\contentsline {subsection}{\numberline {5.3.3}Sovrin}{69}{subsection.5.3.3}%
-\contentsline {subsection}{\numberline {5.3.4}Keri}{69}{subsection.5.3.4}%
-\contentsline {subsection}{\numberline {5.3.5}Atala Prism}{69}{subsection.5.3.5}%
-\contentsline {subsection}{\numberline {5.3.6}Microsoft ION}{69}{subsection.5.3.6}%
-\contentsline {subsection}{\numberline {5.3.7}Atala Prism (ADA Ecosystem)}{70}{subsection.5.3.7}%
-\contentsline {section}{\numberline {5.4}Risks \& Challenges?}{70}{section.5.4}%
-\contentsline {chapter}{\numberline {6}Non Fungible Tokens}{71}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Digital Art}{71}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Other uses}{75}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Is any of this useful?}{75}{section.6.3}%
-\contentsline {section}{\numberline {6.4}User stories / behaviours}{75}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Comparing the technologies}{76}{section.6.5}%
-\contentsline {section}{\numberline {6.6}User stories / behaviours}{76}{section.6.6}%
-\contentsline {section}{\numberline {6.7}Comparing the technologies}{76}{section.6.7}%
-\contentsline {section}{\numberline {6.8}What are the options }{77}{section.6.8}%
-\contentsline {section}{\numberline {6.9}Risks}{77}{section.6.9}%
-\contentsline {subsection}{\numberline {6.9.1}Wage slavery / pyramid schemes}{77}{subsection.6.9.1}%
-\contentsline {subsection}{\numberline {6.9.2}Energy concerns}{77}{subsection.6.9.2}%
-\contentsline {section}{\numberline {6.10}Why choose bitcoin again }{78}{section.6.10}%
+\contentsline {subsection}{\numberline {4.7.2}Risks}{67}{subsection.4.7.2}%
+\contentsline {chapter}{\numberline {5}Distributed Self Sovereign Identity}{68}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Applications of DID/SSI}{68}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Classic DID/SSI}{69}{section.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.0.1}DID principles}{70}{subsubsection.5.2.0.1}%
+\contentsline {subsubsection}{\numberline {5.2.0.2}What's in a DID document?}{70}{subsubsection.5.2.0.2}%
+\contentsline {section}{\numberline {5.3}Newer Technologies}{70}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Slashtags}{70}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}LNURL-Auth}{70}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Sovrin}{70}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.4}Keri}{70}{subsection.5.3.4}%
+\contentsline {subsection}{\numberline {5.3.5}Atala Prism}{70}{subsection.5.3.5}%
+\contentsline {subsection}{\numberline {5.3.6}Microsoft ION}{70}{subsection.5.3.6}%
+\contentsline {subsection}{\numberline {5.3.7}Atala Prism (ADA Ecosystem)}{71}{subsection.5.3.7}%
+\contentsline {section}{\numberline {5.4}Risks \& Challenges?}{71}{section.5.4}%
+\contentsline {chapter}{\numberline {6}Non Fungible Tokens}{72}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Digital Art}{72}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Other uses}{76}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Is any of this useful?}{76}{section.6.3}%
+\contentsline {section}{\numberline {6.4}User stories / behaviours}{76}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Comparing the technologies}{77}{section.6.5}%
+\contentsline {section}{\numberline {6.6}What are the options }{77}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Risks}{77}{section.6.7}%
+\contentsline {subsection}{\numberline {6.7.1}Wage slavery / pyramid schemes}{77}{subsection.6.7.1}%
+\contentsline {subsection}{\numberline {6.7.2}Energy concerns}{77}{subsection.6.7.2}%
+\contentsline {section}{\numberline {6.8}Why choose bitcoin again }{78}{section.6.8}%
 \contentsline {chapter}{\numberline {7}Metaverses}{79}{chapter.7}%
 \contentsline {section}{\numberline {7.1}History and market need}{79}{section.7.1}%
 \contentsline {section}{\numberline {7.2}Current telecollaboration}{79}{section.7.2}%
