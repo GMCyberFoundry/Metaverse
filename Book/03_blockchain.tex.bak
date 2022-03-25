@@ -171,7 +171,7 @@ BTCPayServer is one of the recipients of a Spiral grant. It is a self hosted Bit
 
 
 \href{https://twitter.com/BtcpayServer/status/1476572743626035200}{check the roadmap}
-%\lipsum[50]
+\lipsum[50]
 
 
 \section{Lightning (Layer 2)}
@@ -229,13 +229,13 @@ Blockstream plan to add arbitrary (user generated) token support to their C-Ligh
 All of this has the advantage of a far lower energy footprint compared to the main chain, but it's not quite ready with a full suite of affordances. \\
 The Liquid network is being used as the underlying asset for a novel new global financial product. El Salvador are working with Blockstream to issue a nation state backed bond. 
 
-%\lipsum[50]
+\lipsum[50]
 
 
 \href{https://bitcoinmagazine.com/markets/el-salvador-president-nayib-bukele-samson-mow-volcano-bitcoin-bond}{El Salvador volcano bonds stuff}
 
 \href{https://diarioelsalvador.com/primera-emision-de-bonos-bitcoin-de-el-salvador-estaria-lista-entre-el-15-y-20-de-marzo/189186/}{launching in March 20th}
-%\lipsum[50]
+\lipsum[50]
 
 \section{Bitcoin Layer 3}
 Increasingly important features of modern blockchain implementations are programmability through smart contracts, and issuance of arbitrary tokens. Assigning a transaction to represent another thing like an economic unit, energy unit, or real world object, and operating on those abstractions within the chain logic. Chief among these use cases are stablecoins such as Tether, which are pegged to national currencies and described in the next section. Bitcoin has always supported very limited contracts called scripts, and stablecoin issuance has existed in Bitcoin since 
@@ -282,13 +282,13 @@ Less prosaically, at this stage of the project the more imminent proposed afford
 %The \href{https://github.com/mycitadel}{`MyCitadel' github} looks to be the place to investigate this element further for 
 \subsection{Synonym \& Omnibolt}
 Omnibolt github
-%\lipsum[50]
+\lipsum[50]
 \subsection{DLCFD}
 Discrete log contracts are a form of externally arbitrated smart contract. 
 Work is being done to extend this primitive to lightning.\\
 
 Marty Bent ``This particular contract allows (currently) one party to lock in a stable amount of USD value in BTC to avoid bitcoin price volatility while their counterpart takes a long position on BTC. As bitcoin's price moves, the contract allocates sats to one party to make sure the individual who is engaged in the contract to lock in a USD value of bitcoin is doing just that. If the price of bitcoin goes up, sats are allocated to the individual who is taking the long position. If the price of bitcoin goes down, sats are allocated to the party looking to lock in a stable USD value. All of this happens on the Bitcoin blockchain and the Lightning Network. No obscure governance token, DAO, or central third party holding USD in a bank account necessary. All that is needed are sats and a willing counter-party.''
-%\lipsum[50]
+\lipsum[50]
 \section{Bitcoin adjacent chains}
 In order of preference for functionality for Metaverse the following framework can be adopted.
 BitcoinL2>BitcoinL1>LiquidL2>Adjacentchains>Altchains
@@ -309,7 +309,7 @@ Stacks users say this hybrid approach is a pragmatic solution which enables dApp
 \subsubsection{Citycoins}
 These are actually slightly interesting.
 \subsection{Sovryn and RSK}
-%\lipsum[50]
+\lipsum[50]
 
 Ingamar | Top of the Block:
 Lightning <> Rootstock Bridge for lnBTC <> Stablecoin swaps
@@ -333,7 +333,7 @@ https://github.com/pseudozach/boltz-frontend}{Repo 2}
 \href{https://docs.boltz.exchange/en/latest/api/}{Rest API docs}
 
 \subsection{Sidechains}
-%\lipsum[50]
+\lipsum[50]
 \subsection{Spacechains}
 Spacechains is a \href{https://medium.com/@RubenSomsen/21-million-bitcoins-to-rule-all-sidechains-the-perpetual-one-way-peg-96cb2f8ac302}{proposal} by Ruben Somsen. It is a way to provide the functionality of any conceivable blockchain, by making it a sidechain to Bitcoin. \\
 Like RGB described earlier it's a it's a single use seal, but which can be closed by the highest bidder.\\
@@ -347,9 +347,9 @@ In a spacechain the Bitcoin tokens are destroyed in order to provably create the
 \end{itemize}
 
 \subsection{Drivechain}
-%\lipsum[50]
+\lipsum[50]
 \subsection{Softchains}
-%\lipsum[50] 
+\lipsum[50] 
 \subsection{Statechains} 
 There are many \ref{https://gist.github.com/RubenSomsen/96505e99dc061d6af6b757ff74434e70}{proposals for layer 2 scaling solutions} for the bitcoin network. Ruben Somsen \ref{https://gist.github.com/RubenSomsen/c9f0a92493e06b0e29acced61ca9f49a}{describes Softchains, Stateschains, and Spacechains}, while  \href{https://www.drivechain.info/literature/index.html}{Drivechain is described} by the author Paul Sztorc on the project web pages. They are all hypothetical with the exception of sidechains.  
 
@@ -384,12 +384,12 @@ There is much hype within the invested public blockchain community about ``cross
 
 \subsection{Crosschains}
 RUNE?
-%\lipsum[50]
+\lipsum[50]
 lots of hacks and unmanageable complex logic. Who is moving across chains anyway?
 \subsection{Decentralised data}
 Nick Grossman \href{https://www.nickgrossman.xyz/2019/adversarial-interoperability/}{blog piece} on adversarial open data might inform how we should specify the open data layer for the metaverse.
 Something about Filecoin? ARWeave? IPFS etc
-%\lipsum[50]
+\lipsum[50]
 \section{Risks and mitigations}
 \subsection{Digital assets}
 For digital assets more generally it is useful to look at the recent \href{https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/09/executive-order-on-ensuring-responsible-development-of-digital-assets/}{``whole government executive order''} signed by President Biden. It is mainly framed in terms of ``responsible innovation, and leadership'' in the new space, is a product of multi agency collaboration, and has been long anticipated. It identifies high level risks, aspirations, and challenges, and strongly hints toward development of a ``digital dollar'' (CDBC, expanded later). The risks sections show how legislators are framing this, so it's useful to break down here.\\
