@@ -784,15 +784,12 @@
   location = {Denver, Colorado, USA}
 }
 
-@UNPUBLISHED{Benford1998-hw,
-  author = {Benford, Steve and Greenhalgh, Chris and Reynard, Gail and Brown,
-	Chris and Koleva, Boriana},
-  title = {Understanding and constructing shared spaces with mixed-reality boundaries},
-  month = {\#sep\#},
-  year = {1998},
-  keywords = {telepresence, shared spaces, media-spaces, CSCW, virtual reality,
-	mixed reality, video, collaborative virtual environments, augmented
-	reality;litsurvey.bib}
+@Unpublished{Benford1998,
+  author   = {Benford, Steve and Greenhalgh, Chris and Reynard, Gail and Brown, Chris and Koleva, Boriana},
+  title    = {Understanding and constructing shared spaces with mixed-reality boundaries},
+  month    = {\#sep\#},
+  year     = {1998},
+  keywords = {telepresence, shared spaces, media-spaces, CSCW, virtual reality, mixed reality, video, collaborative virtual environments, augmented reality;litsurvey.bib},
 }
 
 @INCOLLECTION{Benford1995,
@@ -2005,31 +2002,12 @@
   keywords = {litsurvey.bib}
 }
 
-@ARTICLE{Cooke2002,
-  author = {Cooke, Eddie and Kauff, Peter and Schreer, Oliver},
-  title = {Image-based rendering for teleconference systems},
-  year = {2002},
-  keywords = {litsurvey.bib},
-  publisher = {V{\'a}clav Skala-UNION Agency}
-}
-
-@INPROCEEDINGS{Cooke2002,
-  author = {Cooke, Eddie and Kauff, Peter and Schreer, Oliver},
-  title = {Multiple Narrow-baseline System For Immersive Teleconferencing},
-  booktitle = {{Video/Image} Processing and Multimedia Communications 4\textbackslashtextsuperscript{th}
-	{EURASIP-IEEE} Region 8 International Symposium on {VIPromCom}},
-  year = {2002},
-  pages = {367--370},
-  institution = {IEEE},
-  keywords = {litsurvey.bib}
-}
-
-@MISC{Cooke2002,
-  author = {Cooke, Eddie and Kauff, Peter and Schreer, Oliver},
-  title = {Image-based rendering for teleconference systems},
-  year = {2002},
-  keywords = {litsurvey.bib},
-  publisher = {UNION Agency}
+@Article{Cooke2002a,
+  author    = {Cooke, Eddie and Kauff, Peter and Schreer, Oliver},
+  title     = {Image-based rendering for teleconference systems},
+  year      = {2002},
+  keywords  = {litsurvey.bib},
+  publisher = {V{\'a}clav Skala-UNION Agency},
 }
 
 @INPROCEEDINGS{Cooke2000,
@@ -5439,30 +5417,15 @@
   location = {Bonn, Germany}
 }
 
-@INPROCEEDINGS{Kauff2002,
-  author = {Kauff, Peter and Schreer, Oliver},
-  title = {Virtual team user environments-a step from tele-cubicles towards
-	distributed tele-collaboration in mediated workspaces},
-  booktitle = {Multimedia and Expo, 2002. {ICME'02}. Proceedings. 2002 {IEEE} International
-	Conference on},
-  year = {2002},
-  volume = {2},
-  pages = {9--12},
+@InProceedings{Kauff2002a,
+  author      = {Kauff, Peter and Schreer, Oliver},
+  booktitle   = {Multimedia and Expo, 2002. {ICME'02}. Proceedings. 2002 {IEEE} International Conference on},
+  title       = {Virtual team user environments-a step from tele-cubicles towards distributed tele-collaboration in mediated workspaces},
+  year        = {2002},
+  pages       = {9--12},
+  volume      = {2},
   institution = {IEEE},
-  keywords = {litsurvey.bib}
-}
-
-@INPROCEEDINGS{Kauff2002,
-  author = {Kauff, Peter and Schreer, Oliver},
-  title = {Virtual team user environments-a step from tele-cubicles towards
-	distributed tele-collaboration in mediated workspaces},
-  booktitle = {Multimedia and Expo, 2002. {ICME'02}. Proceedings. 2002 {IEEE} International
-	Conference on},
-  year = {2002},
-  volume = {2},
-  pages = {9--12},
-  institution = {IEEE},
-  keywords = {litsurvey.bib}
+  keywords    = {litsurvey.bib},
 }
 
 @ARTICLE{Kendon1967,
@@ -7116,15 +7079,13 @@
   publisher = {ACM New York, NY, USA}
 }
 
-@OTHER{MichaelBroxton,
+@Other{MichaelBroxton2020,
   abstract = {- Computing methodologies -> Image compression.Neural networks.Virtual
 	reality.Image-based rendering.Computational photography.},
-  author = {Michael Broxton, John Flynn, Ryan Overbeck, Daniel Erickson, Peter
-	Hedman, Matthew DuVall, Jason Dourgarian, Jay Busch, Matt Whalen,
-	and Paul Debevec},
-  file = {:C\:\\Users\\its352\\OneDrive - University of Salford\\Research\\PostCovid\\Docear\\literature_repository\\ImmersiveLightFieldVideoWithALayeredMeshRepresentation.pdf:PDF},
+  author   = {Michael Broxton, John Flynn, Ryan Overbeck, Daniel Erickson, Peter Hedman, Matthew DuVall, Jason Dourgarian, Jay Busch, Matt Whalen, and Paul Debevec},
+  file     = {:C\:\\Users\\its352\\OneDrive - University of Salford\\Research\\PostCovid\\Docear\\literature_repository\\ImmersiveLightFieldVideoWithALayeredMeshRepresentation.pdf:PDF},
   keywords = {view synthesis, light fields, image-based rendering, deep learning},
-  title = {Immersive Light Field Video with a Layered Mesh Representation}
+  title    = {Immersive Light Field Video with a Layered Mesh Representation},
 }
 
 @ARTICLE{Mihoub2015,
@@ -7917,15 +7878,14 @@
   publisher = {Elsevier}
 }
 
-@INPROCEEDINGS{Ohba1998,
-  author = {Ohba, K and Tsukada, T and Kotoku, T and Tanie, K},
-  title = {Facial expression space for smooth tele-communications},
-  booktitle = {Proceedings Third {IEEE} International Conference on Automatic Face
-	and Gesture Recognition},
-  year = {1998},
-  pages = {378--383},
-  month = {\#apr\#},
-  abstract = {In this paper, the facial expression is mainly focused to achieve
+@InProceedings{ohba1998,
+  author      = {Ohba, K and Tsukada, T and Kotoku, T and Tanie, K},
+  booktitle   = {Proceedings Third {IEEE} International Conference on Automatic Face and Gesture Recognition},
+  title       = {Facial expression space for smooth tele-communications},
+  year        = {1998},
+  month       = {\#apr\#},
+  pages       = {378--383},
+  abstract    = {In this paper, the facial expression is mainly focused to achieve
 	the smooth tele-communications. The facial expressions has been considered
 	as the most significant factor in tele-communications, such as tele-services.
 	To realize the real time facial expression transportation system,
@@ -7937,8 +7897,7 @@
 	person and further more in cartoon characters. The experimental results
 	show the validity of these criteria.},
   institution = {IEEE},
-  keywords = {face recognition;facial expression space;smooth telecommunications;personal
-	facial expression spaces;Humans;Telephony;Robot vision systems;TV;litsurvey.bib}
+  keywords    = {face recognition;facial expression space;smooth telecommunications;personal facial expression spaces;Humans;Telephony;Robot vision systems;TV;litsurvey.bib},
 }
 
 @PHDTHESIS{Ohta1986,
@@ -9775,22 +9734,19 @@
   publisher = {JSTOR}
 }
 
-@INPROCEEDINGS{Schiano2004,
-  author = {Schiano, Diane J and Ehrlich, Sheryl M and Sheridan, Kyle},
-  title = {Categorical imperative {NOT}: facial affect is perceived continuously},
-  booktitle = {Proceedings of the {SIGCHI} Conference on Human Factors in Computing
-	Systems},
-  year = {2004},
-  series = {CHI '04},
-  pages = {49--56},
-  address = {New York, NY, USA},
-  month = {\#apr\#},
-  publisher = {Association for Computing Machinery},
+@InProceedings{schiano2004,
+  author      = {Schiano, Diane J and Ehrlich, Sheryl M and Sheridan, Kyle},
+  booktitle   = {Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems},
+  title       = {Categorical imperative {NOT}: facial affect is perceived continuously},
+  year        = {2004},
+  address     = {New York, NY, USA},
+  month       = {\#apr\#},
+  pages       = {49--56},
+  publisher   = {Association for Computing Machinery},
+  series      = {CHI '04},
   institution = {ACM},
-  keywords = {nonverbal communication, affective computing, naturalistic computing,
-	face, video compression, avatars, VMC, facial affect, affect, emotion,
-	facial expression of emotion;litsurvey.bib},
-  location = {Vienna, Austria}
+  keywords    = {nonverbal communication, affective computing, naturalistic computing, face, video compression, avatars, VMC, facial affect, affect, emotion, facial expression of emotion;litsurvey.bib},
+  location    = {Vienna, Austria},
 }
 
 @INPROCEEDINGS{Schrammel2007,
@@ -13096,4 +13052,33 @@
 
 @Article{prakash2020characteristic,
   author  = {Prakash, Shiv and Joshi, Sudhanshu and Bhatia, Tanvi and Sharma, Sadhna and Samadhiya, Durgesh and Shah, Rajiv Ratn and Kaiwartya, Omprakash and Prasad, Mukesh},
-  journal = 
+  journal = {International Journal of Business Intelligence and Data Mining},
+  title   = {Characteristic of enterprise collaboration system and its implementation issues in business management},
+  year    = {2020},
+  number  = {1},
+  pages   = {49--65},
+  volume  = {16},
+}
+
+@InProceedings{katagiri2007aiduti,
+  author    = {Katagiri, Yasuhiro},
+  booktitle = {Proceedings of the Workshop on Embodied Language Processing},
+  title     = {Aiduti in Japanese multi-party design conversations},
+  year      = {2007},
+  pages     = {9--16},
+}
+
+@Book{griffith2021electrify,
+  author    = {Griffith, Saul},
+  publisher = {MIT Press},
+  title     = {Electrify: An Optimist's Playbook for Our Clean Energy Future},
+  year      = {2021},
+}
+
+@Article{tomlinson2003third,
+  author    = {Tomlinson, Brian Roger},
+  journal   = {Journal of Contemporary History},
+  title     = {What Was the Third World?},
+  year      = {2003},
+  number    = {2},
+  pages     = {30

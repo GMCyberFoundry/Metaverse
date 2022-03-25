@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  25 MAR 2022 08:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  25 MAR 2022 15:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1339,21 +1339,7 @@ Package biblatex Info: ... file 'metaverseBTC.bbl' found.
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                10.2307/40971262
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                1255811
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                2015
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1374,56 +1360,7 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                6790745
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                Argyle
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Bandyopadhyay
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Baren
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Bartneck2009a
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Benford1998
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Benford:1995hh
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Biocca2003a
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1437,7 +1374,7 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Buxton1992a
+(biblatex)                Broxton2020
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1451,20 +1388,6 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                CiscoSystems
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Cooke2002a
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                Cooke_image-basedrendering
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
@@ -1472,49 +1395,7 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Criminisi:2003ji
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                DeGreef2001
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Dourish1993
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Duckworth:2012tx
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Eijk2010
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Fairchild2016
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Fuchs:2002ww
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1542,20 +1423,6 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Grimstead2005a
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Ho:2010:RUV:1853385.1853509
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                Hofmann20061683
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
@@ -1563,28 +1430,7 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Hu:1986ww
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                JSID:JSID295
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Jetter2011a
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Kauff2002a
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1605,28 +1451,7 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Kuster2012b
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Laurentini1994a
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                Lee2011b
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Lincoln:2010it
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1640,13 +1465,6 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Maimone2011a
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                Moore:2010jt
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
@@ -1654,42 +1472,7 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Murray2009a
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Nagendran
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Norris2013a
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                O'Malley1996
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Okada:1994et
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Okutomi:1993ez
+(biblatex)                Ohare2016
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1724,28 +1507,7 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Parsons922
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                Petit2010
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Petit:2008tva
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Raskar2001a
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1759,55 +1521,6 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Sellen1992a
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Sellen1995a
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Steptoe2010a
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Steptoe2010b
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Usoh2000a
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Vertegaal2003
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Yee2007a
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                Zhang2013a
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
@@ -1815,70 +1528,7 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                bailenson2003interpersonal
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                berger1975
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                broxton2020immersive
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                buxton1992telepresence
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                carlston2013
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                doi:10.1080/01449299508914633
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                eldes2013multi
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                fulk1987social
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                gibson2014ecological
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                googleStatsProjectionMapping
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1899,20 +1549,6 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                haythornthwaite1995work
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                heeter1992being
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                horgen1999excellence
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
@@ -1921,20 +1557,6 @@ Package biblatex Warning: The following entry could not be found
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
 (biblatex)                inami2000visuo
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                jones2009headspin
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                jouppi2002mutually
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1962,13 +1584,6 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                ohba1998
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                ohba1998facial
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
@@ -1984,62 +1599,6 @@ Package biblatex Warning: The following entry could not be found
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
 (biblatex)                pan2014comparing
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                porter2008reading
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                projectionmappingweb2013
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                risko2011eyes
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                rosenthal1947two
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                schiano2004
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                steinmeyer2013science
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                tay2008updatable
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                tuddenham2009territorial
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -2826,7 +2385,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 143--144
 
  []
 
-<Images//BitcoinShareOfMoney.jpg, id=1710, 2862.695pt x 1575.8875pt>
+<Images//BitcoinShareOfMoney.jpg, id=1712, 2862.695pt x 1575.8875pt>
 File: Images//BitcoinShareOfMoney.jpg Graphic file (type jpg)
 <use Images//BitcoinShareOfMoney.jpg>
 Package pdftex.def Info: Images//BitcoinShareOfMoney.jpg  used on input line 15
@@ -2876,7 +2435,7 @@ Package pdftex.def Info: Images//orange2.jpg  used on input line 191.
 (06_identity.tex [69
 
 ]
-<Images//DID.jpg, id=1747, 843.90282pt x 585.68813pt>
+<Images//DID.jpg, id=1749, 843.90282pt x 585.68813pt>
 File: Images//DID.jpg Graphic file (type jpg)
 <use Images//DID.jpg>
 Package pdftex.def Info: Images//DID.jpg  used on input line 17.
@@ -3001,7 +2560,7 @@ Overfull \hbox (0.77441pt too wide) in paragraph at lines 4--4
 -son in his 1992 novel Snowcrash.
  []
 
-<Images//muskWeb3.png, id=1850, 408.02437pt x 168.63pt>
+<Images//muskWeb3.png, id=1852, 408.02437pt x 168.63pt>
 File: Images//muskWeb3.png Graphic file (type png)
 <use Images//muskWeb3.png>
 Package pdftex.def Info: Images//muskWeb3.png  used on input line 10.
@@ -3063,21 +2622,12 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [87]
-
-LaTeX Warning: Citation 'schiano2004' on page 88 undefined on input line 99.
-
-
-LaTeX Warning: Citation 'ohba1998' on page 88 undefined on input line 99.
-
-
-LaTeX Warning: Citation '10.2307/40971262' on page 88 undefined on input line 1
-02.
-
-<Images//murrayeyegaze.jpg, id=2056, 377.15906pt x 241.65282pt>
+<Images//murrayeyegaze.jpg, id=2061, 377.15906pt x 241.65282pt>
 File: Images//murrayeyegaze.jpg Graphic file (type jpg)
 <use Images//murrayeyegaze.jpg>
 Package pdftex.def Info: Images//murrayeyegaze.jpg  used on input line 109.
 (pdftex.def)             Requested size: 426.79135pt x 273.45166pt.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -3091,22 +2641,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [88]
 
-LaTeX Warning: Citation '6790745' on page 89 undefined on input line 117.
-
-
-LaTeX Warning: Citation 'bailenson2003interpersonal' on page 89 undefined on in
-put line 117.
-
-
-LaTeX Warning: Citation '6790745' on page 89 undefined on input line 117.
-
-
-LaTeX Warning: Citation 'Argyle' on page 89 undefined on input line 120.
-
-
-LaTeX Warning: Citation 'carlston2013' on page 89 undefined on input line 122.
-
-
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -3115,19 +2649,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [89 <./Images//murrayeyegaze.jpg>]
-
-LaTeX Warning: Citation 'Hofmann20061683' on page 90 undefined on input line 12
-6.
-
-
-LaTeX Warning: Citation 'Pan2008a' on page 90 undefined on input line 126.
-
-
-LaTeX Warning: Citation 'berger1975' on page 90 undefined on input line 134.
-
-
-LaTeX Warning: Citation 'Parsons922' on page 90 undefined on input line 137.
-
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3138,33 +2659,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [90]
 
-LaTeX Warning: Citation 'risko2011eyes' on page 91 undefined on input line 138.
-
-
-
-LaTeX Warning: Citation 'porter2008reading' on page 91 undefined on input line 
-145.
-
-
-LaTeX Warning: Citation 'Steptoe2010b' on page 91 undefined on input line 145.
-
-
-LaTeX Warning: Citation '2015' on page 91 undefined on input line 149.
-
-
-LaTeX Warning: Citation 'jouppi2002mutually' on page 91 undefined on input line
- 150.
-
-
-LaTeX Warning: Citation 'O'Malley1996' on page 91 undefined on input line 152.
-
-
-LaTeX Warning: Citation 'Dourish1993' on page 91 undefined on input line 153.
-
-
-LaTeX Warning: Citation 'Eijk2010' on page 91 undefined on input line 154.
-
-
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -3173,18 +2667,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [91]
-
-LaTeX Warning: Citation 'Sellen1992a' on page 92 undefined on input line 155.
-
-
-LaTeX Warning: Citation 'Sellen1995a' on page 92 undefined on input line 155.
-
-
-LaTeX Warning: Citation 'Kuster2012b' on page 92 undefined on input line 160.
-
-
-LaTeX Warning: Citation 'CiscoSystems' on page 92 undefined on input line 167.
-
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3195,29 +2677,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [92]
 
-LaTeX Warning: Citation 'heeter1992being' on page 93 undefined on input line 18
-7.
-
-
-LaTeX Warning: Citation 'doi:10.1080/01449299508914633' on page 93 undefined on
- input line 187.
-
-
-LaTeX Warning: Citation 'fulk1987social' on page 93 undefined on input line 187
-.
-
-
-LaTeX Warning: Citation 'haythornthwaite1995work' on page 93 undefined on input
- line 187.
-
-
-LaTeX Warning: Citation 'Biocca2003a' on page 93 undefined on input line 190.
-
-
-LaTeX Warning: Citation 'jouppi2002mutually' on page 93 undefined on input line
- 192.
-
-
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -3226,12 +2685,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [93]
-
-LaTeX Warning: Citation 'Usoh2000a' on page 94 undefined on input line 207.
-
-
-LaTeX Warning: Citation 'Baren' on page 94 undefined on input line 209.
-
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3247,31 +2700,6 @@ ze when us-ing tele-conferencing
  []
 
 
-LaTeX Warning: Citation 'steinmeyer2013science' on page 95 undefined on input l
-ine 219.
-
-
-LaTeX Warning: Citation 'rosenthal1947two' on page 95 undefined on input line 2
-19.
-
-
-LaTeX Warning: Citation 'buxton1992telepresence' on page 95 undefined on input 
-line 219.
-
-
-Overfull \hbox (33.33737pt too wide) in paragraph at lines 219--219
-[]\T1/ptm/m/n/12 (-20) A pop-u-lar ap-proach uses the so called 'Pep-pers Ghost
-' phe-nomenon [[]],
- []
-
-
-LaTeX Warning: Citation 'Vertegaal2003' on page 95 undefined on input line 220.
-
-
-
-LaTeX Warning: Citation 'Buxton1992a' on page 95 undefined on input line 228.
-
-
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -3280,22 +2708,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [95]
-
-LaTeX Warning: Citation 'Norris2013a' on page 96 undefined on input line 232.
-
-
-LaTeX Warning: Citation 'tuddenham2009territorial' on page 96 undefined on inpu
-t line 234.
-
-
-LaTeX Warning: Citation 'Jetter2011a' on page 96 undefined on input line 235.
-
-
-LaTeX Warning: Citation 'Kauff2002a' on page 96 undefined on input line 245.
-
-
-LaTeX Warning: Citation 'Fuchs:2002ww' on page 96 undefined on input line 245.
-
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3306,21 +2718,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [96]
 
-LaTeX Warning: Citation 'jones2009headspin' on page 97 undefined on input line 
-245.
-
-
-LaTeX Warning: Citation 'Okada:1994et' on page 97 undefined on input line 246.
-
-
-LaTeX Warning: Citation 'gotsch2018telehuman2' on page 97 undefined on input li
-ne 254.
-
-
-LaTeX Warning: Citation 'Bartneck2009a' on page 97 undefined on input line 262.
-
-
-
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -3329,36 +2726,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [97]
-
-LaTeX Warning: Citation 'Yee2007a' on page 98 undefined on input line 267.
-
-
-LaTeX Warning: Citation 'Ho:2010:RUV:1853385.1853509' on page 98 undefined on i
-nput line 268.
-
-
-LaTeX Warning: Citation 'Lee2011b' on page 98 undefined on input line 273.
-
-
-LaTeX Warning: Citation 'Lincoln:2010it' on page 98 undefined on input line 280
-.
-
-
-LaTeX Warning: Citation 'Raskar2001a' on page 98 undefined on input line 280.
-
-
-LaTeX Warning: Citation 'Lee2011b' on page 98 undefined on input line 280.
-
-
-LaTeX Warning: Citation 'pan2014comparing' on page 98 undefined on input line 2
-80.
-
-
-LaTeX Warning: Citation 'Pan2012a' on page 98 undefined on input line 280.
-
-
-LaTeX Warning: Citation 'Pan2014a' on page 98 undefined on input line 280.
-
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3369,44 +2736,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [98]
 
-LaTeX Warning: Citation 'Nagendran' on page 99 undefined on input line 281.
-
-
-LaTeX Warning: Citation 'projectionmappingweb2013' on page 99 undefined on inpu
-t line 286.
-
-
-LaTeX Warning: Citation 'Low2001' on page 99 undefined on input line 286.
-
-
-LaTeX Warning: Citation 'Raskar2001a' on page 99 undefined on input line 286.
-
-
-LaTeX Warning: Citation 'googleStatsProjectionMapping' on page 99 undefined on 
-input line 286.
-
-
-LaTeX Warning: Citation 'Raskar2001a' on page 99 undefined on input line 287.
-
-
-LaTeX Warning: Citation 'Bandyopadhyay' on page 99 undefined on input line 288.
-
-
-
-LaTeX Warning: Citation 'Lincoln:2010it' on page 99 undefined on input line 289
-.
-
-
-LaTeX Warning: Citation 'tay2008updatable' on page 99 undefined on input line 2
-93.
-
-
-LaTeX Warning: Citation 'jones2009headspin' on page 99 undefined on input line 
-294.
-
-
-LaTeX Warning: Citation 'eldes2013multi' on page 99 undefined on input line 295
-.
+LaTeX Warning: Citation 'Low2001' on page 99 undefined on input line 285.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3418,23 +2748,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [99]
 
-LaTeX Warning: Citation 'Criminisi:2003ji' on page 100 undefined on input line 
-301.
-
-
-LaTeX Warning: Citation 'broxton2020immersive' on page 100 undefined on input l
-ine 302.
-
-
-LaTeX Warning: Citation 'Okutomi:1993ez' on page 100 undefined on input line 30
-6.
-
-
-LaTeX Warning: Citation 'Cooke2002a' on page 100 undefined on input line 306.
-
-
-LaTeX Warning: Citation 'pan2014comparing' on page 100 undefined on input line 
-308.
+LaTeX Warning: Citation 'Broxton2020' on page 100 undefined on input line 301.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3446,29 +2760,14 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [100]
 
-LaTeX Warning: Citation 'Petit:2008tva' on page 101 undefined on input line 311
-.
-
-
-LaTeX Warning: Citation 'Laurentini1994a' on page 101 undefined on input line 3
-11.
-
-
-LaTeX Warning: Citation 'Hu:1986ww' on page 101 undefined on input line 313.
-
-
 LaTeX Warning: Citation 'Cooke_image-basedrendering' on page 101 undefined on i
-nput line 316.
+nput line 315.
 
 
-LaTeX Warning: Citation 'Petit2010' on page 101 undefined on input line 317.
+LaTeX Warning: Citation 'Petit2010' on page 101 undefined on input line 316.
 
 
-LaTeX Warning: Citation 'Kuster2012a' on page 101 undefined on input line 318.
-
-
-LaTeX Warning: Citation 'Maimone2011a' on page 101 undefined on input line 319.
-
+LaTeX Warning: Citation 'Kuster2012a' on page 101 undefined on input line 317.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3480,34 +2779,15 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [101]
 
-LaTeX Warning: Citation 'Schreer:2008ty' on page 102 undefined on input line 32
-4.
-
-
-LaTeX Warning: Citation 'Okutomi:1993ez' on page 102 undefined on input line 33
-5.
-
-
-LaTeX Warning: Citation 'Cooke2002a' on page 102 undefined on input line 335.
-
-
-LaTeX Warning: Citation 'pan2014comparing' on page 102 undefined on input line 
-337.
-
-
-LaTeX Warning: Citation 'Petit:2008tva' on page 102 undefined on input line 340
-.
-
-
-LaTeX Warning: Citation 'Laurentini1994a' on page 102 undefined on input line 3
-40.
-
-
-LaTeX Warning: Citation 'Hu:1986ww' on page 102 undefined on input line 342.
-
-
 LaTeX Warning: Citation 'Cooke_image-basedrendering' on page 102 undefined on i
-nput line 346.
+nput line 337.
+
+
+LaTeX Warning: Citation 'Petit2010' on page 102 undefined on input line 338.
+
+
+LaTeX Warning: Citation 'Schreer:2008ty' on page 102 undefined on input line 34
+5.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3519,18 +2799,23 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [102]
 
-LaTeX Warning: Citation 'Petit2010' on page 103 undefined on input line 347.
+LaTeX Warning: Citation 'Ohare2016' on page 103 undefined on input line 359.
 
 
-LaTeX Warning: Citation 'Kuster2012a' on page 103 undefined on input line 348.
+LaTeX Warning: Citation 'Ciger2004a' on page 103 undefined on input line 361.
 
 
-LaTeX Warning: Citation 'Maimone2011a' on page 103 undefined on input line 349.
+LaTeX Warning: Citation 'Goodwin2000a' on page 103 undefined on input line 365.
 
 
 
-LaTeX Warning: Citation 'Schreer:2008ty' on page 103 undefined on input line 35
-4.
+LaTeX Warning: Citation 'Pan2014a' on page 103 undefined on input line 366.
+
+
+LaTeX Warning: Citation 'Pan2012a' on page 103 undefined on input line 366.
+
+
+LaTeX Warning: Citation 'Zhang2013a' on page 103 undefined on input line 366.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3542,67 +2827,29 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [103]
 
-LaTeX Warning: Citation 'Grimstead2005a' on page 104 undefined on input line 36
-4.
-
-
-LaTeX Warning: Citation 'Benford1998' on page 104 undefined on input line 364.
-
-
-LaTeX Warning: Citation 'Murray2009a' on page 104 undefined on input line 365.
-
-
-LaTeX Warning: Citation 'Benford:1995hh' on page 104 undefined on input line 36
-5.
-
-
-LaTeX Warning: Citation 'Steptoe2010b' on page 104 undefined on input line 366.
+LaTeX Warning: Citation 'Goodwin2000a' on page 104 undefined on input line 367.
 
 
 
-LaTeX Warning: Citation 'Duckworth:2012tx' on page 104 undefined on input line 
-368.
-
-
-LaTeX Warning: Citation 'Fairchild2016' on page 104 undefined on input line 368
-.
-
-
-LaTeX Warning: Citation 'Ciger2004a' on page 104 undefined on input line 370.
-
-
-LaTeX Warning: Citation 'Steptoe2010a' on page 104 undefined on input line 370.
-
-
-
-LaTeX Warning: Citation 'Goodwin2000a' on page 104 undefined on input line 374.
-
-
-
-LaTeX Warning: Citation 'Pan2014a' on page 104 undefined on input line 375.
-
-
-LaTeX Warning: Citation 'Pan2012a' on page 104 undefined on input line 375.
-
-
-LaTeX Warning: Citation 'Zhang2013a' on page 104 undefined on input line 375.
-
-
-LaTeX Warning: Citation 'Goodwin2000a' on page 104 undefined on input line 376.
-
-
-
-LaTeX Warning: Citation 'Lee2011b' on page 104 undefined on input line 376.
+LaTeX Warning: Citation 'Lee2011b' on page 104 undefined on input line 367.
 
 
 LaTeX Warning: Citation 'pan2014comparing' on page 104 undefined on input line 
-376.
+367.
 
 
-LaTeX Warning: Citation 'Pan2012a' on page 104 undefined on input line 376.
+LaTeX Warning: Citation 'Pan2012a' on page 104 undefined on input line 367.
 
 
-LaTeX Warning: Citation 'Pan2014a' on page 104 undefined on input line 376.
+LaTeX Warning: Citation 'Pan2014a' on page 104 undefined on input line 367.
+
+
+LaTeX Warning: Citation 'inami2000visuo' on page 104 undefined on input line 37
+1.
+
+
+LaTeX Warning: Citation 'JSID:JSID295' on page 104 undefined on input line 374.
+
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3614,12 +2861,41 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [104]
 
-LaTeX Warning: Citation 'inami2000visuo' on page 105 undefined on input line 38
-0.
+LaTeX Warning: Reference `fig:room2room' on page 105 undefined on input line 37
+8.
 
 
-LaTeX Warning: Citation 'JSID:JSID295' on page 105 undefined on input line 383.
+LaTeX Warning: Citation 'Bradner:2002:WDM:587078.587110' on page 105 undefined 
+on input line 384.
 
+
+Overfull \hbox (123.23996pt too wide) in paragraph at lines 384--384
+\T1/ptm/m/n/12 (-20) Bradner & Mark es-tab-lished that la-tency mat-ters in re-
+mote telecol-lab-o-ra-tion [[]],
+ []
+
+
+LaTeX Warning: Citation 'Greenhalgh2001a' on page 105 undefined on input line 3
+85.
+
+
+LaTeX Warning: Citation 'Bradner:2002:WDM:587078.587110' on page 105 undefined 
+on input line 386.
+
+
+LaTeX Warning: Citation 'Gasparello:2011in' on page 105 undefined on input line
+ 387.
+
+
+LaTeX Warning: Citation 'Moore:2010jt' on page 105 undefined on input line 387.
+
+
+
+LaTeX Warning: Citation 'Park1999' on page 105 undefined on input line 388.
+
+
+LaTeX Warning: Citation 'lamboray2005data' on page 105 undefined on input line 
+388.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3631,41 +2907,11 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [105]
 
-LaTeX Warning: Reference `fig:room2room' on page 106 undefined on input line 38
-7.
+LaTeX Warning: Citation 'DeGreef2001' on page 106 undefined on input line 393.
 
 
-LaTeX Warning: Citation 'Bradner:2002:WDM:587078.587110' on page 106 undefined 
-on input line 393.
-
-
-Overfull \hbox (123.23996pt too wide) in paragraph at lines 393--393
-\T1/ptm/m/n/12 (-20) Bradner & Mark es-tab-lished that la-tency mat-ters in re-
-mote telecol-lab-o-ra-tion [[]],
- []
-
-
-LaTeX Warning: Citation 'Greenhalgh2001a' on page 106 undefined on input line 3
-94.
-
-
-LaTeX Warning: Citation 'Bradner:2002:WDM:587078.587110' on page 106 undefined 
-on input line 395.
-
-
-LaTeX Warning: Citation 'Gasparello:2011in' on page 106 undefined on input line
- 396.
-
-
-LaTeX Warning: Citation 'Moore:2010jt' on page 106 undefined on input line 396.
-
-
-
-LaTeX Warning: Citation 'Park1999' on page 106 undefined on input line 397.
-
-
-LaTeX Warning: Citation 'lamboray2005data' on page 106 undefined on input line 
-397.
+LaTeX Warning: Citation 'orts2016holoportation' on page 106 undefined on input 
+line 395.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3677,15 +2923,33 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [106]
 
-LaTeX Warning: Citation 'DeGreef2001' on page 107 undefined on input line 402.
-
-
-LaTeX Warning: Citation 'orts2016holoportation' on page 107 undefined on input 
-line 404.
-
-
 LaTeX Warning: Citation 'horgen1999excellence' on page 107 undefined on input l
-ine 410.
+ine 401.
+
+
+LaTeX Warning: Citation 'greenberg1976role' on page 107 undefined on input line
+ 407.
+
+
+LaTeX Warning: Citation 'Goodwin2000a' on page 107 undefined on input line 412.
+
+
+
+LaTeX Warning: Citation 'Argyle' on page 107 undefined on input line 412.
+
+
+LaTeX Warning: Citation 'Hofmann20061683' on page 107 undefined on input line 4
+12.
+
+
+LaTeX Warning: Citation 'Pan2008a' on page 107 undefined on input line 412.
+
+
+LaTeX Warning: Citation 'Argyle' on page 107 undefined on input line 414.
+
+
+LaTeX Warning: Citation 'ohba1998facial' on page 107 undefined on input line 41
+4.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3697,29 +2961,50 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [107]
 
-LaTeX Warning: Citation 'greenberg1976role' on page 108 undefined on input line
- 416.
+LaTeX Warning: Citation 'pan2014comparing' on page 108 undefined on input line 
+418.
 
 
-LaTeX Warning: Citation 'Goodwin2000a' on page 108 undefined on input line 421.
+LaTeX Warning: Citation 'Pan2012a' on page 108 undefined on input line 418.
+
+
+LaTeX Warning: Citation 'Pan2014a' on page 108 undefined on input line 418.
+
+
+LaTeX Warning: Citation 'inami2000visuo' on page 108 undefined on input line 42
+0.
+
+
+LaTeX Warning: Citation 'gotsch2018telehuman2' on page 108 undefined on input l
+ine 420.
+
+
+LaTeX Warning: Citation 'o2018telethrone' on page 108 undefined on input line 4
+20.
+
+
+LaTeX Warning: Citation '3dlightfield' on page 108 undefined on input line 422.
 
 
 
-LaTeX Warning: Citation 'Argyle' on page 108 undefined on input line 421.
+LaTeX Warning: Reference `compare' on page 108 undefined on input line 422.
 
 
-LaTeX Warning: Citation 'Hofmann20061683' on page 108 undefined on input line 4
-21.
+LaTeX Warning: Citation '6162881' on page 108 undefined on input line 423.
 
 
-LaTeX Warning: Citation 'Pan2008a' on page 108 undefined on input line 421.
+LaTeX Warning: Reference `compare' on page 108 undefined on input line 423.
 
 
-LaTeX Warning: Citation 'Argyle' on page 108 undefined on input line 423.
+LaTeX Warning: Citation '1255811' on page 108 undefined on input line 424.
 
 
-LaTeX Warning: Citation 'ohba1998facial' on page 108 undefined on input line 42
-3.
+LaTeX Warning: Citation 'gibson2014ecological' on page 108 undefined on input l
+ine 428.
+
+
+LaTeX Warning: Citation 'norman2002psychopathology' on page 108 undefined on in
+put line 428.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3731,72 +3016,17 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [108]
 
-LaTeX Warning: Citation 'pan2014comparing' on page 109 undefined on input line 
-427.
-
-
-LaTeX Warning: Citation 'Pan2012a' on page 109 undefined on input line 427.
-
-
-LaTeX Warning: Citation 'Pan2014a' on page 109 undefined on input line 427.
-
-
-LaTeX Warning: Citation 'inami2000visuo' on page 109 undefined on input line 42
-9.
-
-
-LaTeX Warning: Citation 'gotsch2018telehuman2' on page 109 undefined on input l
-ine 429.
-
-
-LaTeX Warning: Citation 'o2018telethrone' on page 109 undefined on input line 4
-29.
-
-
-LaTeX Warning: Citation '3dlightfield' on page 109 undefined on input line 431.
+LaTeX Warning: Citation 'Kleinke1986a' on page 109 undefined on input line 441.
 
 
 
-LaTeX Warning: Reference `compare' on page 109 undefined on input line 431.
+LaTeX Warning: Citation 'Kleinke1986a' on page 109 undefined on input line 441.
 
 
-LaTeX Warning: Citation '6162881' on page 109 undefined on input line 432.
-
-
-LaTeX Warning: Reference `compare' on page 109 undefined on input line 432.
-
-
-LaTeX Warning: Citation '1255811' on page 109 undefined on input line 433.
-
-
-LaTeX Warning: Citation 'gibson2014ecological' on page 109 undefined on input l
-ine 437.
-
-
-LaTeX Warning: Citation 'norman2002psychopathology' on page 109 undefined on in
-put line 437.
-
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[109]
-
-LaTeX Warning: Citation 'Kleinke1986a' on page 110 undefined on input line 450.
-
-
-
-LaTeX Warning: Citation 'Kleinke1986a' on page 110 undefined on input line 450.
-
-
-<Images//frameworkVenn.png, id=2581, 509.40312pt x 432.11438pt>
+<Images//frameworkVenn.png, id=2696, 509.40312pt x 432.11438pt>
 File: Images//frameworkVenn.png Graphic file (type png)
 <use Images//frameworkVenn.png>
-Package pdftex.def Info: Images//frameworkVenn.png  used on input line 459.
+Package pdftex.def Info: Images//frameworkVenn.png  used on input line 450.
 (pdftex.def)             Requested size: 426.79135pt x 362.05049pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -3809,7 +3039,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[110]
+[109]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3818,13 +3048,13 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[111 <./Images//frameworkVenn.png>]
-<Images//conceptualFrameworkBoxandStick.png, id=2596, 4494.29062pt x 2770.35pt>
+[110 <./Images//frameworkVenn.png>]
+<Images//conceptualFrameworkBoxandStick.png, id=2713, 4494.29062pt x 2770.35pt>
 
 File: Images//conceptualFrameworkBoxandStick.png Graphic file (type png)
 <use Images//conceptualFrameworkBoxandStick.png>
 Package pdftex.def Info: Images//conceptualFrameworkBoxandStick.png  used on in
-put line 487.
+put line 478.
 (pdftex.def)             Requested size: 426.79135pt x 263.05917pt.
 )
 
@@ -3835,7 +3065,25 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[112 <./Images//conceptualFrameworkBoxandStick.png>]
+[111 <./Images//conceptualFrameworkBoxandStick.png>]
+
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[112]
+Underfull \hbox (badness 10000) in paragraph at lines 59--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--69
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3845,15 +3093,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [113]
-Underfull \hbox (badness 10000) in paragraph at lines 59--69
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--69
-
- []
-
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3882,15 +3121,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [116]
 
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[117]
-
 Package hyperref Warning: Suppressing link with empty target on input line 182.
 
 
@@ -3902,7 +3132,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[118]
+[117]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3911,7 +3141,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[119])
+[118])
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3920,19 +3150,19 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[120]
+[119]
 Chapter 8.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 200.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 (09_deployment.tex
-<Images//deployment.png, id=2677, 721.4955pt x 769.1937pt>
+<Images//deployment.png, id=2794, 721.4955pt x 769.1937pt>
 File: Images//deployment.png Graphic file (type png)
 <use Images//deployment.png>
 Package pdftex.def Info: Images//deployment.png  used on input line 4.
 (pdftex.def)             Requested size: 426.79135pt x 455.01752pt.
- [121
+ [120
 
 ]
 
@@ -3943,7 +3173,21 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
+[121]
+
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
 [122]
+Overfull \hbox (1.33134pt too wide) in paragraph at lines 72--72
+\T1/ptm/m/n/12 (-20) ``The goal of the Wolvic project is to create a full-featu
+red browser exclusively for standalone
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3953,11 +3197,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [123]
-Overfull \hbox (1.33134pt too wide) in paragraph at lines 72--72
-\T1/ptm/m/n/12 (-20) ``The goal of the Wolvic project is to create a full-featu
-red browser exclusively for standalone
- []
-
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3975,27 +3214,18 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[125]
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[126 <./Images//deployment.png (PNG copy)>]
+[125 <./Images//deployment.png (PNG copy)>]
 Chapter 9.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 85.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-<Images//proxmoxmap.png, id=2710, 1347.0325pt x 1356.06625pt>
+<Images//proxmoxmap.png, id=2827, 1347.0325pt x 1356.06625pt>
 File: Images//proxmoxmap.png Graphic file (type png)
 <use Images//proxmoxmap.png>
 Package pdftex.def Info: Images//proxmoxmap.png  used on input line 88.
 (pdftex.def)             Requested size: 426.79135pt x 429.64615pt.
-) [127
+) [126
 
 ]
 
@@ -4006,13 +3236,13 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[128 <./Images//proxmoxmap.png (PNG copy)>]
+[127 <./Images//proxmoxmap.png (PNG copy)>]
 Chapter 10.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 203.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-[129
+[128
 
 ]
 
@@ -4023,13 +3253,13 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[130]
-<Images//globalclassroom.png, id=2729, 1484.04437pt x 1121.18875pt>
+[129]
+<Images//globalclassroom.png, id=2846, 1484.04437pt x 1121.18875pt>
 File: Images//globalclassroom.png Graphic file (type png)
 <use Images//globalclassroom.png>
 Package pdftex.def Info: Images//globalclassroom.png  used on input line 327.
 (pdftex.def)             Requested size: 426.79135pt x 322.43335pt.
-<Images//systemc4.png, id=2730, 1576.89125pt x 1024.82875pt>
+<Images//systemc4.png, id=2847, 1576.89125pt x 1024.82875pt>
 File: Images//systemc4.png Graphic file (type png)
 <use Images//systemc4.png>
 Package pdftex.def Info: Images//systemc4.png  used on input line 333.
@@ -4043,7 +3273,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[131 <./Images//globalclassroom.png>]
+[130 <./Images//globalclassroom.png>]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -4052,13 +3282,13 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[132 <./Images//systemc4.png>]
+[131 <./Images//systemc4.png>]
 Chapter 11.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 339.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-[133
+[132
 
 ]
 Chapter 12.
@@ -4066,9 +3296,9 @@ File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 341.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-[134
+[133
 
-] (metaverseBTC.ptc) [135
+] (metaverseBTC.ptc) [134
 
 ] (HOWTO.tex
 Overfull \hbox (56.43552pt too wide) in paragraph at lines 79--84
@@ -4084,7 +3314,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[136]
+[135]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
 35.
  (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
@@ -4126,7 +3356,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[137]
+[136]
 Overfull \hbox (11.95836pt too wide) in paragraph at lines 214--216
 []\T1/ptm/m/n/12 (-20) Credit: https://dannyda.com/2020/06/01/how-to-create-an-
 internal-only-isolated-network-
@@ -4158,7 +3388,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[138]
+[137]
 Overfull \hbox (126.56917pt too wide) in paragraph at lines 296--299
 []\T1/ptm/m/n/12 (-20) n the Disk tab leave the de-faults (this ex-ceeds re-qui
 re-ments https://docs.vyos.io/en/latest/installation/install.html) 
@@ -4172,7 +3402,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[139]
+[138]
 Overfull \hbox (5.04445pt too wide) in paragraph at lines 382--382
 []\T1/cmtt/m/n/12 set protocols static route 0.0.0.0/0 next-hop 192.168.x.254 d
 istance 1[] 
@@ -4198,6 +3428,15 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
+[139]
+
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
 [140]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -4208,15 +3447,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [141]
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[142]
 Overfull \hbox (95.48611pt too wide) in paragraph at lines 637--637
 []\T1/cmtt/m/n/12 set nat destination rule 12 description 'Port Forward: 2222 t
 o 22 SSH on 192.168.y.2'[] 
@@ -4236,7 +3466,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[143])
+[142])
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -4245,10 +3475,10 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[144] (metaverseBTC.ptc) [145
+[143] (metaverseBTC.ptc) [144
 
 ]
-<Images//JOH.jpg, id=2869, 110.66344pt x 165.61874pt>
+<Images//JOH.jpg, id=2985, 110.66344pt x 165.61874pt>
 File: Images//JOH.jpg Graphic file (type jpg)
 <use Images//JOH.jpg>
 Package pdftex.def Info: Images//JOH.jpg  used on input line 361.
@@ -4258,7 +3488,7 @@ Overfull \hbox (140.84192pt too wide) in paragraph at lines 356--363
 [][][]$[]$ 
  []
 
-<Images//UA.jpg, id=2870, 200.75pt x 200.75pt>
+<Images//UA.jpg, id=2986, 200.75pt x 200.75pt>
 File: Images//UA.jpg Graphic file (type jpg)
 <use Images//UA.jpg>
 Package pdftex.def Info: Images//UA.jpg  used on input line 370.
@@ -4276,9 +3506,9 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[146 <./Images//JOH.jpg> <./Images//UA.jpg>] [147
+[145 <./Images//JOH.jpg> <./Images//UA.jpg>] [146
 
-] [148
+] [147
 
 ]
 Overfull \hbox (22.09753pt too wide) in paragraph at lines 387--387
@@ -4300,7 +3530,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[149]
+[148]
 Overfull \hbox (0.22218pt too wide) in paragraph at lines 387--387
 \T1/ptm/m/n/12 (-20) Def-i-ni-tions, im-pli-ca-tions, and sep-a-ra-tions for pr
 eim-age re-sis-tance, second-preimage
@@ -4320,7 +3550,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[150]
+[149]
 Overfull \hbox (16.72742pt too wide) in paragraph at lines 387--387
 []\T1/ptm/m/n/12 (-20) Daniel Kraw-isz. ``Hy-per-bit-coiniza-tion''. In: \T1/pt
 m/m/it/12 (-20) On-line ver-füg-bar unter: https://nakamotoin
@@ -4334,7 +3564,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[151]
+[150]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Wolff2008' on input line 386.
@@ -4356,10 +3586,6 @@ Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Van_Eijk2010' on input line 386.
 
 
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bock2008' on input line 386.
-
-
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -4367,7 +3593,11 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[152]
+[151]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Bock2008' on input line 386.
+
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Chen2002' on input line 386.
@@ -4397,10 +3627,6 @@ Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Monk2002' on input line 386.
 
 
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Novick1996' on input line 386.
-
-
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -4408,7 +3634,11 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[153]
+[152]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Novick1996' on input line 386.
+
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Vertegaal2001' on input line 386.
@@ -4449,7 +3679,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[154]
+[153]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Fagel2010' on input line 386.
@@ -4480,6 +3710,23 @@ Package biblatex Warning: Month out of range or not an integer
 
 
 Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'schiano2004' on input line 386.
+
+
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[154]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'ohba1998' on input line 386.
+
+
+Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Hofmann2006' on input line 386.
 
 
@@ -4490,15 +3737,6 @@ Package biblatex Warning: Month out of range or not an integer
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Krauss1996' on input line 386.
 
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[155]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Kleinsmith2013' on input line 386.
@@ -4524,6 +3762,19 @@ Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Yee2007' on input line 386.
 
 
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[155]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Bailenson2003' on input line 386.
+
+
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Blascovich2002' on input line 386.
 
@@ -4533,17 +3784,12 @@ Package biblatex Warning: Month out of range or not an integer
 
 
 Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Carlston2013' on input line 386.
+
+
+Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Sellen1992' on input line 386.
 
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[156]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Deckers2013' on input line 386.
@@ -4557,8 +3803,21 @@ Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Fels2000' on input line 386.
 
 
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[156]
+
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Voida2012' on input line 386.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Berger1975' on input line 386.
 
 
 Package biblatex Warning: Month out of range or not an integer
@@ -4567,6 +3826,14 @@ Package biblatex Warning: Month out of range or not an integer
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Chartrand1999' on input line 386.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Parsons1974' on input line 386.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Risko2011' on input line 386.
 
 
 Package biblatex Warning: Month out of range or not an integer
@@ -4585,6 +3852,14 @@ Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Holm2010' on input line 386.
 
 
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Porter2008' on input line 386.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Roberts2015' on input line 386.
+
+
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -4595,11 +3870,11 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 [157]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Roberts2015' on input line 386.
+(biblatex)                at entry 'Aoki2003' on input line 386.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Aoki2003' on input line 386.
+(biblatex)                at entry 'Dourish1996' on input line 386.
 
 
 Package biblatex Warning: Month out of range or not an integer
@@ -4611,7 +3886,15 @@ Package biblatex Warning: Month out of range or not an integer
 
 
 Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Sellen1995' on input line 386.
+
+
+Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Gemmell2000' on input line 386.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Kuster2012' on input line 386.
 
 
 Package biblatex Warning: Month out of range or not an integer
@@ -4626,10 +3909,6 @@ Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Slater1999' on input line 386.
 
 
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Gunawardena1997' on input line 386.
-
-
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -4638,6 +3917,22 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [158]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Heeter1992' on input line 386.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Fulk1987' on input line 386.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Haythornthwaite1995' on input line 386.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Gunawardena1997' on input line 386.
+
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Bulu2012' on input line 386.
@@ -4650,6 +3945,15 @@ Package biblatex Warning: Month out of range or not an integer
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Bardram2012' on input line 386.
 
+
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[159]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Adamczyk2007' on input line 386.
@@ -4667,6 +3971,18 @@ Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Tse2007' on input line 386.
 
 
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Tang2006' on input line 386.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Norris2013' on input line 386.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Norris2012' on input line 386.
+
+
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -4674,22 +3990,22 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[159]
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Tang2006' on input line 386.
-
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Norris2012' on input line 386.
-
+[160]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Luff2011' on input line 386.
 
 
 Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Tuddenham2009' on input line 386.
+
+
+Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Jamil2011' on input line 386.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Jetter2011' on input line 386.
 
 
 Package biblatex Warning: Month out of range or not an integer
@@ -4698,6 +4014,23 @@ Package biblatex Warning: Month out of range or not an integer
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Kauff2002' on input line 386.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Jones2009' on input line 386.
+
+
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[161]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Okada1994' on input line 386.
 
 
 Package biblatex Warning: Month out of range or not an integer
@@ -4711,15 +4044,6 @@ Package biblatex Warning: Month out of range or not an integer
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Marti2005' on input line 386.
 
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[160]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Bartneck2007' on input line 386.
@@ -4737,8 +4061,21 @@ Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Strait2014' on input line 386.
 
 
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[162]
+
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Adalgeirsson2010' on input line 386.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Lee2011' on input line 386.
 
 
 Package biblatex Warning: Month out of range or not an integer
@@ -4761,15 +4098,6 @@ Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Tsui2012' on input line 386.
 
 
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[161]
-
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Sakamoto2007' on input line 386.
 
@@ -4778,12 +4106,37 @@ Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Lincoln2009' on input line 386.
 
 
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[163]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Lincoln2010' on input line 386.
+
+
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Oyekoya2012' on input line 386.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Dalsgaard2011' on input line 386.
+(biblatex)                at entry 'Pan2014' on input line 386.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Pan2012' on input line 386.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Nagendran2012' on input line 386.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Bandyopadhyay2001' on input line 386.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -4793,7 +4146,19 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[162]
+[164]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Dalsgaard2011' on input line 386.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Tay2008' on input line 386.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Eldes2013' on input line 386.
+
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Yendo2010' on input line 386.
@@ -4816,11 +4181,28 @@ Package biblatex Warning: Month out of range or not an integer
 
 
 Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Okutomi1993' on input line 386.
+
+
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[165]
+
+Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Mekuria2013' on input line 386.
 
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Allard2006' on input line 386.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Petit2008' on input line 386.
 
 
 Package biblatex Warning: Month out of range or not an integer
@@ -4831,17 +4213,12 @@ Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Starck2008' on input line 386.
 
 
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[163]
-
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Baumgart1975' on input line 386.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Laurentini1994' on input line 386.
 
 
 Package biblatex Warning: Month out of range or not an integer
@@ -4859,6 +4236,15 @@ Package biblatex Warning: Month out of range or not an integer
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Feldmann2009' on input line 386.
 
+
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[166]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Maimone2011' on input line 386.
@@ -4880,6 +4266,14 @@ Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Maimone2013' on input line 386.
 
 
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Erickson2011' on input line 386.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Grimstead2005' on input line 386.
+
+
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -4887,10 +4281,10 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[164]
+[167]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Erickson2011' on input line 386.
+(biblatex)                at entry 'Benford1998' on input line 386.
 
 
 Package biblatex Warning: Month out of range or not an integer
@@ -4928,7 +4322,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[165]
+[168]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Heldal2005' on input line 386.
@@ -4962,10 +4356,6 @@ Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Avrahami2007' on input line 386.
 
 
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Gergle2006' on input line 386.
-
-
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -4973,7 +4363,11 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[166]
+[169]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Gergle2006' on input line 386.
+
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Greenhalgh2001' on input line 386.
@@ -5014,7 +4408,16 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[167] (metaverseBTC.ind)
+[170]
+
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[171] (metaverseBTC.ind)
 \tf@ptc=\write9
 \openout9 = `metaverseBTC.ptc'.
 
@@ -5030,13 +4433,13 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36862 strings out of 478582
- 732206 string characters out of 2844816
- 1647692 words of memory out of 3000000
- 53078 multiletter control sequences out of 15000+600000
+ 37188 strings out of 478582
+ 745093 string characters out of 2844816
+ 1726270 words of memory out of 3000000
+ 53346 multiletter control sequences out of 15000+600000
  587079 words of font info for 443 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 98i,17n,94p,2419b,1369s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 98i,17n,94p,2419b,1367s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 pdfTeX warning (dest): name{section*.12} has been referenced but does not exist
 , replaced by a fixed one
@@ -5054,9 +4457,9 @@ uagk8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
 tmb8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/ut
 mr8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utm
 ri8a.pfb>
-Output written on metaverseBTC.pdf (167 pages, 12484268 bytes).
+Output written on metaverseBTC.pdf (171 pages, 12522833 bytes).
 PDF statistics:
- 3671 PDF objects out of 4296 (max. 8388607)
- 823 named destinations out of 1000 (max. 500000)
+ 3870 PDF objects out of 4296 (max. 8388607)
+ 881 named destinations out of 1000 (max. 500000)
  121148 words of extra memory for PDF output out of 128383 (max. 10000000)
 

@@ -29,15 +29,15 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {7.1}{\ignorespaces Elon Musk agrees with this on Twitter}}{82}{figure.7.1}%
 \contentsline {figure}{\numberline {7.2}{\ignorespaces Eye tracked eye gaze awareness in VR. Murray et al. used immersive and semi immersive systems alongside eye trackers to examine the ability of two avatars to detect the gaze awareness of a similarly immersed collaborator.}}{89}{figure.7.2}%
-\contentsline {figure}{\numberline {7.3}{\ignorespaces The Venn diagram shows areas of research which have been identified in blue. These interlock and overlap as shown. The most relevant identified researchers from the literature are shown in black close to the fields of study which they represent. This diagram is a view of the core assumptions for the research, with the most important fields at the centre. }}{111}{figure.7.3}%
-\contentsline {figure}{\numberline {7.4}{\ignorespaces Connected concepts revealed during the review, and roughly how they relate to one another. The web moves top left to bottom right as the attention focuses. The left hand column shows the broad flow from interpersonal communication in the real (top) to home working (bottom).}}{112}{figure.7.4}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces The Venn diagram shows areas of research which have been identified in blue. These interlock and overlap as shown. The most relevant identified researchers from the literature are shown in black close to the fields of study which they represent. This diagram is a view of the core assumptions for the research, with the most important fields at the centre. }}{110}{figure.7.3}%
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Connected concepts revealed during the review, and roughly how they relate to one another. The web moves top left to bottom right as the attention focuses. The left hand column shows the broad flow from interpersonal communication in the real (top) to home working (bottom).}}{111}{figure.7.4}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {8.1}{\ignorespaces Proposed deployment of the software within the VMs on a single hardware system.}}{126}{figure.8.1}%
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Proposed deployment of the software within the VMs on a single hardware system.}}{125}{figure.8.1}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {9.1}{\ignorespaces Current diagram of the proxmox as seen on the github.}}{128}{figure.9.1}%
+\contentsline {figure}{\numberline {9.1}{\ignorespaces Current diagram of the proxmox as seen on the github.}}{127}{figure.9.1}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {10.1}{\ignorespaces Functional elements for infrastructure.}}{131}{figure.10.1}%
-\contentsline {figure}{\numberline {10.2}{\ignorespaces Client server C4 diagrams.}}{132}{figure.10.2}%
+\contentsline {figure}{\numberline {10.1}{\ignorespaces Functional elements for infrastructure.}}{130}{figure.10.1}%
+\contentsline {figure}{\numberline {10.2}{\ignorespaces Client server C4 diagrams.}}{131}{figure.10.2}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \contentsfinish 
