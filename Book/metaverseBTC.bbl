@@ -906,6 +906,28 @@
       \field{pages}{1\bibrangedash 33}
       \range{pages}{33}
     \endentry
+    \entry{selvam2021blockchain}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8d22fe1381ea3649e13a573c10338d83}{%
+           family={Selvam},
+           familyi={S\bibinitperiod},
+           given={Vijay},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{8d22fe1381ea3649e13a573c10338d83}
+      \strng{fullhash}{8d22fe1381ea3649e13a573c10338d83}
+      \strng{bibnamehash}{8d22fe1381ea3649e13a573c10338d83}
+      \strng{authorbibnamehash}{8d22fe1381ea3649e13a573c10338d83}
+      \strng{authornamehash}{8d22fe1381ea3649e13a573c10338d83}
+      \strng{authorfullhash}{8d22fe1381ea3649e13a573c10338d83}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Available at SSRN 3880186}
+      \field{title}{The Blockchain That Matters: A Comparative Analysis of Bitcoin's Fundamentally Unique and Irreplicable Properties}
+      \field{year}{2021}
+    \endentry
     \entry{makarov2021blockchain}{report}{}
       \name{author}{2}{}{%
         {{hash=b66d967f1b4d160ab2af5d4fb46fbd31}{%
@@ -1042,8 +1064,8 @@
       \strng{authorbibnamehash}{d68c320fadb62ba8f9425c03d80759a8}
       \strng{authornamehash}{d68c320fadb62ba8f9425c03d80759a8}
       \strng{authorfullhash}{11f4ffc8e9003d9b5e85d9abb92bd50a}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{International Conference on Financial Cryptography and Data Security}
@@ -1354,8 +1376,8 @@
       \strng{authorbibnamehash}{02157f4e7f286af5c370f029888cd383}
       \strng{authornamehash}{02157f4e7f286af5c370f029888cd383}
       \strng{authorfullhash}{02157f4e7f286af5c370f029888cd383}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The bitcoin lightning network: Scalable off-chain instant payments}
@@ -1704,8 +1726,8 @@
       \strng{authorbibnamehash}{2757267655a8e2d265367ee28326f581}
       \strng{authornamehash}{2757267655a8e2d265367ee28326f581}
       \strng{authorfullhash}{2757267655a8e2d265367ee28326f581}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{China Economic Review}
@@ -1965,6 +1987,31 @@
       \field{pages}{847\bibrangedash 868}
       \range{pages}{22}
     \endentry
+    \entry{Bhatia2021}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7afa24b41101598853c9f506dce425c4}{%
+           family={Bhatia},
+           familyi={B\bibinitperiod},
+           given={Nikhil},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Self Quoted}%
+      }
+      \strng{namehash}{7afa24b41101598853c9f506dce425c4}
+      \strng{fullhash}{7afa24b41101598853c9f506dce425c4}
+      \strng{bibnamehash}{7afa24b41101598853c9f506dce425c4}
+      \strng{authorbibnamehash}{7afa24b41101598853c9f506dce425c4}
+      \strng{authornamehash}{7afa24b41101598853c9f506dce425c4}
+      \strng{authorfullhash}{7afa24b41101598853c9f506dce425c4}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Layered Money}
+      \field{year}{1988}
+      \keyw{sample.bib}
+    \endentry
     \entry{krawisz2014hyperbitcoinization}{article}{}
       \name{author}{1}{}{%
         {{hash=3ec84f96fd84a4c320635d0067584d9c}{%
@@ -2004,8 +2051,8 @@
       \strng{authorbibnamehash}{77c79579ff958e99836be1d3b048a216}
       \strng{authornamehash}{77c79579ff958e99836be1d3b048a216}
       \strng{authorfullhash}{77c79579ff958e99836be1d3b048a216}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in Blockchain}
@@ -2032,8 +2079,8 @@
       \strng{authorbibnamehash}{4dc214c859a01c74a067082d181d6afd}
       \strng{authornamehash}{4dc214c859a01c74a067082d181d6afd}
       \strng{authorfullhash}{4dc214c859a01c74a067082d181d6afd}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Avatars, Affordances, and Interfaces: Virtual Reality Tools for Learning.}
@@ -2535,8 +2582,8 @@
       \strng{authornamehash}{147ccab064ffb95110c2245d5b3a7cc0}
       \strng{authorfullhash}{147ccab064ffb95110c2245d5b3a7cc0}
       \field{extraname}{1}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
@@ -2576,8 +2623,8 @@
       \strng{authorbibnamehash}{eb70307e62db6258bb3f70899bc5c339}
       \strng{authornamehash}{eb70307e62db6258bb3f70899bc5c339}
       \strng{authorfullhash}{eb70307e62db6258bb3f70899bc5c339}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2002 {ACM} conference on Computer supported cooperative work}
@@ -2903,8 +2950,8 @@
       \strng{authorbibnamehash}{62b1f0564bc7fd0f8c16251a2ad046c0}
       \strng{authornamehash}{62b1f0564bc7fd0f8c16251a2ad046c0}
       \strng{authorfullhash}{62b1f0564bc7fd0f8c16251a2ad046c0}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the Workshop on Embodied Language Processing}
@@ -3357,8 +3404,8 @@
       \strng{authorbibnamehash}{60bdf10057aa68c517b4084343e51609}
       \strng{authornamehash}{60bdf10057aa68c517b4084343e51609}
       \strng{authorfullhash}{60bdf10057aa68c517b4084343e51609}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Three experiments are reported that investigate the hypothesis that head orientation and gaze direction interact in the processing of another individual's direction of social attention. A Stroop-type interference paradigm was adopted, in which gaze and head cues were placed into conflict. In separate blocks of trials, participants were asked to make speeded keypress responses contingent on either the direction of gaze, or the orientation of the head displayed in a digitized photograph of a male face. In Experiments 1 and 2, head and gaze cues showed symmetrical interference effects. Compared with congruent arrangements, incongruent head cues slowed responses to gaze cues, and incongruent gaze cues slowed responses to head cues, suggesting that head and gaze are mutually influential in the analysis of social attention direction. This mutuality was also evident in a cross-modal version of the task (Experiment 3) where participants responded to spoken directional words whilst ignoring the head/gaze images. It is argued that these interference effects arise from the independent influences of gaze and head orientation on decisions concerning social attention direction.}
@@ -3579,8 +3626,8 @@
       \strng{authorbibnamehash}{08e88983fada14a869fb42cd53ca94c8}
       \strng{authornamehash}{08e88983fada14a869fb42cd53ca94c8}
       \strng{authorfullhash}{4ddbfa72270f375c7abe280edfcc0742}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Perception of head orientation}
@@ -6765,8 +6812,8 @@
       \strng{authorbibnamehash}{9846f8b5710993764938fe11c9decbf6}
       \strng{authornamehash}{9846f8b5710993764938fe11c9decbf6}
       \strng{authorfullhash}{9846f8b5710993764938fe11c9decbf6}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Abstract Based on the GlobalEd inter?university computer conference, this study examined how effective ?social presence? is as a predictor of overall learner satisfaction in a text?based medium. The stepwise regression analysis converged on a three?predictor model revealing that social presence (the degree to which a person is perceived as ?real? in mediated communication), student perception of having equal opportunity to participate, and technical skills accounted for about 68\% of the explained variance. Social presence alone contributed about 60\% of this variance, suggesting that it may be a very strong predictor of satisfaction. Reliability data on the social presence scale is provided. The results also indicated that participants who felt a higher sense of social presence enhanced their socio?emotional experience by using emoticons to express missing nonverbal cues in written form. These findings have implications for designing academic computer conferences where equal attention must be paid to designing techniques that enhance social presence.}
@@ -6797,8 +6844,8 @@
       \strng{authorbibnamehash}{6941b1a3e7426486ace06f5704b15a1f}
       \strng{authornamehash}{6941b1a3e7426486ace06f5704b15a1f}
       \strng{authorfullhash}{6941b1a3e7426486ace06f5704b15a1f}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Presence 2001 Conference, Philadelphia, {PA}}

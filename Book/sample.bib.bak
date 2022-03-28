@@ -784,15 +784,12 @@
   location = {Denver, Colorado, USA}
 }
 
-@UNPUBLISHED{Benford1998-hw,
-  author = {Benford, Steve and Greenhalgh, Chris and Reynard, Gail and Brown,
-	Chris and Koleva, Boriana},
-  title = {Understanding and constructing shared spaces with mixed-reality boundaries},
-  month = {\#sep\#},
-  year = {1998},
-  keywords = {telepresence, shared spaces, media-spaces, CSCW, virtual reality,
-	mixed reality, video, collaborative virtual environments, augmented
-	reality;litsurvey.bib}
+@Unpublished{Benford1998,
+  author   = {Benford, Steve and Greenhalgh, Chris and Reynard, Gail and Brown, Chris and Koleva, Boriana},
+  title    = {Understanding and constructing shared spaces with mixed-reality boundaries},
+  month    = {\#sep\#},
+  year     = {1998},
+  keywords = {telepresence, shared spaces, media-spaces, CSCW, virtual reality, mixed reality, video, collaborative virtual environments, augmented reality;litsurvey.bib},
 }
 
 @INCOLLECTION{Benford1995,
@@ -13238,6 +13235,13 @@
   pages       = {367--370},
   institution = {IEEE},
   keywords    = {litsurvey.bib},
+}
+
+@Article{selvam2021blockchain,
+  author  = {Selvam, Vijay},
+  journal = {Available at SSRN 3880186},
+  title   = {The Blockchain That Matters: A Comparative Analysis of Bitcoin's Fundamentally Unique and Irreplicable Properties},
+  year    = {2021},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
