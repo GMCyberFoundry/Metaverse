@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  29 MAR 2022 11:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  29 MAR 2022 13:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1569,12 +1569,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [14]
-<Images//landscapevenn.png, id=767, 676.62787pt x 505.89pt>
-File: Images//landscapevenn.png Graphic file (type png)
-<use Images//landscapevenn.png>
-Package pdftex.def Info: Images//landscapevenn.png  used on input line 175.
-(pdftex.def)             Requested size: 426.79135pt x 319.09062pt.
-
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1584,6 +1578,12 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [15 <./Images//goldmanFront.jpg>]
+<Images//landscapevenn.png, id=773, 676.62787pt x 505.89pt>
+File: Images//landscapevenn.png Graphic file (type png)
+<use Images//landscapevenn.png>
+Package pdftex.def Info: Images//landscapevenn.png  used on input line 175.
+(pdftex.def)             Requested size: 426.79135pt x 319.09062pt.
+
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3601,7 +3601,7 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 Here is how much of TeX's memory you used:
  36569 strings out of 478582
  721885 string characters out of 2844816
- 1586962 words of memory out of 3000000
+ 1586982 words of memory out of 3000000
  52904 multiletter control sequences out of 15000+600000
  586009 words of font info for 436 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -3622,9 +3622,9 @@ fb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pf
 b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb
 ><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
 >
-Output written on metaverseBTC.pdf (142 pages, 10478186 bytes).
+Output written on metaverseBTC.pdf (142 pages, 10479383 bytes).
 PDF statistics:
- 3120 PDF objects out of 3580 (max. 8388607)
+ 3125 PDF objects out of 3580 (max. 8388607)
  719 named destinations out of 1000 (max. 500000)
  121106 words of extra memory for PDF output out of 128383 (max. 10000000)
 
