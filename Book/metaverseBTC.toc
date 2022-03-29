@@ -85,10 +85,10 @@
 \contentsline {subsection}{\numberline {5.4.2}Microsoft ION}{69}{subsection.5.4.2}%
 \contentsline {section}{\numberline {5.5}Risks \& Challenges?}{70}{section.5.5}%
 \contentsline {chapter}{\numberline {6}Non Fungible Tokens}{71}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Digital Art}{72}{section.6.1}%
-\contentsline {subsubsection}{\numberline {6.1.0.1}NFT Use Cases}{72}{subsubsection.6.1.0.1}%
-\contentsline {paragraph}{Art}{72}{paragraph*.4}%
-\contentsline {paragraph}{Computer \& Video Games}{74}{paragraph*.5}%
+\contentsline {section}{\numberline {6.1}Digital Art}{73}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}NFT Use Cases}{73}{subsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.1.1}Art}{73}{subsubsection.6.1.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.1.2}Computer \& Video Games}{74}{subsubsection.6.1.1.2}%
 \contentsline {section}{\numberline {6.2}Other uses}{76}{section.6.2}%
 \contentsline {section}{\numberline {6.3}Is any of this useful?}{76}{section.6.3}%
 \contentsline {chapter}{\numberline {7}Metaverses}{77}{chapter.7}%
@@ -163,10 +163,10 @@
 \contentsline {subsubsection}{\numberline {8.2.4.2}Disk configuration details}{109}{subsubsection.8.2.4.2}%
 \contentsline {subsection}{\numberline {8.2.5}Proxmox VE}{109}{subsection.8.2.5}%
 \contentsline {subsubsection}{\numberline {8.2.5.1}Installation and configuration}{109}{subsubsection.8.2.5.1}%
-\contentsline {paragraph}{Dialogue 1}{109}{paragraph*.6}%
-\contentsline {paragraph}{Dialogue 2}{109}{paragraph*.7}%
-\contentsline {paragraph}{Dialogue 3}{110}{paragraph*.8}%
-\contentsline {paragraph}{Dialogue 4}{110}{paragraph*.9}%
+\contentsline {paragraph}{Dialogue 1}{109}{paragraph*.4}%
+\contentsline {paragraph}{Dialogue 2}{109}{paragraph*.5}%
+\contentsline {paragraph}{Dialogue 3}{110}{paragraph*.6}%
+\contentsline {paragraph}{Dialogue 4}{110}{paragraph*.7}%
 \contentsline {subsubsection}{\numberline {8.2.5.2}Software updates}{110}{subsubsection.8.2.5.2}%
 \contentsline {subsubsection}{\numberline {8.2.5.3}Proxmox VE hardening}{111}{subsubsection.8.2.5.3}%
 \contentsline {subsection}{\numberline {8.2.6}Setup an internal only network in Proxmox VE}{111}{subsection.8.2.6}%
@@ -181,13 +181,13 @@
 \contentsline {subsubsection}{\numberline {8.2.9.2}Create a new VM}{114}{subsubsection.8.2.9.2}%
 \contentsline {subsubsection}{\numberline {8.2.9.3}Configure the additional drive (optional)}{115}{subsubsection.8.2.9.3}%
 \contentsline {subsubsection}{\numberline {8.2.9.4}Create port forwarding rules for SSH (optional)}{116}{subsubsection.8.2.9.4}%
-\contentsline {paragraph}{Debian}{116}{paragraph*.10}%
-\contentsline {paragraph}{NixOS}{116}{paragraph*.11}%
+\contentsline {paragraph}{Debian}{116}{paragraph*.8}%
+\contentsline {paragraph}{NixOS}{116}{paragraph*.9}%
 \contentsline {subsubsection}{\numberline {8.2.9.5}Prepare nix-bitcoin NixOS package}{117}{subsubsection.8.2.9.5}%
-\contentsline {paragraph}{Additional hard drive configuration}{119}{paragraph*.12}%
-\contentsline {paragraph}{Static IP configuration}{119}{paragraph*.13}%
-\contentsline {paragraph}{SSH configuration}{120}{paragraph*.14}%
-\contentsline {paragraph}{Services configuration}{120}{paragraph*.15}%
+\contentsline {paragraph}{Additional hard drive configuration}{119}{paragraph*.10}%
+\contentsline {paragraph}{Static IP configuration}{119}{paragraph*.11}%
+\contentsline {paragraph}{SSH configuration}{120}{paragraph*.12}%
+\contentsline {paragraph}{Services configuration}{120}{paragraph*.13}%
 \contentsline {part}{\numberline {III}Appendix}{121}{part.3}%
 \contentsline {section}{\numberline {8.3}Acknowledgements and thanks}{122}{section.8.3}%
 \contentsline {section}{\numberline {8.4}Author Biographies}{122}{section.8.4}%
