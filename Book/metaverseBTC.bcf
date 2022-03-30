@@ -2674,7 +2674,6 @@
     <bcf:citekey order="264">Nagendran2012</bcf:citekey>
     <bcf:citekey order="265">Itoh2005</bcf:citekey>
     <bcf:citekey order="266">Raskar1998</bcf:citekey>
-    <bcf:citekey order="267">Low2001</bcf:citekey>
     <bcf:citekey order="267">Raskar2001</bcf:citekey>
     <bcf:citekey order="268">Raskar2001</bcf:citekey>
     <bcf:citekey order="269">Rivera-Gutierrez2012</bcf:citekey>
@@ -2688,11 +2687,11 @@
     <bcf:citekey order="276">Eldes2013</bcf:citekey>
     <bcf:citekey order="277">Yendo2010</bcf:citekey>
     <bcf:citekey order="278">Cook1977</bcf:citekey>
-    <bcf:citekey order="278">Kleinke1986a</bcf:citekey>
+    <bcf:citekey order="278">Kleinke1986</bcf:citekey>
     <bcf:citekey order="278">Fagel2010</bcf:citekey>
     <bcf:citekey order="279">Otsuka2005</bcf:citekey>
     <bcf:citekey order="280">Kendon1967</bcf:citekey>
-    <bcf:citekey order="281">Kleinke1986a</bcf:citekey>
+    <bcf:citekey order="281">Kleinke1986</bcf:citekey>
     <bcf:citekey order="281">Nguyen2009</bcf:citekey>
     <bcf:citekey order="282">Moubayed2012</bcf:citekey>
     <bcf:citekey order="283">Aoki2003</bcf:citekey>
@@ -2941,16 +2940,14 @@
     <bcf:citekey order="526">Nagendran2012</bcf:citekey>
     <bcf:citekey order="527">Itoh2005</bcf:citekey>
     <bcf:citekey order="528">Raskar1998</bcf:citekey>
-    <bcf:citekey order="529">Low2001</bcf:citekey>
-    <bcf:citekey order="530">Rivera-Gutierrez2012</bcf:citekey>
-    <bcf:citekey order="531">Bandyopadhyay2001</bcf:citekey>
-    <bcf:citekey order="532">Dalsgaard2011</bcf:citekey>
-    <bcf:citekey order="533">Benjamin2012</bcf:citekey>
-    <bcf:citekey order="534">Blanche2010</bcf:citekey>
-    <bcf:citekey order="535">Tay2008</bcf:citekey>
-    <bcf:citekey order="536">Eldes2013</bcf:citekey>
-    <bcf:citekey order="537">Yendo2010</bcf:citekey>
-    <bcf:citekey order="538">Kleinke1986a</bcf:citekey>
+    <bcf:citekey order="529">Rivera-Gutierrez2012</bcf:citekey>
+    <bcf:citekey order="530">Bandyopadhyay2001</bcf:citekey>
+    <bcf:citekey order="531">Dalsgaard2011</bcf:citekey>
+    <bcf:citekey order="532">Benjamin2012</bcf:citekey>
+    <bcf:citekey order="533">Blanche2010</bcf:citekey>
+    <bcf:citekey order="534">Tay2008</bcf:citekey>
+    <bcf:citekey order="535">Eldes2013</bcf:citekey>
+    <bcf:citekey order="536">Yendo2010</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
