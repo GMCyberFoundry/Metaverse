@@ -25,7 +25,7 @@
 \contentsline {subsection}{\numberline {3.2.1}The Bitcoin Network Software}{34}{subsection.3.2.1}%
 \contentsline {subsection}{\numberline {3.2.2}Mining and Energy concerns}{34}{subsection.3.2.2}%
 \contentsline {subsection}{\numberline {3.2.3}Technical overview}{37}{subsection.3.2.3}%
-\contentsline {subsubsection}{\numberline {3.2.3.1}ECDSA / SHA256 / secp256k1}{37}{subsubsection.3.2.3.1}%
+\contentsline {subsubsection}{\numberline {3.2.3.1}ECDSA / SHA256 / secp256k1}{38}{subsubsection.3.2.3.1}%
 \contentsline {subsubsection}{\numberline {3.2.3.2}Bitcoin script}{38}{subsubsection.3.2.3.2}%
 \contentsline {subsubsection}{\numberline {3.2.3.3}Addresses \& UTXOs}{38}{subsubsection.3.2.3.3}%
 \contentsline {subsubsection}{\numberline {3.2.3.4}Halving}{40}{subsubsection.3.2.3.4}%
