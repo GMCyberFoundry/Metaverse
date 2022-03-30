@@ -34,10 +34,10 @@
 %----------------------------------------------------------------------------------------
 
 \documentclass[
-	11pt, % Default font size, select one of 10pt, 11pt or 12pt
+	12pt, % Default font size, select one of 10pt, 11pt or 12pt
 	fleqn, % Left align equations
 	a4paper, % Paper size, use either 'a4paper' for A4 size or 'letterpaper' for US letter size
-	%oneside, % Uncomment for oneside mode, this doesn't start new chapters and parts on odd pages (adding an empty page if required), this mode is more suitable if the book is to be read on a screen instead of printed
+	oneside, % Uncomment for oneside mode, this doesn't start new chapters and parts on odd pages (adding an empty page if required), this mode is more suitable if the book is to be read on a screen instead of printed
 ]{LegrandOrangeBook}
 
 % Book information for PDF metadata, remove/comment this block if not required 
@@ -46,6 +46,7 @@
 	pdfauthor={Author}, % Author field
 	pdfsubject={Subject}, % Subject field
 	pdfkeywords={Keyword1, Keyword2, ...}, % Keywords
+
 	pdfcreator={LaTeX}, % Content creator field
 }
 
@@ -85,9 +86,9 @@
 		\centering\sffamily % Font styling
 		{\Huge\bfseries Money in Metaverses\par} % Book title
 		\vspace{16pt} % Vertical whitespace
-		{\LARGE Bitcoin in global social immersive mixed reality systems\par} % Subtitle
+		{\LARGE Bitcoin in global social immersive \\mixed reality systems\par} % Subtitle
 		\vspace{24pt} % Vertical whitespace
-		{\huge\bfseries John O'Hare, Allen Fairchild, and Umran Ali\par} % Author name
+		{\large \textbf{Dr John O'Hare, Dr Allen Fairchild, and Dr Umran Ali}\par} % Author name
 	}
 
 %----------------------------------------------------------------------------------------
@@ -98,7 +99,7 @@
 
 ~\vfill % Push the text down to the bottom of the page
 
-\noindent \href{https://creativecommons.org/publicdomain/zero/1.0/}{No Copyright}\\ 2022 John O'Hare \& Allen Fairchild\\ % Copyright notice
+\noindent \href{https://creativecommons.org/publicdomain/zero/1.0/}{No Copyright}\\ 2022 John O'Hare \& Allen Fairchild \& Umran Ali\\ % Copyright notice
 
 \noindent \textsc{Published by j.ohare@salford.ac.uk for the Cyber Foundry Programme at The University of Salford}\\ % Publisher
 
@@ -151,23 +152,25 @@ When using or citing the work, you should not imply endorsement by the author or
 \section{Conflict of interest statements}
 \input{conflicts}
 \chapter{Introduction}
-\section{Abstract}
-We present a state of the art and positioning book, about Web3, Bitcoin, and `Metaverse'; describing the intersections and synergies. A high level overview of Web3 technologies leads to a description of blockchain, and the Bitcoin network is specifically selected for detailed examination. Suitable components of the extended Bitcoin ecosystem are described in more depth. Other mechanisms for native digital value transfer are described, with a focus on `money'. Metaverse technology is over-viewed, primarily from the perspective of Bitcoin and extended reality.\par
-Bitcoin is selected as the best contender for value transfer in metaverses because of it's free and open source nature, and network effect. Challenges and risks of this approach are identified. A cloud deployable virtual machine based technology stack deployment guide with a focus on cybersecurity best practice can be downloaded from GitHub to experiment with the technologies. This deployable lab is designed to inform development of secure value transaction, for small and medium sized companies. Next steps are touched upon in the conclusion.\par
-%\textbf{This is an incomplete document and may frankly contain a bunch of errors. Usual v0.1 caveats apply. It's 100\% open source (licensed under the Creative Commons Zero v1.0 Universal) so if something seems wrong pertaining to your project, or you have a suggestion for an improvement, then submit a PR to GitHub.}
+\section{Overview}
+\input{00_overview}
 \section{Introduction}
-This document presents a high level view of technologies and their potential within the emergent Web3 and metaverse narrative, focusing around the transmission of value within and across such global networks, with a further focus on the Bitcoin monetary network. It was written to organise the thoughts of the authors, who were unfamiliar with Bitcoin technologies until recently.\\
+This document presents a high level view of technologies and their potential within the emergent Web3 and metaverse narrative, focusing around the transmission of value within and across such global networks, with a further focus on the Bitcoin monetary network. It was written to organise the thoughts of the authors, who were unfamiliar with Bitcoin technologies until recently.\par
 As adoption of these technologies increases it will be necessary for people, and AI actors, to pass economic value between themselves. These `goods and services' interactions, within the virtual social spaces, should be underpinned by a trust system, which scales globally, and presents low friction. Current secure international payment rails are poorly suited to such interactions; indeed it is likely with legacy systems, that parties would be forced to leave the metaverse application, and instead navigate their banking applications to exchange value with overseas entities in a secure fashion. This might conceivably take several days.\par 
-Fortunately, the whole landscape of money and \href{https://www.omfif.org/futureofpayments2021/}{value transfer is changing}. Huge global financial players are entering the space. The world's largest pension fund manager Blackrock is adding these asset to their management engine which manages tens of trillions of dollars. Of their recent investments KPMG global said:\\
-\bigskip
-\textit{``We've invested in a strong cryptoassets practice and we will continue to enhance and build on our capabilities across Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs) and the Metaverse, to name a few''}. \\
-\bigskip
-Meanwhile, Google have \href{https://blog.youtube/inside-youtube/innovations-for-2022-at-youtube/}{recently blogged}:\\
-\textit{``Web3 also opens up new opportunities for creators. We believe new technologies like blockchain and NFTs can allow creators to build deeper relationships with their fans. Together, they'll be able to collaborate on new projects and make money in ways not previously possible. For example, giving a verifiable way for fans to own unique videos, photos, art, and even experiences from their favourite creators could be a compelling prospect for creators and their audiences. There's a lot to consider in making sure we approach these new technologies responsibly, but we think there's incredible potential as well. Finally, we couldn't have a piece about innovation without touching on the metaverse! We're thinking big about how to make viewing more immersive. ''}\\
-\bigskip
-This is has immediate implications for  (Small and medium-sized enterprises). It is timely then to explore the potential of recent technologies, which can address metaverse interactions in \textit{business to business} (B2B), \textit{business to customer} (B2C), and the newer C2C (social commerce; \textit{creator to consumer, customer to customer, consumer to consumer\cite{jones2008trust})}. Figure \ref{fig:landscapevenn} demonstrates how some of these domains intersect.\\ 
-This book seeks to overview and explain the available open source technologies. It supports an open source \href{https://github.com/GMCyberFoundry/Metaverse}{github repository} which enables SMEs to access these emergent platforms and ecosystems. It aims to build toward a minimum viable product for trust minimised transfer of value within a social immersive space.\\
-Referencing is in two styles; academic works are numeric, while opinion pieces, grey statistics, and pertinent news articles are hyperlinked in blue from the text. As the book develops the veracity of the citations should improve. It is likely that this document is incomplete as you are reading it as it's designed to be an open ended and open source resource. It is an experiment in a living document and repository.
+Fortunately, the whole landscape of money and \href{https://www.omfif.org/futureofpayments2021/}{value transfer is changing}. Huge global financial players are entering the space. HSBC have \href{https://sandboxgame.medium.com/hsbc-to-become-the-first-global-financial-services-provider-to-enter-the-sandbox-c066e4f48163}{just bought} metaverse `land' in The Sandbox, JP Morgan have \href{https://www.forbes.com/sites/ronshevlin/2022/02/16/jpmorgan-opens-a-bank-branch-in-the-metaverse-but-its-not-for-what-you-think-its-for/?sh=2fbd1e90158d}{opened a `lounge'} in another. The worlds largest hedge fund Bridgewater is stepping into \href{https://uk.finance.yahoo.com/news/bitcoin-latest-price-crypto-ray-dalio-bridgewater-investment-fund-ethereum-094946686.html}{acquisition of digital assets}, and the world's largest pension fund manager Blackrock is adding these asset to their management engine (which manages tens of trillions of dollars). The front page of Goldman Sachs recently says it all (Figure \ref{fig:goldmanFront}.\par
+\begin{figure}[ht]\centering % Using \begin{figure*} makes the figure take up the entire width of the page
+	\includegraphics[width=0.5\linewidth]{goldmanFront}
+	\caption{The landing page of global\\financial giant Goldman Sachs shows the hype.}
+	\label{fig:goldmanFront}
+\end{figure}
+Of their recent investments KPMG global said: \textit{``We've invested in a strong cryptoassets practice and we will continue to enhance and build on our capabilities across Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs) and the Metaverse, to name a few''}.\par
+It's possible that for such organisations it makes better business sense to take a punt on hype bubbles like this, than to do a proper due diligence with a team of internal staff who understand their business. These endorsements should be taken with a large pinch of salt. As \href{https://newsletter.fintechtakes.com/p/metaverse-branches?s=r}{Alex Jones says}: \textit{``At some point in the future, it’s possible that the digital worlds being built today will have aggregated sufficient user attention and engagement that financial services companies will need to invest in the metaverse as an acquisition and customer service channel. But we’re not there yet. Until the metaverse is a little less empty, resist the temptation to colonize it with branches and billboards.''}\par
+Meanwhile, Meta (ex Facebook) are launching their own \href{https://metacomp.international/home/}{META Web3 and metaverse} token, and Google have \href{https://blog.youtube/inside-youtube/innovations-for-2022-at-youtube/}{recently blogged}: \textit{``Web3 also opens up new opportunities for creators. We believe new technologies like blockchain and NFTs can allow creators to build deeper relationships with their fans. Together, they'll be able to collaborate on new projects and make money in ways not previously possible. For example, giving a verifiable way for fans to own unique videos, photos, art, and even experiences from their favourite creators could be a compelling prospect for creators and their audiences. There's a lot to consider in making sure we approach these new technologies responsibly, but we think there's incredible potential as well. Finally, we couldn't have a piece about innovation without touching on the metaverse! We're thinking big about how to make viewing more immersive. ''}\par
+It's already the case that the recent bubble of \href{https://www.forbes.com/sites/paultassi/2022/03/10/interest-in-nfts-and-the-metaverse-is-falling-fast/?}{hype is dwindling}, but the enormous investment into teams and startups will potentially bear fruit in the next couple of years, and this perhaps has implications for small and medium-sized enterprises (SMEs). \par
+It is timely then to explore the potential of recent technologies, which can address metaverse interactions in \textit{business to business} (B2B), \textit{business to customer} (B2C), and the newer C2C (social commerce; \textit{creator to consumer, customer to customer, consumer to consumer\cite{jones2008trust})}. Figure \ref{fig:landscapevenn} demonstrates how some of these domains intersect.\par
+This book seeks to overview and explain the available open source technologies. It supports an open source \href{https://github.com/GMCyberFoundry/Metaverse}{github repository} which enables SMEs to access these emergent platforms and ecosystems. It aims to build toward a minimum viable product for trust minimised transfer of value within a social immersive space.\par
+Referencing is in two styles; academic works are numeric, while opinion pieces, grey statistics, and pertinent news articles are hyperlinked in blue from the text. As the book develops the veracity of the citations should improve. There are over 1000 such external sources in the book.\par 
+
 
 \begin{figure*}[ht]\centering % Using \begin{figure*} makes the figure take up the entire width of the page
 	\includegraphics[width=\linewidth]{landscapevenn}
@@ -183,8 +186,8 @@ Referencing is in two styles; academic works are numeric, while opinion pieces, 
 \chapter{Money in the real world}
 \input{04_money}
 
-\chapter{Distributed Autonomous Organisations}
-\input{05_daos}
+%\chapter{Distributed Autonomous Organisations}
+%\input{05_daos}
 
 \chapter{Distributed Self Sovereign Identity}
 \input{06_identity}
@@ -195,15 +198,11 @@ Referencing is in two styles; academic works are numeric, while opinion pieces, 
 \chapter{Metaverses}
 \input{08_metaverse}
 
-\chapter{Hardware and software choices to support this}
-\input{09_deployment}
-
 \chapter{Our proposition}
 This chapter identifies an intersectional space across the described technologies, and proposes a valuable and novel software stack, which can enable exploration  and product development. It is useful to briefly look at some of the potential applications which might benefit from value and trust exchange within an global shared social space.
 \section{Potential applications }
 \begin{itemize}
-\item
-  Art / NFT galleries with instant sales
+\item Art / NFT galleries with instant sales
 \end{itemize}
 
 This application allows artists and content creator communities to
@@ -233,6 +232,7 @@ audience based on the proximity to the presentation.
   Group entertainment
 
   \begin{itemize}
+  \item Global social puzzle gaming with prizes
   \item
     Music festivals and gigs - Pay live artists and DJs in real time
     depending on location within the extended landscape of the venue.
@@ -273,6 +273,12 @@ audience based on the proximity to the presentation.
   \end{itemize}
 \item
   Global course / Education provision
+    \begin{itemize}
+  \item
+    Explore the universe as a group of spaceship or planet characters
+  \item
+    Explore biology and physics at a microscopic and nanoscopic level
+  \end{itemize}
 \item
   Micro tasking marketplace
 \item
@@ -328,14 +334,6 @@ The world database in the shared rooms in the metaverse is the global object mas
 \end{figure*}
 
 
-\chapter{Conclusions }
-\lipsum[50]
-\chapter{Future work}
-\lipsum[50]
-\lipsum[50]
-
-
-
 \part{Guides for deploying the software}
 \input{HOWTO}
 
@@ -343,7 +341,7 @@ The world database in the shared rooms in the metaverse is the global object mas
 
 \part{Appendix}
 \section{Acknowledgements and thanks}
-
+Lorena Gomez and smallworlnd for read and sense checking. 
 \section{Author Biographies}
 \noindent\fcolorbox{red}{lightgray}{%
 \begin{minipage}{\dimexpr0.66\textwidth-2\fboxrule-2\fboxsep\relax}
@@ -351,6 +349,14 @@ Dr John O`Hare is a results driven, certified Prince2 Agile Practitioner. Levera
 \end{minipage}}%
 \begin{minipage}{0.67\textwidth}
 \includegraphics[width=23ex]{JOH}
+\end{minipage}
+
+\noindent\fcolorbox{red}{lightgray}{%
+\begin{minipage}{\dimexpr0.66\textwidth-2\fboxrule-2\fboxsep\relax}
+Dr Allen Fairchild is an experienced security-conscious software engineer and academic researcher with comprehensive experience developing innovative end-to-end systems for a wide variety of use-cases.
+\end{minipage}}%
+\begin{minipage}{0.67\textwidth}
+\includegraphics[width=23ex]{AF}
 \end{minipage}
 
 \noindent\fcolorbox{red}{lightgray}{%
@@ -373,17 +379,19 @@ A keen video game collector and player, and a landscape photographer.
 %------------------------------------------------
 
 \chapter*{Bibliography}
-\addcontentsline{toc}{chapter}{\textcolor{ocre}{Bibliography}} % Add a Bibliography heading to the table of contents
+%\addcontentsline{toc}{chapter}{\textcolor{ocre}{Bibliography}} % Add a Bibliography heading to the table of contents
 
-\section*{Articles}
-\addcontentsline{toc}{section}{Articles} % Add the Articles subheading to the table of contents
+\printbibliography
 
-\printbibliography[heading=bibempty, type=article] % Output article bibliography entries
+%\section*{Articles}
+%\addcontentsline{toc}{section}{Articles} % Add the Articles subheading to the table of contents
 
-\section*{Books}
-\addcontentsline{toc}{section}{Books} % Add the Books subheading to the table of contents
+%\printbibliography[heading=bibempty, type=article] % Output article bibliography entries
 
-\printbibliography[heading=bibempty, type=book] % Output book bibliography entries
+%\section*{Books}
+%\addcontentsline{toc}{section}{Books} % Add the Books subheading to the table of contents
+
+%\printbibliography[heading=bibempty, type=book] % Output book bibliography entries
 
 %----------------------------------------------------------------------------------------
 %	INDEX
