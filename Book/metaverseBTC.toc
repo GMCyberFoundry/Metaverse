@@ -96,7 +96,7 @@
 \contentsline {section}{\numberline {7.1}History and market need}{77}{section.7.1}%
 \contentsline {section}{\numberline {7.2}Current telecollaboration}{77}{section.7.2}%
 \contentsline {subsection}{\numberline {7.2.1}Video conferencing}{77}{subsection.7.2.1}%
-\contentsline {subsubsection}{\numberline {7.2.1.1}Pandemic drives adoption}{78}{subsubsection.7.2.1.1}%
+\contentsline {subsubsection}{\numberline {7.2.1.1}Pandemic drives adoption}{79}{subsubsection.7.2.1.1}%
 \contentsline {subsubsection}{\numberline {7.2.1.2}Mona Lisa Type Effects}{79}{subsubsection.7.2.1.2}%
 \contentsline {section}{\numberline {7.3}What's important for human communication}{80}{section.7.3}%
 \contentsline {subsection}{\numberline {7.3.1}Vocal}{80}{subsection.7.3.1}%
@@ -151,45 +151,51 @@
 \contentsline {subsubsection}{\numberline {7.11.1.11}Meta Horizon Worlds \& Workrooms}{103}{subsubsection.7.11.1.11}%
 \contentsline {subsubsection}{\numberline {7.11.1.12}Vircadia}{103}{subsubsection.7.11.1.12}%
 \contentsline {chapter}{\numberline {8}Our proposition}{104}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Potential applications }{104}{section.8.1}%
-\contentsline {subsection}{\numberline {8.1.1}Global cybersec course delivery}{105}{subsection.8.1.1}%
+\contentsline {section}{\numberline {8.1}Our socialisation best practice}{104}{section.8.1}%
+\contentsline {subsubsection}{\numberline {8.1.0.1}Identity}{104}{subsubsection.8.1.0.1}%
+\contentsline {subsubsection}{\numberline {8.1.0.2}Webs of trust}{104}{subsubsection.8.1.0.2}%
+\contentsline {subsubsection}{\numberline {8.1.0.3}Integration of 'good' actor AI entities}{104}{subsubsection.8.1.0.3}%
+\contentsline {subsection}{\numberline {8.1.1}Emulation of important social cues}{104}{subsection.8.1.1}%
+\contentsline {subsubsection}{\numberline {8.1.1.1}Behaviour incentives, arbitration, and penalties}{104}{subsubsection.8.1.1.1}%
+\contentsline {section}{\numberline {8.2}Potential applications }{104}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Global cybersec course delivery}{105}{subsection.8.2.1}%
 \contentsline {part}{\numberline {II}Guides for deploying the software}{108}{part.2}%
-\contentsline {section}{\numberline {8.2}Lab}{109}{section.8.2}%
-\contentsline {subsection}{\numberline {8.2.1}Overview}{109}{subsection.8.2.1}%
-\contentsline {subsubsection}{\numberline {8.2.1.1}Summary of software}{109}{subsubsection.8.2.1.1}%
-\contentsline {subsection}{\numberline {8.2.2}Prerequisites}{109}{subsection.8.2.2}%
-\contentsline {subsection}{\numberline {8.2.3}Network details}{109}{subsection.8.2.3}%
-\contentsline {subsection}{\numberline {8.2.4}Server configuration}{109}{subsection.8.2.4}%
-\contentsline {subsubsection}{\numberline {8.2.4.1}Server hardware details}{109}{subsubsection.8.2.4.1}%
-\contentsline {subsubsection}{\numberline {8.2.4.2}Disk configuration details}{109}{subsubsection.8.2.4.2}%
-\contentsline {subsection}{\numberline {8.2.5}Proxmox VE}{109}{subsection.8.2.5}%
-\contentsline {subsubsection}{\numberline {8.2.5.1}Installation and configuration}{109}{subsubsection.8.2.5.1}%
+\contentsline {section}{\numberline {8.3}Lab}{109}{section.8.3}%
+\contentsline {subsection}{\numberline {8.3.1}Overview}{109}{subsection.8.3.1}%
+\contentsline {subsubsection}{\numberline {8.3.1.1}Summary of software}{109}{subsubsection.8.3.1.1}%
+\contentsline {subsection}{\numberline {8.3.2}Prerequisites}{109}{subsection.8.3.2}%
+\contentsline {subsection}{\numberline {8.3.3}Network details}{109}{subsection.8.3.3}%
+\contentsline {subsection}{\numberline {8.3.4}Server configuration}{109}{subsection.8.3.4}%
+\contentsline {subsubsection}{\numberline {8.3.4.1}Server hardware details}{109}{subsubsection.8.3.4.1}%
+\contentsline {subsubsection}{\numberline {8.3.4.2}Disk configuration details}{109}{subsubsection.8.3.4.2}%
+\contentsline {subsection}{\numberline {8.3.5}Proxmox VE}{109}{subsection.8.3.5}%
+\contentsline {subsubsection}{\numberline {8.3.5.1}Installation and configuration}{109}{subsubsection.8.3.5.1}%
 \contentsline {paragraph}{Dialogue 1}{109}{paragraph*.4}%
 \contentsline {paragraph}{Dialogue 2}{109}{paragraph*.5}%
 \contentsline {paragraph}{Dialogue 3}{110}{paragraph*.6}%
 \contentsline {paragraph}{Dialogue 4}{110}{paragraph*.7}%
-\contentsline {subsubsection}{\numberline {8.2.5.2}Software updates}{110}{subsubsection.8.2.5.2}%
-\contentsline {subsubsection}{\numberline {8.2.5.3}Proxmox VE hardening}{111}{subsubsection.8.2.5.3}%
-\contentsline {subsection}{\numberline {8.2.6}Setup an internal only network in Proxmox VE}{111}{subsection.8.2.6}%
-\contentsline {subsection}{\numberline {8.2.7}Install and configure Internet gateway server virtual machine}{111}{subsection.8.2.7}%
-\contentsline {subsubsection}{\numberline {8.2.7.1}Create an ISO of the stable version (as of writing 1.3.0)}{111}{subsubsection.8.2.7.1}%
-\contentsline {subsubsection}{\numberline {8.2.7.2}Upload the ISO image to the Proxmox VE server}{112}{subsubsection.8.2.7.2}%
-\contentsline {subsubsection}{\numberline {8.2.7.3}Create VyOS virtual machine}{112}{subsubsection.8.2.7.3}%
-\contentsline {subsubsection}{\numberline {8.2.7.4}Configure VyOS}{112}{subsubsection.8.2.7.4}%
-\contentsline {subsection}{\numberline {8.2.8}Install and configure a Debian virtual machine}{113}{subsection.8.2.8}%
-\contentsline {subsection}{\numberline {8.2.9}Deploying the nix-bitcoin node}{114}{subsection.8.2.9}%
-\contentsline {subsubsection}{\numberline {8.2.9.1}Acquiring NixOS}{114}{subsubsection.8.2.9.1}%
-\contentsline {subsubsection}{\numberline {8.2.9.2}Create a new VM}{114}{subsubsection.8.2.9.2}%
-\contentsline {subsubsection}{\numberline {8.2.9.3}Configure the additional drive (optional)}{115}{subsubsection.8.2.9.3}%
-\contentsline {subsubsection}{\numberline {8.2.9.4}Create port forwarding rules for SSH (optional)}{116}{subsubsection.8.2.9.4}%
+\contentsline {subsubsection}{\numberline {8.3.5.2}Software updates}{110}{subsubsection.8.3.5.2}%
+\contentsline {subsubsection}{\numberline {8.3.5.3}Proxmox VE hardening}{111}{subsubsection.8.3.5.3}%
+\contentsline {subsection}{\numberline {8.3.6}Setup an internal only network in Proxmox VE}{111}{subsection.8.3.6}%
+\contentsline {subsection}{\numberline {8.3.7}Install and configure Internet gateway server virtual machine}{111}{subsection.8.3.7}%
+\contentsline {subsubsection}{\numberline {8.3.7.1}Create an ISO of the stable version (as of writing 1.3.0)}{111}{subsubsection.8.3.7.1}%
+\contentsline {subsubsection}{\numberline {8.3.7.2}Upload the ISO image to the Proxmox VE server}{112}{subsubsection.8.3.7.2}%
+\contentsline {subsubsection}{\numberline {8.3.7.3}Create VyOS virtual machine}{112}{subsubsection.8.3.7.3}%
+\contentsline {subsubsection}{\numberline {8.3.7.4}Configure VyOS}{112}{subsubsection.8.3.7.4}%
+\contentsline {subsection}{\numberline {8.3.8}Install and configure a Debian virtual machine}{113}{subsection.8.3.8}%
+\contentsline {subsection}{\numberline {8.3.9}Deploying the nix-bitcoin node}{114}{subsection.8.3.9}%
+\contentsline {subsubsection}{\numberline {8.3.9.1}Acquiring NixOS}{114}{subsubsection.8.3.9.1}%
+\contentsline {subsubsection}{\numberline {8.3.9.2}Create a new VM}{114}{subsubsection.8.3.9.2}%
+\contentsline {subsubsection}{\numberline {8.3.9.3}Configure the additional drive (optional)}{115}{subsubsection.8.3.9.3}%
+\contentsline {subsubsection}{\numberline {8.3.9.4}Create port forwarding rules for SSH (optional)}{116}{subsubsection.8.3.9.4}%
 \contentsline {paragraph}{Debian}{116}{paragraph*.8}%
 \contentsline {paragraph}{NixOS}{116}{paragraph*.9}%
-\contentsline {subsubsection}{\numberline {8.2.9.5}Prepare nix-bitcoin NixOS package}{117}{subsubsection.8.2.9.5}%
+\contentsline {subsubsection}{\numberline {8.3.9.5}Prepare nix-bitcoin NixOS package}{117}{subsubsection.8.3.9.5}%
 \contentsline {paragraph}{Additional hard drive configuration}{119}{paragraph*.10}%
 \contentsline {paragraph}{Static IP configuration}{119}{paragraph*.11}%
 \contentsline {paragraph}{SSH configuration}{120}{paragraph*.12}%
 \contentsline {paragraph}{Services configuration}{120}{paragraph*.13}%
 \contentsline {part}{\numberline {III}Appendix}{121}{part.3}%
-\contentsline {section}{\numberline {8.3}Acknowledgements and thanks}{122}{section.8.3}%
-\contentsline {section}{\numberline {8.4}Author Biographies}{122}{section.8.4}%
+\contentsline {section}{\numberline {8.4}Acknowledgements and thanks}{122}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Author Biographies}{122}{section.8.5}%
 \contentsfinish 
