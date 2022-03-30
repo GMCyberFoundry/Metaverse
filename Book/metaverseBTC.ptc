@@ -76,15 +76,14 @@
 \contentsline {subsection}{\numberline {4.7.1}Bisq DAO}{66}{subsection.4.7.1}%
 \contentsline {subsection}{\numberline {4.7.2}Risks}{66}{subsection.4.7.2}%
 \contentsline {chapter}{\numberline {5}Distributed Self Sovereign Identity}{67}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Notes and thoughts - to be completed}{67}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Applications of DID/SSI}{67}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Classic DID/SSI}{68}{section.5.3}%
-\contentsline {subsubsection}{\numberline {5.3.0.1}DID principles}{69}{subsubsection.5.3.0.1}%
-\contentsline {subsubsection}{\numberline {5.3.0.2}What's in a DID document?}{69}{subsubsection.5.3.0.2}%
-\contentsline {section}{\numberline {5.4}Newer Technologies}{69}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}Slashtags}{69}{subsection.5.4.1}%
-\contentsline {subsection}{\numberline {5.4.2}Microsoft ION}{69}{subsection.5.4.2}%
-\contentsline {section}{\numberline {5.5}Risks \& Challenges?}{70}{section.5.5}%
+\contentsline {section}{\numberline {5.1}Applications of DID/SSI}{67}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Classic DID/SSI}{67}{section.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.0.1}DID principles}{68}{subsubsection.5.2.0.1}%
+\contentsline {subsubsection}{\numberline {5.2.0.2}What's in a DID document?}{69}{subsubsection.5.2.0.2}%
+\contentsline {section}{\numberline {5.3}Newer Technologies}{69}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Slashtags}{69}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Microsoft ION}{69}{subsection.5.3.2}%
+\contentsline {section}{\numberline {5.4}Risks \& Challenges?}{70}{section.5.4}%
 \contentsline {chapter}{\numberline {6}Non Fungible Tokens}{71}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Digital Art}{73}{section.6.1}%
 \contentsline {subsection}{\numberline {6.1.1}NFT Use Cases}{73}{subsection.6.1.1}%
@@ -135,7 +134,7 @@
 \contentsline {section}{\numberline {7.7}Digital Land Metaverses}{99}{section.7.7}%
 \contentsline {section}{\numberline {7.8}Global enterprise perspective}{99}{section.7.8}%
 \contentsline {section}{\numberline {7.9}NFT as metaverse narrative}{99}{section.7.9}%
-\contentsline {section}{\numberline {7.10}MMORG games and NFTs}{100}{section.7.10}%
+\contentsline {section}{\numberline {7.10}MMORG games and NFTs}{99}{section.7.10}%
 \contentsline {section}{\numberline {7.11}Crypto metaverses}{100}{section.7.11}%
 \contentsline {subsection}{\numberline {7.11.1}Immersive and third person XR}{101}{subsection.7.11.1}%
 \contentsline {subsubsection}{\numberline {7.11.1.1}Second Life}{101}{subsubsection.7.11.1.1}%
@@ -146,10 +145,9 @@
 \contentsline {subsubsection}{\numberline {7.11.1.6}FramesVR}{102}{subsubsection.7.11.1.6}%
 \contentsline {subsubsection}{\numberline {7.11.1.7}AltSpace}{102}{subsubsection.7.11.1.7}%
 \contentsline {subsubsection}{\numberline {7.11.1.8}Engage}{102}{subsubsection.7.11.1.8}%
-\contentsline {subsubsection}{\numberline {7.11.1.9}VRChat}{102}{subsubsection.7.11.1.9}%
-\contentsline {subsubsection}{\numberline {7.11.1.10}NEOSVR}{102}{subsubsection.7.11.1.10}%
-\contentsline {subsubsection}{\numberline {7.11.1.11}Meta Horizon Worlds \& Workrooms}{103}{subsubsection.7.11.1.11}%
-\contentsline {subsubsection}{\numberline {7.11.1.12}Vircadia}{103}{subsubsection.7.11.1.12}%
+\contentsline {subsubsection}{\numberline {7.11.1.9}NEOSVR}{102}{subsubsection.7.11.1.9}%
+\contentsline {subsubsection}{\numberline {7.11.1.10}Meta Horizon Worlds \& Workrooms}{102}{subsubsection.7.11.1.10}%
+\contentsline {subsubsection}{\numberline {7.11.1.11}Vircadia}{103}{subsubsection.7.11.1.11}%
 \contentsline {chapter}{\numberline {8}Our proposition}{104}{chapter.8}%
 \contentsline {section}{\numberline {8.1}Potential applications }{104}{section.8.1}%
 \contentsline {subsection}{\numberline {8.1.1}Global cybersec course delivery}{105}{subsection.8.1.1}%
