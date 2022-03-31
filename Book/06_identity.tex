@@ -51,9 +51,23 @@ The outcome:
 \item For the metrics detailed in 3-6, Bitcoin is so far beyond all other options, it isn't even close - Bitcoin is the most secure option by an absurdly large margin.''
 \end{itemize}
 
-On the surface then it might seem that the choice is Bitcoin again, and indeed that the open source Microsoft ION stack is a natural choice. 
- 
-
+On the surface then it might seem that the choice is Bitcoin again, and indeed that the open source Microsoft ION stack is a natural choice, but it's complex to run, the interactions with the blockchain have a cost implication which can't be surmounted without every user owning some Bitcoin, and as we have seen, there is no formal validation of this system. It seems that it might be somewhat useful `at scale' and is worth consideration.
+\subsection{Nostr}
+Nostr is ``The simplest open protocol that is able to create a censorship-resistant global "social" network once and for all.'' according to it's \href{https://github.com/fiatjaf/nostr}{github page}. More than that it's a client side validated proof of who a user is interacting with, hence being in this identity section. To be clear, it's not a completely peer to peer system in that it uses relay servers, but this gives it some of the best characteristics of both paradigms. This has the following advantages for our metaverse application; 
+\begin{itemize}
+\item it's lightweight, with minimal network overhead and complexity
+\item anyone can run a relay server, so one can be run in the deployment in the final section of the book
+\item it's opensource
+\item multiple usable libraries and tools
+\item it's under active development with an excellent team. The lead, `Fiatjaf' is one of the most \href{https://github.com/fiatjaf}{prolific developers} in the lightning space.
+\item it's based on the same underlying cryptographic technology we are using elsewhere
+\item it provides the identity proof that we need to validate users into a virtual space
+\item it enables message passing
+\item it scales to be a social network as required
+\item it need not rely on anything outside of a relay hosted on the metaverse server
+\item it can likely be scaled to provide one to many bulletin board style applications within the metaverse
+\item it can easily operate outside of the walled garden of the metaverse, extending the reach of the messages
+\end{itemize} 
 %------------------------------------------------
 \section{Risks \& Challenges?}
 Classic DID/SSI risks fragmentations
