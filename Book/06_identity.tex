@@ -56,11 +56,12 @@ On the surface then it might seem that the choice is Bitcoin again, and indeed t
 Nostr is ``The simplest open protocol that is able to create a censorship-resistant global "social" network once and for all.'' according to it's \href{https://github.com/fiatjaf/nostr}{github page}. More than that it's a client side validated proof of who a user is interacting with, hence being in this identity section. To be clear, it's not a completely peer to peer system in that it uses relay servers, but this gives it some of the best characteristics of both paradigms. This has the following advantages for our metaverse application; 
 \begin{itemize}
 \item it's lightweight, with minimal network overhead and complexity
+\item it's real-time using websockets
 \item anyone can run a relay server, so one can be run in the deployment in the final section of the book
 \item it's opensource
-\item multiple usable libraries and tools
+\item there are multiple usable libraries and tools
 \item it's under active development with an excellent team. The lead, `Fiatjaf' is one of the most \href{https://github.com/fiatjaf}{prolific developers} in the lightning space.
-\item it's based on the same underlying cryptographic technology we are using elsewhere
+\item it's based on the same underlying cryptographic technology we are using elsewhere, indeed the with it's use of Bitcoin keys the identity system is global
 \item it provides the identity proof that we need to validate users into a virtual space
 \item it enables message passing
 \item it scales to be a social network as required

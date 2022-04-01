@@ -282,12 +282,12 @@
   location = {Ft. Lauderdale, Florida, USA}
 }
 
-@BOOK{Argyle1988,
-  title = {Bodily communication},
-  publisher = {Methuen},
-  year = {1988},
-  author = {Argyle, Michael},
-  keywords = {litsurvey.bib}
+@Book{Bhatia2021,
+  author    = {Bhatia, Nikhil},
+  publisher = {Self Quoted},
+  title     = {Layered Money},
+  year      = {1988},
+  keywords  = {sample.bib},
 }
 
 @Book{Argyle1976,
@@ -13242,6 +13242,31 @@
   journal = {Available at SSRN 3880186},
   title   = {The Blockchain That Matters: A Comparative Analysis of Bitcoin's Fundamentally Unique and Irreplicable Properties},
   year    = {2021},
+}
+
+@BOOK{Argyle1988,
+  title = {Bodily communication},
+  publisher = {Methuen},
+  year = {1988},
+  author = {Argyle, Michael},
+  keywords = {litsurvey.bib}
+}
+
+@Article{malherbe2019cryptocurrencies,
+  author    = {Malherbe, Leo and Montalban, Matthieu and B{\'e}du, Nicolas and Granier, Caroline},
+  journal   = {International Journal of Political Economy},
+  title     = {Cryptocurrencies and blockchain: Opportunities and limits of a new monetary regime},
+  year      = {2019},
+  number    = {2},
+  pages     = {127--152},
+  volume    = {48},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{nakamoto2018,
+  author = {Satoshi Nakamoto},
+  title  = {Duality: an excerpt},
+  year   = {2018},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

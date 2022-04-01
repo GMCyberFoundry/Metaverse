@@ -540,6 +540,7 @@
       \strng{authorbibnamehash}{1977190f018b398e43ede3de043de8ea}
       \strng{authornamehash}{1977190f018b398e43ede3de043de8ea}
       \strng{authorfullhash}{1977190f018b398e43ede3de043de8ea}
+      \field{extraname}{1}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
@@ -816,6 +817,28 @@
       \field{pages}{437\bibrangedash 455}
       \range{pages}{19}
     \endentry
+    \entry{nakamoto2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1977190f018b398e43ede3de043de8ea}{%
+           family={Nakamoto},
+           familyi={N\bibinitperiod},
+           given={Satoshi},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{fullhash}{1977190f018b398e43ede3de043de8ea}
+      \strng{bibnamehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{authorbibnamehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{authornamehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{authorfullhash}{1977190f018b398e43ede3de043de8ea}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Duality: an excerpt}
+      \field{year}{2018}
+    \endentry
     \entry{ijiri1986framework}{article}{}
       \name{author}{1}{}{%
         {{hash=18c5aebd992f5682308afb2ad8ef6cbc}{%
@@ -877,6 +900,28 @@
       \field{pages}{108\bibrangedash 116}
       \range{pages}{9}
     \endentry
+    \entry{chohan2021double}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cd19e74cb4c4cfc565e01bd15e9094bb}{%
+           family={Chohan},
+           familyi={C\bibinitperiod},
+           given={Usman\bibnamedelima W},
+           giveni={U\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd19e74cb4c4cfc565e01bd15e9094bb}
+      \strng{fullhash}{cd19e74cb4c4cfc565e01bd15e9094bb}
+      \strng{bibnamehash}{cd19e74cb4c4cfc565e01bd15e9094bb}
+      \strng{authorbibnamehash}{cd19e74cb4c4cfc565e01bd15e9094bb}
+      \strng{authornamehash}{cd19e74cb4c4cfc565e01bd15e9094bb}
+      \strng{authorfullhash}{cd19e74cb4c4cfc565e01bd15e9094bb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Available at SSRN 3090174}
+      \field{title}{The double spending problem and cryptocurrencies}
+      \field{year}{2021}
+    \endentry
     \entry{sangster2015earliest}{article}{}
       \name{author}{1}{}{%
         {{hash=2b4e9a0de50ec30410f33715b9c21021}{%
@@ -920,8 +965,8 @@
       \strng{authorbibnamehash}{8d22fe1381ea3649e13a573c10338d83}
       \strng{authornamehash}{8d22fe1381ea3649e13a573c10338d83}
       \strng{authorfullhash}{8d22fe1381ea3649e13a573c10338d83}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Available at SSRN 3880186}
@@ -950,8 +995,8 @@
       \strng{authorbibnamehash}{785a5108f23d07c3b3a4b1916e3d9b57}
       \strng{authornamehash}{785a5108f23d07c3b3a4b1916e3d9b57}
       \strng{authorfullhash}{785a5108f23d07c3b3a4b1916e3d9b57}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Blockchain Analysis of the Bitcoin Market}
@@ -1022,8 +1067,8 @@
       \strng{authorbibnamehash}{5f5654d5fed163047d8749e38caa5d67}
       \strng{authornamehash}{5f5654d5fed163047d8749e38caa5d67}
       \strng{authorfullhash}{fb5013ff0bea92e598b4bfceebe91b23}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{International conference on financial cryptography and data security}
@@ -1272,8 +1317,8 @@
       \strng{authorbibnamehash}{360797d29ca6304e913fc67358fdfe69}
       \strng{authornamehash}{360797d29ca6304e913fc67358fdfe69}
       \strng{authorfullhash}{45d51370f0cf36600e7faeb6b4531f53}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Renewable and Sustainable Energy Reviews}
@@ -1307,8 +1352,8 @@
       \strng{authorbibnamehash}{924b49aec2048c587f17a22559323db8}
       \strng{authornamehash}{924b49aec2048c587f17a22559323db8}
       \strng{authorfullhash}{924b49aec2048c587f17a22559323db8}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Available at SSRN 3779720}
@@ -1349,8 +1394,8 @@
       \strng{authorbibnamehash}{374fe3d66157bc2554cd5d4d930114b2}
       \strng{authornamehash}{374fe3d66157bc2554cd5d4d930114b2}
       \strng{authorfullhash}{de7967e790a1a28d0c47ceb520056544}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Joule}
@@ -1570,8 +1615,8 @@
       \strng{authorbibnamehash}{1c81fcf257f44be3fc86cc2c941f0efb}
       \strng{authornamehash}{1c81fcf257f44be3fc86cc2c941f0efb}
       \strng{authorfullhash}{1c81fcf257f44be3fc86cc2c941f0efb}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Financial crash, commodity prices and global imbalances}
@@ -1595,8 +1640,8 @@
       \strng{authorbibnamehash}{5d7da40e30408d9a488fa3744359c2a6}
       \strng{authornamehash}{5d7da40e30408d9a488fa3744359c2a6}
       \strng{authorfullhash}{5d7da40e30408d9a488fa3744359c2a6}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The hidden hand of American hegemony}
@@ -1616,8 +1661,8 @@
       \strng{authorbibnamehash}{a8f4f2a49f22416de8db5f639af33b64}
       \strng{authornamehash}{a8f4f2a49f22416de8db5f639af33b64}
       \strng{authorfullhash}{a8f4f2a49f22416de8db5f639af33b64}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Remarks at the Jackson Hole Symposium}
@@ -1639,8 +1684,8 @@
       \strng{authorbibnamehash}{6332254e093b61afcd149b75e35e341e}
       \strng{authornamehash}{6332254e093b61afcd149b75e35e341e}
       \strng{authorfullhash}{6332254e093b61afcd149b75e35e341e}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{World Bank Policy Research Working Paper}
@@ -1670,8 +1715,8 @@
       \strng{authorbibnamehash}{3042dc4038843c1272ef20e3c7fc9411}
       \strng{authornamehash}{3042dc4038843c1272ef20e3c7fc9411}
       \strng{authorfullhash}{3042dc4038843c1272ef20e3c7fc9411}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Gold and the Turning of the Monetary Tides}
@@ -1697,8 +1742,8 @@
       \strng{authorbibnamehash}{ceb9bf68fccb64928a082ddf62bb168e}
       \strng{authornamehash}{ceb9bf68fccb64928a082ddf62bb168e}
       \strng{authorfullhash}{ceb9bf68fccb64928a082ddf62bb168e}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Asia-Pacific Journal}
@@ -1946,8 +1991,8 @@
       \strng{authorbibnamehash}{bfb8d2bb070d9ca205932dede8e3853f}
       \strng{authornamehash}{bfb8d2bb070d9ca205932dede8e3853f}
       \strng{authorfullhash}{bfb8d2bb070d9ca205932dede8e3853f}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Future of Money: How the Digital Revolution is Transforming Currencies and Finance}
@@ -1975,8 +2020,8 @@
       \strng{authorbibnamehash}{af8695065272fc2c1ff681f981c353b1}
       \strng{authornamehash}{af8695065272fc2c1ff681f981c353b1}
       \strng{authorfullhash}{af8695065272fc2c1ff681f981c353b1}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Open Economies Review}
@@ -2004,8 +2049,8 @@
       \strng{authorbibnamehash}{7afa24b41101598853c9f506dce425c4}
       \strng{authornamehash}{7afa24b41101598853c9f506dce425c4}
       \strng{authorfullhash}{7afa24b41101598853c9f506dce425c4}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Layered Money}
@@ -2026,13 +2071,57 @@
       \strng{authorbibnamehash}{3ec84f96fd84a4c320635d0067584d9c}
       \strng{authornamehash}{3ec84f96fd84a4c320635d0067584d9c}
       \strng{authorfullhash}{3ec84f96fd84a4c320635d0067584d9c}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Online verfügbar unter: https://nakamotoin}
       \field{title}{Hyperbitcoinization}
       \field{year}{2014}
+    \endentry
+    \entry{malherbe2019cryptocurrencies}{article}{}
+      \name{author}{4}{}{%
+        {{hash=3fb256bbf3780fdd4807283cc483928a}{%
+           family={Malherbe},
+           familyi={M\bibinitperiod},
+           given={Leo},
+           giveni={L\bibinitperiod}}}%
+        {{hash=91fe6e5ddd24c67e55d7af3ea9cd57cd}{%
+           family={Montalban},
+           familyi={M\bibinitperiod},
+           given={Matthieu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a567af3a5a1fc770b12296b4034af85e}{%
+           family={Bédu},
+           familyi={B\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=49e77865ce351076818b56a7fc536a96}{%
+           family={Granier},
+           familyi={G\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{7006b1cd80b03699267994b0d34474fe}
+      \strng{fullhash}{9b2ca01b37ccdeb4a1e53b11a096e836}
+      \strng{bibnamehash}{7006b1cd80b03699267994b0d34474fe}
+      \strng{authorbibnamehash}{7006b1cd80b03699267994b0d34474fe}
+      \strng{authornamehash}{7006b1cd80b03699267994b0d34474fe}
+      \strng{authorfullhash}{9b2ca01b37ccdeb4a1e53b11a096e836}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Political Economy}
+      \field{number}{2}
+      \field{title}{Cryptocurrencies and blockchain: Opportunities and limits of a new monetary regime}
+      \field{volume}{48}
+      \field{year}{2019}
+      \field{pages}{127\bibrangedash 152}
+      \range{pages}{26}
     \endentry
     \entry{lockwood2021exploring}{article}{}
       \name{author}{1}{}{%
@@ -2273,8 +2362,8 @@
       \strng{authorbibnamehash}{b49b33ac71f7106d94c9c7bf1a356498}
       \strng{authornamehash}{b49b33ac71f7106d94c9c7bf1a356498}
       \strng{authorfullhash}{7f09c21d897a2760e854c9eb2557d217}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Eye gaze is an important conversational resource that until now could only be supported across a distance if people were rooted to the spot. We introduce EyeCVE, the worldpsilas first tele-presence system that allows people in different physical locations to not only see what each other are doing but follow each otherpsilas eyes, even when walking about. Projected into each space are avatar representations of remote participants, that reproduce not only body, head and hand movements, but also those of the eyes. Spatial and temporal alignment of remote spaces allows the focus of gaze as well as activity and gesture to be used as a resource for non-verbal communication. The temporal challenge met was to reproduce eye movements quick enough and often enough to interpret their focus during a multi-way interaction, along with communicating other verbal and non-verbal language. The spatial challenge met was to maintain communicational eye gaze while allowing free movement of participants within a virtually shared common frame of reference. This paper reports on the technical and especially temporal characteristics of the system.}
@@ -2313,8 +2402,8 @@
       \strng{authorbibnamehash}{bf612ae66d086154ae62e8653c55f845}
       \strng{authornamehash}{bf612ae66d086154ae62e8653c55f845}
       \strng{authorfullhash}{bf612ae66d086154ae62e8653c55f845}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{British Journal of Oral and Maxillofacial Surgery}
@@ -2348,8 +2437,8 @@
       \strng{authorbibnamehash}{3750619fbe2292f61d67a5e9d876fe38}
       \strng{authornamehash}{3750619fbe2292f61d67a5e9d876fe38}
       \strng{authorfullhash}{3750619fbe2292f61d67a5e9d876fe38}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Why pictures look right when viewed from the wrong place}
@@ -2386,8 +2475,8 @@
       \strng{authorbibnamehash}{aded41e3797d44dfd76cf377a9691bfb}
       \strng{authornamehash}{aded41e3797d44dfd76cf377a9691bfb}
       \strng{authorfullhash}{aded41e3797d44dfd76cf377a9691bfb}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Perception of Where a Face or Television Portrait is Looking}
@@ -2414,8 +2503,8 @@
       \strng{authorbibnamehash}{cc81f1ba9e38dd4a7d6a338a8dbf0b71}
       \strng{authornamehash}{cc81f1ba9e38dd4a7d6a338a8dbf0b71}
       \strng{authorfullhash}{cc81f1ba9e38dd4a7d6a338a8dbf0b71}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{On the apparent direction of eyes in a portrait}
@@ -2464,8 +2553,8 @@
       \strng{authorbibnamehash}{949c3fb7a1e180a746e06f56027bc891}
       \strng{authornamehash}{949c3fb7a1e180a746e06f56027bc891}
       \strng{authorfullhash}{03df2ffc9058a49f599c4238403dacf7}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Two psychophysical experiments are reported, one dealing with the visual perception of the head orientation of another person (the 'looker') and the other dealing with the perception of the looker's direction of eye gaze. The participant viewed the looker with different retinal eccentricities, ranging from foveal to far-peripheral viewing. On average, judgments of head orientation were reliable even out to the extremes of peripheral vision (90 degrees eccentricity), with better performance at the extremes when the participant was able to view the looker changing head orientation from one trial to the next. In sharp contrast, judgments of eye-gaze direction were reliable only out to 4 degrees eccentricity, signifying that the eye-gaze social signal is available to people only when they fixate near the looker's eyes. While not unexpected, this vast difference in availability of information about head direction and eye direction, both of which can serve as indicators of the looker's focus of attention, is important for understanding the dynamics of eye-gaze behavior.}
@@ -2503,8 +2592,8 @@
       \strng{authorbibnamehash}{8d5e1a286ba9ba440e8b2a415ff41547}
       \strng{authornamehash}{8d5e1a286ba9ba440e8b2a415ff41547}
       \strng{authorfullhash}{8d5e1a286ba9ba440e8b2a415ff41547}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The impact of looking into the camera during a presentation over a video link (resulting in the perception of mutual gaze) on information recall was investigated. In a face-to-face context mutual gaze has been shown to facilitate the encoding and subsequent recall of information [Fry, R., Smith, G.F., 1975. The effects of feedback and eye contact on performance of a digit-coding task. J. Soc. Psychol. 96, 145-146; Otteson, J.D., Otteson, C.R., 1980. Effect of teacher's gaze on children's story recall. Percept. Motor Skill. 50, 35-42; Sherwood, J.V., 1988. Facilitative effects of gaze upon learning. Percept. Motor Skill. 64 (3 Part 2), 1275-1278]. One explanation for these findings is that gaze acts as an arousal stimulus, which increases attentional focus and therefore enhances memory [Kelley, D.H., Gorham, J., 1988. Effects of immediacy on recall of information. Commun. Edu. 37(3), 198-207]. Two studies were conducted in order to test whether gazing at the camera during video-mediated presentations resulted in similar benefits as mutual gaze in a face-to-face context. In study 1 a confederate presented information about two fictitious soap products. In one condition, the confederate gazed at the camera for 30\% of the presentation, therefore giving the participants the impression that he was gazing in their direction. In the other condition the confederate did not gaze at the camera. Participants viewed the sales presentations from both conditions. In the condition where gaze was directed at the camera, participants recalled significantly more information about the sales presentation. Study 2 employed the same pre-recorded sales presentations used in study 1, however they were delivered to the participants under audio-only conditions (therefore, the image was switched off). Results from study 2 indicated no recall differences between the two conditions. Findings from these studies would seem to indicate that the perception of gaze aversion over a video link (a consequence of the salesman not looking into the camera) has a negative impact on information recall. This has practical implications for video-mediated presentations. In a distance learning environment lecturers could be advised to look into the camera in order to promote more efficient learning in students.}
@@ -2542,8 +2631,8 @@
       \strng{authorbibnamehash}{1073d1d1d8b3ca19189a10ebcc7eea7e}
       \strng{authornamehash}{1073d1d1d8b3ca19189a10ebcc7eea7e}
       \strng{authorfullhash}{1073d1d1d8b3ca19189a10ebcc7eea7e}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Taming Mona Lisa}
@@ -2781,8 +2870,8 @@
       \strng{authorbibnamehash}{471852a6e38018e79130628828fc61c4}
       \strng{authornamehash}{471852a6e38018e79130628828fc61c4}
       \strng{authorfullhash}{471852a6e38018e79130628828fc61c4}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Bodily communication}
@@ -2811,8 +2900,8 @@
       \strng{authorbibnamehash}{63d08e6bf6ef5567f21211348be98db2}
       \strng{authornamehash}{63d08e6bf6ef5567f21211348be98db2}
       \strng{authorfullhash}{63d08e6bf6ef5567f21211348be98db2}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This paper explores durational aspects of pauses, gaps and overlaps in three different conversational corpora with a view to challenge claims about precision timing in turn-taking. Distributions of pause, gap and overlap durations in conversations are presented, and methodological issues regarding the statistical treatment of such distributions are discussed. The results are related to published minimal response times for spoken utterances and thresholds for detection of acoustic silences in speech. It is shown that turn-taking is generally less precise than is often claimed by researchers in the field of conversation analysis or interactional linguistics. These results are discussed in the light of their implications for models of timing in turn-taking, and for interaction control models in speech technology. In particular, it is argued that the proportion of speaker changes that could potentially be triggered by information immediately preceding the speaker change is large enough for reactive interaction controls models to be viable in speech technology.}
@@ -2846,8 +2935,8 @@
       \strng{authorbibnamehash}{ca0b408c89659857617600c16e4f05f1}
       \strng{authornamehash}{ca0b408c89659857617600c16e4f05f1}
       \strng{authorfullhash}{ca0b408c89659857617600c16e4f05f1}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Psychol. Bull.}
@@ -2882,8 +2971,8 @@
       \strng{authorbibnamehash}{beb5d1b85a16a873d421626d97f55054}
       \strng{authornamehash}{beb5d1b85a16a873d421626d97f55054}
       \strng{authorfullhash}{beb5d1b85a16a873d421626d97f55054}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Understanding intercultural communication}
@@ -2923,8 +3012,8 @@
       \strng{authorbibnamehash}{a48620f39b073a6f92ab80e9af8f7964}
       \strng{authornamehash}{a48620f39b073a6f92ab80e9af8f7964}
       \strng{authorfullhash}{a48620f39b073a6f92ab80e9af8f7964}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 7th international conference on Multimodal interfaces}
@@ -3084,8 +3173,8 @@
       \strng{authorbibnamehash}{ca268e3b4d032f52937751cdf8866b08}
       \strng{authornamehash}{ca268e3b4d032f52937751cdf8866b08}
       \strng{authorfullhash}{ca268e3b4d032f52937751cdf8866b08}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{\#jan\#}
@@ -3115,8 +3204,8 @@
       \strng{authorbibnamehash}{3b013a09acfc0b8edc9abd81d365f2ab}
       \strng{authornamehash}{3b013a09acfc0b8edc9abd81d365f2ab}
       \strng{authorfullhash}{3b013a09acfc0b8edc9abd81d365f2ab}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Eye-contact, Distance And Affiliation}
@@ -3144,8 +3233,8 @@
       \strng{authorbibnamehash}{aaea8f5724dc9b00d02319d2750b75f9}
       \strng{authornamehash}{aaea8f5724dc9b00d02319d2750b75f9}
       \strng{authorfullhash}{aaea8f5724dc9b00d02319d2750b75f9}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Gaze, Mutual Gaze, and Proximity}
@@ -3169,8 +3258,8 @@
       \strng{authorbibnamehash}{7db80fa33edea7342014bc75aaa11c7b}
       \strng{authornamehash}{7db80fa33edea7342014bc75aaa11c7b}
       \strng{authorfullhash}{7db80fa33edea7342014bc75aaa11c7b}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Films of two-person conversations were transcribed and analyzed from the point of view of how gaze direction is related to utterance and silence. It was found that patterns of looking were systematically related to features of talk and could be accounted for in terms of the monitoring functions of gaze. At the same time, evidence was presented that suggested that gaze direction may also play a role in the regulation of turn-taking in conversation.}
@@ -3205,8 +3294,8 @@
       \strng{authorbibnamehash}{4edea707a3ce6776eb5412b5505f2a78}
       \strng{authornamehash}{4edea707a3ce6776eb5412b5505f2a78}
       \strng{authorfullhash}{4edea707a3ce6776eb5412b5505f2a78}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Full gaze awareness, defined here as knowing what someone is looking at, might be expected to be a powerful communicative resource when the conversation concerns some object of common interest in the environment. This article sets out to demonstrate this possibility in the context of video-mediated communication. An experiment is reported in which pairs complete a communication task using a novel apparatus that supports full gaze awareness (GA) and mutual gaze (eye contact). This ``GA display'' was contrasted with 2 control conditions, mutual gaze without full gaze awareness and audio only. The GA display reduced the number of turns and number of words required to complete the task by about 1/2 in comparison with the 2 control conditions. The results of a subsequent conversational games analysis suggest that at least part of this saving comes about because full gaze awareness provides an alternative nonlinguistic channel for checking one's own and the other person's understanding of what was said.}
@@ -3247,8 +3336,8 @@
       \strng{authorbibnamehash}{9d4c568d2d4ce3723b578cb5b56ed55e}
       \strng{authornamehash}{9d4c568d2d4ce3723b578cb5b56ed55e}
       \strng{authorfullhash}{9d4c568d2d4ce3723b578cb5b56ed55e}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Role Of Gaze In Dialogue}
@@ -3282,8 +3371,8 @@
       \strng{authorbibnamehash}{92f3db8b86fdb9fe3fa1a64f55d62eb8}
       \strng{authornamehash}{92f3db8b86fdb9fe3fa1a64f55d62eb8}
       \strng{authorfullhash}{92f3db8b86fdb9fe3fa1a64f55d62eb8}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Explores the role of gaze in coordinating turn-taking in mixed-initiative conversation, and specifically how gaze indicators might be usefully modeled in computational dialogue systems. We analyzed about 20 minutes of videotape of eight dialogues by four pairs of subjects performing a simple face-to-face cooperative laboratory task. We extend previous studies by explicating gaze patterns in face-to-face conversations, formalizing the most frequent pattern as a computational model of turn-taking and testing the model through an agent-based simulation. Prior conversation simulations of conversational control acts relied on abstract speech-act representations of control. This study advances the computational account of dialogue through simulation of direct physical expression of gaze to coordinate conversational turns.}
@@ -3323,8 +3412,8 @@
       \strng{authorbibnamehash}{c2d4fd085a07d7062c5445d9edf77e07}
       \strng{authornamehash}{c2d4fd085a07d7062c5445d9edf77e07}
       \strng{authorfullhash}{c2d4fd085a07d7062c5445d9edf77e07}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Graphics interface}
@@ -3371,8 +3460,8 @@
       \strng{authorbibnamehash}{3c6467577ad4f8de2af8dc68e7c9e1d1}
       \strng{authornamehash}{3c6467577ad4f8de2af8dc68e7c9e1d1}
       \strng{authorfullhash}{90a501aa7f495a179aa64fa6f6f4fea6}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
@@ -3532,8 +3621,8 @@
       \strng{authorbibnamehash}{736bde54af93fa6d6005b5cbfe20fca8}
       \strng{authornamehash}{736bde54af93fa6d6005b5cbfe20fca8}
       \strng{authorfullhash}{aaeaf3eeb2720da5ac5a0763ef35b9a0}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The authors measured observers' ability to determine direction of gaze toward an object in space. In Experiment 1, they determined the difference threshold for determining whether a live ``looker'' was looking to the left or right of a target point. Acuity for eye direction was quite high (approximately 30 s arc). Viewing the movement of the looker's eyes did not improve acuity. When one of the looker's eyes was occluded, the observers' acuity was disrupted and their point of subjective equality was shifted away from the exposed eye. Experiment 2 was a replication of Experiment 1, but digitized gaze displays were used. The results of Experiment 3 showed that the acuity for direction of gaze depended on the position of the looker's target. Overall, the results indicated that humans are highly sensitive to gaze direction and that information from both eyes is used to determine direction of regard.}
@@ -3579,8 +3668,8 @@
       \strng{authorbibnamehash}{1e26963ab5bc0992ac5421967c3127e0}
       \strng{authornamehash}{1e26963ab5bc0992ac5421967c3127e0}
       \strng{authorfullhash}{0c653c77c63eb442713a2f4c50fbf379}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{When subjects viewed straight and turned eyes that were isolated singly or in pairs from a head that was straight or turned, they underestimated their true direction of gaze. They also underestimated the direction of head turn when both eyes were closed. However, the judged direction of gaze was improved when the eyes were layered against the heads. Judged direction of averted gaze was primarily based on the abducting eye. The effect that the deviation between an eye's optical axis and its true direction of gaze (angle kappa) has on its judged direction of gaze is discussed.}
@@ -6551,8 +6640,8 @@
       \strng{authorbibnamehash}{3aad26d46d0ae195b740b81f63e6e94b}
       \strng{authornamehash}{3aad26d46d0ae195b740b81f63e6e94b}
       \strng{authorfullhash}{d9519c1bea7f1ae80ab8f5ea85553fa5}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Synthesizing presence: A multidisciplinary review of the literature}
@@ -6599,8 +6688,8 @@
       \strng{authorbibnamehash}{174aaccf4051f80256e819ffe20bdc2c}
       \strng{authornamehash}{174aaccf4051f80256e819ffe20bdc2c}
       \strng{authorfullhash}{cc074898451db2a22b44fa704e86b5ac}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Virtual Reality (VR) is starting to be used in psychological therapy around the world. However, a thorough understanding of the reason why VR is effective and what effect it has on the human psyche is still missing. Most research on this subject is related to the concept of presence. This paper gives an up-to-date overview of research in this diverse field. It starts with the most prevailing definitions and theories on presence, most of which attribute special roles for the mental process of attention and for mental models of the virtual space. A review of the phenomena thought to be effected by presence shows that there is still a strong need for research on this subject because little conclusive evidence exists regarding the relationship between presence and phenoma such as emotional responses to virtual stimuli. An investigation shows there has been substantial research for developing methods for measuring presence and research regarding factors that contribute to presence. Knowledge of these contributing factors can play a vital role in development of new VR applications, but key knowledge elements in this area are still missing.}
@@ -6632,8 +6721,8 @@
       \strng{authornamehash}{df83b602f850d5091f5ab7de4726e66e}
       \strng{authorfullhash}{df83b602f850d5091f5ab7de4726e66e}
       \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Presence: Teleoperators and Virtual Environments}
@@ -6663,8 +6752,8 @@
       \strng{authorbibnamehash}{f29644eea493e78bb55906fcf074b573}
       \strng{authornamehash}{f29644eea493e78bb55906fcf074b573}
       \strng{authorfullhash}{f29644eea493e78bb55906fcf074b573}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Presence: Teleoperators and Virtual Environments}
@@ -6691,8 +6780,8 @@
       \strng{authorbibnamehash}{8f318dd6cfc9d97226589effb24d93a0}
       \strng{authornamehash}{8f318dd6cfc9d97226589effb24d93a0}
       \strng{authorfullhash}{8f318dd6cfc9d97226589effb24d93a0}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Cyborg Dilemma : Embodiment in Virtual Environments}
@@ -6733,8 +6822,8 @@
       \strng{authorbibnamehash}{2a65344f69cbc580c8997098035f468a}
       \strng{authornamehash}{2a65344f69cbc580c8997098035f468a}
       \strng{authorfullhash}{69b123a15950366e390459e0f121f0e2}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This article presents a model of how social influence processes affect individuals' attitudes toward communication media and media use behavior. The model integrates two areas of research. One body of work posits that media use patterns are the outcome of objectively rational choices. These choices involve evaluating communication options and selecting an appropriate medium to match the communication requirements of the task. The second perspective is social information processing theory (Salancik \& Pfeffer, 1978). This approach proposes that attitudes and behaviors are partially determined by information embedded in the social context. The synthesis of these perspectives asserts that media characteristics and attitudes are in part socially constructed. Furthermore, attitudes are influenced by attributions based on observations of one's own past behavior. This model is shown to explain a wider range of existing empirical findings. Also, new propositions are derived to guide future research. This social construction model of media use has significant implications for the design, conduct, and reporting of future research in organizations.}
@@ -6775,8 +6864,8 @@
       \strng{authorbibnamehash}{a2be0c9f18a60428a95fbfbc2519e8d7}
       \strng{authornamehash}{a2be0c9f18a60428a95fbfbc2519e8d7}
       \strng{authorfullhash}{a2be0c9f18a60428a95fbfbc2519e8d7}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Our research provided empirical evidence about the alternative means of communication used by 25 members of a research group who had available to them: unscheduled face-to-face encounters, sheduled face-to-face meetings, electronic mail, telephone, fax, and desktop videoconferencing. The intent of our research is to learn whether there are elements in existing group communication patterns that suggest how future communication systems can be designed or selected to fit the actual work relationships of a group. A detailed social network survey provided information about what members of the group communicated about, how they communicated, and with whom they communicated. Most communication was done through a combination of media, but predominately through unscheduled encounters, electronic mail, and scheduled meetings; people rarely videoconferenced, telephoned, or faxed. Factor analysis reduced the 24 work relationships to six distinct dimensions: receiving work, giving work, collaborative writing, major emotional support, sociability, and computer programming. The proportion in which the three main media were used varied according to the nature of the work dimension. Our findings suggest that a multivariate perspective that considers group norms and practices, social networks, and work dimensions is necessary to analyze media use.}
