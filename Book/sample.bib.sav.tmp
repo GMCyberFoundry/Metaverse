@@ -13081,4 +13081,230 @@
   title     = {What Was the Third World?},
   year      = {2003},
   number    = {2},
-  pages   
+  pages     = {307--321},
+  volume    = {38},
+  publisher = {Sage Publications Sage UK: London, England},
+}
+
+@TechReport{caballero2008financial,
+  author      = {Caballero, Ricardo J and Farhi, Emmanuel and Gourinchas, Pierre-Olivier},
+  institution = {National Bureau of Economic Research},
+  title       = {Financial crash, commodity prices and global imbalances},
+  year        = {2008},
+}
+
+@Book{spiro2019hidden,
+  author    = {Spiro, David E},
+  publisher = {Cornell University Press},
+  title     = {The hidden hand of American hegemony},
+  year      = {2019},
+}
+
+@Article{mathews2018china,
+  author  = {Mathews, John A and Selden, Mark},
+  journal = {The Asia-Pacific Journal},
+  title   = {China: The emergence of the Petroyuan and the challenge to US dollar hegemony},
+  year    = {2018},
+  number  = {22/3},
+  pages   = {1--12},
+  volume  = {16},
+}
+
+@Article{huang2016understanding,
+  author    = {Huang, Yiping},
+  journal   = {China Economic Review},
+  title     = {Understanding China's Belt \& Road initiative: motivation, framework and assessment},
+  year      = {2016},
+  pages     = {314--321},
+  volume    = {40},
+  publisher = {Elsevier},
+}
+
+@InProceedings{carlsten2016instability,
+  author    = {Carlsten, Miles and Kalodner, Harry and Weinberg, S Matthew and Narayanan, Arvind},
+  booktitle = {Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security},
+  title     = {On the instability of bitcoin without the block reward},
+  year      = {2016},
+  pages     = {154--167},
+}
+
+@INPROCEEDINGS{Hager_undated,
+  author = {Hager, Joseph C and Ekman, Paul},
+  title = {{Long-Distance} Signals Transmission of Facial Affect},
+  pages = {77--82},
+  keywords = {litsurvey.bib}
+}
+
+@Other{Chen,
+  abstract   = {Journal of Visualization, https://doi.org/10.1007/s12650-019-00551-y},
+  author     = {Yi Chen and Zeli Guan and Rong Zhang and Xiaomin Du and Yunhai Wang},
+  doi        = {10.1007/s12650-019-00551-y},
+  file       = {:C\:/Users/its352/Docear/projects/Big data/literature_repository/Data Visuaisation/s12650-019-00551-y.pdf:PDF},
+  keywords   = {Association relationship, Graph analysis, Visual analytics, Graph simplification, Interaction techniques},
+  publishers = {Springer Berlin Heidelberg},
+  title      = {A survey on visualization approaches for exploring association relationships in graph data},
+}
+
+@Article{sayeed2019assessing,
+  author    = {Sayeed, Sarwar and Marco-Gisbert, Hector},
+  journal   = {Applied Sciences},
+  title     = {Assessing blockchain consensus and security mechanisms against the 51\% attack},
+  year      = {2019},
+  number    = {9},
+  pages     = {1788},
+  volume    = {9},
+  publisher = {Multidisciplinary Digital Publishing Institute},
+}
+
+@TechReport{stoeferle2018gold,
+  author      = {Stoeferle, Ronald-Peter and Valek, Mark J},
+  institution = {Technical report},
+  title       = {Gold and the Turning of the Monetary Tides},
+  year        = {2018},
+}
+
+@Article{piffaretti2009reshaping,
+  author  = {Piffaretti, Nadia},
+  journal = {World Bank Policy Research Working Paper},
+  title   = {Reshaping the international monetary architecture: lessons from Keynes' plan},
+  year    = {2009},
+  number  = {5034},
+}
+
+@InProceedings{carney2019growing,
+  author    = {Carney, Mark},
+  booktitle = {Remarks at the Jackson Hole Symposium},
+  title     = {The growing challenges for monetary policy in the current international monetary and financial system},
+  year      = {2019},
+  volume    = {23},
+}
+
+@InProceedings{rogaway2004cryptographic,
+  author       = {Rogaway, Phillip and Shrimpton, Thomas},
+  booktitle    = {International workshop on fast software encryption},
+  title        = {Cryptographic hash-function basics: Definitions, implications, and separations for preimage resistance, second-preimage resistance, and collision resistance},
+  year         = {2004},
+  organization = {Springer},
+  pages        = {371--388},
+}
+
+@Article{de2022revisiting,
+  author    = {de Vries, Alex and Gallersd{\"o}rfer, Ulrich and Klaa{\ss}en, Lena and Stoll, Christian},
+  journal   = {Joule},
+  title     = {Revisiting Bitcoin’s carbon footprint},
+  year      = {2022},
+  publisher = {Elsevier},
+}
+
+@Article{clements2021built,
+  author    = {Clements, Ryan},
+  journal   = {Wake Forest L. Rev. Online},
+  title     = {Built to Fail: The Inherent Fragility of Algorithmic Stablecoins},
+  year      = {2021},
+  pages     = {131},
+  volume    = {11},
+  publisher = {HeinOnline},
+}
+
+@Article{hendrickson2021value,
+  author  = {Hendrickson, Joshua R and Luther, William J},
+  journal = {AIER Sound Money Project Working Paper},
+  title   = {The Value of Bitcoin in the Year 2141 (and beyond!)},
+  year    = {2021},
+  number  = {2021-06},
+}
+
+@Article{Vertegaal2003,
+  author   = {Vertegaal, Roel and Weevers, Ivo},
+  journal  = {Proceedings of the SIGCHI \ldots},
+  title    = {{GAZE-2: conveying eye contact in group video conferencing using eye-controlled camera direction}},
+  year     = {2003},
+  number   = {5},
+  pages    = {521--528},
+  file     = {:/Users/its352/Dropbox/docear_workspace/literature_repository/papers/p521-vertegaal.pdf:pdf},
+  groups   = {its352:1},
+  isbn     = {1581136307},
+  keywords = {attentive user interfaces, conferencing, eye contact, eye tracking, gaze, multiparty video},
+}
+
+@InProceedings{Cooke2002,
+  author      = {Cooke, Eddie and Kauff, Peter and Schreer, Oliver},
+  booktitle   = {{Video/Image} Processing and Multimedia Communications 4},
+  title       = {Multiple Narrow-baseline System For Immersive Teleconferencing},
+  year        = {2002},
+  pages       = {367--370},
+  institution = {IEEE},
+  keywords    = {litsurvey.bib},
+}
+
+@Article{selvam2021blockchain,
+  author  = {Selvam, Vijay},
+  journal = {Available at SSRN 3880186},
+  title   = {The Blockchain That Matters: A Comparative Analysis of Bitcoin's Fundamentally Unique and Irreplicable Properties},
+  year    = {2021},
+}
+
+@BOOK{Argyle1988,
+  title = {Bodily communication},
+  publisher = {Methuen},
+  year = {1988},
+  author = {Argyle, Michael},
+  keywords = {litsurvey.bib}
+}
+
+@Article{malherbe2019cryptocurrencies,
+  author    = {Malherbe, Leo and Montalban, Matthieu and B{\'e}du, Nicolas and Granier, Caroline},
+  journal   = {International Journal of Political Economy},
+  title     = {Cryptocurrencies and blockchain: Opportunities and limits of a new monetary regime},
+  year      = {2019},
+  number    = {2},
+  pages     = {127--152},
+  volume    = {48},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{nakamoto2018,
+  author = {Satoshi Nakamoto},
+  title  = {Duality: an excerpt},
+  year   = {2018},
+}
+
+@Article{chohan2021double,
+  author  = {Chohan, Usman W},
+  journal = {Available at SSRN 3090174},
+  title   = {The double spending problem and cryptocurrencies},
+  year    = {2021},
+}
+
+@Article{szabo1997formalizing,
+  author  = {Szabo, Nick},
+  journal = {First monday},
+  title   = {Formalizing and securing relationships on public networks},
+  year    = {1997},
+}
+
+@InProceedings{schnorr1989efficient,
+  author       = {Schnorr, Claus-Peter},
+  booktitle    = {Conference on the Theory and Application of Cryptology},
+  title        = {Efficient identification and signatures for smart cards},
+  year         = {1989},
+  organization = {Springer},
+  pages        = {239--252},
+}
+
+@Article{perez2019double,
+  author    = {P{\'e}rez-Sol{\`a}, Cristina and Delgado-Segura, Sergi and Navarro-Arribas, Guillermo and Herrera-Joancomart{\'\i}, Jordi},
+  journal   = {International Journal of Information Security},
+  title     = {Double-spending prevention for bitcoin zero-confirmation transactions},
+  year      = {2019},
+  number    = {4},
+  pages     = {451--463},
+  volume    = {18},
+  publisher = {Springer},
+}
+
+@InProceedings{moser2013inquiry,
+  author       = {M{\"o}ser, Malte and B{\"o}hme, Rainer and Breuker, Dominic},
+  booktitle    = {2013 APWG eCrime researchers summit},
+  title        = {An inquiry into money laundering tools in the Bitcoin ecosystem},
+  year       
