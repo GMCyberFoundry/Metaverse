@@ -13330,14 +13330,4 @@
   pages        = {104--121},
 }
 
-@Article{hafid2020scaling,
-  author    = {Hafid, Abdelatif and Hafid, Abdelhakim Senhaji and Samih, Mustapha},
-  journal   = {IEEE Access},
-  title     = {Scaling blockchains: A comprehensive survey},
-  year      = {2020},
-  pages     = {125244--125262},
-  volume    = {8},
-  publisher = {IEEE},
-}
-
 @Comment{jabref-meta: databaseType:bibtex;}

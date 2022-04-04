@@ -1273,6 +1273,32 @@
       \field{pages}{371\bibrangedash 388}
       \range{pages}{18}
     \endentry
+    \entry{cross2021greening}{article}{}
+      \name{author}{2}{}{%
+        {{hash=360e81eb96b033061329f9a9b3b8c24d}{%
+           family={Cross},
+           familyi={C\bibinitperiod},
+           given={Troy},
+           giveni={T\bibinitperiod}}}%
+        {{hash=ffe778a1f517b0042016e42c1ba72a5e}{%
+           family={Bailey},
+           familyi={B\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{10b78fa151b518f033a6808356605b81}
+      \strng{fullhash}{10b78fa151b518f033a6808356605b81}
+      \strng{bibnamehash}{10b78fa151b518f033a6808356605b81}
+      \strng{authorbibnamehash}{10b78fa151b518f033a6808356605b81}
+      \strng{authornamehash}{10b78fa151b518f033a6808356605b81}
+      \strng{authorfullhash}{10b78fa151b518f033a6808356605b81}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GREENING BITCOIN WITH INCENTIVE OFFSETS}
+      \field{year}{2021}
+    \endentry
     \entry{griffith2021electrify}{book}{}
       \name{author}{1}{}{%
         {{hash=c469d16f6e8aceb32f1aadd3323f5895}{%
@@ -1290,8 +1316,8 @@
       \strng{authorbibnamehash}{c469d16f6e8aceb32f1aadd3323f5895}
       \strng{authornamehash}{c469d16f6e8aceb32f1aadd3323f5895}
       \strng{authorfullhash}{c469d16f6e8aceb32f1aadd3323f5895}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Electrify: An Optimist's Playbook for Our Clean Energy Future}
@@ -1626,8 +1652,8 @@
       \strng{authorbibnamehash}{3f27eddce3a607e7c80192306357d060}
       \strng{authornamehash}{3f27eddce3a607e7c80192306357d060}
       \strng{authorfullhash}{21c98029c1148dfe2fa12d4ee18a436f}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security}
@@ -1971,8 +1997,8 @@
       \strng{authorbibnamehash}{969324062b1e1c947cc79ec27e075957}
       \strng{authornamehash}{969324062b1e1c947cc79ec27e075957}
       \strng{authorfullhash}{969324062b1e1c947cc79ec27e075957}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{AIER Sound Money Project Working Paper}
@@ -2310,8 +2336,8 @@
       \strng{authorbibnamehash}{77c79579ff958e99836be1d3b048a216}
       \strng{authornamehash}{77c79579ff958e99836be1d3b048a216}
       \strng{authorfullhash}{77c79579ff958e99836be1d3b048a216}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in Blockchain}
@@ -2841,8 +2867,8 @@
       \strng{authornamehash}{147ccab064ffb95110c2245d5b3a7cc0}
       \strng{authorfullhash}{147ccab064ffb95110c2245d5b3a7cc0}
       \field{extraname}{1}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
@@ -3663,8 +3689,8 @@
       \strng{authorbibnamehash}{60bdf10057aa68c517b4084343e51609}
       \strng{authornamehash}{60bdf10057aa68c517b4084343e51609}
       \strng{authorfullhash}{60bdf10057aa68c517b4084343e51609}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Three experiments are reported that investigate the hypothesis that head orientation and gaze direction interact in the processing of another individual's direction of social attention. A Stroop-type interference paradigm was adopted, in which gaze and head cues were placed into conflict. In separate blocks of trials, participants were asked to make speeded keypress responses contingent on either the direction of gaze, or the orientation of the head displayed in a digitized photograph of a male face. In Experiments 1 and 2, head and gaze cues showed symmetrical interference effects. Compared with congruent arrangements, incongruent head cues slowed responses to gaze cues, and incongruent gaze cues slowed responses to head cues, suggesting that head and gaze are mutually influential in the analysis of social attention direction. This mutuality was also evident in a cross-modal version of the task (Experiment 3) where participants responded to spoken directional words whilst ignoring the head/gaze images. It is argued that these interference effects arise from the independent influences of gaze and head orientation on decisions concerning social attention direction.}
@@ -6608,8 +6634,8 @@
       \strng{authorbibnamehash}{65c643e0a985c2835a6276d9eb1c57a7}
       \strng{authornamehash}{65c643e0a985c2835a6276d9eb1c57a7}
       \strng{authorfullhash}{1e2d434b366e9ac56e1b82864d99d3e5}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Previous attempts at bringing gaze awareness to desktop videoconferencing have relied on hardware solutions. In this article, the authors describe their software approach, which tracks participants' head and eye movements using vision techniques, then uses this information to graphically place the head and eyes in a 3D environment.}
@@ -6657,8 +6683,8 @@
       \strng{authorbibnamehash}{867b24429c42e187e3ae2e73fcb82f4f}
       \strng{authornamehash}{867b24429c42e187e3ae2e73fcb82f4f}
       \strng{authorfullhash}{ac38494ad63904585212db91ed5e73a4}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{\#nov\#}
