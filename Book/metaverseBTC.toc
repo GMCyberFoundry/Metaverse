@@ -36,25 +36,26 @@
 \contentsline {subsubsection}{\numberline {3.2.4.1}Taproot}{42}{subsubsection.3.2.4.1}%
 \contentsline {subsubsection}{\numberline {3.2.4.2}AnyPrevOut}{42}{subsubsection.3.2.4.2}%
 \contentsline {subsubsection}{\numberline {3.2.4.3}CheckTemplateVerify}{42}{subsubsection.3.2.4.3}%
-\contentsline {subsubsection}{\numberline {3.2.4.4}Simplicity scripting language}{42}{subsubsection.3.2.4.4}%
-\contentsline {subsubsection}{\numberline {3.2.4.5}Ossification}{42}{subsubsection.3.2.4.5}%
-\contentsline {section}{\numberline {3.3}Extending the BTC ecosystem }{42}{section.3.3}%
+\contentsline {subsubsection}{\numberline {3.2.4.4}Blind merge mining}{42}{subsubsection.3.2.4.4}%
+\contentsline {subsubsection}{\numberline {3.2.4.5}Simplicity scripting language}{42}{subsubsection.3.2.4.5}%
+\contentsline {subsubsection}{\numberline {3.2.4.6}Ossification}{43}{subsubsection.3.2.4.6}%
+\contentsline {section}{\numberline {3.3}Extending the BTC ecosystem }{43}{section.3.3}%
 \contentsline {subsection}{\numberline {3.3.1}Block \& SpiralBTC}{43}{subsection.3.3.1}%
 \contentsline {subsection}{\numberline {3.3.2}BTCPayServer}{43}{subsection.3.3.2}%
 \contentsline {section}{\numberline {3.4}Lightning (Layer 2)}{43}{section.3.4}%
 \contentsline {subsection}{\numberline {3.4.1}Micropayments}{45}{subsection.3.4.1}%
 \contentsline {subsection}{\numberline {3.4.2}BOLT12 and recurring payments}{45}{subsection.3.4.2}%
 \contentsline {subsection}{\numberline {3.4.3}LNBits}{45}{subsection.3.4.3}%
-\contentsline {subsection}{\numberline {3.4.4}Etleneum}{47}{subsection.3.4.4}%
-\contentsline {subsection}{\numberline {3.4.5}Message passing}{47}{subsection.3.4.5}%
-\contentsline {section}{\numberline {3.5}Liquid federation (layer 2)}{47}{section.3.5}%
+\contentsline {subsection}{\numberline {3.4.4}Etleneum}{46}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}Message passing}{46}{subsection.3.4.5}%
+\contentsline {section}{\numberline {3.5}Liquid federation (layer 2)}{46}{section.3.5}%
 \contentsline {section}{\numberline {3.6}Bitcoin Layer 3}{48}{section.3.6}%
 \contentsline {subsection}{\numberline {3.6.1}LNP/BP and RGB}{48}{subsection.3.6.1}%
 \contentsline {subsection}{\numberline {3.6.2}Slashpay}{50}{subsection.3.6.2}%
 \contentsline {subsection}{\numberline {3.6.3}Spacechains}{51}{subsection.3.6.3}%
 \contentsline {subsection}{\numberline {3.6.4}Statechains, drivechain, softchains}{51}{subsection.3.6.4}%
 \contentsline {section}{\numberline {3.7}Other chains and networks}{51}{section.3.7}%
-\contentsline {subsection}{\numberline {3.7.1}Layer 1 chains}{51}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.1}Layer 1 chains}{52}{subsection.3.7.1}%
 \contentsline {section}{\numberline {3.8}Risks and mitigations}{53}{section.3.8}%
 \contentsline {subsection}{\numberline {3.8.1}Digital assets}{53}{subsection.3.8.1}%
 \contentsline {subsection}{\numberline {3.8.2}Bitcoin specifically}{54}{subsection.3.8.2}%
