@@ -153,53 +153,54 @@
 \contentsline {subsubsection}{\numberline {7.11.1.9}VRChat}{107}{subsubsection.7.11.1.9}%
 \contentsline {subsubsection}{\numberline {7.11.1.10}NEOSVR}{107}{subsubsection.7.11.1.10}%
 \contentsline {subsubsection}{\numberline {7.11.1.11}Meta Horizon Worlds \& Workrooms}{107}{subsubsection.7.11.1.11}%
-\contentsline {subsubsection}{\numberline {7.11.1.12}Vircadia}{107}{subsubsection.7.11.1.12}%
-\contentsline {chapter}{\numberline {8}Our proposition}{108}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Our socialisation best practice}{109}{section.8.1}%
-\contentsline {subsubsection}{\numberline {8.1.0.1}Identity}{109}{subsubsection.8.1.0.1}%
-\contentsline {subsubsection}{\numberline {8.1.0.2}Webs of trust}{109}{subsubsection.8.1.0.2}%
-\contentsline {subsubsection}{\numberline {8.1.0.3}Integration of 'good' actor AI entities}{109}{subsubsection.8.1.0.3}%
-\contentsline {subsection}{\numberline {8.1.1}Emulation of important social cues}{109}{subsection.8.1.1}%
-\contentsline {subsubsection}{\numberline {8.1.1.1}Behaviour incentives, arbitration, and penalties}{109}{subsubsection.8.1.1.1}%
-\contentsline {section}{\numberline {8.2}Potential applications }{109}{section.8.2}%
-\contentsline {subsection}{\numberline {8.2.1}Global cybersec course delivery}{110}{subsection.8.2.1}%
-\contentsline {part}{\numberline {II}Guides for deploying the software}{113}{part.2}%
-\contentsline {section}{\numberline {8.3}Lab}{114}{section.8.3}%
-\contentsline {subsection}{\numberline {8.3.1}Overview}{114}{subsection.8.3.1}%
-\contentsline {subsubsection}{\numberline {8.3.1.1}Summary of software}{114}{subsubsection.8.3.1.1}%
-\contentsline {subsection}{\numberline {8.3.2}Prerequisites}{114}{subsection.8.3.2}%
-\contentsline {subsection}{\numberline {8.3.3}Network details}{114}{subsection.8.3.3}%
-\contentsline {subsection}{\numberline {8.3.4}Server configuration}{114}{subsection.8.3.4}%
-\contentsline {subsubsection}{\numberline {8.3.4.1}Server hardware details}{114}{subsubsection.8.3.4.1}%
-\contentsline {subsubsection}{\numberline {8.3.4.2}Disk configuration details}{114}{subsubsection.8.3.4.2}%
-\contentsline {subsection}{\numberline {8.3.5}Proxmox VE}{114}{subsection.8.3.5}%
-\contentsline {subsubsection}{\numberline {8.3.5.1}Installation and configuration}{114}{subsubsection.8.3.5.1}%
-\contentsline {paragraph}{Dialogue 1}{114}{paragraph*.4}%
-\contentsline {paragraph}{Dialogue 2}{114}{paragraph*.5}%
-\contentsline {paragraph}{Dialogue 3}{115}{paragraph*.6}%
-\contentsline {paragraph}{Dialogue 4}{115}{paragraph*.7}%
-\contentsline {subsubsection}{\numberline {8.3.5.2}Software updates}{115}{subsubsection.8.3.5.2}%
-\contentsline {subsubsection}{\numberline {8.3.5.3}Proxmox VE hardening}{116}{subsubsection.8.3.5.3}%
-\contentsline {subsection}{\numberline {8.3.6}Setup an internal only network in Proxmox VE}{116}{subsection.8.3.6}%
-\contentsline {subsection}{\numberline {8.3.7}Install and configure Internet gateway server virtual machine}{116}{subsection.8.3.7}%
-\contentsline {subsubsection}{\numberline {8.3.7.1}Create an ISO of the stable version (as of writing 1.3.0)}{116}{subsubsection.8.3.7.1}%
-\contentsline {subsubsection}{\numberline {8.3.7.2}Upload the ISO image to the Proxmox VE server}{117}{subsubsection.8.3.7.2}%
-\contentsline {subsubsection}{\numberline {8.3.7.3}Create VyOS virtual machine}{117}{subsubsection.8.3.7.3}%
-\contentsline {subsubsection}{\numberline {8.3.7.4}Configure VyOS}{117}{subsubsection.8.3.7.4}%
-\contentsline {subsection}{\numberline {8.3.8}Install and configure a Debian virtual machine}{118}{subsection.8.3.8}%
-\contentsline {subsection}{\numberline {8.3.9}Deploying the nix-bitcoin node}{119}{subsection.8.3.9}%
-\contentsline {subsubsection}{\numberline {8.3.9.1}Acquiring NixOS}{119}{subsubsection.8.3.9.1}%
-\contentsline {subsubsection}{\numberline {8.3.9.2}Create a new VM}{119}{subsubsection.8.3.9.2}%
-\contentsline {subsubsection}{\numberline {8.3.9.3}Configure the additional drive (optional)}{120}{subsubsection.8.3.9.3}%
-\contentsline {subsubsection}{\numberline {8.3.9.4}Create port forwarding rules for SSH (optional)}{121}{subsubsection.8.3.9.4}%
-\contentsline {paragraph}{Debian}{121}{paragraph*.8}%
-\contentsline {paragraph}{NixOS}{121}{paragraph*.9}%
-\contentsline {subsubsection}{\numberline {8.3.9.5}Prepare nix-bitcoin NixOS package}{122}{subsubsection.8.3.9.5}%
-\contentsline {paragraph}{Additional hard drive configuration}{124}{paragraph*.10}%
-\contentsline {paragraph}{Static IP configuration}{124}{paragraph*.11}%
-\contentsline {paragraph}{SSH configuration}{125}{paragraph*.12}%
-\contentsline {paragraph}{Services configuration}{125}{paragraph*.13}%
-\contentsline {part}{\numberline {III}Appendix}{126}{part.3}%
-\contentsline {section}{\numberline {8.4}Acknowledgements and thanks}{127}{section.8.4}%
-\contentsline {section}{\numberline {8.5}Author Biographies}{127}{section.8.5}%
+\contentsline {subsubsection}{\numberline {7.11.1.12}Webaverse}{107}{subsubsection.7.11.1.12}%
+\contentsline {subsubsection}{\numberline {7.11.1.13}Vircadia}{108}{subsubsection.7.11.1.13}%
+\contentsline {chapter}{\numberline {8}Our proposition}{109}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Our socialisation best practice}{110}{section.8.1}%
+\contentsline {subsubsection}{\numberline {8.1.0.1}Identity}{110}{subsubsection.8.1.0.1}%
+\contentsline {subsubsection}{\numberline {8.1.0.2}Webs of trust}{110}{subsubsection.8.1.0.2}%
+\contentsline {subsubsection}{\numberline {8.1.0.3}Integration of 'good' actor AI entities}{110}{subsubsection.8.1.0.3}%
+\contentsline {subsection}{\numberline {8.1.1}Emulation of important social cues}{110}{subsection.8.1.1}%
+\contentsline {subsubsection}{\numberline {8.1.1.1}Behaviour incentives, arbitration, and penalties}{110}{subsubsection.8.1.1.1}%
+\contentsline {section}{\numberline {8.2}Potential applications }{110}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Global cybersec course delivery}{111}{subsection.8.2.1}%
+\contentsline {part}{\numberline {II}Guides for deploying the software}{114}{part.2}%
+\contentsline {section}{\numberline {8.3}Lab}{115}{section.8.3}%
+\contentsline {subsection}{\numberline {8.3.1}Overview}{115}{subsection.8.3.1}%
+\contentsline {subsubsection}{\numberline {8.3.1.1}Summary of software}{115}{subsubsection.8.3.1.1}%
+\contentsline {subsection}{\numberline {8.3.2}Prerequisites}{115}{subsection.8.3.2}%
+\contentsline {subsection}{\numberline {8.3.3}Network details}{115}{subsection.8.3.3}%
+\contentsline {subsection}{\numberline {8.3.4}Server configuration}{115}{subsection.8.3.4}%
+\contentsline {subsubsection}{\numberline {8.3.4.1}Server hardware details}{115}{subsubsection.8.3.4.1}%
+\contentsline {subsubsection}{\numberline {8.3.4.2}Disk configuration details}{115}{subsubsection.8.3.4.2}%
+\contentsline {subsection}{\numberline {8.3.5}Proxmox VE}{115}{subsection.8.3.5}%
+\contentsline {subsubsection}{\numberline {8.3.5.1}Installation and configuration}{115}{subsubsection.8.3.5.1}%
+\contentsline {paragraph}{Dialogue 1}{115}{paragraph*.4}%
+\contentsline {paragraph}{Dialogue 2}{115}{paragraph*.5}%
+\contentsline {paragraph}{Dialogue 3}{116}{paragraph*.6}%
+\contentsline {paragraph}{Dialogue 4}{116}{paragraph*.7}%
+\contentsline {subsubsection}{\numberline {8.3.5.2}Software updates}{116}{subsubsection.8.3.5.2}%
+\contentsline {subsubsection}{\numberline {8.3.5.3}Proxmox VE hardening}{117}{subsubsection.8.3.5.3}%
+\contentsline {subsection}{\numberline {8.3.6}Setup an internal only network in Proxmox VE}{117}{subsection.8.3.6}%
+\contentsline {subsection}{\numberline {8.3.7}Install and configure Internet gateway server virtual machine}{117}{subsection.8.3.7}%
+\contentsline {subsubsection}{\numberline {8.3.7.1}Create an ISO of the stable version (as of writing 1.3.0)}{117}{subsubsection.8.3.7.1}%
+\contentsline {subsubsection}{\numberline {8.3.7.2}Upload the ISO image to the Proxmox VE server}{118}{subsubsection.8.3.7.2}%
+\contentsline {subsubsection}{\numberline {8.3.7.3}Create VyOS virtual machine}{118}{subsubsection.8.3.7.3}%
+\contentsline {subsubsection}{\numberline {8.3.7.4}Configure VyOS}{118}{subsubsection.8.3.7.4}%
+\contentsline {subsection}{\numberline {8.3.8}Install and configure a Debian virtual machine}{119}{subsection.8.3.8}%
+\contentsline {subsection}{\numberline {8.3.9}Deploying the nix-bitcoin node}{120}{subsection.8.3.9}%
+\contentsline {subsubsection}{\numberline {8.3.9.1}Acquiring NixOS}{120}{subsubsection.8.3.9.1}%
+\contentsline {subsubsection}{\numberline {8.3.9.2}Create a new VM}{120}{subsubsection.8.3.9.2}%
+\contentsline {subsubsection}{\numberline {8.3.9.3}Configure the additional drive (optional)}{121}{subsubsection.8.3.9.3}%
+\contentsline {subsubsection}{\numberline {8.3.9.4}Create port forwarding rules for SSH (optional)}{122}{subsubsection.8.3.9.4}%
+\contentsline {paragraph}{Debian}{122}{paragraph*.8}%
+\contentsline {paragraph}{NixOS}{122}{paragraph*.9}%
+\contentsline {subsubsection}{\numberline {8.3.9.5}Prepare nix-bitcoin NixOS package}{123}{subsubsection.8.3.9.5}%
+\contentsline {paragraph}{Additional hard drive configuration}{125}{paragraph*.10}%
+\contentsline {paragraph}{Static IP configuration}{125}{paragraph*.11}%
+\contentsline {paragraph}{SSH configuration}{126}{paragraph*.12}%
+\contentsline {paragraph}{Services configuration}{126}{paragraph*.13}%
+\contentsline {part}{\numberline {III}Appendix}{127}{part.3}%
+\contentsline {section}{\numberline {8.4}Acknowledgements and thanks}{128}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Author Biographies}{128}{section.8.5}%
 \contentsfinish 
