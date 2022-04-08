@@ -27,7 +27,7 @@
 \contentsline {subsection}{\numberline {3.2.3}Technical overview}{38}{subsection.3.2.3}%
 \contentsline {subsubsection}{\numberline {3.2.3.1}ECDSA / SHA256 / secp256k1}{38}{subsubsection.3.2.3.1}%
 \contentsline {subsubsection}{\numberline {3.2.3.2}Bitcoin script}{38}{subsubsection.3.2.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.3.3}Addresses \& UTXOs}{38}{subsubsection.3.2.3.3}%
+\contentsline {subsubsection}{\numberline {3.2.3.3}Addresses \& UTXOs}{40}{subsubsection.3.2.3.3}%
 \contentsline {subsubsection}{\numberline {3.2.3.4}Halving}{40}{subsubsection.3.2.3.4}%
 \contentsline {subsubsection}{\numberline {3.2.3.5}Difficulty adjustment}{40}{subsubsection.3.2.3.5}%
 \contentsline {subsubsection}{\numberline {3.2.3.6}Bitcoin nodes }{40}{subsubsection.3.2.3.6}%
@@ -56,7 +56,7 @@
 \contentsline {subsection}{\numberline {3.6.4}Spacechains}{51}{subsection.3.6.4}%
 \contentsline {subsection}{\numberline {3.6.5}Statechains, drivechain, softchains}{52}{subsection.3.6.5}%
 \contentsline {section}{\numberline {3.7}Other chains and networks}{52}{section.3.7}%
-\contentsline {subsection}{\numberline {3.7.1}Layer 1 chains}{53}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.1}Layer 1 chains}{52}{subsection.3.7.1}%
 \contentsline {section}{\numberline {3.8}Risks and mitigations}{54}{section.3.8}%
 \contentsline {subsection}{\numberline {3.8.1}Digital assets}{54}{subsection.3.8.1}%
 \contentsline {subsection}{\numberline {3.8.2}Bitcoin specifically}{55}{subsection.3.8.2}%
@@ -122,37 +122,36 @@
 \contentsline {subsection}{\numberline {7.4.3}Behaviour}{95}{subsection.7.4.3}%
 \contentsline {subsubsection}{\numberline {7.4.3.1}Perception Of Honesty}{96}{subsubsection.7.4.3.1}%
 \contentsline {subsection}{\numberline {7.4.4}Presence, Co-presence, and Social Presence}{96}{subsection.7.4.4}%
-\contentsline {subsection}{\numberline {7.4.5}Beyond 2D Screens}{98}{subsection.7.4.5}%
-\contentsline {subsection}{\numberline {7.4.6}Other Systems to Support Business}{98}{subsection.7.4.6}%
-\contentsline {subsubsection}{\numberline {7.4.6.1}Spatially Faithful Group}{98}{subsubsection.7.4.6.1}%
-\contentsline {subsubsection}{\numberline {7.4.6.2}Robots, Shader Lamp, and Hybrid}{99}{subsubsection.7.4.6.2}%
-\contentsline {subsubsection}{\numberline {7.4.6.3}Holography and Volumetric}{101}{subsubsection.7.4.6.3}%
-\contentsline {section}{\numberline {7.5}Theoretical Framework}{102}{section.7.5}%
-\contentsline {subsection}{\numberline {7.5.1}Problem Statement}{102}{subsection.7.5.1}%
+\contentsline {subsection}{\numberline {7.4.5}Other Systems to Support Business}{98}{subsection.7.4.5}%
+\contentsline {subsubsection}{\numberline {7.4.5.1}Spatially Faithful Group}{98}{subsubsection.7.4.5.1}%
+\contentsline {subsubsection}{\numberline {7.4.5.2}Robots, Shader Lamp, and Hybrid}{99}{subsubsection.7.4.5.2}%
+\contentsline {subsubsection}{\numberline {7.4.5.3}Holography and Volumetric}{101}{subsubsection.7.4.5.3}%
+\contentsline {section}{\numberline {7.5}Theoretical Framework toward metaverse}{101}{section.7.5}%
+\contentsline {subsection}{\numberline {7.5.1}Problem Statement}{101}{subsection.7.5.1}%
 \contentsline {subsection}{\numberline {7.5.2}Core Assumptions}{102}{subsection.7.5.2}%
 \contentsline {subsection}{\numberline {7.5.3}Peripheral Assumptions}{103}{subsection.7.5.3}%
 \contentsline {section}{\numberline {7.6}Post `Meta' metaverse}{104}{section.7.6}%
-\contentsline {subsection}{\numberline {7.6.1}Mixed reality as a metaverse}{106}{subsection.7.6.1}%
-\contentsline {section}{\numberline {7.7}Digital Land Metaverses}{106}{section.7.7}%
-\contentsline {section}{\numberline {7.8}Global enterprise perspective}{106}{section.7.8}%
-\contentsline {section}{\numberline {7.9}NFT as metaverse narrative}{106}{section.7.9}%
-\contentsline {section}{\numberline {7.10}MMORG games and NFTs}{106}{section.7.10}%
-\contentsline {section}{\numberline {7.11}Crypto metaverses}{107}{section.7.11}%
-\contentsline {section}{\numberline {7.12}Immersive and third person XR}{108}{section.7.12}%
-\contentsline {subsubsection}{\numberline {7.12.0.1}Second Life}{108}{subsubsection.7.12.0.1}%
-\contentsline {subsubsection}{\numberline {7.12.0.2}Roblox}{108}{subsubsection.7.12.0.2}%
-\contentsline {subsubsection}{\numberline {7.12.0.3}Spatial}{108}{subsubsection.7.12.0.3}%
-\contentsline {subsubsection}{\numberline {7.12.0.4}MeetinVR}{108}{subsubsection.7.12.0.4}%
-\contentsline {subsubsection}{\numberline {7.12.0.5}Glue}{109}{subsubsection.7.12.0.5}%
-\contentsline {subsubsection}{\numberline {7.12.0.6}Mozilla Hubs}{109}{subsubsection.7.12.0.6}%
-\contentsline {subsubsection}{\numberline {7.12.0.7}FramesVR}{109}{subsubsection.7.12.0.7}%
-\contentsline {subsubsection}{\numberline {7.12.0.8}AltSpace}{109}{subsubsection.7.12.0.8}%
-\contentsline {subsubsection}{\numberline {7.12.0.9}Engage}{109}{subsubsection.7.12.0.9}%
-\contentsline {subsubsection}{\numberline {7.12.0.10}VRChat}{110}{subsubsection.7.12.0.10}%
-\contentsline {subsubsection}{\numberline {7.12.0.11}NEOSVR}{110}{subsubsection.7.12.0.11}%
-\contentsline {subsubsection}{\numberline {7.12.0.12}Meta Horizon Worlds \& Workrooms}{110}{subsubsection.7.12.0.12}%
-\contentsline {subsubsection}{\numberline {7.12.0.13}Webaverse}{110}{subsubsection.7.12.0.13}%
-\contentsline {subsubsection}{\numberline {7.12.0.14}Vircadia}{110}{subsubsection.7.12.0.14}%
+\contentsline {subsection}{\numberline {7.6.1}Mixed reality as a metaverse}{105}{subsection.7.6.1}%
+\contentsline {section}{\numberline {7.7}Immersive and third person XR}{106}{section.7.7}%
+\contentsline {subsubsection}{\numberline {7.7.0.1}Second Life}{106}{subsubsection.7.7.0.1}%
+\contentsline {subsubsection}{\numberline {7.7.0.2}Roblox}{106}{subsubsection.7.7.0.2}%
+\contentsline {subsubsection}{\numberline {7.7.0.3}Spatial}{106}{subsubsection.7.7.0.3}%
+\contentsline {subsubsection}{\numberline {7.7.0.4}MeetinVR}{106}{subsubsection.7.7.0.4}%
+\contentsline {subsubsection}{\numberline {7.7.0.5}Glue}{106}{subsubsection.7.7.0.5}%
+\contentsline {subsubsection}{\numberline {7.7.0.6}Mozilla Hubs}{106}{subsubsection.7.7.0.6}%
+\contentsline {subsubsection}{\numberline {7.7.0.7}FramesVR}{107}{subsubsection.7.7.0.7}%
+\contentsline {subsubsection}{\numberline {7.7.0.8}AltSpace}{107}{subsubsection.7.7.0.8}%
+\contentsline {subsubsection}{\numberline {7.7.0.9}Engage}{107}{subsubsection.7.7.0.9}%
+\contentsline {subsubsection}{\numberline {7.7.0.10}VRChat}{107}{subsubsection.7.7.0.10}%
+\contentsline {subsubsection}{\numberline {7.7.0.11}NEOSVR}{107}{subsubsection.7.7.0.11}%
+\contentsline {subsubsection}{\numberline {7.7.0.12}Meta Horizon Worlds \& Workrooms}{107}{subsubsection.7.7.0.12}%
+\contentsline {subsubsection}{\numberline {7.7.0.13}Webaverse}{108}{subsubsection.7.7.0.13}%
+\contentsline {subsubsection}{\numberline {7.7.0.14}Vircadia}{108}{subsubsection.7.7.0.14}%
+\contentsline {section}{\numberline {7.8}Digital Land Metaverses}{108}{section.7.8}%
+\contentsline {section}{\numberline {7.9}Global enterprise perspective}{108}{section.7.9}%
+\contentsline {section}{\numberline {7.10}NFT as metaverse narrative}{108}{section.7.10}%
+\contentsline {section}{\numberline {7.11}MMORG games and NFTs}{108}{section.7.11}%
+\contentsline {section}{\numberline {7.12}Crypto metaverses}{110}{section.7.12}%
 \contentsline {chapter}{\numberline {8}Our proposition}{111}{chapter.8}%
 \contentsline {section}{\numberline {8.1}Our socialisation best practice}{112}{section.8.1}%
 \contentsline {subsubsection}{\numberline {8.1.0.1}Identity}{112}{subsubsection.8.1.0.1}%
