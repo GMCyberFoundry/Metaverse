@@ -77,7 +77,7 @@
 \contentsline {subsection}{\numberline {4.5.1}Hyperbitcoinization}{68}{subsection.4.5.1}%
 \contentsline {section}{\numberline {4.6}Does DeFi matter to SMEs }{68}{section.4.6}%
 \contentsline {section}{\numberline {4.7}Do DAOs matter to SMEs}{69}{section.4.7}%
-\contentsline {subsection}{\numberline {4.7.1}Bisq DAO}{69}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.1}Bisq DAO}{70}{subsection.4.7.1}%
 \contentsline {subsection}{\numberline {4.7.2}Risks}{70}{subsection.4.7.2}%
 \contentsline {chapter}{\numberline {5}Distributed Self Sovereign Identity}{71}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Notes and thoughts - to be completed}{71}{section.5.1}%
@@ -114,48 +114,48 @@
 \contentsline {subsubsection}{\numberline {7.3.2.6}Effect of Shared Objects on Gaze}{89}{subsubsection.7.3.2.6}%
 \contentsline {section}{\numberline {7.4}Psychology of Technology-Mediated Interaction}{89}{section.7.4}%
 \contentsline {subsection}{\numberline {7.4.1}Proxemics}{89}{subsection.7.4.1}%
-\contentsline {subsection}{\numberline {7.4.2}Attention}{90}{subsection.7.4.2}%
-\contentsline {subsection}{\numberline {7.4.3}Behaviour}{91}{subsection.7.4.3}%
-\contentsline {subsubsection}{\numberline {7.4.3.1}Perception Of Honesty}{92}{subsubsection.7.4.3.1}%
-\contentsline {subsection}{\numberline {7.4.4}Dyadic}{92}{subsection.7.4.4}%
-\contentsline {subsubsection}{\numberline {7.4.4.1}Point to Point Telephony (Audio only)}{92}{subsubsection.7.4.4.1}%
-\contentsline {subsubsection}{\numberline {7.4.4.2}Point to Point Video Conferencing}{92}{subsubsection.7.4.4.2}%
-\contentsline {subsection}{\numberline {7.4.5}Triadic and Small Group}{93}{subsection.7.4.5}%
+\contentsline {subsection}{\numberline {7.4.2}Attention}{91}{subsection.7.4.2}%
+\contentsline {subsection}{\numberline {7.4.3}Behaviour}{92}{subsection.7.4.3}%
+\contentsline {subsubsection}{\numberline {7.4.3.1}Perception Of Honesty}{93}{subsubsection.7.4.3.1}%
+\contentsline {subsection}{\numberline {7.4.4}Dyadic}{93}{subsection.7.4.4}%
+\contentsline {subsubsection}{\numberline {7.4.4.1}Point to Point Telephony (Audio only)}{93}{subsubsection.7.4.4.1}%
+\contentsline {subsubsection}{\numberline {7.4.4.2}Point to Point Video Conferencing}{93}{subsubsection.7.4.4.2}%
+\contentsline {subsection}{\numberline {7.4.5}Triadic and Small Group}{94}{subsection.7.4.5}%
 \contentsline {subsection}{\numberline {7.4.6}Presence, Co-presence, and Social Presence}{94}{subsection.7.4.6}%
-\contentsline {subsection}{\numberline {7.4.7}Other Systems to Support Business}{95}{subsection.7.4.7}%
+\contentsline {subsection}{\numberline {7.4.7}Other Systems to Support Business}{96}{subsection.7.4.7}%
 \contentsline {subsection}{\numberline {7.4.8}Mutual Gaze in Telepresence}{96}{subsection.7.4.8}%
-\contentsline {subsection}{\numberline {7.4.9}Other Systems to Support Business}{96}{subsection.7.4.9}%
-\contentsline {subsubsection}{\numberline {7.4.9.1}Ad-hoc in SecondLife, immersive VR}{96}{subsubsection.7.4.9.1}%
-\contentsline {subsubsection}{\numberline {7.4.9.2}Tabletop and Shared Task}{96}{subsubsection.7.4.9.2}%
-\contentsline {subsection}{\numberline {7.4.10}Beyond 2D Screens}{97}{subsection.7.4.10}%
-\contentsline {subsubsection}{\numberline {7.4.10.1}Spatially Faithful Group}{97}{subsubsection.7.4.10.1}%
-\contentsline {subsubsection}{\numberline {7.4.10.2}Robots, Shader Lamp, and Hybrid}{98}{subsubsection.7.4.10.2}%
-\contentsline {subsubsection}{\numberline {7.4.10.3}Holography and Volumetric}{100}{subsubsection.7.4.10.3}%
-\contentsline {section}{\numberline {7.5}Theoretical Framework}{101}{section.7.5}%
-\contentsline {subsection}{\numberline {7.5.1}Problem Statement}{101}{subsection.7.5.1}%
-\contentsline {subsection}{\numberline {7.5.2}Core Assumptions}{101}{subsection.7.5.2}%
+\contentsline {subsection}{\numberline {7.4.9}Other Systems to Support Business}{97}{subsection.7.4.9}%
+\contentsline {subsubsection}{\numberline {7.4.9.1}Ad-hoc in SecondLife, immersive VR}{97}{subsubsection.7.4.9.1}%
+\contentsline {subsubsection}{\numberline {7.4.9.2}Tabletop and Shared Task}{97}{subsubsection.7.4.9.2}%
+\contentsline {subsection}{\numberline {7.4.10}Beyond 2D Screens}{98}{subsection.7.4.10}%
+\contentsline {subsubsection}{\numberline {7.4.10.1}Spatially Faithful Group}{98}{subsubsection.7.4.10.1}%
+\contentsline {subsubsection}{\numberline {7.4.10.2}Robots, Shader Lamp, and Hybrid}{99}{subsubsection.7.4.10.2}%
+\contentsline {subsubsection}{\numberline {7.4.10.3}Holography and Volumetric}{101}{subsubsection.7.4.10.3}%
+\contentsline {section}{\numberline {7.5}Theoretical Framework}{102}{section.7.5}%
+\contentsline {subsection}{\numberline {7.5.1}Problem Statement}{102}{subsection.7.5.1}%
+\contentsline {subsection}{\numberline {7.5.2}Core Assumptions}{102}{subsection.7.5.2}%
 \contentsline {subsection}{\numberline {7.5.3}Peripheral Assumptions}{103}{subsection.7.5.3}%
-\contentsline {section}{\numberline {7.6}Post `Meta' metaverse}{103}{section.7.6}%
-\contentsline {subsection}{\numberline {7.6.1}Mixed reality as a metaverse}{105}{subsection.7.6.1}%
-\contentsline {section}{\numberline {7.7}Digital Land Metaverses}{105}{section.7.7}%
-\contentsline {section}{\numberline {7.8}Global enterprise perspective}{105}{section.7.8}%
-\contentsline {section}{\numberline {7.9}NFT as metaverse narrative}{105}{section.7.9}%
-\contentsline {section}{\numberline {7.10}MMORG games and NFTs}{105}{section.7.10}%
+\contentsline {section}{\numberline {7.6}Post `Meta' metaverse}{104}{section.7.6}%
+\contentsline {subsection}{\numberline {7.6.1}Mixed reality as a metaverse}{106}{subsection.7.6.1}%
+\contentsline {section}{\numberline {7.7}Digital Land Metaverses}{106}{section.7.7}%
+\contentsline {section}{\numberline {7.8}Global enterprise perspective}{106}{section.7.8}%
+\contentsline {section}{\numberline {7.9}NFT as metaverse narrative}{106}{section.7.9}%
+\contentsline {section}{\numberline {7.10}MMORG games and NFTs}{106}{section.7.10}%
 \contentsline {section}{\numberline {7.11}Crypto metaverses}{107}{section.7.11}%
-\contentsline {section}{\numberline {7.12}Immersive and third person XR}{107}{section.7.12}%
-\contentsline {subsubsection}{\numberline {7.12.0.1}Second Life}{107}{subsubsection.7.12.0.1}%
-\contentsline {subsubsection}{\numberline {7.12.0.2}Roblox}{107}{subsubsection.7.12.0.2}%
-\contentsline {subsubsection}{\numberline {7.12.0.3}Spatial}{107}{subsubsection.7.12.0.3}%
+\contentsline {section}{\numberline {7.12}Immersive and third person XR}{108}{section.7.12}%
+\contentsline {subsubsection}{\numberline {7.12.0.1}Second Life}{108}{subsubsection.7.12.0.1}%
+\contentsline {subsubsection}{\numberline {7.12.0.2}Roblox}{108}{subsubsection.7.12.0.2}%
+\contentsline {subsubsection}{\numberline {7.12.0.3}Spatial}{108}{subsubsection.7.12.0.3}%
 \contentsline {subsubsection}{\numberline {7.12.0.4}MeetinVR}{108}{subsubsection.7.12.0.4}%
-\contentsline {subsubsection}{\numberline {7.12.0.5}Glue}{108}{subsubsection.7.12.0.5}%
-\contentsline {subsubsection}{\numberline {7.12.0.6}Mozilla Hubs}{108}{subsubsection.7.12.0.6}%
-\contentsline {subsubsection}{\numberline {7.12.0.7}FramesVR}{108}{subsubsection.7.12.0.7}%
-\contentsline {subsubsection}{\numberline {7.12.0.8}AltSpace}{108}{subsubsection.7.12.0.8}%
+\contentsline {subsubsection}{\numberline {7.12.0.5}Glue}{109}{subsubsection.7.12.0.5}%
+\contentsline {subsubsection}{\numberline {7.12.0.6}Mozilla Hubs}{109}{subsubsection.7.12.0.6}%
+\contentsline {subsubsection}{\numberline {7.12.0.7}FramesVR}{109}{subsubsection.7.12.0.7}%
+\contentsline {subsubsection}{\numberline {7.12.0.8}AltSpace}{109}{subsubsection.7.12.0.8}%
 \contentsline {subsubsection}{\numberline {7.12.0.9}Engage}{109}{subsubsection.7.12.0.9}%
-\contentsline {subsubsection}{\numberline {7.12.0.10}VRChat}{109}{subsubsection.7.12.0.10}%
-\contentsline {subsubsection}{\numberline {7.12.0.11}NEOSVR}{109}{subsubsection.7.12.0.11}%
-\contentsline {subsubsection}{\numberline {7.12.0.12}Meta Horizon Worlds \& Workrooms}{109}{subsubsection.7.12.0.12}%
-\contentsline {subsubsection}{\numberline {7.12.0.13}Webaverse}{109}{subsubsection.7.12.0.13}%
+\contentsline {subsubsection}{\numberline {7.12.0.10}VRChat}{110}{subsubsection.7.12.0.10}%
+\contentsline {subsubsection}{\numberline {7.12.0.11}NEOSVR}{110}{subsubsection.7.12.0.11}%
+\contentsline {subsubsection}{\numberline {7.12.0.12}Meta Horizon Worlds \& Workrooms}{110}{subsubsection.7.12.0.12}%
+\contentsline {subsubsection}{\numberline {7.12.0.13}Webaverse}{110}{subsubsection.7.12.0.13}%
 \contentsline {subsubsection}{\numberline {7.12.0.14}Vircadia}{110}{subsubsection.7.12.0.14}%
 \contentsline {chapter}{\numberline {8}Our proposition}{111}{chapter.8}%
 \contentsline {section}{\numberline {8.1}Our socialisation best practice}{112}{section.8.1}%

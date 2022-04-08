@@ -5920,6 +5920,30 @@
       \range{pages}{16}
       \keyw{litsurvey.bib}
     \endentry
+    \entry{doerr2018measure}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3a5193d4e28382fee13c21c33fcd6b71}{%
+           family={Doerr},
+           familyi={D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Penguin}%
+      }
+      \strng{namehash}{3a5193d4e28382fee13c21c33fcd6b71}
+      \strng{fullhash}{3a5193d4e28382fee13c21c33fcd6b71}
+      \strng{bibnamehash}{3a5193d4e28382fee13c21c33fcd6b71}
+      \strng{authorbibnamehash}{3a5193d4e28382fee13c21c33fcd6b71}
+      \strng{authornamehash}{3a5193d4e28382fee13c21c33fcd6b71}
+      \strng{authorfullhash}{3a5193d4e28382fee13c21c33fcd6b71}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Measure what matters: How Google, Bono, and the Gates Foundation rock the world with OKRs}
+      \field{year}{2018}
+    \endentry
     \entry{Chartrand1999}{article}{}
       \name{author}{2}{}{%
         {{hash=50bc2856c9dcfc862bb1fbcaa1a03760}{%
@@ -6634,8 +6658,8 @@
       \strng{authorbibnamehash}{65c643e0a985c2835a6276d9eb1c57a7}
       \strng{authornamehash}{65c643e0a985c2835a6276d9eb1c57a7}
       \strng{authorfullhash}{1e2d434b366e9ac56e1b82864d99d3e5}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Previous attempts at bringing gaze awareness to desktop videoconferencing have relied on hardware solutions. In this article, the authors describe their software approach, which tracks participants' head and eye movements using vision techniques, then uses this information to graphically place the head and eyes in a 3D environment.}
@@ -6683,8 +6707,8 @@
       \strng{authorbibnamehash}{867b24429c42e187e3ae2e73fcb82f4f}
       \strng{authornamehash}{867b24429c42e187e3ae2e73fcb82f4f}
       \strng{authorfullhash}{ac38494ad63904585212db91ed5e73a4}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{\#nov\#}
