@@ -73,7 +73,7 @@
 \contentsline {subsubsection}{\numberline {4.2.5.2}The evolving UK position}{62}{subsubsection.4.2.5.2}%
 \contentsline {section}{\numberline {4.3}Central bank digital currencies}{62}{section.4.3}%
 \contentsline {section}{\numberline {4.4}Bitcoin as a money}{65}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Risks}{67}{section.4.5}%
+\contentsline {section}{\numberline {4.5}Risks}{68}{section.4.5}%
 \contentsline {subsection}{\numberline {4.5.1}Hyperbitcoinization}{68}{subsection.4.5.1}%
 \contentsline {section}{\numberline {4.6}Does DeFi matter to SMEs }{68}{section.4.6}%
 \contentsline {section}{\numberline {4.7}Do DAOs matter to SMEs}{69}{section.4.7}%
