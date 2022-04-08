@@ -99,38 +99,34 @@
 \contentsline {section}{\numberline {6.3}Is any of this useful?}{81}{section.6.3}%
 \contentsline {chapter}{\numberline {7}Metaverses}{82}{chapter.7}%
 \contentsline {section}{\numberline {7.1}History and market need}{82}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Current telecollaboration}{82}{section.7.2}%
-\contentsline {subsection}{\numberline {7.2.1}Video conferencing}{82}{subsection.7.2.1}%
-\contentsline {subsubsection}{\numberline {7.2.1.1}Pandemic drives adoption}{84}{subsubsection.7.2.1.1}%
-\contentsline {subsubsection}{\numberline {7.2.1.2}Mona Lisa Type Effects}{84}{subsubsection.7.2.1.2}%
-\contentsline {section}{\numberline {7.3}What's important for human communication}{85}{section.7.3}%
-\contentsline {subsection}{\numberline {7.3.1}Vocal}{85}{subsection.7.3.1}%
-\contentsline {subsection}{\numberline {7.3.2}Nonverbal}{86}{subsection.7.3.2}%
-\contentsline {subsubsection}{\numberline {7.3.2.1}Gaze}{86}{subsubsection.7.3.2.1}%
-\contentsline {subsubsection}{\numberline {7.3.2.2}Mutual Gaze}{87}{subsubsection.7.3.2.2}%
-\contentsline {subsubsection}{\numberline {7.3.2.3}Head Orientation}{88}{subsubsection.7.3.2.3}%
-\contentsline {subsubsection}{\numberline {7.3.2.4}Combined Head and Eye Gaze}{88}{subsubsection.7.3.2.4}%
-\contentsline {subsubsection}{\numberline {7.3.2.5}Other Upper Body: Overview}{88}{subsubsection.7.3.2.5}%
-\contentsline {subsubsection}{\numberline {7.3.2.6}Effect of Shared Objects on Gaze}{89}{subsubsection.7.3.2.6}%
-\contentsline {section}{\numberline {7.4}Psychology of Technology-Mediated Interaction}{89}{section.7.4}%
-\contentsline {subsection}{\numberline {7.4.1}Proxemics}{89}{subsection.7.4.1}%
-\contentsline {subsection}{\numberline {7.4.2}Attention}{91}{subsection.7.4.2}%
-\contentsline {subsection}{\numberline {7.4.3}Behaviour}{92}{subsection.7.4.3}%
-\contentsline {subsubsection}{\numberline {7.4.3.1}Perception Of Honesty}{93}{subsubsection.7.4.3.1}%
-\contentsline {subsection}{\numberline {7.4.4}Dyadic}{93}{subsection.7.4.4}%
-\contentsline {subsubsection}{\numberline {7.4.4.1}Point to Point Telephony (Audio only)}{93}{subsubsection.7.4.4.1}%
-\contentsline {subsubsection}{\numberline {7.4.4.2}Point to Point Video Conferencing}{93}{subsubsection.7.4.4.2}%
-\contentsline {subsection}{\numberline {7.4.5}Triadic and Small Group}{94}{subsection.7.4.5}%
-\contentsline {subsection}{\numberline {7.4.6}Presence, Co-presence, and Social Presence}{94}{subsection.7.4.6}%
-\contentsline {subsection}{\numberline {7.4.7}Other Systems to Support Business}{96}{subsection.7.4.7}%
-\contentsline {subsection}{\numberline {7.4.8}Mutual Gaze in Telepresence}{96}{subsection.7.4.8}%
-\contentsline {subsection}{\numberline {7.4.9}Other Systems to Support Business}{97}{subsection.7.4.9}%
-\contentsline {subsubsection}{\numberline {7.4.9.1}Ad-hoc in SecondLife, immersive VR}{97}{subsubsection.7.4.9.1}%
-\contentsline {subsubsection}{\numberline {7.4.9.2}Tabletop and Shared Task}{97}{subsubsection.7.4.9.2}%
-\contentsline {subsection}{\numberline {7.4.10}Beyond 2D Screens}{98}{subsection.7.4.10}%
-\contentsline {subsubsection}{\numberline {7.4.10.1}Spatially Faithful Group}{98}{subsubsection.7.4.10.1}%
-\contentsline {subsubsection}{\numberline {7.4.10.2}Robots, Shader Lamp, and Hybrid}{99}{subsubsection.7.4.10.2}%
-\contentsline {subsubsection}{\numberline {7.4.10.3}Holography and Volumetric}{101}{subsubsection.7.4.10.3}%
+\contentsline {section}{\numberline {7.2}Video conferencing, the status quo}{82}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Pandemic drives adoption}{84}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Point to Point Video Conferencing}{84}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}Triadic and Small Group}{85}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.2.4}Other Systems to Support Business}{86}{subsection.7.2.4}%
+\contentsline {subsection}{\numberline {7.2.5}Mona Lisa Type Effects}{86}{subsection.7.2.5}%
+\contentsline {section}{\numberline {7.3}What's important for human communication}{86}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Vocal}{86}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}Nonverbal}{88}{subsection.7.3.2}%
+\contentsline {subsubsection}{\numberline {7.3.2.1}Gaze}{88}{subsubsection.7.3.2.1}%
+\contentsline {subsubsection}{\numberline {7.3.2.2}Mutual Gaze}{89}{subsubsection.7.3.2.2}%
+\contentsline {subsubsection}{\numberline {7.3.2.3}Mutual Gaze in Telepresence}{89}{subsubsection.7.3.2.3}%
+\contentsline {subsubsection}{\numberline {7.3.2.4}Head Orientation}{90}{subsubsection.7.3.2.4}%
+\contentsline {subsubsection}{\numberline {7.3.2.5}Combined Head and Eye Gaze}{91}{subsubsection.7.3.2.5}%
+\contentsline {subsubsection}{\numberline {7.3.2.6}Other Upper Body: Overview}{91}{subsubsection.7.3.2.6}%
+\contentsline {subsubsection}{\numberline {7.3.2.7}Effect of Shared Objects on Gaze}{92}{subsubsection.7.3.2.7}%
+\contentsline {subsubsection}{\numberline {7.3.2.8}Tabletop and Shared Task}{92}{subsubsection.7.3.2.8}%
+\contentsline {section}{\numberline {7.4}Psychology of Technology-Mediated Interaction}{93}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Proxemics}{93}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}Attention}{94}{subsection.7.4.2}%
+\contentsline {subsection}{\numberline {7.4.3}Behaviour}{95}{subsection.7.4.3}%
+\contentsline {subsubsection}{\numberline {7.4.3.1}Perception Of Honesty}{96}{subsubsection.7.4.3.1}%
+\contentsline {subsection}{\numberline {7.4.4}Presence, Co-presence, and Social Presence}{96}{subsection.7.4.4}%
+\contentsline {subsection}{\numberline {7.4.5}Beyond 2D Screens}{98}{subsection.7.4.5}%
+\contentsline {subsection}{\numberline {7.4.6}Other Systems to Support Business}{98}{subsection.7.4.6}%
+\contentsline {subsubsection}{\numberline {7.4.6.1}Spatially Faithful Group}{98}{subsubsection.7.4.6.1}%
+\contentsline {subsubsection}{\numberline {7.4.6.2}Robots, Shader Lamp, and Hybrid}{99}{subsubsection.7.4.6.2}%
+\contentsline {subsubsection}{\numberline {7.4.6.3}Holography and Volumetric}{101}{subsubsection.7.4.6.3}%
 \contentsline {section}{\numberline {7.5}Theoretical Framework}{102}{section.7.5}%
 \contentsline {subsection}{\numberline {7.5.1}Problem Statement}{102}{subsection.7.5.1}%
 \contentsline {subsection}{\numberline {7.5.2}Core Assumptions}{102}{subsection.7.5.2}%
