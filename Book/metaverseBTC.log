@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  9 APR 2022 10:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  9 APR 2022 16:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1476,12 +1476,12 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
 [3
 
  <./Images//orange1.jpg>] [4] [5]
-Overfull \hbox (390.95769pt too wide) detected at line 164
+Overfull \hbox (390.95769pt too wide) detected at line 169
 [][][][][][] [][][][][][] 
  []
 
 
-Overfull \hbox (390.95769pt too wide) detected at line 200
+Overfull \hbox (390.95769pt too wide) detected at line 205
 [][][][][][] [][][][][][] 
  []
 
@@ -1537,13 +1537,13 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [11]
 Chapter 1.
-<Images//orange2.jpg, id=781, 1300.86pt x 602.25pt>
+<Images//orange2.jpg, id=785, 1300.86pt x 602.25pt>
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 153.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 (00_overview.tex
-<Images//Cyber_Foundry_Logo.jpg, id=783, 694.7556pt x 192.72pt>
+<Images//Cyber_Foundry_Logo.jpg, id=787, 694.7556pt x 192.72pt>
 File: Images//Cyber_Foundry_Logo.jpg Graphic file (type jpg)
 <use Images//Cyber_Foundry_Logo.jpg>
 Package pdftex.def Info: Images//Cyber_Foundry_Logo.jpg  used on input line 6.
@@ -1569,7 +1569,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [14]
-<Images//goldmanFront.jpg, id=803, 1287.81125pt x 867.24pt>
+<Images//goldmanFront.jpg, id=807, 1287.81125pt x 867.24pt>
 File: Images//goldmanFront.jpg Graphic file (type jpg)
 <use Images//goldmanFront.jpg>
 Package pdftex.def Info: Images//goldmanFront.jpg  used on input line 161.
@@ -1584,7 +1584,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [15 <./Images//goldmanFront.jpg>]
-<Images//landscapevenn.png, id=817, 676.62787pt x 505.89pt>
+<Images//landscapevenn.png, id=821, 676.62787pt x 505.89pt>
 File: Images//landscapevenn.png Graphic file (type png)
 <use Images//landscapevenn.png>
 Package pdftex.def Info: Images//landscapevenn.png  used on input line 176.
@@ -1605,7 +1605,7 @@ File: Images//orange2.jpg Graphic file (type jpg)
 Package pdftex.def Info: Images//orange2.jpg  used on input line 180.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 (02_decentralised_web.tex
-<Images//semanticWebStack.png, id=829, 406.51875pt x 406.51875pt>
+<Images//semanticWebStack.png, id=833, 406.51875pt x 406.51875pt>
 File: Images//semanticWebStack.png Graphic file (type png)
 <use Images//semanticWebStack.png>
 Package pdftex.def Info: Images//semanticWebStack.png  used on input line 8.
@@ -1622,7 +1622,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [18 <./Images//semanticWebStack.png>]
-<Images//deloitteweb3.png, id=846, 588.1975pt x 535.50063pt>
+<Images//deloitteweb3.png, id=850, 588.1975pt x 535.50063pt>
 File: Images//deloitteweb3.png Graphic file (type png)
 <use Images//deloitteweb3.png>
 Package pdftex.def Info: Images//deloitteweb3.png  used on input line 20.
@@ -1637,7 +1637,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [19 <./Images//deloitteweb3.png>]
-<Images//c-a-e.jpg, id=857, 602.25pt x 501.875pt>
+<Images//c-a-e.jpg, id=861, 602.25pt x 501.875pt>
 File: Images//c-a-e.jpg Graphic file (type jpg)
 <use Images//c-a-e.jpg>
 Package pdftex.def Info: Images//c-a-e.jpg  used on input line 30.
@@ -1652,7 +1652,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [20 <./Images//c-a-e.jpg>]
-<Images//web1web2web3.jpg, id=867, 999.735pt x 538.01pt>
+<Images//web1web2web3.jpg, id=871, 999.735pt x 538.01pt>
 File: Images//web1web2web3.jpg Graphic file (type jpg)
 <use Images//web1web2web3.jpg>
 Package pdftex.def Info: Images//web1web2web3.jpg  used on input line 40.
@@ -1699,7 +1699,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [24]
-<Images//Web3ARK.jpg, id=927, 2840.6125pt x 1597.97pt>
+<Images//Web3ARK.jpg, id=931, 2840.6125pt x 1597.97pt>
 File: Images//Web3ARK.jpg Graphic file (type jpg)
 <use Images//Web3ARK.jpg>
 Package pdftex.def Info: Images//Web3ARK.jpg  used on input line 105.
@@ -1720,12 +1720,12 @@ File: Images//orange2.jpg Graphic file (type jpg)
 Package pdftex.def Info: Images//orange2.jpg  used on input line 183.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 (03_blockchain.tex
-<Images//prehistory.jpg, id=950, 1980.39874pt x 1376.14125pt>
+<Images//prehistory.jpg, id=954, 1980.39874pt x 1376.14125pt>
 File: Images//prehistory.jpg Graphic file (type jpg)
 <use Images//prehistory.jpg>
 Package pdftex.def Info: Images//prehistory.jpg  used on input line 14.
 (pdftex.def)             Requested size: 426.79135pt x 296.55754pt.
-<Images//venn.png, id=953, 1606.0pt x 1204.5pt>
+<Images//venn.png, id=957, 1606.0pt x 1204.5pt>
 File: Images//venn.png Graphic file (type png)
 <use Images//venn.png>
 Package pdftex.def Info: Images//venn.png  used on input line 21.
@@ -1751,7 +1751,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [28 <./Images//venn.png (PNG copy)>]
-<Images//etherbubble.jpg, id=1007, 1084.05pt x 1107.13625pt>
+<Images//etherbubble.jpg, id=1011, 1084.05pt x 1107.13625pt>
 File: Images//etherbubble.jpg Graphic file (type jpg)
 <use Images//etherbubble.jpg>
 Package pdftex.def Info: Images//etherbubble.jpg  used on input line 43.
@@ -1775,7 +1775,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [30 <./Images//etherbubble.jpg>]
-<Images//ethemission.png, id=1023, 763.85374pt x 469.755pt>
+<Images//ethemission.png, id=1029, 763.85374pt x 469.755pt>
 File: Images//ethemission.png Graphic file (type png)
 <use Images//ethemission.png>
 Package pdftex.def Info: Images//ethemission.png  used on input line 56.
@@ -1799,7 +1799,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [32 <./Images//ethemission.png>]
-<Images//settlement2021.jpg, id=1073, 899.36pt x 634.37pt>
+<Images//settlement2021.jpg, id=1080, 899.36pt x 634.37pt>
 File: Images//settlement2021.jpg Graphic file (type jpg)
 <use Images//settlement2021.jpg>
 Package pdftex.def Info: Images//settlement2021.jpg  used on input line 76.
@@ -1814,7 +1814,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [33]
-<Images//gource.png, id=1101, 1016.1162pt x 242.1045pt>
+<Images//gource.png, id=1108, 1016.1162pt x 242.1045pt>
 File: Images//gource.png Graphic file (type png)
 <use Images//gource.png>
 Package pdftex.def Info: Images//gource.png  used on input line 87.
@@ -1828,13 +1828,23 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[34 <./Images//settlement2021.jpg> <./Images//gource.png>]
-<Images//energyNYT.png, id=1124, 1204.5pt x 677.53125pt>
+[34 <./Images//settlement2021.jpg>]
+<Images//energyNYT.png, id=1131, 1204.5pt x 677.53125pt>
 File: Images//energyNYT.png Graphic file (type png)
 <use Images//energyNYT.png>
 Package pdftex.def Info: Images//energyNYT.png  used on input line 98.
 (pdftex.def)             Requested size: 426.79135pt x 240.07556pt.
-<Images//miningshare.png, id=1137, 378.91562pt x 273.02pt>
+
+
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[35 <./Images//gource.png>]
+<Images//miningshare.png, id=1152, 378.91562pt x 273.02pt>
 File: Images//miningshare.png Graphic file (type png)
 <use Images//miningshare.png>
 Package pdftex.def Info: Images//miningshare.png  used on input line 106.
@@ -1848,22 +1858,13 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[35]
-<Images//goldmanvgold.jpg, id=1173, 1174.3875pt x 890.32625pt>
+[36 <./Images//energyNYT.png>]
+<Images//goldmanvgold.jpg, id=1190, 1174.3875pt x 890.32625pt>
 File: Images//goldmanvgold.jpg Graphic file (type jpg)
 <use Images//goldmanvgold.jpg>
 Package pdftex.def Info: Images//goldmanvgold.jpg  used on input line 118.
 (pdftex.def)             Requested size: 426.79135pt x 323.5603pt.
 
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[36 <./Images//energyNYT.png>]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1882,7 +1883,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [38 <./Images//goldmanvgold.jpg>]
-<Images//ECDSA.png, id=1207, 981.6675pt x 984.67876pt>
+<Images//ECDSA.png, id=1216, 981.6675pt x 984.67876pt>
 File: Images//ECDSA.png Graphic file (type png)
 <use Images//ECDSA.png>
 Package pdftex.def Info: Images//ECDSA.png  used on input line 134.
@@ -1942,7 +1943,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [44]
-<Images//lightningAdoption.jpg, id=1306, 1284.8pt x 722.7pt>
+<Images//lightningAdoption.jpg, id=1319, 1284.8pt x 722.7pt>
 File: Images//lightningAdoption.jpg Graphic file (type jpg)
 <use Images//lightningAdoption.jpg>
 Package pdftex.def Info: Images//lightningAdoption.jpg  used on input line 213.
@@ -1958,12 +1959,21 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [45]
+
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[46 <./Images//lightningAdoption.jpg>]
 Overfull \hbox (0.76907pt too wide) in paragraph at lines 227--228
 []\T1/ptm/m/n/12 (-20) ``[][]Accounts Sys-tem[][]; Cre-ate mul-ti-ple ac-counts
 /wallets. Run for your-self, friends/family,
  []
 
-<Images//LnBitsPoS.png, id=1328, 291.18788pt x 508.90125pt>
+<Images//LnBitsPoS.png, id=1347, 291.18788pt x 508.90125pt>
 File: Images//LnBitsPoS.png Graphic file (type png)
 <use Images//LnBitsPoS.png>
 Package pdftex.def Info: Images//LnBitsPoS.png  used on input line 237.
@@ -1976,7 +1986,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[46 <./Images//lightningAdoption.jpg>]
+[47]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1985,16 +1995,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[47 <./Images//LnBitsPoS.png (PNG copy)>]
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[48]
+[48 <./Images//LnBitsPoS.png (PNG copy)>]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2031,7 +2032,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [52]
-<Images//messariICO.jpg, id=1391, 963.6pt x 542.025pt>
+<Images//messariICO.jpg, id=1406, 963.6pt x 542.025pt>
 File: Images//messariICO.jpg Graphic file (type jpg)
 <use Images//messariICO.jpg>
 Package pdftex.def Info: Images//messariICO.jpg  used on input line 328.
@@ -2090,7 +2091,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [58]
-<Images//CNNmobile.png, id=1467, 396.58162pt x 551.661pt>
+<Images//CNNmobile.png, id=1482, 396.58162pt x 551.661pt>
 File: Images//CNNmobile.png Graphic file (type png)
 <use Images//CNNmobile.png>
 Package pdftex.def Info: Images//CNNmobile.png  used on input line 39.
@@ -2181,7 +2182,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [67]
-<Images//BitcoinShareOfMoney.jpg, id=1571, 2862.695pt x 1575.8875pt>
+<Images//BitcoinShareOfMoney.jpg, id=1586, 2862.695pt x 1575.8875pt>
 File: Images//BitcoinShareOfMoney.jpg Graphic file (type jpg)
 <use Images//BitcoinShareOfMoney.jpg>
 Package pdftex.def Info: Images//BitcoinShareOfMoney.jpg  used on input line 18
@@ -2205,7 +2206,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[69] (05_daos.tex
+[69]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2214,7 +2215,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[70]))
+[70] (05_daos.tex))
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2224,15 +2225,24 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [71]
+
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[72]
 Chapter 5.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 192.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-(06_identity.tex [72
+(06_identity.tex [73
 
 ]
-<Images//DID.jpg, id=1613, 843.90282pt x 585.68813pt>
+<Images//DID.jpg, id=1640, 843.90282pt x 585.68813pt>
 File: Images//DID.jpg Graphic file (type jpg)
 <use Images//DID.jpg>
 Package pdftex.def Info: Images//DID.jpg  used on input line 17.
@@ -2246,7 +2256,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[73 <./Images//DID.jpg>]
+[74 <./Images//DID.jpg>]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2255,7 +2265,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[74]
+[75]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2264,7 +2274,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[75])
+[76])
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2273,13 +2283,13 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[76]
+[77]
 Chapter 6.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 195.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-(07_nft.tex [77
+(07_nft.tex [78
 
 ] (07_1_NFTUmran.tex
 
@@ -2290,7 +2300,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[78]
+[79]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2299,7 +2309,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[79]
+[80]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 127.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
@@ -2313,7 +2323,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[80]
+[81]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2322,7 +2332,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[81]))
+[82]))
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2331,7 +2341,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[82]
+[83]
 Chapter 7.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
@@ -2343,12 +2353,12 @@ Overfull \hbox (0.77441pt too wide) in paragraph at lines 4--4
 -son in his 1992 novel Snowcrash.
  []
 
-<Images//muskWeb3.png, id=1723, 408.02437pt x 168.63pt>
+<Images//muskWeb3.png, id=1749, 408.02437pt x 168.63pt>
 File: Images//muskWeb3.png Graphic file (type png)
 <use Images//muskWeb3.png>
 Package pdftex.def Info: Images//muskWeb3.png  used on input line 10.
 (pdftex.def)             Requested size: 426.79135pt x 176.39514pt.
-(08_b2b_telepresence.tex [83
+(08_b2b_telepresence.tex [84
 
 ]
 
@@ -2359,16 +2369,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[84 <./Images//muskWeb3.png>]
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[85]
+[85 <./Images//muskWeb3.png>]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2414,6 +2415,15 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [90]
+
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[91]
 Overfull \hbox (4.01924pt too wide) in paragraph at lines 112--112
 []\T1/ptm/m/n/12 (-20) Many at-tempts have been made to re-unite mu-tual eye ga
 ze when us-ing tele-conferencing
@@ -2427,7 +2437,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[91]
+[92]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2436,8 +2446,8 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[92]
-<Images//murrayeyegaze.jpg, id=2006, 377.15906pt x 241.65282pt>
+[93]
+<Images//murrayeyegaze.jpg, id=2032, 377.15906pt x 241.65282pt>
 File: Images//murrayeyegaze.jpg Graphic file (type jpg)
 <use Images//murrayeyegaze.jpg>
 Package pdftex.def Info: Images//murrayeyegaze.jpg  used on input line 142.
@@ -2451,8 +2461,8 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[93 <./Images//murrayeyegaze.jpg>]
-<Images//proxemics.png, id=2030, 1927.2pt x 1927.2pt>
+[94 <./Images//murrayeyegaze.jpg>]
+<Images//proxemics.png, id=2056, 1927.2pt x 1927.2pt>
 File: Images//proxemics.png Graphic file (type png)
 <use Images//proxemics.png>
 Package pdftex.def Info: Images//proxemics.png  used on input line 161.
@@ -2469,7 +2479,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[94]
+[95]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2478,16 +2488,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[95 <./Images//proxemics.png>]
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[96]
+[96 <./Images//proxemics.png>]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2525,9 +2526,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [100]
 
-LaTeX Warning: Citation 'Low2001' on page 101 undefined on input line 280.
-
-
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -2536,6 +2534,9 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [101]
+
+LaTeX Warning: Citation 'Low2001' on page 102 undefined on input line 280.
+
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2546,14 +2547,23 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [102]
 
-LaTeX Warning: Citation 'Kleinke1986a' on page 103 undefined on input line 300.
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[103]
+
+LaTeX Warning: Citation 'Kleinke1986a' on page 104 undefined on input line 300.
 
 
 
-LaTeX Warning: Citation 'Kleinke1986a' on page 103 undefined on input line 300.
+LaTeX Warning: Citation 'Kleinke1986a' on page 104 undefined on input line 300.
 
 
-<Images//frameworkVenn.png, id=2337, 509.40312pt x 432.11438pt>
+<Images//frameworkVenn.png, id=2364, 509.40312pt x 432.11438pt>
 File: Images//frameworkVenn.png Graphic file (type png)
 <use Images//frameworkVenn.png>
 Package pdftex.def Info: Images//frameworkVenn.png  used on input line 309.
@@ -2569,7 +2579,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[103]
+[104]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2578,8 +2588,8 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[104 <./Images//frameworkVenn.png>]
-<Images//conceptualFrameworkBoxandStick.png, id=2353, 4494.29062pt x 2770.35pt>
+[105 <./Images//frameworkVenn.png>]
+<Images//conceptualFrameworkBoxandStick.png, id=2379, 4494.29062pt x 2770.35pt>
 
 File: Images//conceptualFrameworkBoxandStick.png Graphic file (type png)
 <use Images//conceptualFrameworkBoxandStick.png>
@@ -2595,16 +2605,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[105 <./Images//conceptualFrameworkBoxandStick.png>]
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[106]
+[106 <./Images//conceptualFrameworkBoxandStick.png>]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2615,10 +2616,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [107]
 
-Package hyperref Warning: Suppressing link with empty target on input line 132.
-
-
-
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -2627,6 +2624,10 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [108]
+
+Package hyperref Warning: Suppressing link with empty target on input line 132.
+
+
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2644,7 +2645,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[110])
+[110]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2653,18 +2654,27 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[111]
+[111])
+
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[112]
 Chapter 8.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 201.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-<Images//highlevelstack.jpg, id=2420, 963.6pt x 722.7pt>
+<Images//highlevelstack.jpg, id=2446, 963.6pt x 722.7pt>
 File: Images//highlevelstack.jpg Graphic file (type jpg)
 <use Images//highlevelstack.jpg>
 Package pdftex.def Info: Images//highlevelstack.jpg  used on input line 204.
 (pdftex.def)             Requested size: 426.79135pt x 320.0842pt.
-[112
+[113
 
  <./Images//highlevelstack.jpg>]
 
@@ -2675,7 +2685,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[113]
+[114]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2684,13 +2694,13 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[114]
-<Images//globalclassroom.png, id=2438, 1484.04437pt x 1121.18875pt>
+[115]
+<Images//globalclassroom.png, id=2465, 1484.04437pt x 1121.18875pt>
 File: Images//globalclassroom.png Graphic file (type png)
 <use Images//globalclassroom.png>
 Package pdftex.def Info: Images//globalclassroom.png  used on input line 342.
 (pdftex.def)             Requested size: 426.79135pt x 322.43335pt.
-<Images//systemc4.png, id=2439, 1576.89125pt x 1024.82875pt>
+<Images//systemc4.png, id=2466, 1576.89125pt x 1024.82875pt>
 File: Images//systemc4.png Graphic file (type png)
 <use Images//systemc4.png>
 Package pdftex.def Info: Images//systemc4.png  used on input line 348.
@@ -2704,7 +2714,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[115 <./Images//globalclassroom.png>]
+[116 <./Images//globalclassroom.png>]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2713,7 +2723,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[116 <./Images//systemc4.png>] (metaverseBTC.ptc) [117
+[117 <./Images//systemc4.png>] (metaverseBTC.ptc) [118
 
 ] (HOWTO.tex
 Overfull \hbox (56.43552pt too wide) in paragraph at lines 79--84
@@ -2729,7 +2739,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[118]
+[119]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
 35.
  (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
@@ -2771,7 +2781,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[119]
+[120]
 Overfull \hbox (11.95836pt too wide) in paragraph at lines 214--216
 []\T1/ptm/m/n/12 (-20) Credit: https://dannyda.com/2020/06/01/how-to-create-an-
 internal-only-isolated-network-
@@ -2803,7 +2813,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[120]
+[121]
 Overfull \hbox (126.56917pt too wide) in paragraph at lines 296--299
 []\T1/ptm/m/n/12 (-20) n the Disk tab leave the de-faults (this ex-ceeds re-qui
 re-ments https://docs.vyos.io/en/latest/installation/install.html) 
@@ -2817,7 +2827,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[121]
+[122]
 Overfull \hbox (5.04445pt too wide) in paragraph at lines 382--382
 []\T1/cmtt/m/n/12 set protocols static route 0.0.0.0/0 next-hop 192.168.x.254 d
 istance 1[] 
@@ -2843,15 +2853,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[122]
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
 [123]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -2862,6 +2863,15 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [124]
+
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[125]
 Overfull \hbox (95.48611pt too wide) in paragraph at lines 637--637
 []\T1/cmtt/m/n/12 set nat destination rule 12 description 'Port Forward: 2222 t
 o 22 SSH on 192.168.y.2'[] 
@@ -2881,7 +2891,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[125]
+[126]
 Overfull \hbox (30.28812pt too wide) in paragraph at lines 713--718
 []\T1/ptm/m/n/12 (-20) Note: It is pos-si-ble to de-ter-mine the lat-est ver-si
 on by nav-i-gat-ing to: https://nixos.org/nix/install
@@ -2919,7 +2929,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[126]
+[127]
 Overfull \hbox (59.0625pt too wide) in paragraph at lines 817--817
 []    \T1/cmtt/m/n/12 "hardware-configuration.nix".file = toString ../hardware-
 configuration.nix;[] 
@@ -2951,7 +2961,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[127]
+[128]
 Overfull \hbox (250.44077pt too wide) in paragraph at lines 862--862
 []  \T1/cmtt/m/n/12 boot.initrd.availableKernelModules = [ "ata_piix" "uhci_hcd
 " "virtio_pci" "virtio_scsi" "sd_mod" "sr_mod" ];[] 
@@ -2971,7 +2981,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[128]
+[129]
 Overfull \hbox (10.5354pt too wide) in paragraph at lines 898--901
 \T1/cmtt/m/n/12 ~/.ssh/id_ed25519.pub \T1/ptm/m/n/12 (-20) where the \T1/cmtt/m
 /n/12 # FIXME: Replace this with your SSH pubkey
@@ -2986,15 +2996,15 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[129] (metaverseBTC.ptc) [130
+[130] (metaverseBTC.ptc) [131
 
 ]
-<Images//JOH.jpg, id=2597, 110.66344pt x 165.61874pt>
+<Images//JOH.jpg, id=2623, 110.66344pt x 165.61874pt>
 File: Images//JOH.jpg Graphic file (type jpg)
 <use Images//JOH.jpg>
 Package pdftex.def Info: Images//JOH.jpg  used on input line 368.
 (pdftex.def)             Requested size: 124.19986pt x 185.88847pt.
-<Images//AF.jpg, id=2599, 864.5901pt x 1295.3193pt>
+<Images//AF.jpg, id=2625, 864.5901pt x 1295.3193pt>
 File: Images//AF.jpg Graphic file (type jpg)
 <use Images//AF.jpg>
 Package pdftex.def Info: Images//AF.jpg  used on input line 379.
@@ -3009,7 +3019,7 @@ Overfull \hbox (140.84192pt too wide) in paragraph at lines 363--381
 [][][]$[]$ 
  []
 
-<Images//UA.jpg, id=2601, 200.75pt x 200.75pt>
+<Images//UA.jpg, id=2627, 200.75pt x 200.75pt>
 File: Images//UA.jpg Graphic file (type jpg)
 <use Images//UA.jpg>
 Package pdftex.def Info: Images//UA.jpg  used on input line 387.
@@ -3027,9 +3037,9 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[131 <./Images//JOH.jpg> <./Images//AF.jpg> <./Images//UA.jpg>] [132
+[132 <./Images//JOH.jpg> <./Images//AF.jpg> <./Images//UA.jpg>] [133
 
-] [133
+] [134
 
 ]
 Overfull \hbox (22.09753pt too wide) in paragraph at lines 405--405
@@ -3058,7 +3068,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[134]
+[135]
 Overfull \hbox (4.92906pt too wide) in paragraph at lines 405--405
 \T1/ptm/m/it/12 (-20) Con-fer-ence on Fi-nan-cial Cryp-tog-ra-phy and Data Se-c
 u-rity\T1/ptm/m/n/12 (-20) . Springer. 2018, pages 78
@@ -3084,7 +3094,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[135]
+[136]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3093,7 +3103,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[136]
+[137]
 Overfull \hbox (16.72742pt too wide) in paragraph at lines 405--405
 []\T1/ptm/m/n/12 (-20) Daniel Kraw-isz. ``Hy-per-bit-coiniza-tion''. In: \T1/pt
 m/m/it/12 (-20) On-line ver-füg-bar unter: https://nakamotoin
@@ -3111,7 +3121,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[137]
+[138]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Dourish1996' on input line 404.
@@ -3164,7 +3174,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[138]
+[139]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Bardram2012' on input line 404.
@@ -3201,7 +3211,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[139]
+[140]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Aoki2003' on input line 404.
@@ -3238,7 +3248,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[140]
+[141]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Vertegaal2001' on input line 404.
@@ -3279,7 +3289,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[141]
+[142]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Fagel2010' on input line 404.
@@ -3312,7 +3322,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[142]
+[143]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Chovil1991' on input line 404.
@@ -3365,7 +3375,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[143]
+[144]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Tang2006' on input line 404.
@@ -3410,7 +3420,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[144]
+[145]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Yee2007' on input line 404.
@@ -3455,7 +3465,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[145]
+[146]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Berger1975' on input line 404.
@@ -3508,7 +3518,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[146]
+[147]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Schuemie2001' on input line 404.
@@ -3549,7 +3559,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[147]
+[148]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Hauber2006' on input line 404.
@@ -3565,7 +3575,7 @@ Package biblatex Warning: Month out of range or not an integer
 
 Overfull \hbox (4.6522pt too wide) in paragraph at lines 405--405
 \T1/ptm/m/n/12 (-20) Schmidt. Dor-drecht: Springer Nether-lands, 1995, pages 27
-9292 (cited on page [][]100[][]). 
+9292 (cited on page [][]101[][]). 
  []
 
 
@@ -3588,7 +3598,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[148]
+[149]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Marti2005' on input line 404.
@@ -3633,7 +3643,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[149]
+[150]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Kristoffersson2013' on input line 404.
@@ -3674,7 +3684,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[150]
+[151]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Pan2012' on input line 404.
@@ -3707,7 +3717,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[151]
+[152]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Yendo2010' on input line 404.
@@ -3720,7 +3730,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[152] (metaverseBTC.ind)
+[153] (metaverseBTC.ind)
 \tf@ptc=\write9
 \openout9 = `metaverseBTC.ptc'.
 
@@ -3733,10 +3743,10 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36723 strings out of 478582
- 726259 string characters out of 2844816
- 1602233 words of memory out of 3000000
- 53022 multiletter control sequences out of 15000+600000
+ 36734 strings out of 478582
+ 726548 string characters out of 2844816
+ 1603025 words of memory out of 3000000
+ 53026 multiletter control sequences out of 15000+600000
  586009 words of font info for 436 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  98i,12n,94p,2419b,1368s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3756,9 +3766,9 @@ fb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pf
 b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb
 ><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
 >
-Output written on metaverseBTC.pdf (152 pages, 20561847 bytes).
+Output written on metaverseBTC.pdf (153 pages, 20569654 bytes).
 PDF statistics:
- 3341 PDF objects out of 3580 (max. 8388607)
- 755 named destinations out of 1000 (max. 500000)
+ 3370 PDF objects out of 3580 (max. 8388607)
+ 762 named destinations out of 1000 (max. 500000)
  121131 words of extra memory for PDF output out of 128383 (max. 10000000)
 

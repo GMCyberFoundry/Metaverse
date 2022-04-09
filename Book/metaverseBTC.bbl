@@ -1548,6 +1548,30 @@
       \field{title}{Revisiting Bitcoin’s carbon footprint}
       \field{year}{2022}
     \endentry
+    \entry{blocksizewars}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b3d53ddcf5bac5ec57f03cce3976f96e}{%
+           family={Bier},
+           familyi={B\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{b3d53ddcf5bac5ec57f03cce3976f96e}
+      \strng{fullhash}{b3d53ddcf5bac5ec57f03cce3976f96e}
+      \strng{bibnamehash}{b3d53ddcf5bac5ec57f03cce3976f96e}
+      \strng{authorbibnamehash}{b3d53ddcf5bac5ec57f03cce3976f96e}
+      \strng{authornamehash}{b3d53ddcf5bac5ec57f03cce3976f96e}
+      \strng{authorfullhash}{b3d53ddcf5bac5ec57f03cce3976f96e}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Blocksize War: The battle for control over Bitcoin’s protocol rules}
+      \field{year}{2021}
+    \endentry
     \entry{poon2016bitcoin}{misc}{}
       \name{author}{2}{}{%
         {{hash=810a1119de65fee46a025e89e00509b0}{%
@@ -1603,8 +1627,8 @@
       \strng{authorbibnamehash}{8d341f22b554ea877e841bac56f9211a}
       \strng{authornamehash}{8d341f22b554ea877e841bac56f9211a}
       \strng{authorfullhash}{13012dc8896781d1397b80eb26e2c7d4}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Short Paper: A Centrality Analysis of the Lightning Network}
@@ -1962,8 +1986,8 @@
       \strng{authorbibnamehash}{ceb9bf68fccb64928a082ddf62bb168e}
       \strng{authornamehash}{ceb9bf68fccb64928a082ddf62bb168e}
       \strng{authorfullhash}{ceb9bf68fccb64928a082ddf62bb168e}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Asia-Pacific Journal}
@@ -2291,8 +2315,8 @@
       \strng{authorbibnamehash}{3ec84f96fd84a4c320635d0067584d9c}
       \strng{authornamehash}{3ec84f96fd84a4c320635d0067584d9c}
       \strng{authorfullhash}{3ec84f96fd84a4c320635d0067584d9c}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Online verfügbar unter: https://nakamotoin}
@@ -2649,8 +2673,8 @@
       \strng{authorbibnamehash}{16f495a04ef12aafa7452f82b8a29529}
       \strng{authornamehash}{16f495a04ef12aafa7452f82b8a29529}
       \strng{authorfullhash}{16f495a04ef12aafa7452f82b8a29529}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Comparison Of Face-to-face And Video-mediated Interaction}
@@ -3132,8 +3156,8 @@
       \strng{authorbibnamehash}{d4e7daf53c5b26009195cbef73e99725}
       \strng{authornamehash}{d4e7daf53c5b26009195cbef73e99725}
       \strng{authorfullhash}{d4e7daf53c5b26009195cbef73e99725}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {ACM} conf. on {Computer-Supported} Cooperative Work}
@@ -3624,8 +3648,8 @@
       \strng{authorbibnamehash}{eb70307e62db6258bb3f70899bc5c339}
       \strng{authornamehash}{eb70307e62db6258bb3f70899bc5c339}
       \strng{authorfullhash}{eb70307e62db6258bb3f70899bc5c339}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2002 {ACM} conference on Computer supported cooperative work}
@@ -6803,8 +6827,8 @@
       \strng{authorbibnamehash}{a1f78853efd744dbe6c9c91414abd014}
       \strng{authornamehash}{a1f78853efd744dbe6c9c91414abd014}
       \strng{authorfullhash}{468d2c4f61d593bae294627bf42a485b}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
@@ -6841,8 +6865,8 @@
       \strng{authorbibnamehash}{db76666c5ba5356cc68106095e604074}
       \strng{authornamehash}{db76666c5ba5356cc68106095e604074}
       \strng{authorfullhash}{db76666c5ba5356cc68106095e604074}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Am. J. Psychol.}
