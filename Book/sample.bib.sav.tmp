@@ -11053,11 +11053,11 @@
   publisher = {Nature Publishing Group}
 }
 
-@BOOK{swammycrypto,
-  title = {Crypto Uncovered},
-  publisher = {Springer},
-  author = {Swammy, Sarah and Thompson, Richard and Loh, Marvin},
-  file = {:../../../literature_repository/bitcoin/Sarah_Swammy,_Richard_Thompson,.pdf:PDF}
+@Book{cryptopians,
+  author    = {Laura Shin},
+  publisher = {Public Affairs},
+  title     = {The Cryptopians: Idealism, Greed, Lies, and the Making of the First Big Cryptocurrency Craze},
+  year      = {2022},
 }
 
 @InProceedings{Symons2004,
@@ -13307,4 +13307,5 @@
   author       = {M{\"o}ser, Malte and B{\"o}hme, Rainer and Breuker, Dominic},
   booktitle    = {2013 APWG eCrime researchers summit},
   title        = {An inquiry into money laundering tools in the Bitcoin ecosystem},
-  year       
+  year         = {2013},
+  organiz
