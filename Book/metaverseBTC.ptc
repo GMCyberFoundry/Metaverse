@@ -38,7 +38,7 @@
 \contentsline {subsubsection}{\numberline {3.2.4.2}AnyPrevOut}{43}{subsubsection.3.2.4.2}%
 \contentsline {subsubsection}{\numberline {3.2.4.3}CheckTemplateVerify}{43}{subsubsection.3.2.4.3}%
 \contentsline {subsubsection}{\numberline {3.2.4.4}Blind merge mining}{43}{subsubsection.3.2.4.4}%
-\contentsline {subsubsection}{\numberline {3.2.4.5}Simplicity scripting language}{43}{subsubsection.3.2.4.5}%
+\contentsline {subsubsection}{\numberline {3.2.4.5}Simplicity scripting language}{44}{subsubsection.3.2.4.5}%
 \contentsline {subsubsection}{\numberline {3.2.4.6}Ossification}{44}{subsubsection.3.2.4.6}%
 \contentsline {section}{\numberline {3.3}Extending the BTC ecosystem }{44}{section.3.3}%
 \contentsline {subsection}{\numberline {3.3.1}Block \& SpiralBTC}{44}{subsection.3.3.1}%
@@ -46,13 +46,13 @@
 \contentsline {section}{\numberline {3.4}Lightning (Layer 2)}{45}{section.3.4}%
 \contentsline {subsection}{\numberline {3.4.1}Micropayments}{46}{subsection.3.4.1}%
 \contentsline {subsection}{\numberline {3.4.2}BOLT12 and recurring payments}{46}{subsection.3.4.2}%
-\contentsline {subsection}{\numberline {3.4.3}LNBits}{46}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.3}LNBits}{47}{subsection.3.4.3}%
 \contentsline {subsection}{\numberline {3.4.4}Etleneum}{47}{subsection.3.4.4}%
 \contentsline {subsection}{\numberline {3.4.5}Message passing}{47}{subsection.3.4.5}%
-\contentsline {section}{\numberline {3.5}Liquid federation (layer 2)}{47}{section.3.5}%
+\contentsline {section}{\numberline {3.5}Liquid federation (layer 2)}{49}{section.3.5}%
 \contentsline {section}{\numberline {3.6}Bitcoin Layer 3}{49}{section.3.6}%
 \contentsline {subsection}{\numberline {3.6.1}LNP/BP and RGB}{50}{subsection.3.6.1}%
-\contentsline {subsection}{\numberline {3.6.2}Taro}{51}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.2}Taro}{52}{subsection.3.6.2}%
 \contentsline {subsection}{\numberline {3.6.3}Slashpay}{52}{subsection.3.6.3}%
 \contentsline {subsection}{\numberline {3.6.4}Spacechains}{52}{subsection.3.6.4}%
 \contentsline {subsection}{\numberline {3.6.5}Statechains, drivechain, softchains}{53}{subsection.3.6.5}%
