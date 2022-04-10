@@ -13359,4 +13359,11 @@
   file = {:../../../literature_repository/bitcoin/Sarah_Swammy,_Richard_Thompson,.pdf:PDF}
 }
 
+@Book{blocksizewars,
+  author    = {Jonathan Bier},
+  publisher = {Springer},
+  title     = {The Blocksize War: The battle for control over Bitcoin’s protocol rules},
+  year      = {2021},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

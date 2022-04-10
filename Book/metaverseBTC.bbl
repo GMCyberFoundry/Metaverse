@@ -593,6 +593,30 @@
       \field{pages}{55\bibrangedash 81}
       \range{pages}{27}
     \endentry
+    \entry{gladsteincheck2022}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7d970d744a8b95f7a98a371e95f2b68a}{%
+           family={Gladstein},
+           familyi={G\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BTC Media LLC}%
+      }
+      \strng{namehash}{7d970d744a8b95f7a98a371e95f2b68a}
+      \strng{fullhash}{7d970d744a8b95f7a98a371e95f2b68a}
+      \strng{bibnamehash}{7d970d744a8b95f7a98a371e95f2b68a}
+      \strng{authorbibnamehash}{7d970d744a8b95f7a98a371e95f2b68a}
+      \strng{authornamehash}{7d970d744a8b95f7a98a371e95f2b68a}
+      \strng{authorfullhash}{7d970d744a8b95f7a98a371e95f2b68a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Check Your Financial Privilege}
+      \field{year}{2022}
+    \endentry
     \entry{golumbia2020cryptocurrency}{article}{}
       \name{author}{1}{}{%
         {{hash=7b7432a793160905a4caf93f82d4c550}{%
@@ -631,8 +655,8 @@
       \strng{authorbibnamehash}{fa265b80691610b5092f93ae4a80f9b7}
       \strng{authornamehash}{fa265b80691610b5092f93ae4a80f9b7}
       \strng{authorfullhash}{fa265b80691610b5092f93ae4a80f9b7}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{GitHub repository}
@@ -932,8 +956,8 @@
       \strng{authorbibnamehash}{18c5aebd992f5682308afb2ad8ef6cbc}
       \strng{authornamehash}{18c5aebd992f5682308afb2ad8ef6cbc}
       \strng{authorfullhash}{18c5aebd992f5682308afb2ad8ef6cbc}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Accounting Review}
@@ -964,8 +988,8 @@
       \strng{authorbibnamehash}{2a9abf8e56a8ef7e58b1dada3c73beee}
       \strng{authornamehash}{2a9abf8e56a8ef7e58b1dada3c73beee}
       \strng{authorfullhash}{2a9abf8e56a8ef7e58b1dada3c73beee}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Business \& Management Review}
@@ -1287,8 +1311,8 @@
       \strng{authorbibnamehash}{f0e22c5bf5a9b38113d360334bcc8e6f}
       \strng{authornamehash}{f0e22c5bf5a9b38113d360334bcc8e6f}
       \strng{authorfullhash}{f0e22c5bf5a9b38113d360334bcc8e6f}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{International workshop on fast software encryption}
@@ -1589,8 +1613,8 @@
       \strng{authorbibnamehash}{0cd5bbd149e4d6d600854c7f315a0dc9}
       \strng{authornamehash}{0cd5bbd149e4d6d600854c7f315a0dc9}
       \strng{authorfullhash}{0cd5bbd149e4d6d600854c7f315a0dc9}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Conference on the Theory and Application of Cryptology}
@@ -1932,8 +1956,8 @@
       \strng{authorbibnamehash}{a8f4f2a49f22416de8db5f639af33b64}
       \strng{authornamehash}{a8f4f2a49f22416de8db5f639af33b64}
       \strng{authorfullhash}{a8f4f2a49f22416de8db5f639af33b64}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Remarks at the Jackson Hole Symposium}
@@ -1955,8 +1979,8 @@
       \strng{authorbibnamehash}{6332254e093b61afcd149b75e35e341e}
       \strng{authornamehash}{6332254e093b61afcd149b75e35e341e}
       \strng{authorfullhash}{6332254e093b61afcd149b75e35e341e}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{World Bank Policy Research Working Paper}
@@ -2291,8 +2315,8 @@
       \strng{authorbibnamehash}{af8695065272fc2c1ff681f981c353b1}
       \strng{authornamehash}{af8695065272fc2c1ff681f981c353b1}
       \strng{authorfullhash}{af8695065272fc2c1ff681f981c353b1}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Open Economies Review}
@@ -2633,8 +2657,8 @@
       \strng{authorbibnamehash}{b49b33ac71f7106d94c9c7bf1a356498}
       \strng{authornamehash}{b49b33ac71f7106d94c9c7bf1a356498}
       \strng{authorfullhash}{7f09c21d897a2760e854c9eb2557d217}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Eye gaze is an important conversational resource that until now could only be supported across a distance if people were rooted to the spot. We introduce EyeCVE, the worldpsilas first tele-presence system that allows people in different physical locations to not only see what each other are doing but follow each otherpsilas eyes, even when walking about. Projected into each space are avatar representations of remote participants, that reproduce not only body, head and hand movements, but also those of the eyes. Spatial and temporal alignment of remote spaces allows the focus of gaze as well as activity and gesture to be used as a resource for non-verbal communication. The temporal challenge met was to reproduce eye movements quick enough and often enough to interpret their focus during a multi-way interaction, along with communicating other verbal and non-verbal language. The spatial challenge met was to maintain communicational eye gaze while allowing free movement of participants within a virtually shared common frame of reference. This paper reports on the technical and especially temporal characteristics of the system.}
@@ -3080,8 +3104,8 @@
       \strng{authorbibnamehash}{65c643e0a985c2835a6276d9eb1c57a7}
       \strng{authornamehash}{65c643e0a985c2835a6276d9eb1c57a7}
       \strng{authorfullhash}{1e2d434b366e9ac56e1b82864d99d3e5}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Previous attempts at bringing gaze awareness to desktop videoconferencing have relied on hardware solutions. In this article, the authors describe their software approach, which tracks participants' head and eye movements using vision techniques, then uses this information to graphically place the head and eyes in a 3D environment.}
@@ -3129,8 +3153,8 @@
       \strng{authorbibnamehash}{867b24429c42e187e3ae2e73fcb82f4f}
       \strng{authornamehash}{867b24429c42e187e3ae2e73fcb82f4f}
       \strng{authorfullhash}{ac38494ad63904585212db91ed5e73a4}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{\#nov\#}
@@ -3594,8 +3618,8 @@
       \strng{authorbibnamehash}{1073d1d1d8b3ca19189a10ebcc7eea7e}
       \strng{authornamehash}{1073d1d1d8b3ca19189a10ebcc7eea7e}
       \strng{authorfullhash}{1073d1d1d8b3ca19189a10ebcc7eea7e}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Taming Mona Lisa}
