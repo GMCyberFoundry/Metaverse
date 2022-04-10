@@ -17,208 +17,208 @@
 \contentsline {subsection}{\numberline {2.4.5}Non blockchain webs of trust}{23}{subsection.2.4.5}%
 \contentsline {subsection}{\numberline {2.4.6}Distributed DNS applications}{24}{subsection.2.4.6}%
 \contentsline {subsection}{\numberline {2.4.7}Impervious browser}{24}{subsection.2.4.7}%
-\contentsline {section}{\numberline {2.5}The common thread}{24}{section.2.5}%
-\contentsline {chapter}{\numberline {3}DLT, Blockchain, and Bitcoin}{26}{chapter.3}%
-\contentsline {section}{\numberline {3.1}What's this for sorry?}{28}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Available tools}{29}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Ethereum}{29}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Mining and Gas}{30}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Upgrade roadmap}{32}{subsection.3.3.2}%
-\contentsline {section}{\numberline {3.4}Bitcoin}{33}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}The Bitcoin Network Software}{35}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}Mining and Energy concerns}{35}{subsection.3.4.2}%
-\contentsline {subsection}{\numberline {3.4.3}Technical overview}{39}{subsection.3.4.3}%
-\contentsline {subsubsection}{\numberline {3.4.3.1}ECDSA / SHA256 / secp256k1}{39}{subsubsection.3.4.3.1}%
-\contentsline {subsubsection}{\numberline {3.4.3.2}Bitcoin script}{39}{subsubsection.3.4.3.2}%
-\contentsline {subsubsection}{\numberline {3.4.3.3}Addresses \& UTXOs}{39}{subsubsection.3.4.3.3}%
-\contentsline {subsubsection}{\numberline {3.4.3.4}Halving}{41}{subsubsection.3.4.3.4}%
-\contentsline {subsubsection}{\numberline {3.4.3.5}Difficulty adjustment}{41}{subsubsection.3.4.3.5}%
-\contentsline {subsubsection}{\numberline {3.4.3.6}Bitcoin nodes }{41}{subsubsection.3.4.3.6}%
-\contentsline {subsubsection}{\numberline {3.4.3.7}Wallets, seeds, keys and BIP39}{42}{subsubsection.3.4.3.7}%
-\contentsline {subsection}{\numberline {3.4.4}Upgrade roadmap}{43}{subsection.3.4.4}%
-\contentsline {subsubsection}{\numberline {3.4.4.1}Taproot}{43}{subsubsection.3.4.4.1}%
-\contentsline {subsubsection}{\numberline {3.4.4.2}AnyPrevOut}{43}{subsubsection.3.4.4.2}%
-\contentsline {subsubsection}{\numberline {3.4.4.3}CheckTemplateVerify}{43}{subsubsection.3.4.4.3}%
-\contentsline {subsubsection}{\numberline {3.4.4.4}Blind merge mining}{43}{subsubsection.3.4.4.4}%
-\contentsline {subsubsection}{\numberline {3.4.4.5}Simplicity scripting language}{44}{subsubsection.3.4.4.5}%
-\contentsline {subsubsection}{\numberline {3.4.4.6}Ossification}{44}{subsubsection.3.4.4.6}%
-\contentsline {section}{\numberline {3.5}Extending the BTC ecosystem }{44}{section.3.5}%
-\contentsline {subsection}{\numberline {3.5.1}Block \& SpiralBTC}{44}{subsection.3.5.1}%
-\contentsline {subsection}{\numberline {3.5.2}BTCPayServer}{44}{subsection.3.5.2}%
-\contentsline {section}{\numberline {3.6}Lightning (Layer 2)}{45}{section.3.6}%
-\contentsline {subsection}{\numberline {3.6.1}Micropayments}{46}{subsection.3.6.1}%
-\contentsline {subsection}{\numberline {3.6.2}BOLT12 and recurring payments}{46}{subsection.3.6.2}%
-\contentsline {subsection}{\numberline {3.6.3}LNBits}{47}{subsection.3.6.3}%
-\contentsline {subsection}{\numberline {3.6.4}Etleneum}{47}{subsection.3.6.4}%
-\contentsline {subsection}{\numberline {3.6.5}Message passing}{47}{subsection.3.6.5}%
-\contentsline {section}{\numberline {3.7}Liquid federation (layer 2)}{49}{section.3.7}%
-\contentsline {section}{\numberline {3.8}Bitcoin Layer 3}{49}{section.3.8}%
-\contentsline {subsection}{\numberline {3.8.1}LNP/BP and RGB}{50}{subsection.3.8.1}%
-\contentsline {subsection}{\numberline {3.8.2}Taro}{52}{subsection.3.8.2}%
-\contentsline {subsection}{\numberline {3.8.3}Slashpay}{52}{subsection.3.8.3}%
-\contentsline {subsection}{\numberline {3.8.4}Spacechains}{52}{subsection.3.8.4}%
-\contentsline {subsection}{\numberline {3.8.5}Statechains, drivechain, softchains}{53}{subsection.3.8.5}%
-\contentsline {section}{\numberline {3.9}Other chains and networks}{53}{section.3.9}%
-\contentsline {subsection}{\numberline {3.9.1}Layer 1 chains}{53}{subsection.3.9.1}%
-\contentsline {section}{\numberline {3.10}Risks and mitigations}{55}{section.3.10}%
-\contentsline {subsection}{\numberline {3.10.1}Digital assets}{55}{subsection.3.10.1}%
-\contentsline {subsection}{\numberline {3.10.2}Bitcoin specifically}{56}{subsection.3.10.2}%
-\contentsline {chapter}{\numberline {4}Money in the real world}{57}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Defining money}{57}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Global categories of capital}{58}{subsection.4.1.1}%
-\contentsline {section}{\numberline {4.2}International money transfer networks}{58}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Swift, ISO 20022, and correspondence banking}{59}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}VISA etc}{59}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Money transfer operators}{59}{subsection.4.2.3}%
-\contentsline {subsection}{\numberline {4.2.4}Digital disruptive fintech}{59}{subsection.4.2.4}%
-\contentsline {subsection}{\numberline {4.2.5}Stablecoins}{61}{subsection.4.2.5}%
-\contentsline {subsubsection}{\numberline {4.2.5.1}The evolving US position}{62}{subsubsection.4.2.5.1}%
-\contentsline {subsubsection}{\numberline {4.2.5.2}The evolving UK position}{63}{subsubsection.4.2.5.2}%
-\contentsline {section}{\numberline {4.3}Central bank digital currencies}{63}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Bitcoin as a money}{66}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Risks (money, not technical)}{69}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}Risks TO Bitcoin}{69}{subsection.4.5.1}%
-\contentsline {subsection}{\numberline {4.5.2}Risks FROM Bitcoin}{69}{subsection.4.5.2}%
-\contentsline {subsection}{\numberline {4.5.3}Inherent volatility}{69}{subsection.4.5.3}%
-\contentsline {subsubsection}{\numberline {4.5.3.1}Endless HODL}{70}{subsubsection.4.5.3.1}%
-\contentsline {subsubsection}{\numberline {4.5.3.2}Reduction of liquidity in legacy finance}{70}{subsubsection.4.5.3.2}%
-\contentsline {subsubsection}{\numberline {4.5.3.3}Reduction of funding sources and liquidity}{70}{subsubsection.4.5.3.3}%
-\contentsline {subsubsection}{\numberline {4.5.3.4}Bitcoin collapse system shock}{70}{subsubsection.4.5.3.4}%
-\contentsline {subsubsection}{\numberline {4.5.3.5}Stablecoin collapse system shock}{70}{subsubsection.4.5.3.5}%
-\contentsline {subsubsection}{\numberline {4.5.3.6}Tech for techs sake yielding unexpected outcomes}{70}{subsubsection.4.5.3.6}%
-\contentsline {subsubsection}{\numberline {4.5.3.7}Self reinforcing monocultures}{70}{subsubsection.4.5.3.7}%
-\contentsline {subsubsection}{\numberline {4.5.3.8}No agreed measurable end goal}{70}{subsubsection.4.5.3.8}%
-\contentsline {subsubsection}{\numberline {4.5.3.9}Bitcoin as a culture war foil}{70}{subsubsection.4.5.3.9}%
-\contentsline {subsubsection}{\numberline {4.5.3.10}Jurisdictional / legislative arbitrage}{70}{subsubsection.4.5.3.10}%
-\contentsline {subsubsection}{\numberline {4.5.3.11}Hyperbitcoinization}{71}{subsubsection.4.5.3.11}%
-\contentsline {section}{\numberline {4.6}Does DeFi matter to SMEs }{71}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Do DAOs matter to SMEs}{72}{section.4.7}%
-\contentsline {subsection}{\numberline {4.7.1}Bisq DAO}{72}{subsection.4.7.1}%
-\contentsline {subsection}{\numberline {4.7.2}Risks}{73}{subsection.4.7.2}%
-\contentsline {chapter}{\numberline {5}Distributed Self Sovereign Identity}{74}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Notes and thoughts - to be completed}{74}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Applications of DID/SSI}{74}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Classic DID/SSI}{75}{section.5.3}%
-\contentsline {subsubsection}{\numberline {5.3.0.1}DID principles}{76}{subsubsection.5.3.0.1}%
-\contentsline {subsubsection}{\numberline {5.3.0.2}What's in a DID document?}{76}{subsubsection.5.3.0.2}%
-\contentsline {section}{\numberline {5.4}Newer Technologies}{76}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}Slashtags}{76}{subsection.5.4.1}%
-\contentsline {subsection}{\numberline {5.4.2}Microsoft ION}{76}{subsection.5.4.2}%
-\contentsline {subsection}{\numberline {5.4.3}Nostr}{77}{subsection.5.4.3}%
-\contentsline {section}{\numberline {5.5}Risks \& Challenges?}{78}{section.5.5}%
-\contentsline {chapter}{\numberline {6}Non Fungible Tokens}{79}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Digital Art}{81}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}NFT Use Cases}{81}{subsection.6.1.1}%
-\contentsline {subsubsection}{\numberline {6.1.1.1}Art}{81}{subsubsection.6.1.1.1}%
-\contentsline {subsubsection}{\numberline {6.1.1.2}Computer \& Video Games}{82}{subsubsection.6.1.1.2}%
-\contentsline {section}{\numberline {6.2}Other uses}{84}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Is any of this useful?}{84}{section.6.3}%
-\contentsline {chapter}{\numberline {7}Metaverses}{85}{chapter.7}%
-\contentsline {section}{\numberline {7.1}History and market need}{85}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Video conferencing, the status quo}{85}{section.7.2}%
-\contentsline {subsection}{\numberline {7.2.1}Pandemic drives adoption}{87}{subsection.7.2.1}%
-\contentsline {subsection}{\numberline {7.2.2}Point to Point Video Conferencing}{87}{subsection.7.2.2}%
-\contentsline {subsection}{\numberline {7.2.3}Triadic and Small Group}{88}{subsection.7.2.3}%
-\contentsline {subsection}{\numberline {7.2.4}Other Systems to Support Business}{89}{subsection.7.2.4}%
-\contentsline {subsection}{\numberline {7.2.5}Mona Lisa Type Effects}{89}{subsection.7.2.5}%
-\contentsline {section}{\numberline {7.3}What's important for human communication}{89}{section.7.3}%
-\contentsline {subsection}{\numberline {7.3.1}Vocal}{89}{subsection.7.3.1}%
-\contentsline {subsection}{\numberline {7.3.2}Nonverbal}{91}{subsection.7.3.2}%
-\contentsline {subsubsection}{\numberline {7.3.2.1}Gaze}{91}{subsubsection.7.3.2.1}%
-\contentsline {subsubsection}{\numberline {7.3.2.2}Mutual Gaze}{92}{subsubsection.7.3.2.2}%
-\contentsline {subsubsection}{\numberline {7.3.2.3}Mutual Gaze in Telepresence}{92}{subsubsection.7.3.2.3}%
-\contentsline {subsubsection}{\numberline {7.3.2.4}Head Orientation}{93}{subsubsection.7.3.2.4}%
-\contentsline {subsubsection}{\numberline {7.3.2.5}Combined Head and Eye Gaze}{94}{subsubsection.7.3.2.5}%
-\contentsline {subsubsection}{\numberline {7.3.2.6}Other Upper Body: Overview}{94}{subsubsection.7.3.2.6}%
-\contentsline {subsubsection}{\numberline {7.3.2.7}Effect of Shared Objects on Gaze}{95}{subsubsection.7.3.2.7}%
-\contentsline {subsubsection}{\numberline {7.3.2.8}Tabletop and Shared Task}{95}{subsubsection.7.3.2.8}%
-\contentsline {section}{\numberline {7.4}Psychology of Technology-Mediated Interaction}{96}{section.7.4}%
-\contentsline {subsection}{\numberline {7.4.1}Proxemics}{96}{subsection.7.4.1}%
-\contentsline {subsection}{\numberline {7.4.2}Attention}{97}{subsection.7.4.2}%
-\contentsline {subsection}{\numberline {7.4.3}Behaviour}{98}{subsection.7.4.3}%
-\contentsline {subsubsection}{\numberline {7.4.3.1}Perception Of Honesty}{99}{subsubsection.7.4.3.1}%
-\contentsline {subsection}{\numberline {7.4.4}Presence, Co-presence, and Social Presence}{99}{subsection.7.4.4}%
-\contentsline {subsection}{\numberline {7.4.5}Other Systems to Support Business}{101}{subsection.7.4.5}%
-\contentsline {subsubsection}{\numberline {7.4.5.1}Spatially Faithful Group}{101}{subsubsection.7.4.5.1}%
-\contentsline {subsubsection}{\numberline {7.4.5.2}Robots, Shader Lamp, and Hybrid}{102}{subsubsection.7.4.5.2}%
-\contentsline {subsubsection}{\numberline {7.4.5.3}Holography and Volumetric}{104}{subsubsection.7.4.5.3}%
-\contentsline {section}{\numberline {7.5}Theoretical Framework toward metaverse}{104}{section.7.5}%
-\contentsline {subsection}{\numberline {7.5.1}Problem Statement}{104}{subsection.7.5.1}%
-\contentsline {subsection}{\numberline {7.5.2}Core Assumptions}{105}{subsection.7.5.2}%
-\contentsline {subsection}{\numberline {7.5.3}Peripheral Assumptions}{106}{subsection.7.5.3}%
-\contentsline {section}{\numberline {7.6}Post `Meta' metaverse}{107}{section.7.6}%
-\contentsline {subsection}{\numberline {7.6.1}Mixed reality as a metaverse}{108}{subsection.7.6.1}%
-\contentsline {section}{\numberline {7.7}Immersive and third person XR}{109}{section.7.7}%
-\contentsline {subsubsection}{\numberline {7.7.0.1}Second Life}{109}{subsubsection.7.7.0.1}%
-\contentsline {subsubsection}{\numberline {7.7.0.2}Roblox}{109}{subsubsection.7.7.0.2}%
-\contentsline {subsubsection}{\numberline {7.7.0.3}Spatial}{109}{subsubsection.7.7.0.3}%
-\contentsline {subsubsection}{\numberline {7.7.0.4}MeetinVR}{109}{subsubsection.7.7.0.4}%
-\contentsline {subsubsection}{\numberline {7.7.0.5}Glue}{109}{subsubsection.7.7.0.5}%
-\contentsline {subsubsection}{\numberline {7.7.0.6}Mozilla Hubs}{109}{subsubsection.7.7.0.6}%
-\contentsline {subsubsection}{\numberline {7.7.0.7}FramesVR}{110}{subsubsection.7.7.0.7}%
-\contentsline {subsubsection}{\numberline {7.7.0.8}AltSpace}{110}{subsubsection.7.7.0.8}%
-\contentsline {subsubsection}{\numberline {7.7.0.9}Engage}{110}{subsubsection.7.7.0.9}%
-\contentsline {subsubsection}{\numberline {7.7.0.10}VRChat}{110}{subsubsection.7.7.0.10}%
-\contentsline {subsubsection}{\numberline {7.7.0.11}NEOSVR}{110}{subsubsection.7.7.0.11}%
-\contentsline {subsubsection}{\numberline {7.7.0.12}Meta Horizon Worlds \& Workrooms}{110}{subsubsection.7.7.0.12}%
-\contentsline {subsubsection}{\numberline {7.7.0.13}Webaverse}{111}{subsubsection.7.7.0.13}%
-\contentsline {subsubsection}{\numberline {7.7.0.14}Vircadia}{111}{subsubsection.7.7.0.14}%
-\contentsline {section}{\numberline {7.8}Digital Land Metaverses}{111}{section.7.8}%
-\contentsline {section}{\numberline {7.9}Global enterprise perspective}{111}{section.7.9}%
-\contentsline {section}{\numberline {7.10}NFT as metaverse narrative}{111}{section.7.10}%
-\contentsline {section}{\numberline {7.11}MMORG games and NFTs}{111}{section.7.11}%
-\contentsline {section}{\numberline {7.12}Crypto metaverses}{113}{section.7.12}%
-\contentsline {chapter}{\numberline {8}Our proposition}{114}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Our socialisation best practice}{115}{section.8.1}%
-\contentsline {subsubsection}{\numberline {8.1.0.1}Identity}{115}{subsubsection.8.1.0.1}%
-\contentsline {subsubsection}{\numberline {8.1.0.2}Webs of trust}{115}{subsubsection.8.1.0.2}%
-\contentsline {subsubsection}{\numberline {8.1.0.3}Integration of 'good' actor AI entities}{115}{subsubsection.8.1.0.3}%
-\contentsline {subsection}{\numberline {8.1.1}Emulation of important social cues}{115}{subsection.8.1.1}%
-\contentsline {subsubsection}{\numberline {8.1.1.1}Behaviour incentives, arbitration, and penalties}{115}{subsubsection.8.1.1.1}%
-\contentsline {section}{\numberline {8.2}Potential applications }{115}{section.8.2}%
-\contentsline {subsection}{\numberline {8.2.1}Global cybersec course delivery}{116}{subsection.8.2.1}%
+\contentsline {section}{\numberline {2.5}The common thread}{25}{section.2.5}%
+\contentsline {chapter}{\numberline {3}DLT, Blockchain, and Bitcoin}{27}{chapter.3}%
+\contentsline {section}{\numberline {3.1}What's this for sorry?}{29}{section.3.1}%
+\contentsline {section}{\numberline {3.2}A panoply of tech}{30}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Ethereum}{30}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Mining and Gas}{31}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Upgrade roadmap}{33}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Bitcoin}{34}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}The Bitcoin Network Software}{36}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Mining and Energy concerns}{36}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Technical overview}{40}{subsection.3.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.3.1}ECDSA / SHA256 / secp256k1}{40}{subsubsection.3.4.3.1}%
+\contentsline {subsubsection}{\numberline {3.4.3.2}Bitcoin script}{40}{subsubsection.3.4.3.2}%
+\contentsline {subsubsection}{\numberline {3.4.3.3}Addresses \& UTXOs}{40}{subsubsection.3.4.3.3}%
+\contentsline {subsubsection}{\numberline {3.4.3.4}Halving}{42}{subsubsection.3.4.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.3.5}Difficulty adjustment}{42}{subsubsection.3.4.3.5}%
+\contentsline {subsubsection}{\numberline {3.4.3.6}Bitcoin nodes }{42}{subsubsection.3.4.3.6}%
+\contentsline {subsubsection}{\numberline {3.4.3.7}Wallets, seeds, keys and BIP39}{43}{subsubsection.3.4.3.7}%
+\contentsline {subsection}{\numberline {3.4.4}Upgrade roadmap}{44}{subsection.3.4.4}%
+\contentsline {subsubsection}{\numberline {3.4.4.1}Taproot}{44}{subsubsection.3.4.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.4.2}AnyPrevOut}{44}{subsubsection.3.4.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.4.3}CheckTemplateVerify}{44}{subsubsection.3.4.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.4.4}Blind merge mining}{44}{subsubsection.3.4.4.4}%
+\contentsline {subsubsection}{\numberline {3.4.4.5}Simplicity scripting language}{45}{subsubsection.3.4.4.5}%
+\contentsline {subsubsection}{\numberline {3.4.4.6}Ossification}{45}{subsubsection.3.4.4.6}%
+\contentsline {section}{\numberline {3.5}Extending the BTC ecosystem }{45}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Block \& SpiralBTC}{45}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}BTCPayServer}{45}{subsection.3.5.2}%
+\contentsline {section}{\numberline {3.6}Lightning (Layer 2)}{46}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Micropayments}{47}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}BOLT12 and recurring payments}{47}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}LNBits}{48}{subsection.3.6.3}%
+\contentsline {subsection}{\numberline {3.6.4}Etleneum}{48}{subsection.3.6.4}%
+\contentsline {subsection}{\numberline {3.6.5}Message passing}{48}{subsection.3.6.5}%
+\contentsline {section}{\numberline {3.7}Liquid federation (layer 2)}{50}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Bitcoin Layer 3}{50}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}LNP/BP and RGB}{51}{subsection.3.8.1}%
+\contentsline {subsection}{\numberline {3.8.2}Taro}{53}{subsection.3.8.2}%
+\contentsline {subsection}{\numberline {3.8.3}Slashpay}{53}{subsection.3.8.3}%
+\contentsline {subsection}{\numberline {3.8.4}Spacechains}{53}{subsection.3.8.4}%
+\contentsline {subsection}{\numberline {3.8.5}Statechains, drivechain, softchains}{54}{subsection.3.8.5}%
+\contentsline {section}{\numberline {3.9}Other chains and networks}{54}{section.3.9}%
+\contentsline {subsection}{\numberline {3.9.1}Layer 1 chains}{54}{subsection.3.9.1}%
+\contentsline {section}{\numberline {3.10}Risks and mitigations}{56}{section.3.10}%
+\contentsline {subsection}{\numberline {3.10.1}Digital assets}{56}{subsection.3.10.1}%
+\contentsline {subsection}{\numberline {3.10.2}Bitcoin specifically}{57}{subsection.3.10.2}%
+\contentsline {chapter}{\numberline {4}Money in the real world}{58}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Defining money}{58}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Global categories of capital}{59}{subsection.4.1.1}%
+\contentsline {section}{\numberline {4.2}International money transfer networks}{59}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Swift, ISO 20022, and correspondence banking}{60}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}VISA etc}{60}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Money transfer operators}{60}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Digital disruptive fintech}{60}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}Stablecoins}{62}{subsection.4.2.5}%
+\contentsline {subsubsection}{\numberline {4.2.5.1}The evolving US position}{63}{subsubsection.4.2.5.1}%
+\contentsline {subsubsection}{\numberline {4.2.5.2}The evolving UK position}{64}{subsubsection.4.2.5.2}%
+\contentsline {section}{\numberline {4.3}Central bank digital currencies}{64}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Bitcoin as a money}{67}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Risks (money, not technical)}{70}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Risks to Bitcoin the money}{70}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Bitcoin externalities}{70}{subsection.4.5.2}%
+\contentsline {subsubsection}{\numberline {4.5.2.1}Inherent volatility}{70}{subsubsection.4.5.2.1}%
+\contentsline {subsubsection}{\numberline {4.5.2.2}Endless HODL}{72}{subsubsection.4.5.2.2}%
+\contentsline {subsubsection}{\numberline {4.5.2.3}Reduction of liquidity in legacy finance}{72}{subsubsection.4.5.2.3}%
+\contentsline {subsubsection}{\numberline {4.5.2.4}Reduction of funding sources and liquidity}{72}{subsubsection.4.5.2.4}%
+\contentsline {subsubsection}{\numberline {4.5.2.5}Bitcoin collapse system shock}{72}{subsubsection.4.5.2.5}%
+\contentsline {subsubsection}{\numberline {4.5.2.6}Stablecoin collapse system shock}{72}{subsubsection.4.5.2.6}%
+\contentsline {subsubsection}{\numberline {4.5.2.7}Tech for techs sake yielding unexpected outcomes}{72}{subsubsection.4.5.2.7}%
+\contentsline {subsubsection}{\numberline {4.5.2.8}Self reinforcing monocultures}{72}{subsubsection.4.5.2.8}%
+\contentsline {subsubsection}{\numberline {4.5.2.9}No agreed measurable end goal}{72}{subsubsection.4.5.2.9}%
+\contentsline {subsubsection}{\numberline {4.5.2.10}Bitcoin as a culture war foil}{72}{subsubsection.4.5.2.10}%
+\contentsline {subsubsection}{\numberline {4.5.2.11}Jurisdictional / legislative arbitrage}{72}{subsubsection.4.5.2.11}%
+\contentsline {subsubsection}{\numberline {4.5.2.12}Hyperbitcoinization}{73}{subsubsection.4.5.2.12}%
+\contentsline {section}{\numberline {4.6}Does DeFi matter to SMEs }{73}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Do DAOs matter to SMEs}{74}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}Bisq DAO}{75}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}Risks}{75}{subsection.4.7.2}%
+\contentsline {chapter}{\numberline {5}Distributed Self Sovereign Identity}{76}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Notes and thoughts - to be completed}{76}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Applications of DID/SSI}{76}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Classic DID/SSI}{77}{section.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.0.1}DID principles}{78}{subsubsection.5.3.0.1}%
+\contentsline {subsubsection}{\numberline {5.3.0.2}What's in a DID document?}{78}{subsubsection.5.3.0.2}%
+\contentsline {section}{\numberline {5.4}Newer Technologies}{78}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Slashtags}{78}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Microsoft ION}{78}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Nostr}{79}{subsection.5.4.3}%
+\contentsline {section}{\numberline {5.5}Risks \& Challenges?}{80}{section.5.5}%
+\contentsline {chapter}{\numberline {6}Non Fungible Tokens}{81}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Digital Art}{83}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}NFT Use Cases}{83}{subsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.1.1}Art}{83}{subsubsection.6.1.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.1.2}Computer \& Video Games}{84}{subsubsection.6.1.1.2}%
+\contentsline {section}{\numberline {6.2}Other uses}{86}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Is any of this useful?}{86}{section.6.3}%
+\contentsline {chapter}{\numberline {7}Metaverses}{87}{chapter.7}%
+\contentsline {section}{\numberline {7.1}History and market need}{87}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Video conferencing, the status quo}{87}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Pandemic drives adoption}{89}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Point to Point Video Conferencing}{89}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}Triadic and Small Group}{90}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.2.4}Other Systems to Support Business}{91}{subsection.7.2.4}%
+\contentsline {subsection}{\numberline {7.2.5}Mona Lisa Type Effects}{91}{subsection.7.2.5}%
+\contentsline {section}{\numberline {7.3}What's important for human communication}{91}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Vocal}{91}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}Nonverbal}{93}{subsection.7.3.2}%
+\contentsline {subsubsection}{\numberline {7.3.2.1}Gaze}{93}{subsubsection.7.3.2.1}%
+\contentsline {subsubsection}{\numberline {7.3.2.2}Mutual Gaze}{94}{subsubsection.7.3.2.2}%
+\contentsline {subsubsection}{\numberline {7.3.2.3}Mutual Gaze in Telepresence}{94}{subsubsection.7.3.2.3}%
+\contentsline {subsubsection}{\numberline {7.3.2.4}Head Orientation}{95}{subsubsection.7.3.2.4}%
+\contentsline {subsubsection}{\numberline {7.3.2.5}Combined Head and Eye Gaze}{96}{subsubsection.7.3.2.5}%
+\contentsline {subsubsection}{\numberline {7.3.2.6}Other Upper Body: Overview}{96}{subsubsection.7.3.2.6}%
+\contentsline {subsubsection}{\numberline {7.3.2.7}Effect of Shared Objects on Gaze}{97}{subsubsection.7.3.2.7}%
+\contentsline {subsubsection}{\numberline {7.3.2.8}Tabletop and Shared Task}{97}{subsubsection.7.3.2.8}%
+\contentsline {section}{\numberline {7.4}Psychology of Technology-Mediated Interaction}{98}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Proxemics}{98}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}Attention}{99}{subsection.7.4.2}%
+\contentsline {subsection}{\numberline {7.4.3}Behaviour}{100}{subsection.7.4.3}%
+\contentsline {subsubsection}{\numberline {7.4.3.1}Perception Of Honesty}{101}{subsubsection.7.4.3.1}%
+\contentsline {subsection}{\numberline {7.4.4}Presence, Co-presence, and Social Presence}{101}{subsection.7.4.4}%
+\contentsline {subsection}{\numberline {7.4.5}Other Systems to Support Business}{103}{subsection.7.4.5}%
+\contentsline {subsubsection}{\numberline {7.4.5.1}Spatially Faithful Group}{103}{subsubsection.7.4.5.1}%
+\contentsline {subsubsection}{\numberline {7.4.5.2}Robots, Shader Lamp, and Hybrid}{104}{subsubsection.7.4.5.2}%
+\contentsline {subsubsection}{\numberline {7.4.5.3}Holography and Volumetric}{106}{subsubsection.7.4.5.3}%
+\contentsline {section}{\numberline {7.5}Theoretical Framework toward metaverse}{106}{section.7.5}%
+\contentsline {subsection}{\numberline {7.5.1}Problem Statement}{106}{subsection.7.5.1}%
+\contentsline {subsection}{\numberline {7.5.2}Core Assumptions}{107}{subsection.7.5.2}%
+\contentsline {subsection}{\numberline {7.5.3}Peripheral Assumptions}{108}{subsection.7.5.3}%
+\contentsline {section}{\numberline {7.6}Post `Meta' metaverse}{109}{section.7.6}%
+\contentsline {subsection}{\numberline {7.6.1}Mixed reality as a metaverse}{110}{subsection.7.6.1}%
+\contentsline {section}{\numberline {7.7}Immersive and third person XR}{111}{section.7.7}%
+\contentsline {subsubsection}{\numberline {7.7.0.1}Second Life}{111}{subsubsection.7.7.0.1}%
+\contentsline {subsubsection}{\numberline {7.7.0.2}Roblox}{111}{subsubsection.7.7.0.2}%
+\contentsline {subsubsection}{\numberline {7.7.0.3}Spatial}{111}{subsubsection.7.7.0.3}%
+\contentsline {subsubsection}{\numberline {7.7.0.4}MeetinVR}{111}{subsubsection.7.7.0.4}%
+\contentsline {subsubsection}{\numberline {7.7.0.5}Glue}{111}{subsubsection.7.7.0.5}%
+\contentsline {subsubsection}{\numberline {7.7.0.6}Mozilla Hubs}{111}{subsubsection.7.7.0.6}%
+\contentsline {subsubsection}{\numberline {7.7.0.7}FramesVR}{112}{subsubsection.7.7.0.7}%
+\contentsline {subsubsection}{\numberline {7.7.0.8}AltSpace}{112}{subsubsection.7.7.0.8}%
+\contentsline {subsubsection}{\numberline {7.7.0.9}Engage}{112}{subsubsection.7.7.0.9}%
+\contentsline {subsubsection}{\numberline {7.7.0.10}VRChat}{112}{subsubsection.7.7.0.10}%
+\contentsline {subsubsection}{\numberline {7.7.0.11}NEOSVR}{112}{subsubsection.7.7.0.11}%
+\contentsline {subsubsection}{\numberline {7.7.0.12}Meta Horizon Worlds \& Workrooms}{112}{subsubsection.7.7.0.12}%
+\contentsline {subsubsection}{\numberline {7.7.0.13}Webaverse}{113}{subsubsection.7.7.0.13}%
+\contentsline {subsubsection}{\numberline {7.7.0.14}Vircadia}{113}{subsubsection.7.7.0.14}%
+\contentsline {section}{\numberline {7.8}Digital Land Metaverses}{113}{section.7.8}%
+\contentsline {section}{\numberline {7.9}Global enterprise perspective}{113}{section.7.9}%
+\contentsline {section}{\numberline {7.10}NFT as metaverse narrative}{113}{section.7.10}%
+\contentsline {section}{\numberline {7.11}MMORG games and NFTs}{113}{section.7.11}%
+\contentsline {section}{\numberline {7.12}Crypto metaverses}{115}{section.7.12}%
+\contentsline {chapter}{\numberline {8}Our proposition}{116}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Our socialisation best practice}{117}{section.8.1}%
+\contentsline {subsubsection}{\numberline {8.1.0.1}Identity}{117}{subsubsection.8.1.0.1}%
+\contentsline {subsubsection}{\numberline {8.1.0.2}Webs of trust}{117}{subsubsection.8.1.0.2}%
+\contentsline {subsubsection}{\numberline {8.1.0.3}Integration of 'good' actor AI entities}{117}{subsubsection.8.1.0.3}%
+\contentsline {subsection}{\numberline {8.1.1}Emulation of important social cues}{117}{subsection.8.1.1}%
+\contentsline {subsubsection}{\numberline {8.1.1.1}Behaviour incentives, arbitration, and penalties}{117}{subsubsection.8.1.1.1}%
+\contentsline {section}{\numberline {8.2}Potential applications }{117}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Global cybersec course delivery}{118}{subsection.8.2.1}%
 \ttl@stoptoc {part@1}
 \ttl@starttoc {part@2}
-\contentsline {part}{\numberline {II}Guides for deploying the software}{119}{part.2}%
-\contentsline {section}{\numberline {8.3}Lab}{120}{section.8.3}%
-\contentsline {subsection}{\numberline {8.3.1}Overview}{120}{subsection.8.3.1}%
-\contentsline {subsubsection}{\numberline {8.3.1.1}Summary of software}{120}{subsubsection.8.3.1.1}%
-\contentsline {subsection}{\numberline {8.3.2}Prerequisites}{120}{subsection.8.3.2}%
-\contentsline {subsection}{\numberline {8.3.3}Network details}{120}{subsection.8.3.3}%
-\contentsline {subsection}{\numberline {8.3.4}Server configuration}{120}{subsection.8.3.4}%
-\contentsline {subsubsection}{\numberline {8.3.4.1}Server hardware details}{120}{subsubsection.8.3.4.1}%
-\contentsline {subsubsection}{\numberline {8.3.4.2}Disk configuration details}{120}{subsubsection.8.3.4.2}%
-\contentsline {subsection}{\numberline {8.3.5}Proxmox VE}{120}{subsection.8.3.5}%
-\contentsline {subsubsection}{\numberline {8.3.5.1}Installation and configuration}{120}{subsubsection.8.3.5.1}%
-\contentsline {paragraph}{Dialogue 1}{120}{paragraph*.4}%
-\contentsline {paragraph}{Dialogue 2}{120}{paragraph*.5}%
-\contentsline {paragraph}{Dialogue 3}{121}{paragraph*.6}%
-\contentsline {paragraph}{Dialogue 4}{121}{paragraph*.7}%
-\contentsline {subsubsection}{\numberline {8.3.5.2}Software updates}{121}{subsubsection.8.3.5.2}%
-\contentsline {subsubsection}{\numberline {8.3.5.3}Proxmox VE hardening}{122}{subsubsection.8.3.5.3}%
-\contentsline {subsection}{\numberline {8.3.6}Setup an internal only network in Proxmox VE}{122}{subsection.8.3.6}%
-\contentsline {subsection}{\numberline {8.3.7}Install and configure Internet gateway server virtual machine}{122}{subsection.8.3.7}%
-\contentsline {subsubsection}{\numberline {8.3.7.1}Create an ISO of the stable version (as of writing 1.3.0)}{122}{subsubsection.8.3.7.1}%
-\contentsline {subsubsection}{\numberline {8.3.7.2}Upload the ISO image to the Proxmox VE server}{123}{subsubsection.8.3.7.2}%
-\contentsline {subsubsection}{\numberline {8.3.7.3}Create VyOS virtual machine}{123}{subsubsection.8.3.7.3}%
-\contentsline {subsubsection}{\numberline {8.3.7.4}Configure VyOS}{123}{subsubsection.8.3.7.4}%
-\contentsline {subsection}{\numberline {8.3.8}Install and configure a Debian virtual machine}{124}{subsection.8.3.8}%
-\contentsline {subsection}{\numberline {8.3.9}Deploying the nix-bitcoin node}{125}{subsection.8.3.9}%
-\contentsline {subsubsection}{\numberline {8.3.9.1}Acquiring NixOS}{125}{subsubsection.8.3.9.1}%
-\contentsline {subsubsection}{\numberline {8.3.9.2}Create a new VM}{125}{subsubsection.8.3.9.2}%
-\contentsline {subsubsection}{\numberline {8.3.9.3}Configure the additional drive (optional)}{126}{subsubsection.8.3.9.3}%
-\contentsline {subsubsection}{\numberline {8.3.9.4}Create port forwarding rules for SSH (optional)}{127}{subsubsection.8.3.9.4}%
-\contentsline {paragraph}{Debian}{127}{paragraph*.8}%
-\contentsline {paragraph}{NixOS}{127}{paragraph*.9}%
-\contentsline {subsubsection}{\numberline {8.3.9.5}Prepare nix-bitcoin NixOS package}{128}{subsubsection.8.3.9.5}%
-\contentsline {paragraph}{Additional hard drive configuration}{130}{paragraph*.10}%
-\contentsline {paragraph}{Static IP configuration}{130}{paragraph*.11}%
-\contentsline {paragraph}{SSH configuration}{131}{paragraph*.12}%
-\contentsline {paragraph}{Services configuration}{131}{paragraph*.13}%
+\contentsline {part}{\numberline {II}Guides for deploying the software}{121}{part.2}%
+\contentsline {section}{\numberline {8.3}Lab}{122}{section.8.3}%
+\contentsline {subsection}{\numberline {8.3.1}Overview}{122}{subsection.8.3.1}%
+\contentsline {subsubsection}{\numberline {8.3.1.1}Summary of software}{122}{subsubsection.8.3.1.1}%
+\contentsline {subsection}{\numberline {8.3.2}Prerequisites}{122}{subsection.8.3.2}%
+\contentsline {subsection}{\numberline {8.3.3}Network details}{122}{subsection.8.3.3}%
+\contentsline {subsection}{\numberline {8.3.4}Server configuration}{122}{subsection.8.3.4}%
+\contentsline {subsubsection}{\numberline {8.3.4.1}Server hardware details}{122}{subsubsection.8.3.4.1}%
+\contentsline {subsubsection}{\numberline {8.3.4.2}Disk configuration details}{122}{subsubsection.8.3.4.2}%
+\contentsline {subsection}{\numberline {8.3.5}Proxmox VE}{122}{subsection.8.3.5}%
+\contentsline {subsubsection}{\numberline {8.3.5.1}Installation and configuration}{122}{subsubsection.8.3.5.1}%
+\contentsline {paragraph}{Dialogue 1}{122}{paragraph*.4}%
+\contentsline {paragraph}{Dialogue 2}{122}{paragraph*.5}%
+\contentsline {paragraph}{Dialogue 3}{123}{paragraph*.6}%
+\contentsline {paragraph}{Dialogue 4}{123}{paragraph*.7}%
+\contentsline {subsubsection}{\numberline {8.3.5.2}Software updates}{123}{subsubsection.8.3.5.2}%
+\contentsline {subsubsection}{\numberline {8.3.5.3}Proxmox VE hardening}{124}{subsubsection.8.3.5.3}%
+\contentsline {subsection}{\numberline {8.3.6}Setup an internal only network in Proxmox VE}{124}{subsection.8.3.6}%
+\contentsline {subsection}{\numberline {8.3.7}Install and configure Internet gateway server virtual machine}{124}{subsection.8.3.7}%
+\contentsline {subsubsection}{\numberline {8.3.7.1}Create an ISO of the stable version (as of writing 1.3.0)}{124}{subsubsection.8.3.7.1}%
+\contentsline {subsubsection}{\numberline {8.3.7.2}Upload the ISO image to the Proxmox VE server}{125}{subsubsection.8.3.7.2}%
+\contentsline {subsubsection}{\numberline {8.3.7.3}Create VyOS virtual machine}{125}{subsubsection.8.3.7.3}%
+\contentsline {subsubsection}{\numberline {8.3.7.4}Configure VyOS}{125}{subsubsection.8.3.7.4}%
+\contentsline {subsection}{\numberline {8.3.8}Install and configure a Debian virtual machine}{126}{subsection.8.3.8}%
+\contentsline {subsection}{\numberline {8.3.9}Deploying the nix-bitcoin node}{127}{subsection.8.3.9}%
+\contentsline {subsubsection}{\numberline {8.3.9.1}Acquiring NixOS}{127}{subsubsection.8.3.9.1}%
+\contentsline {subsubsection}{\numberline {8.3.9.2}Create a new VM}{127}{subsubsection.8.3.9.2}%
+\contentsline {subsubsection}{\numberline {8.3.9.3}Configure the additional drive (optional)}{128}{subsubsection.8.3.9.3}%
+\contentsline {subsubsection}{\numberline {8.3.9.4}Create port forwarding rules for SSH (optional)}{129}{subsubsection.8.3.9.4}%
+\contentsline {paragraph}{Debian}{129}{paragraph*.8}%
+\contentsline {paragraph}{NixOS}{129}{paragraph*.9}%
+\contentsline {subsubsection}{\numberline {8.3.9.5}Prepare nix-bitcoin NixOS package}{130}{subsubsection.8.3.9.5}%
+\contentsline {paragraph}{Additional hard drive configuration}{132}{paragraph*.10}%
+\contentsline {paragraph}{Static IP configuration}{132}{paragraph*.11}%
+\contentsline {paragraph}{SSH configuration}{133}{paragraph*.12}%
+\contentsline {paragraph}{Services configuration}{133}{paragraph*.13}%
 \ttl@stoptoc {part@2}
 \ttl@stoptoc {part@2}
 \ttl@starttoc {part@3}
-\contentsline {part}{\numberline {III}Appendix}{132}{part.3}%
-\contentsline {section}{\numberline {8.4}Acknowledgements and thanks}{133}{section.8.4}%
-\contentsline {section}{\numberline {8.5}Author Biographies}{133}{section.8.5}%
+\contentsline {part}{\numberline {III}Appendix}{134}{part.3}%
+\contentsline {section}{\numberline {8.4}Acknowledgements and thanks}{135}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Author Biographies}{135}{section.8.5}%
 \contentsfinish 

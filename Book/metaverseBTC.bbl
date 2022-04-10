@@ -2352,6 +2352,31 @@
       \field{year}{1988}
       \keyw{sample.bib}
     \endentry
+    \entry{taleb2012antifragile}{book}{}
+      \name{author}{1}{}{%
+        {{hash=97221c67145aabda05afac891300d180}{%
+           family={Taleb},
+           familyi={T\bibinitperiod},
+           given={Nassim\bibnamedelima Nicholas},
+           giveni={N\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Allen Lane London}%
+      }
+      \strng{namehash}{97221c67145aabda05afac891300d180}
+      \strng{fullhash}{97221c67145aabda05afac891300d180}
+      \strng{bibnamehash}{97221c67145aabda05afac891300d180}
+      \strng{authorbibnamehash}{97221c67145aabda05afac891300d180}
+      \strng{authornamehash}{97221c67145aabda05afac891300d180}
+      \strng{authorfullhash}{97221c67145aabda05afac891300d180}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Antifragile: how to live in a world we don't understand}
+      \field{volume}{3}
+      \field{year}{2012}
+    \endentry
     \entry{krawisz2014hyperbitcoinization}{article}{}
       \name{author}{1}{}{%
         {{hash=3ec84f96fd84a4c320635d0067584d9c}{%
@@ -2593,8 +2618,8 @@
       \strng{authorbibnamehash}{4677ceabcc0b34ec759b14d37cffe8fd}
       \strng{authornamehash}{4677ceabcc0b34ec759b14d37cffe8fd}
       \strng{authorfullhash}{4677ceabcc0b34ec759b14d37cffe8fd}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Index on Censorship}
@@ -3052,8 +3077,8 @@
       \strng{authorbibnamehash}{4edea707a3ce6776eb5412b5505f2a78}
       \strng{authornamehash}{4edea707a3ce6776eb5412b5505f2a78}
       \strng{authorfullhash}{4edea707a3ce6776eb5412b5505f2a78}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Full gaze awareness, defined here as knowing what someone is looking at, might be expected to be a powerful communicative resource when the conversation concerns some object of common interest in the environment. This article sets out to demonstrate this possibility in the context of video-mediated communication. An experiment is reported in which pairs complete a communication task using a novel apparatus that supports full gaze awareness (GA) and mutual gaze (eye contact). This ``GA display'' was contrasted with 2 control conditions, mutual gaze without full gaze awareness and audio only. The GA display reduced the number of turns and number of words required to complete the task by about 1/2 in comparison with the 2 control conditions. The results of a subsequent conversational games analysis suggest that at least part of this saving comes about because full gaze awareness provides an alternative nonlinguistic channel for checking one's own and the other person's understanding of what was said.}
@@ -3540,8 +3565,8 @@
       \strng{authorbibnamehash}{949c3fb7a1e180a746e06f56027bc891}
       \strng{authornamehash}{949c3fb7a1e180a746e06f56027bc891}
       \strng{authorfullhash}{03df2ffc9058a49f599c4238403dacf7}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Two psychophysical experiments are reported, one dealing with the visual perception of the head orientation of another person (the 'looker') and the other dealing with the perception of the looker's direction of eye gaze. The participant viewed the looker with different retinal eccentricities, ranging from foveal to far-peripheral viewing. On average, judgments of head orientation were reliable even out to the extremes of peripheral vision (90 degrees eccentricity), with better performance at the extremes when the participant was able to view the looker changing head orientation from one trial to the next. In sharp contrast, judgments of eye-gaze direction were reliable only out to 4 degrees eccentricity, signifying that the eye-gaze social signal is available to people only when they fixate near the looker's eyes. While not unexpected, this vast difference in availability of information about head direction and eye direction, both of which can serve as indicators of the looker's focus of attention, is important for understanding the dynamics of eye-gaze behavior.}
@@ -3579,8 +3604,8 @@
       \strng{authorbibnamehash}{8d5e1a286ba9ba440e8b2a415ff41547}
       \strng{authornamehash}{8d5e1a286ba9ba440e8b2a415ff41547}
       \strng{authorfullhash}{8d5e1a286ba9ba440e8b2a415ff41547}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The impact of looking into the camera during a presentation over a video link (resulting in the perception of mutual gaze) on information recall was investigated. In a face-to-face context mutual gaze has been shown to facilitate the encoding and subsequent recall of information [Fry, R., Smith, G.F., 1975. The effects of feedback and eye contact on performance of a digit-coding task. J. Soc. Psychol. 96, 145-146; Otteson, J.D., Otteson, C.R., 1980. Effect of teacher's gaze on children's story recall. Percept. Motor Skill. 50, 35-42; Sherwood, J.V., 1988. Facilitative effects of gaze upon learning. Percept. Motor Skill. 64 (3 Part 2), 1275-1278]. One explanation for these findings is that gaze acts as an arousal stimulus, which increases attentional focus and therefore enhances memory [Kelley, D.H., Gorham, J., 1988. Effects of immediacy on recall of information. Commun. Edu. 37(3), 198-207]. Two studies were conducted in order to test whether gazing at the camera during video-mediated presentations resulted in similar benefits as mutual gaze in a face-to-face context. In study 1 a confederate presented information about two fictitious soap products. In one condition, the confederate gazed at the camera for 30\% of the presentation, therefore giving the participants the impression that he was gazing in their direction. In the other condition the confederate did not gaze at the camera. Participants viewed the sales presentations from both conditions. In the condition where gaze was directed at the camera, participants recalled significantly more information about the sales presentation. Study 2 employed the same pre-recorded sales presentations used in study 1, however they were delivered to the participants under audio-only conditions (therefore, the image was switched off). Results from study 2 indicated no recall differences between the two conditions. Findings from these studies would seem to indicate that the perception of gaze aversion over a video link (a consequence of the salesman not looking into the camera) has a negative impact on information recall. This has practical implications for video-mediated presentations. In a distance learning environment lecturers could be advised to look into the camera in order to promote more efficient learning in students.}
