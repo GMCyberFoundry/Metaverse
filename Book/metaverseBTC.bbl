@@ -2471,6 +2471,31 @@
       \field{pages}{4}
       \range{pages}{1}
     \endentry
+    \entry{mui2002computational}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=8a43bc9ad27547b7a423d243de5634e7}{%
+           family={Mui},
+           familyi={M\bibinitperiod},
+           given={Lik},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Massachusetts Institute of Technology}%
+      }
+      \strng{namehash}{8a43bc9ad27547b7a423d243de5634e7}
+      \strng{fullhash}{8a43bc9ad27547b7a423d243de5634e7}
+      \strng{bibnamehash}{8a43bc9ad27547b7a423d243de5634e7}
+      \strng{authorbibnamehash}{8a43bc9ad27547b7a423d243de5634e7}
+      \strng{authornamehash}{8a43bc9ad27547b7a423d243de5634e7}
+      \strng{authorfullhash}{8a43bc9ad27547b7a423d243de5634e7}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Computational models of trust and reputation: Agents, evolutionary games, and social networks}
+      \field{type}{phdthesis}
+      \field{year}{2002}
+    \endentry
     \entry{mclellan1993avatars}{article}{}
       \name{author}{1}{}{%
         {{hash=4dc214c859a01c74a067082d181d6afd}{%
@@ -2589,8 +2614,8 @@
       \strng{authorbibnamehash}{1ecd6cc5c25b88165b419fc3ee57ae0d}
       \strng{authornamehash}{1ecd6cc5c25b88165b419fc3ee57ae0d}
       \strng{authorfullhash}{4e7b5cc3e93a669dd745a4ed9f04bc36}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Business Intelligence and Data Mining}
@@ -3040,8 +3065,8 @@
       \strng{authorbibnamehash}{8e8b58c9709dcdfde9beec6e4f1d961b}
       \strng{authornamehash}{8e8b58c9709dcdfde9beec6e4f1d961b}
       \strng{authorfullhash}{8e8b58c9709dcdfde9beec6e4f1d961b}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Three different videoconferencing systems for supporting multiparty, remote conversations are described and evaluated experimentally. The three systems differed by how many participants were visible at once, their spatial arrangement, and control over who was seen. Conversations using these systems were compared to same-room (Experiment 1) and audio-only (Experiment 2) conversations. Specialized speech-tracking equipment recorded the on-off patterns of speech that allowed objective measurement of structural aspects of the conversations, such as turn length, pauses, and interruptions. Questionnaires and interviews also documented participants' opinions and perceptions in the various settings. Contrary to expectation, systems in which visual cues such as selective gaze were absent produced no differences in turn-taking or in any other aspect of the structure of conversation. In fact, turn-taking was unaffected even when visual information was completely absent. Overall, only the same-room condition showed any significant differences from any other condition; people in the same room produced more interruptions and fewer formal handovers of the floor than in any of the technology-mediated conditions. In this respect, the audio-only and video systems examined in these studies were equivalent. However, analyses of participants' perceptions showed that participants felt that visual access in mediated conversations was both important and beneficial in conversation. Further, there were indications that the particular design of the different video systems did affect some aspects of conversational behavior, such as the ability to hold side and parallel conversations.}
@@ -3449,8 +3474,8 @@
       \strng{authorbibnamehash}{3750619fbe2292f61d67a5e9d876fe38}
       \strng{authornamehash}{3750619fbe2292f61d67a5e9d876fe38}
       \strng{authorfullhash}{3750619fbe2292f61d67a5e9d876fe38}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Why pictures look right when viewed from the wrong place}
@@ -3487,8 +3512,8 @@
       \strng{authorbibnamehash}{aded41e3797d44dfd76cf377a9691bfb}
       \strng{authornamehash}{aded41e3797d44dfd76cf377a9691bfb}
       \strng{authorfullhash}{aded41e3797d44dfd76cf377a9691bfb}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Perception of Where a Face or Television Portrait is Looking}
@@ -3515,8 +3540,8 @@
       \strng{authorbibnamehash}{cc81f1ba9e38dd4a7d6a338a8dbf0b71}
       \strng{authornamehash}{cc81f1ba9e38dd4a7d6a338a8dbf0b71}
       \strng{authorfullhash}{cc81f1ba9e38dd4a7d6a338a8dbf0b71}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{On the apparent direction of eyes in a portrait}
@@ -6854,8 +6879,8 @@
       \strng{authorbibnamehash}{c83a6d030a413fd7b161f4df974ac77f}
       \strng{authornamehash}{c83a6d030a413fd7b161f4df974ac77f}
       \strng{authorfullhash}{c83a6d030a413fd7b161f4df974ac77f}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Social cognition, as a field, can be characterized as a distinct subarea of social psychology that examines all of the countless cognitive complexities, mental representations, and processes implicated in interaction, as well as an approach to studying interactions in the context of the groups, cultures, and societies to which they belong. Together these two facets of social cognition create one of the most influential and important social sciences to come along in some time. Providing a comprehensive review of major topics in the field of social cognition, The Oxford Handbook of Social Cognition expresses that excitement and fascination in describing the content and approach that constitute the field today. The 43 chapters included in this handbook cover: - central aspects of the field of social cognition, including its history and historically important foundational research areas (attribution, attitudes, impression formation, and prejudice/stereotyping), along with methodology - core issues relating to social cognitive representations and processes (including those that are visual, implicit, or automatic) and the stages of information processing (attention, perception, memory, and judgment, along with simulation and thought suppression) - applications of the social cognition approach to areas of social psychology, general psychology, and other disciplines, such as marketing, law, health and politics After more than 30 years, the vibrant field of social cognition continues to reign as one of psychology's most dominant approaches. The impressive chapters collected in this volume define the field and contribute enormously to our understanding of what social cognition is today.}

@@ -55,7 +55,7 @@
 \contentsline {subsection}{\numberline {3.8.1}LNP/BP and RGB}{51}{subsection.3.8.1}%
 \contentsline {subsection}{\numberline {3.8.2}Taro}{53}{subsection.3.8.2}%
 \contentsline {subsection}{\numberline {3.8.3}Slashpay}{53}{subsection.3.8.3}%
-\contentsline {subsection}{\numberline {3.8.4}Spacechains}{53}{subsection.3.8.4}%
+\contentsline {subsection}{\numberline {3.8.4}Spacechains}{54}{subsection.3.8.4}%
 \contentsline {subsection}{\numberline {3.8.5}Statechains, drivechain, softchains}{54}{subsection.3.8.5}%
 \contentsline {section}{\numberline {3.9}Other chains and networks}{54}{section.3.9}%
 \contentsline {subsection}{\numberline {3.9.1}Layer 1 chains}{54}{subsection.3.9.1}%
@@ -104,6 +104,7 @@
 \contentsline {subsection}{\numberline {5.4.1}Slashtags}{78}{subsection.5.4.1}%
 \contentsline {subsection}{\numberline {5.4.2}Microsoft ION}{78}{subsection.5.4.2}%
 \contentsline {subsection}{\numberline {5.4.3}Nostr}{79}{subsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.4.4}Open World assumption}{80}{subsection.5.4.4}%
 \contentsline {section}{\numberline {5.5}Risks \& Challenges?}{80}{section.5.5}%
 \contentsline {chapter}{\numberline {6}Non Fungible Tokens}{81}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Digital Art}{83}{section.6.1}%

@@ -13373,4 +13373,12 @@
   year      = {2022},
 }
 
+@Book{taleb2012antifragile,
+  author    = {Taleb, Nassim Nicholas},
+  publisher = {Allen Lane London},
+  title     = {Antifragile: how to live in a world we don't understand},
+  year      = {2012},
+  volume    = {3},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
