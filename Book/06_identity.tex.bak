@@ -1,7 +1,6 @@
-This section need to point out that DID/SSI is broken, ION is untested, and everyone's kinda given up. Webs of trust are viable so this means Nostr or Slashtags. Maybe LNURL-Auth can do it.
-
-This is where an external contributor can add information about DID and SSI
-Distributed self sovereign identity has a great elevator pitch. Individuals should be empowered through technology to manage their own data, without manipulation or exploitation by centralised corporate behemoths. In practice it's a staggeringly complex proposition which increases risk to the individual, decreases convenience, and despite much work, does not even make much sense in it's own terms.
+\section{Notes and thoughts - to be completed}
+This section need to point out that DID/SSI is broken, ION is untested, and everyone's kinda given up. Webs of trust are viable so this means Nostr, \href{https://github.com/project-bitmark/marking/wiki#marking}{Marking}, or Slashtags. Maybe LNURL-Auth can do it.\par
+Distributed self sovereign identity has a great elevator pitch. Individuals should be empowered through technology to manage their own data, without manipulation or exploitation by centralised corporate behemoths. In practice it's a staggeringly complex proposition which increases risk to the individual, decreases convenience, and despite much work, does not even make much sense in it's own terms. Thanks to Melvin Carvalho for advice with this section.
 \section{Applications of DID/SSI}
 Some of the likely, and discussed applications for DID/SSI are the more inherently private and personally valuable sets of data a individual might generate throughout their life. The theory is that subsets of such data could then be digitally revealed by the individual when required, and that cryptographic verification built into the system would guarantee the veracity of the data to the receiving party. It is also possible to make use of ``zero-knowledge proof'' such that assertions can be made about about the contents of the data without revealing the data itself. A good example of this an age verification challenge, where a threshold age could be asserted without necessarily revealing the date of birth. 
 Other keystone uses of the technology are:
@@ -12,16 +11,13 @@ Other keystone uses of the technology are:
 \item contacts, connections to other people and their appropriate data, including things like shared and personal calendars
 \end{itemize}  
 It's also possible to extend this key management ethos to all login credentials, and all data currently stored on centralised servers. This is the tension discussed in the chapter about Web3. Proponents think that using something like a DID/SSI stack to manage encryption, decryption and access to data within cloud services gives the user the best of all worlds. They see simply logging in with a cryptographic wallet, and using that same public/private key pair to manage the data beyond as some kind of panacea. This is very complex stuff though, and it seems very likely they just haven't thought this through enough.
-
 \section{Classic DID/SSI}
 Distributed identity / self sovereign identity has been extensively researched for decades, with hundreds of peer reviewed papers, and extensive support from the \href{https://www.w3.org/TR/did-core/}{world wide web consortium}. The academic field now seems quite ossified and has settled on a couple of hundred `schema' which they feel underpin the next layer of development. It is a \href{https://medium.com/decentralized-identity/overview-of-decentralized-identity-standards-f82efd9ab6c7}{complex field}, and the language and diagrams are arcane and self referential as seen in Figure \ref{fig:DID}.
-
 \begin{figure}
 \includegraphics[width=\linewidth]{DID}
   \caption{Part of the DID SSI specs}
   \label{fig:DID}
 \end{figure}. 
-
 Moreover the minimal implementation of such proposed systems hints at a \href{https://www.w3.org/community/perma-id/}{federated model} of centralised `truth' to enable persistence of identifiers over time.\\
 The major failing of the DID/SSI work to date is a lack of meaningful use cases with incentives for adoption. This is clearly explained by Lockwood \cite{lockwood2021exploring} who proposes that the pathway to adoption of `classic' DID/SSI requires an incentive over and above the current identity management on the web. Being distributed is not enough. Especially in the light of questionable assurances of this even being true.\\
 Perhaps most concerning is this \href{https://lists.w3.org/Archives/Public/public-credentials/2022Mar/thread.html}{recent exchange} on the mailing lists. Here, the two inventors of DID say the following:\\
@@ -35,18 +31,13 @@ The core principles of distributed identity are that there should be persistent 
 All classic DID is underpinned by a DID document what bootstrap the services it's connected to. It is made up of one or more public keys. The documents can make use of services such as timestamps, cryptographic signatures, proofs, delegations, and authorisations. They should contact the minimum about of information to accomplish the specific task required of them.
 
 \section{Newer Technologies}
+
+modelling reputation diagram 2.3.2 \cite{mui2002computational}
+
 \subsection{Slashtags}
 Slashtags is a new distributed identity open method being developed by Bitfinex and Tether under the Synonym suite. It uses bitcoin keys for authentication, but communicates a schema through a metadata exchange.
-\subsection{LNURL-Auth}
-\lipsum[50]
-\subsection{Sovrin}
-Sovrin foundation are established global players in distributed identity and we wish to apply to join their federation of credential issuers.
-\subsection{Keri}
-\lipsum[50]
-\subsection{Atala Prism}
-\lipsum[50]
 \subsection{Microsoft ION}
-While working at Microsoft on ION Daniel Buchner (now working at Square) or Henry Tsai \href{https://github.com/decentralized-identity/ion/blob/master/docs/Q-and-A.md}{said the following}, which is worth quoting verbatim:\\
+While working at Microsoft on ION Daniel Buchner (now working at Square) or Henry Tsai \href{https://github.com/decentralized-identity/ion/blob/master/docs/Q-and-A.md}{said the following}, which is worth quoting verbatim:\par
 ``While ledger-based consensus systems, on the surface, would seem to provide the same general features as one another, there are a few key differences that make some more suitable for critical applications, like the decentralized identifiers of human beings. Some of these considerations and features are:
 \begin{itemize}
 \item The system must be open and permissionless, not a cabal of authorities who can exclude and remove participants.
@@ -54,7 +45,7 @@ While working at Microsoft on ION Daniel Buchner (now working at Square) or Henr
 \item The system must produce a singular, independently verifiable record that is as immutable as possible, so that reversing the record the system produces is infeasible.
 \item The system must be widely deployed, with nodes that span the globe, to ensure the record is persisted.
 \item The system must be self-incentivized, so that nodes continue to operate, process, and secure the record over time. The value from operation must come from the system directly, because outside incentive reliance is itself a vector for attack.
-\item The cost to attack the system through any game theoretically available means must be high enough that it is infeasible to attempt, and even if an ultra-capitalized attacker did, it would require a weaponized mobilization of force and resources that would be obvious, with options for mitigation.\\
+\item The cost to attack the system through any game theoretically available means must be high enough that it is infeasible to attempt, and even if an ultra-capitalized attacker did, it would require a weaponized mobilization of force and resources that would be obvious, with options for mitigation.\par
 
 The outcome:
 
@@ -63,13 +54,28 @@ The outcome:
 \item For the metrics detailed in 3-6, Bitcoin is so far beyond all other options, it isn't even close - Bitcoin is the most secure option by an absurdly large margin.''
 \end{itemize}
 
-On the surface then it might seem that the choice is Bitcoin again, and indeed that the open source Microsoft ION stack is a natural choice. 
+On the surface then it might seem that the choice is Bitcoin again, and indeed that the open source Microsoft ION stack is a natural choice, but it's complex to run, the interactions with the blockchain have a cost implication which can't be surmounted without every user owning some Bitcoin, and as we have seen, there is no formal validation of this system. It seems that it might be somewhat useful `at scale' and is worth consideration.
+\subsection{Nostr}
+Nostr is ``The simplest open protocol that is able to create a censorship-resistant global "social" network once and for all.'' according to it's \href{https://github.com/fiatjaf/nostr}{github page}. More than that it's a client side validated proof of who a user is interacting with, hence being in this identity section. To be clear, it's not a completely peer to peer system in that it uses relay servers, but this gives it some of the best characteristics of both paradigms. This has the following advantages for our metaverse application; 
+\begin{itemize}
+\item it's lightweight, with minimal network overhead and complexity
+\item it's real-time using websockets
+\item anyone can run a relay server, so one can be run in the deployment in the final section of the book.
+\item Each of the client peers connecting to the metaverse can be a relay and able to pass messages and proofs to the other clients without the metaverse server seeing the data or being online 
+\item it's opensource
+\item there are multiple usable libraries and tools
+\item it's under active development with an excellent team. The lead, `Fiatjaf' is one of the most \href{https://github.com/fiatjaf}{prolific developers} in the lightning space.
+\item it's based on the same underlying cryptographic technology we are using elsewhere, indeed the with it's use of Bitcoin keys the identity system is global
+\item it provides the identity proof that we need to validate users and objects into a virtual space
+\item it enables message passing
+\item it scales to be a social network as required
+\item it need not rely on anything outside of a relay hosted on the metaverse server
+\item it can likely be scaled to provide one to many bulletin board style applications within the metaverse
+\item it can easily operate outside of the walled garden of the metaverse, extending the reach of the messages
+\end{itemize} 
 
-\subsection{Atala Prism (ADA Ecosystem)}
-\href{https://medium.com/coinmonks/part-2-using-nethereum-in-unity-5b09f2d8c718}{This Medium post} lists the pre-requisites required for interaction with Eth within Unity. At this stage this hasn't been expanded out. It's based around the .NET `nethereum' library which can be found on their \href{https://github.com/Nethereum/Nethereum}{github}.    
-   
-  
-
+\subsection{Open World assumption}
+\href{https://en.wikipedia.org/wiki/Open-world_assumption}{this needs unpacking}
 %------------------------------------------------
 \section{Risks \& Challenges?}
 Classic DID/SSI risks fragmentations
