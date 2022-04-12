@@ -13381,4 +13381,11 @@
   volume    = {3},
 }
 
+@PhdThesis{mui2002computational,
+  author = {Mui, Lik},
+  school = {Massachusetts Institute of Technology},
+  title  = {Computational models of trust and reputation: Agents, evolutionary games, and social networks},
+  year   = {2002},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

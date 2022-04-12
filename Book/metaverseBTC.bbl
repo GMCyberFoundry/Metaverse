@@ -2377,6 +2377,54 @@
       \field{volume}{3}
       \field{year}{2012}
     \endentry
+    \entry{martin2022dark}{article}{}
+      \name{author}{5}{}{%
+        {{hash=72331bb8b59a03639eca95c185ec7af3}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Brett\bibnamedelima AS},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=0ea24ab2f541e11bbd07db55b7b15240}{%
+           family={Chrysochou},
+           familyi={C\bibinitperiod},
+           given={Polymeros},
+           giveni={P\bibinitperiod}}}%
+        {{hash=e7afe0d70b1fc1ab17a9287ecce75a50}{%
+           family={Strong},
+           familyi={S\bibinitperiod},
+           given={Carolyn},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ae66067c3dea21e00e9c5b777faa1a4e}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Di},
+           giveni={D\bibinitperiod}}}%
+        {{hash=67f83edb2dea71bc7474b7b2690bc5c0}{%
+           family={Yao},
+           familyi={Y\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5ed999110bb94ac264d9d68c748ee6fa}
+      \strng{fullhash}{dd3776117b10720c1ca4eed46a3baf6a}
+      \strng{bibnamehash}{5ed999110bb94ac264d9d68c748ee6fa}
+      \strng{authorbibnamehash}{5ed999110bb94ac264d9d68c748ee6fa}
+      \strng{authornamehash}{5ed999110bb94ac264d9d68c748ee6fa}
+      \strng{authorfullhash}{dd3776117b10720c1ca4eed46a3baf6a}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Personality and Individual Differences}
+      \field{title}{Dark personalities and Bitcoin{®}: The influence of the Dark Tetrad on cryptocurrency attitude and buying intention}
+      \field{volume}{188}
+      \field{year}{2022}
+      \field{pages}{111453}
+      \range{pages}{1}
+    \endentry
     \entry{krawisz2014hyperbitcoinization}{article}{}
       \name{author}{1}{}{%
         {{hash=3ec84f96fd84a4c320635d0067584d9c}{%
@@ -2552,8 +2600,8 @@
       \strng{authorbibnamehash}{bb325fe46940bbf5d2eabf28a8415da6}
       \strng{authornamehash}{bb325fe46940bbf5d2eabf28a8415da6}
       \strng{authorfullhash}{2659902b245054648f3837389c7a4ce8}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Q. J. Econ.}
@@ -3035,8 +3083,8 @@
       \strng{authorbibnamehash}{7fac5cc85676ead944d8c90538590da2}
       \strng{authornamehash}{7fac5cc85676ead944d8c90538590da2}
       \strng{authorfullhash}{7fac5cc85676ead944d8c90538590da2}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
@@ -3438,8 +3486,8 @@
       \strng{authorbibnamehash}{3beb95b114d2369ae52e569a38f52738}
       \strng{authornamehash}{3beb95b114d2369ae52e569a38f52738}
       \strng{authorfullhash}{3beb95b114d2369ae52e569a38f52738}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{\#oct\#}
