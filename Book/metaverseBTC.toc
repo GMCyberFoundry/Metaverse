@@ -87,7 +87,7 @@
 \contentsline {subsubsection}{\numberline {4.5.2.5}Stablecoin collapse system shock}{75}{subsubsection.4.5.2.5}%
 \contentsline {subsubsection}{\numberline {4.5.2.6}Tech for techs sake yielding unexpected outcomes}{75}{subsubsection.4.5.2.6}%
 \contentsline {subsubsection}{\numberline {4.5.2.7}No agreed measurable end goal}{75}{subsubsection.4.5.2.7}%
-\contentsline {subsubsection}{\numberline {4.5.2.8}National security / actual warfare}{75}{subsubsection.4.5.2.8}%
+\contentsline {subsubsection}{\numberline {4.5.2.8}National security / actual warfare}{76}{subsubsection.4.5.2.8}%
 \contentsline {subsubsection}{\numberline {4.5.2.9}Bitcoin as a culture war foil}{76}{subsubsection.4.5.2.9}%
 \contentsline {subsubsection}{\numberline {4.5.2.10}Self reinforcing monocultures}{76}{subsubsection.4.5.2.10}%
 \contentsline {subsubsection}{\numberline {4.5.2.11}Jurisdictional / legislative arbitrage}{76}{subsubsection.4.5.2.11}%
