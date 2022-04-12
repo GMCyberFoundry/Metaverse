@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  12 APR 2022 16:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  12 APR 2022 17:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3792,7 +3792,7 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 Here is how much of TeX's memory you used:
  36840 strings out of 478582
  729016 string characters out of 2844816
- 1605850 words of memory out of 3000000
+ 1605871 words of memory out of 3000000
  53100 multiletter control sequences out of 15000+600000
  586206 words of font info for 442 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -3813,7 +3813,7 @@ fb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pf
 b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb
 ><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
 >
-Output written on metaverseBTC.pdf (157 pages, 20895236 bytes).
+Output written on metaverseBTC.pdf (157 pages, 20895435 bytes).
 PDF statistics:
  3425 PDF objects out of 3580 (max. 8388607)
  781 named destinations out of 1000 (max. 500000)
