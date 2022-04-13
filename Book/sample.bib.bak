@@ -13388,4 +13388,21 @@
   year   = {2002},
 }
 
+@Article{martin2022dark,
+  author    = {Martin, Brett AS and Chrysochou, Polymeros and Strong, Carolyn and Wang, Di and Yao, Jun},
+  journal   = {Personality and Individual Differences},
+  title     = {Dark personalities and Bitcoin{\textregistered}: The influence of the Dark Tetrad on cryptocurrency attitude and buying intention},
+  year      = {2022},
+  pages     = {111453},
+  volume    = {188},
+  publisher = {Elsevier},
+}
+
+@Book{heiphetz2010training,
+  author    = {Heiphetz, Alex and Woodill, Gary},
+  publisher = {McGraw Hill Professional},
+  title     = {Training and collaboration with virtual worlds: How to create cost-saving, efficient and engaging programs},
+  year      = {2010},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

@@ -10669,6 +10669,59 @@
       \range{pages}{9}
       \keyw{Autostereoscopic display; Multi-view; Omnidirectional; Ray-space; Light field; Parallax barrier;litsurvey.bib}
     \endentry
+    \entry{heiphetz2010training}{book}{}
+      \name{author}{2}{}{%
+        {{hash=a18fcecdc4d0ca5500edb96d02b3348a}{%
+           family={Heiphetz},
+           familyi={H\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2baa2873e9c7d21b661df54a0af1e042}{%
+           family={Woodill},
+           familyi={W\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {McGraw Hill Professional}%
+      }
+      \strng{namehash}{c3dfaab69ae4bf768f79dfc9aefb0c5e}
+      \strng{fullhash}{c3dfaab69ae4bf768f79dfc9aefb0c5e}
+      \strng{bibnamehash}{c3dfaab69ae4bf768f79dfc9aefb0c5e}
+      \strng{authorbibnamehash}{c3dfaab69ae4bf768f79dfc9aefb0c5e}
+      \strng{authornamehash}{c3dfaab69ae4bf768f79dfc9aefb0c5e}
+      \strng{authorfullhash}{c3dfaab69ae4bf768f79dfc9aefb0c5e}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Training and collaboration with virtual worlds: How to create cost-saving, efficient and engaging programs}
+      \field{year}{2010}
+    \endentry
+    \entry{aldrich2005learning}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5a8134e026faf8204184f1fbbad0ec90}{%
+           family={Aldrich},
+           familyi={A\bibinitperiod},
+           given={Clark},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{5a8134e026faf8204184f1fbbad0ec90}
+      \strng{fullhash}{5a8134e026faf8204184f1fbbad0ec90}
+      \strng{bibnamehash}{5a8134e026faf8204184f1fbbad0ec90}
+      \strng{authorbibnamehash}{5a8134e026faf8204184f1fbbad0ec90}
+      \strng{authornamehash}{5a8134e026faf8204184f1fbbad0ec90}
+      \strng{authorfullhash}{5a8134e026faf8204184f1fbbad0ec90}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Learning by doing: A comprehensive guide to simulations, computer games, and pedagogy in e-learning and other educational experiences}
+      \field{year}{2005}
+    \endentry
   \enddatalist
   \missing{Kleinke1986a}
 \endrefsection
