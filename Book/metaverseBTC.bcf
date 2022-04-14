@@ -2708,11 +2708,11 @@
     <bcf:citekey order="296">Eldes2013</bcf:citekey>
     <bcf:citekey order="297">Yendo2010</bcf:citekey>
     <bcf:citekey order="298">Cook1977</bcf:citekey>
-    <bcf:citekey order="298">Kleinke1986a</bcf:citekey>
+    <bcf:citekey order="298">Kleinke1986</bcf:citekey>
     <bcf:citekey order="298">Fagel2010</bcf:citekey>
     <bcf:citekey order="299">Otsuka2005</bcf:citekey>
     <bcf:citekey order="300">Kendon1967</bcf:citekey>
-    <bcf:citekey order="301">Kleinke1986a</bcf:citekey>
+    <bcf:citekey order="301">Kleinke1986</bcf:citekey>
     <bcf:citekey order="301">Nguyen2009</bcf:citekey>
     <bcf:citekey order="302">Aoki2003</bcf:citekey>
     <bcf:citekey order="303">heiphetz2010training</bcf:citekey>
@@ -2989,9 +2989,8 @@
     <bcf:citekey order="573">Tay2008</bcf:citekey>
     <bcf:citekey order="574">Eldes2013</bcf:citekey>
     <bcf:citekey order="575">Yendo2010</bcf:citekey>
-    <bcf:citekey order="576">Kleinke1986a</bcf:citekey>
-    <bcf:citekey order="577">heiphetz2010training</bcf:citekey>
-    <bcf:citekey order="578">aldrich2005learning</bcf:citekey>
+    <bcf:citekey order="576">heiphetz2010training</bcf:citekey>
+    <bcf:citekey order="577">aldrich2005learning</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
