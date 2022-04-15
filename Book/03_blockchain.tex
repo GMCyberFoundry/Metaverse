@@ -7,13 +7,20 @@ Soon after the 1980s saw the emergence of the cypherpunk activist movement, as a
  were of foremost importance within these discussions %(https://www.wired.com/1994/12/emoney/), 
  and while privacy was within reach thanks to \href{https://www.openpgp.org/about/history/}{``public/private key pairs''}, 
  ecash proved to be a more difficult problem. \par
-Adam Back's 1997 `hashcash' \cite{back2002hashcash} paved the way for later work by introducing the concept of `proof of work'. This was built upon by Dai \cite{dai1998b}, Szabo \cite{szabo1997formalizing}, Finney \cite{callas1998openpgp}, and Nakamoto amongst others. In all it took 16 years of collaboration on the mailing lists to attack the problem of trust-minimised, distributed, digital cash. The culmination of these attempts was Bitcoin \cite{Nakamoto2008}. This is illustrated by Dan Held in Figure \ref{fig:prehistory}. This is now a wider ecosystem of technologies. 
+Adam Back's 1997 `hashcash' \cite{back2002hashcash} paved the way for later work by introducing the concept of `proof of work'. This was built upon by Dai \cite{dai1998b}, Szabo \cite{szabo1997formalizing}, Finney \cite{callas1998openpgp}, and Nakamoto amongst others. In all it took 16 years of collaboration on the mailing lists to attack the problem of trust-minimised, distributed, digital cash. The culmination of these attempts was Bitcoin \cite{Nakamoto2008}. This is illustrated by Dan Held in Figure \ref{fig:prehistory}. This is now a wider ecosystem of technologies and societal challenges \ref{fig:bitcointopics}. 
 
 \begin{figure}
   \centering
     \includegraphics[width=\linewidth]{prehistory}
   \caption{Dan Held: \href{https://www.danheld.com/blog/2019/1/6/planting-bitcoinsoil-34}{Bitcoin prehistory} used with permission.}
   \label{fig:prehistory}
+\end{figure}
+
+\begin{figure}
+  \centering
+    \includegraphics[width=\linewidth]{bitcointopics}
+  \caption{\href{https://twitter.com/djvalerieblove/status/1514703620272394243/photo/1}{Bitcoin Topics crowd source} used with permission.}
+  \label{fig:bitcointopics}
 \end{figure}
 
 There is enormous complexity and scope, as seen in Figure \ref{fig:venn}, and yet genuinely useful products are elusive.
@@ -177,7 +184,7 @@ Around thirty thousand Raspberry Pi Lightning nodes (which are also by definitio
 \item \href{https://github.com/fort-nix/nix-bitcoin}{nix-bitcoin} focuses on security of the underlying operating system by building on NixOS.
 \item \href{https://nodl.it}{NODL} is a premium prebuilt node focusing on security of the more performant hardware, and underlying operating system. It offers additional privacy tools.
 \item \href{https://store.start9labs.com/collections/embassy}{Start9 Embassy} is a small form factor prebuilt unit at a lower price. It is a venture capital funded project with a more restrictive license but offers a suite of easy to use self sovereignty tools including Bitcoin. 
-\item \href{https://www.osinteditor.com/NXN/mp_march28_f3/index.html}{The CLBoss plugin} can be combined with may of the above under C-Lightning to automate much of the operations and is a contender for our deployment too.
+\item \href{https://www.osinteditor.com/NXN/mp_march28_f3/index.html}{The CLBoss plugin} can be combined with may of the above under `Core Lightning' to automate much of the operations and is a contender for our deployment too.
 \end{itemize}
 This is as good a time as any to start shaping a mission statement: \textbf{This book builds toward a new metaverse focused suite of tools, that utilises the nix-bitcoin distribution for the Bitcoin node}. There's a lot of components that haven't been covered yet, but nix-bitcoin is the first selected piece of open source software.
 %\href{https://nydig.com/research/nydig-bitcoin-101}{Consider  mining the NYDIG primer for information}
@@ -262,7 +269,7 @@ The Liquid side chain network, and it's own attendant Lightning layer 2, is a fo
 \href{https://bitcoinmagazine.com/business/bitcoin-liquid-network-gains-six-new-federation-members}{still dozens} of major companies, development teams, and individual actors, with significant reputational investment.\par
 ``Federation members contribute to the Liquid Network's security, gain voting rights in the board election and membership process, and provide valuable input on the development of new features. Members also benefit from the ability to perform a peg-out without a third party, allowing their users to convert between L-BTC and BTC seamlessly within their platform.''\par
 Crucially for our purposes here Liquid allows tokenised asset transfer. Anyone \href{https://docs.blockstream.com/liquid/developer-guide/developer-guide-index.html#issued-assets}{can issue} an asset on Liquid. Such transfers of assets may be orders of magnitude cheaper than on chain Bitcoin transactions, but still potentially orders of magnitude more expensive than a simple Lightning transaction of value on the Bitcoin network. \par 
-Blockstream plan to add arbitrary (user generated) token support to their C-Lightning implementation at some point. This would be a very strong choice for specific use cases within an economically enabled metaverse application. When participants wish to `cash out' of the Liquid network they must do this through one of the federation members who activate the other side of the `two-way peg', dispensing the equivalent amount of Bitcoin. This is transparently handled through Blockstream's ``green wallet''.\par
+Blockstream plan to add arbitrary (user generated) token support to their `Core Lightning' implementation at some point. This would be a very strong choice for specific use cases within an economically enabled metaverse application. When participants wish to `cash out' of the Liquid network they must do this through one of the federation members who activate the other side of the `two-way peg', dispensing the equivalent amount of Bitcoin. This is transparently handled through Blockstream's ``green wallet''.\par
 All of this has the advantage of a far lower energy footprint compared to the main chain, but it's not quite ready with a full suite of affordances. \par
 The Liquid network is being used as the underlying asset for a novel new global financial product. El Salvador are working with Blockstream to issue a nation state backed bond. 
 \section{Bitcoin Layer 3}
