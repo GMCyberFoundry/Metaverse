@@ -21,25 +21,25 @@
 \contentsline {figure}{\numberline {3.9}{\ignorespaces Hash rate \href {https://ccaf.io/cbeci/ining_map}{suddenly migrates} from China [Reuse rights requested]}}{40}{figure.3.9}%
 \contentsline {figure}{\numberline {3.10}{\ignorespaces Goldman suggest growth opportunity and potential demonetisation of gold?}}{41}{figure.3.10}%
 \contentsline {figure}{\numberline {3.11}{\ignorespaces Given a start point on the curve and a number of reflection operations it's trivial to find a number at the end point, but impossible to find the number of \href {https://medium.com/coinmonks/introduction-to-blockchains-bedrock-the-elliptic-curve-secp256k1-e4bd3bc17d}{hops} from the two end points alone.}}{43}{figure.3.11}%
-\contentsline {figure}{\numberline {3.12}{\ignorespaces \href {https://www.research.arcane.no/the-state-of-lightning}{Arcane research lightning adoption overview}.}}{49}{figure.3.12}%
-\contentsline {figure}{\numberline {3.13}{\ignorespaces Two of the many \href {https://rapaygo.com/}{prebuilt} and \href {https://github.com/arcbtc/LNURLPoS}{kit} options for Lightning `point of sale'}}{51}{figure.3.13}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces \href {https://www.research.arcane.no/the-state-of-lightning}{Arcane research lightning adoption overview}.}}{50}{figure.3.12}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Two of the many \href {https://rapaygo.com/}{prebuilt} and \href {https://github.com/arcbtc/LNURLPoS}{kit} options for Lightning `point of sale'}}{52}{figure.3.13}%
 \contentsline {figure}{\numberline {3.14}{\ignorespaces Allocations given at the beginning of public blockchain, by Messari.}}{57}{figure.3.14}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Comparison of mobile based payment systems}}{63}{figure.4.1}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Potential market exposure to Bitcoin as a money}}{72}{figure.4.2}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Nassim Taleb's Turkey Problem}}{73}{figure.4.3}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces \href {https://davethewave.substack.com/p/cycle-theory-revisited?s=r}{Cycle theory revisited blog post} [Image used with permission]}}{74}{figure.4.4}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces ``We're not selling'' is a powerful meme}}{75}{figure.4.5}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Comparison of mobile based payment systems}}{64}{figure.4.1}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Potential market exposure to Bitcoin as a money}}{73}{figure.4.2}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Nassim Taleb's Turkey Problem}}{74}{figure.4.3}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces \href {https://davethewave.substack.com/p/cycle-theory-revisited?s=r}{Cycle theory revisited blog post} [Image used with permission]}}{75}{figure.4.4}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces ``We're not selling'' is a powerful meme}}{76}{figure.4.5}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Part of the DID SSI specs}}{81}{figure.5.1}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Part of the DID SSI specs}}{82}{figure.5.1}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1}{\ignorespaces Elon Musk agrees with this on Twitter. It's notable that Musk is now Twitters' \href {https://twitter.com/paraga/status/1511320953598357505}{biggest shareholder}, and has been vocal about Web2 censorship on the platform.}}{94}{figure.7.1}%
-\contentsline {figure}{\numberline {7.2}{\ignorespaces Eye tracked eye gaze awareness in VR. Murray et al. used immersive and semi immersive systems alongside eye trackers to examine the ability of two avatars to detect the gaze awareness of a similarly immersed collaborator.}}{103}{figure.7.2}%
-\contentsline {figure}{\numberline {7.3}{\ignorespaces Bands of social space around a person Image CC0 \href {https://en.wikipedia.org/wiki/Proxemics}{from wikipedia}.}}{105}{figure.7.3}%
-\contentsline {figure}{\numberline {7.4}{\ignorespaces The Venn diagram shows areas of research which have been identified in blue. These interlock and overlap as shown. The most relevant identified researchers from the literature are shown in black close to the fields of study which they represent. This diagram is a view of the core assumptions for the research, with the most important fields at the centre. }}{114}{figure.7.4}%
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Elon Musk agrees with this on Twitter. It's notable that Musk is now Twitters' \href {https://twitter.com/paraga/status/1511320953598357505}{biggest shareholder}, and has been vocal about Web2 censorship on the platform.}}{95}{figure.7.1}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Eye tracked eye gaze awareness in VR. Murray et al. used immersive and semi immersive systems alongside eye trackers to examine the ability of two avatars to detect the gaze awareness of a similarly immersed collaborator.}}{104}{figure.7.2}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Bands of social space around a person Image CC0 \href {https://en.wikipedia.org/wiki/Proxemics}{from wikipedia}.}}{106}{figure.7.3}%
+\contentsline {figure}{\numberline {7.4}{\ignorespaces The Venn diagram shows areas of research which have been identified in blue. These interlock and overlap as shown. The most relevant identified researchers from the literature are shown in black close to the fields of study which they represent. This diagram is a view of the core assumptions for the research, with the most important fields at the centre. }}{115}{figure.7.4}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {8.1}{\ignorespaces High level overview showing the components for sats, stablecoins on lightning, asssets, and trust}}{121}{figure.8.1}%
-\contentsline {figure}{\numberline {8.2}{\ignorespaces Functional elements for infrastructure.}}{124}{figure.8.2}%
-\contentsline {figure}{\numberline {8.3}{\ignorespaces Client server C4 diagrams.}}{125}{figure.8.3}%
+\contentsline {figure}{\numberline {8.1}{\ignorespaces High level overview showing the components for sats, stablecoins on lightning, asssets, and trust}}{122}{figure.8.1}%
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Functional elements for infrastructure.}}{125}{figure.8.2}%
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Client server C4 diagrams.}}{126}{figure.8.3}%
 \contentsfinish 
