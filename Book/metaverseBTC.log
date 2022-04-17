@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  16 APR 2022 22:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  17 APR 2022 09:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1782,6 +1782,12 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [31]
+<Images//etherbubble.jpg, id=1059, 1084.05pt x 1107.13625pt>
+File: Images//etherbubble.jpg Graphic file (type jpg)
+<use Images//etherbubble.jpg>
+Package pdftex.def Info: Images//etherbubble.jpg  used on input line 59.
+(pdftex.def)             Requested size: 426.79135pt x 435.88652pt.
+
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1791,12 +1797,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [32]
-<Images//etherbubble.jpg, id=1070, 1084.05pt x 1107.13625pt>
-File: Images//etherbubble.jpg Graphic file (type jpg)
-<use Images//etherbubble.jpg>
-Package pdftex.def Info: Images//etherbubble.jpg  used on input line 60.
-(pdftex.def)             Requested size: 426.79135pt x 435.88652pt.
-
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1809,7 +1809,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 <Images//ethemission.png, id=1080, 763.85374pt x 469.755pt>
 File: Images//ethemission.png Graphic file (type png)
 <use Images//ethemission.png>
-Package pdftex.def Info: Images//ethemission.png  used on input line 74.
+Package pdftex.def Info: Images//ethemission.png  used on input line 73.
 (pdftex.def)             Requested size: 426.79135pt x 262.46608pt.
 
 
@@ -1833,7 +1833,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 <Images//settlement2021.jpg, id=1130, 899.36pt x 634.37pt>
 File: Images//settlement2021.jpg Graphic file (type jpg)
 <use Images//settlement2021.jpg>
-Package pdftex.def Info: Images//settlement2021.jpg  used on input line 94.
+Package pdftex.def Info: Images//settlement2021.jpg  used on input line 93.
 (pdftex.def)             Requested size: 426.79135pt x 301.03848pt.
 
 
@@ -1845,10 +1845,10 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [36]
-<Images//gource.png, id=1158, 1016.1162pt x 242.1045pt>
+<Images//gource.png, id=1157, 1016.1162pt x 242.1045pt>
 File: Images//gource.png Graphic file (type png)
 <use Images//gource.png>
-Package pdftex.def Info: Images//gource.png  used on input line 105.
+Package pdftex.def Info: Images//gource.png  used on input line 104.
 (pdftex.def)             Requested size: 426.79135pt x 101.69058pt.
 
 
@@ -1863,7 +1863,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 <Images//energyNYT.png, id=1182, 1204.5pt x 677.53125pt>
 File: Images//energyNYT.png Graphic file (type png)
 <use Images//energyNYT.png>
-Package pdftex.def Info: Images//energyNYT.png  used on input line 116.
+Package pdftex.def Info: Images//energyNYT.png  used on input line 115.
 (pdftex.def)             Requested size: 426.79135pt x 240.07556pt.
 
 
@@ -1878,7 +1878,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 <Images//miningshare.png, id=1205, 378.91562pt x 273.02pt>
 File: Images//miningshare.png Graphic file (type png)
 <use Images//miningshare.png>
-Package pdftex.def Info: Images//miningshare.png  used on input line 124.
+Package pdftex.def Info: Images//miningshare.png  used on input line 123.
 (pdftex.def)             Requested size: 426.79135pt x 307.52168pt.
 
 
@@ -1893,7 +1893,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 <Images//goldmanvgold.jpg, id=1243, 1174.3875pt x 890.32625pt>
 File: Images//goldmanvgold.jpg Graphic file (type jpg)
 <use Images//goldmanvgold.jpg>
-Package pdftex.def Info: Images//goldmanvgold.jpg  used on input line 136.
+Package pdftex.def Info: Images//goldmanvgold.jpg  used on input line 135.
 (pdftex.def)             Requested size: 426.79135pt x 323.5603pt.
 
 
@@ -1917,7 +1917,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 <Images//ECDSA.png, id=1268, 981.6675pt x 984.67876pt>
 File: Images//ECDSA.png Graphic file (type png)
 <use Images//ECDSA.png>
-Package pdftex.def Info: Images//ECDSA.png  used on input line 152.
+Package pdftex.def Info: Images//ECDSA.png  used on input line 151.
 (pdftex.def)             Requested size: 426.79135pt x 428.0914pt.
 
 
@@ -1986,15 +1986,15 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 <Images//lightningAdoption.jpg, id=1384, 949.5475pt x 2055.68pt>
 File: Images//lightningAdoption.jpg Graphic file (type jpg)
 <use Images//lightningAdoption.jpg>
-Package pdftex.def Info: Images//lightningAdoption.jpg  used on input line 232.
+Package pdftex.def Info: Images//lightningAdoption.jpg  used on input line 231.
 
 (pdftex.def)             Requested size: 426.79135pt x 923.94962pt.
 
 
-LaTeX Warning: Float too large for page by 262.49081pt on input line 235.
+LaTeX Warning: Float too large for page by 262.49081pt on input line 234.
 
 
-Overfull \hbox (0.76907pt too wide) in paragraph at lines 246--247
+Overfull \hbox (0.76907pt too wide) in paragraph at lines 245--246
 []\T1/ptm/m/n/12 (-20) ``[][]Accounts Sys-tem[][]; Cre-ate mul-ti-ple ac-counts
 /wallets. Run for your-self, friends/family,
  []
@@ -2020,7 +2020,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 <Images//LnBitsPoS.png, id=1411, 291.18788pt x 508.90125pt>
 File: Images//LnBitsPoS.png Graphic file (type png)
 <use Images//LnBitsPoS.png>
-Package pdftex.def Info: Images//LnBitsPoS.png  used on input line 256.
+Package pdftex.def Info: Images//LnBitsPoS.png  used on input line 255.
 (pdftex.def)             Requested size: 341.43437pt x 596.77875pt.
 
 
@@ -2080,7 +2080,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 <Images//messariICO.jpg, id=1473, 963.6pt x 542.025pt>
 File: Images//messariICO.jpg Graphic file (type jpg)
 <use Images//messariICO.jpg>
-Package pdftex.def Info: Images//messariICO.jpg  used on input line 346.
+Package pdftex.def Info: Images//messariICO.jpg  used on input line 345.
 (pdftex.def)             Requested size: 426.79135pt x 240.06314pt.
 
 
@@ -3862,7 +3862,7 @@ fb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pf
 b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb
 ><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
 >
-Output written on metaverseBTC.pdf (162 pages, 21059960 bytes).
+Output written on metaverseBTC.pdf (162 pages, 21060498 bytes).
 PDF statistics:
  3503 PDF objects out of 3580 (max. 8388607)
  792 named destinations out of 1000 (max. 500000)
