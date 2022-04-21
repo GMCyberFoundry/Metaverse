@@ -59,7 +59,7 @@
 \contentsline {subsection}{\numberline {3.8.4}Spacechains}{56}{subsection.3.8.4}%
 \contentsline {subsection}{\numberline {3.8.5}Statechains, drivechain, softchains}{57}{subsection.3.8.5}%
 \contentsline {section}{\numberline {3.9}Other chains and networks}{57}{section.3.9}%
-\contentsline {subsection}{\numberline {3.9.1}Layer 1 chains}{58}{subsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.9.1}Layer 1 chains}{57}{subsection.3.9.1}%
 \contentsline {section}{\numberline {3.10}Risks and mitigations}{59}{section.3.10}%
 \contentsline {subsection}{\numberline {3.10.1}Digital assets}{59}{subsection.3.10.1}%
 \contentsline {subsection}{\numberline {3.10.2}Bitcoin specifically}{60}{subsection.3.10.2}%
