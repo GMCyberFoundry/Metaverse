@@ -113,9 +113,11 @@
 \contentsline {section}{\numberline {6.3}Other uses}{93}{section.6.3}%
 \contentsline {section}{\numberline {6.4}NFTs in our metaverse}{93}{section.6.4}%
 \contentsline {subsection}{\numberline {6.4.1}Liquid tokens}{93}{subsection.6.4.1}%
-\contentsline {subsection}{\numberline {6.4.2}Sovryn and RSK}{94}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.2}Sovryn and RSK}{93}{subsection.6.4.2}%
 \contentsline {subsection}{\numberline {6.4.3}Stacks and STX}{94}{subsection.6.4.3}%
-\contentsline {subsection}{\numberline {6.4.4}Spacechains}{94}{subsection.6.4.4}%
+\contentsline {subsection}{\numberline {6.4.4}Ethereum}{94}{subsection.6.4.4}%
+\contentsline {subsection}{\numberline {6.4.5}Solana}{94}{subsection.6.4.5}%
+\contentsline {subsection}{\numberline {6.4.6}Spacechains}{94}{subsection.6.4.6}%
 \contentsline {chapter}{\numberline {7}Metaverses}{95}{chapter.7}%
 \contentsline {section}{\numberline {7.1}History and market need}{95}{section.7.1}%
 \contentsline {section}{\numberline {7.2}Video conferencing, the status quo}{95}{section.7.2}%
