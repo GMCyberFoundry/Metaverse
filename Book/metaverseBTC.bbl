@@ -1572,30 +1572,6 @@
       \field{title}{Revisiting Bitcoin’s carbon footprint}
       \field{year}{2022}
     \endentry
-    \entry{blocksizewars}{book}{}
-      \name{author}{1}{}{%
-        {{hash=b3d53ddcf5bac5ec57f03cce3976f96e}{%
-           family={Bier},
-           familyi={B\bibinitperiod},
-           given={Jonathan},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{b3d53ddcf5bac5ec57f03cce3976f96e}
-      \strng{fullhash}{b3d53ddcf5bac5ec57f03cce3976f96e}
-      \strng{bibnamehash}{b3d53ddcf5bac5ec57f03cce3976f96e}
-      \strng{authorbibnamehash}{b3d53ddcf5bac5ec57f03cce3976f96e}
-      \strng{authornamehash}{b3d53ddcf5bac5ec57f03cce3976f96e}
-      \strng{authorfullhash}{b3d53ddcf5bac5ec57f03cce3976f96e}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The Blocksize War: The battle for control over Bitcoin’s protocol rules}
-      \field{year}{2021}
-    \endentry
     \entry{schnorr1989efficient}{inproceedings}{}
       \name{author}{1}{}{%
         {{hash=0cd5bbd149e4d6d600854c7f315a0dc9}{%
@@ -1613,8 +1589,8 @@
       \strng{authorbibnamehash}{0cd5bbd149e4d6d600854c7f315a0dc9}
       \strng{authornamehash}{0cd5bbd149e4d6d600854c7f315a0dc9}
       \strng{authorfullhash}{0cd5bbd149e4d6d600854c7f315a0dc9}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Conference on the Theory and Application of Cryptology}
@@ -1622,6 +1598,30 @@
       \field{year}{1989}
       \field{pages}{239\bibrangedash 252}
       \range{pages}{14}
+    \endentry
+    \entry{blocksizewars}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b3d53ddcf5bac5ec57f03cce3976f96e}{%
+           family={Bier},
+           familyi={B\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{b3d53ddcf5bac5ec57f03cce3976f96e}
+      \strng{fullhash}{b3d53ddcf5bac5ec57f03cce3976f96e}
+      \strng{bibnamehash}{b3d53ddcf5bac5ec57f03cce3976f96e}
+      \strng{authorbibnamehash}{b3d53ddcf5bac5ec57f03cce3976f96e}
+      \strng{authornamehash}{b3d53ddcf5bac5ec57f03cce3976f96e}
+      \strng{authorfullhash}{b3d53ddcf5bac5ec57f03cce3976f96e}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Blocksize War: The battle for control over Bitcoin’s protocol rules}
+      \field{year}{2021}
     \endentry
     \entry{poon2016bitcoin}{misc}{}
       \name{author}{2}{}{%
@@ -1910,8 +1910,8 @@
       \strng{authorbibnamehash}{1c81fcf257f44be3fc86cc2c941f0efb}
       \strng{authornamehash}{1c81fcf257f44be3fc86cc2c941f0efb}
       \strng{authorfullhash}{1c81fcf257f44be3fc86cc2c941f0efb}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Financial crash, commodity prices and global imbalances}
@@ -1935,8 +1935,8 @@
       \strng{authorbibnamehash}{5d7da40e30408d9a488fa3744359c2a6}
       \strng{authornamehash}{5d7da40e30408d9a488fa3744359c2a6}
       \strng{authorfullhash}{5d7da40e30408d9a488fa3744359c2a6}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The hidden hand of American hegemony}
@@ -2286,8 +2286,8 @@
       \strng{authorbibnamehash}{bfb8d2bb070d9ca205932dede8e3853f}
       \strng{authornamehash}{bfb8d2bb070d9ca205932dede8e3853f}
       \strng{authorfullhash}{bfb8d2bb070d9ca205932dede8e3853f}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Future of Money: How the Digital Revolution is Transforming Currencies and Finance}
@@ -2561,8 +2561,8 @@
       \strng{authorbibnamehash}{4dc214c859a01c74a067082d181d6afd}
       \strng{authornamehash}{4dc214c859a01c74a067082d181d6afd}
       \strng{authorfullhash}{4dc214c859a01c74a067082d181d6afd}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Avatars, Affordances, and Interfaces: Virtual Reality Tools for Learning.}
@@ -3038,8 +3038,8 @@
       \strng{authornamehash}{dfdce49e37ce6d4a58f9f1a4fa05c609}
       \strng{authorfullhash}{a5a02584b63758ec98d3903076e6cfa8}
       \field{extraname}{1}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The aim of our experiment is to determine if eye-gaze can be estimated from a virtuality human: to within the accuracies that underpin social interaction; and reliably across gaze poses and camera arrangements likely in every day settings. The scene is set by explaining why Immersive Virtuality Telepresence has the potential to meet the grand challenge of faithfully communicating both the appearance and the focus of attention of a remote human participant within a shared 3D computer-supported context. Within the experiment n=22 participants rotated static 3D virtuality humans, reconstructed from surround images, until they felt most looked at. The dependent variable was absolute angular error, which was compared to that underpinning social gaze behaviour in the natural world. Independent variables were 1) relative orientations of eye, head and body of captured subject; and 2) subset of cameras used to texture the form. Analysis looked for statistical and practical significance and qualitative corroborating evidence. The analysed results tell us much about the importance and detail of the relationship between gaze pose, method of video based reconstruction, and camera arrangement. They tell us that virtuality can reproduce gaze to an accuracy useful in social interaction, but with the adopted method of Video Based Reconstruction, this is highly dependent on combination of gaze pose and camera arrangement. This suggests changes in the VBR approach in order to allow more flexible camera arrangements. The work is of interest to those wanting to support expressive meetings that are both socially and spatially situated, and particular those using or building Immersive Virtuality Telepresence to accomplish this. It is also of relevance to the use of virtuality humans in applications ranging from the study of human interactions to gaming and the crossing of the stage line in films and TV.}
@@ -3449,8 +3449,8 @@
       \strng{authorbibnamehash}{1c38694b13c03cd7a834d3ac4ab48773}
       \strng{authornamehash}{1c38694b13c03cd7a834d3ac4ab48773}
       \strng{authorfullhash}{1c38694b13c03cd7a834d3ac4ab48773}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
@@ -6892,8 +6892,8 @@
       \strng{authorbibnamehash}{67dafba86971191f38c8ed6092da3835}
       \strng{authornamehash}{67dafba86971191f38c8ed6092da3835}
       \strng{authorfullhash}{67dafba86971191f38c8ed6092da3835}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This study examined the distance at which certain facial expression can transmit affect messages. A man and a woman assumed---facial expressions that were selected carefully to represent six affects. These expressions were shown in still photographs and in live portrayals to 49 observers who composed four groups which were 30, 35, 40, and 45 meters away from the stimuli. Photographs and live portrayals produced comparable results. Every observer was able to label the expressions accurately although accuracy declined as distance increased. Extrapolation from the data suggested that some messages may be sent far beyond the distances used in this study. These results raise important issues about the transmission of facial signals over distance and suggest that the face is a long-distance transmitter of affect signals.}
