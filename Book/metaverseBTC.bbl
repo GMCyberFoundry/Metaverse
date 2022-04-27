@@ -1371,6 +1371,39 @@
       \field{title}{Electrify: An Optimist's Playbook for Our Clean Energy Future}
       \field{year}{2021}
     \endentry
+    \entry{ercotimpact2021}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d5ab1290ea47fac38cd724acad448d27}{%
+           family={Joshua\bibnamedelimb D.\bibnamedelimi Rhodes},
+           familyi={J\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Thomas\bibnamedelima Deetjen},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=2ee0d53d0651aa91bf0d2ed44e67776c}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Caitlin},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{7888783bdb1a2ee32544d0a0d5ea0710}
+      \strng{fullhash}{7888783bdb1a2ee32544d0a0d5ea0710}
+      \strng{bibnamehash}{7888783bdb1a2ee32544d0a0d5ea0710}
+      \strng{authorbibnamehash}{7888783bdb1a2ee32544d0a0d5ea0710}
+      \strng{authornamehash}{7888783bdb1a2ee32544d0a0d5ea0710}
+      \strng{authorfullhash}{7888783bdb1a2ee32544d0a0d5ea0710}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ideasmiths}
+      \field{title}{Impacts of Large, Flexible DataCenter Operations on theFuture of ERCOT}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.ideasmiths.net/wp-content/uploads/2022/02/LANCIUM_IS_ERCOT_flexDC_FINAL_2021.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ideasmiths.net/wp-content/uploads/2022/02/LANCIUM_IS_ERCOT_flexDC_FINAL_2021.pdf
+      \endverb
+    \endentry
     \entry{baur2021bitcoin}{article}{}
       \name{author}{2}{}{%
         {{hash=1ce923a1009897ad72fa3ab179f295a6}{%

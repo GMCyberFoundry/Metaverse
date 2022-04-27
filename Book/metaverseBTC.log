@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  27 APR 2022 12:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  27 APR 2022 12:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1875,7 +1875,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [38 <./Images//gource.png>]
-<Images//miningshare.png, id=1239, 378.91562pt x 273.02pt>
+<Images//miningshare.png, id=1240, 378.91562pt x 273.02pt>
 File: Images//miningshare.png Graphic file (type png)
 <use Images//miningshare.png>
 Package pdftex.def Info: Images//miningshare.png  used on input line 123.
@@ -1890,7 +1890,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [39 <./Images//energyNYT.png>]
-<Images//goldmanvgold.jpg, id=1278, 1174.3875pt x 890.32625pt>
+<Images//goldmanvgold.jpg, id=1280, 1174.3875pt x 890.32625pt>
 File: Images//goldmanvgold.jpg Graphic file (type jpg)
 <use Images//goldmanvgold.jpg>
 Package pdftex.def Info: Images//goldmanvgold.jpg  used on input line 137.
@@ -1914,7 +1914,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [41 <./Images//goldmanvgold.jpg>]
-<Images//ECDSA.png, id=1302, 981.6675pt x 984.67876pt>
+<Images//ECDSA.png, id=1304, 981.6675pt x 984.67876pt>
 File: Images//ECDSA.png Graphic file (type png)
 <use Images//ECDSA.png>
 Package pdftex.def Info: Images//ECDSA.png  used on input line 153.
@@ -1983,13 +1983,13 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [48]
-<Images//lightningAdoption.jpg, id=1418, 712.16063pt x 946.28531pt>
+<Images//lightningAdoption.jpg, id=1420, 712.16063pt x 946.28531pt>
 File: Images//lightningAdoption.jpg Graphic file (type jpg)
 <use Images//lightningAdoption.jpg>
 Package pdftex.def Info: Images//lightningAdoption.jpg  used on input line 233.
 
 (pdftex.def)             Requested size: 426.79135pt x 567.09694pt.
-<Images//bolt12keyring.jpg, id=1426, 1541.76pt x 2055.68pt>
+<Images//bolt12keyring.jpg, id=1428, 1541.76pt x 2055.68pt>
 File: Images//bolt12keyring.jpg Graphic file (type jpg)
 <use Images//bolt12keyring.jpg>
 Package pdftex.def Info: Images//bolt12keyring.jpg  used on input line 245.
@@ -2018,7 +2018,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [50 <./Images//lightningAdoption.jpg>]
-<Images//LnBitsPoS.png, id=1448, 291.18788pt x 508.90125pt>
+<Images//LnBitsPoS.png, id=1450, 291.18788pt x 508.90125pt>
 File: Images//LnBitsPoS.png Graphic file (type png)
 <use Images//LnBitsPoS.png>
 Package pdftex.def Info: Images//LnBitsPoS.png  used on input line 262.
@@ -2087,7 +2087,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [57]
-<Images//messariICO.jpg, id=1518, 963.6pt x 542.025pt>
+<Images//messariICO.jpg, id=1520, 963.6pt x 542.025pt>
 File: Images//messariICO.jpg Graphic file (type jpg)
 <use Images//messariICO.jpg>
 Package pdftex.def Info: Images//messariICO.jpg  used on input line 355.
@@ -2146,7 +2146,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [63]
-<Images//CNNmobile.png, id=1596, 396.58162pt x 551.661pt>
+<Images//CNNmobile.png, id=1598, 396.58162pt x 551.661pt>
 File: Images//CNNmobile.png Graphic file (type png)
 <use Images//CNNmobile.png>
 Package pdftex.def Info: Images//CNNmobile.png  used on input line 39.
@@ -2242,7 +2242,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [73]
-<Images//BitcoinShareOfMoney.jpg, id=1709, 2862.695pt x 1575.8875pt>
+<Images//BitcoinShareOfMoney.jpg, id=1711, 2862.695pt x 1575.8875pt>
 File: Images//BitcoinShareOfMoney.jpg Graphic file (type jpg)
 <use Images//BitcoinShareOfMoney.jpg>
 Package pdftex.def Info: Images//BitcoinShareOfMoney.jpg  used on input line 17
@@ -2272,17 +2272,17 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [75]
-<Images//talebturkey.png, id=1726, 487.8225pt x 388.45125pt>
+<Images//talebturkey.png, id=1728, 487.8225pt x 388.45125pt>
 File: Images//talebturkey.png Graphic file (type png)
 <use Images//talebturkey.png>
 Package pdftex.def Info: Images//talebturkey.png  used on input line 190.
 (pdftex.def)             Requested size: 298.75264pt x 237.89734pt.
-<Images//davethewave.jpg, id=1729, 1192.455pt x 544.0325pt>
+<Images//davethewave.jpg, id=1731, 1192.455pt x 544.0325pt>
 File: Images//davethewave.jpg Graphic file (type jpg)
 <use Images//davethewave.jpg>
 Package pdftex.def Info: Images//davethewave.jpg  used on input line 203.
 (pdftex.def)             Requested size: 426.79135pt x 194.71428pt.
-<Images//tshirt.jpg, id=1735, 205.44983pt x 205.44983pt>
+<Images//tshirt.jpg, id=1737, 205.44983pt x 205.44983pt>
 File: Images//tshirt.jpg Graphic file (type jpg)
 <use Images//tshirt.jpg>
 Package pdftex.def Info: Images//tshirt.jpg  used on input line 213.
@@ -2363,7 +2363,7 @@ Package pdftex.def Info: Images//orange2.jpg  used on input line 193.
 (06_identity.tex [83
 
 ]
-<Images//DID.jpg, id=1811, 843.90282pt x 585.68813pt>
+<Images//DID.jpg, id=1813, 843.90282pt x 585.68813pt>
 File: Images//DID.jpg Graphic file (type jpg)
 <use Images//DID.jpg>
 Package pdftex.def Info: Images//DID.jpg  used on input line 17.
@@ -2499,7 +2499,7 @@ Overfull \hbox (0.77441pt too wide) in paragraph at lines 4--4
 -son in his 1992 novel Snowcrash.
  []
 
-<Images//muskWeb3.png, id=1931, 408.02437pt x 168.63pt>
+<Images//muskWeb3.png, id=1933, 408.02437pt x 168.63pt>
 File: Images//muskWeb3.png Graphic file (type png)
 <use Images//muskWeb3.png>
 Package pdftex.def Info: Images//muskWeb3.png  used on input line 10.
@@ -2593,7 +2593,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [105]
-<Images//murrayeyegaze.jpg, id=2214, 377.15906pt x 241.65282pt>
+<Images//murrayeyegaze.jpg, id=2216, 377.15906pt x 241.65282pt>
 File: Images//murrayeyegaze.jpg Graphic file (type jpg)
 <use Images//murrayeyegaze.jpg>
 Package pdftex.def Info: Images//murrayeyegaze.jpg  used on input line 142.
@@ -2608,7 +2608,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [106 <./Images//murrayeyegaze.jpg>]
-<Images//proxemics.png, id=2238, 1927.2pt x 1927.2pt>
+<Images//proxemics.png, id=2240, 1927.2pt x 1927.2pt>
 File: Images//proxemics.png Graphic file (type png)
 <use Images//proxemics.png>
 Package pdftex.def Info: Images//proxemics.png  used on input line 161.
@@ -2698,7 +2698,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [115]
-<Images//frameworkVenn.png, id=2547, 509.40312pt x 432.11438pt>
+<Images//frameworkVenn.png, id=2549, 509.40312pt x 432.11438pt>
 File: Images//frameworkVenn.png Graphic file (type png)
 <use Images//frameworkVenn.png>
 Package pdftex.def Info: Images//frameworkVenn.png  used on input line 309.
@@ -2789,7 +2789,7 @@ File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 202.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-<Images//highlevelstack.png, id=2619, 804.00375pt x 543.02875pt>
+<Images//highlevelstack.png, id=2621, 804.00375pt x 543.02875pt>
 File: Images//highlevelstack.png Graphic file (type png)
 <use Images//highlevelstack.png>
 Package pdftex.def Info: Images//highlevelstack.png  used on input line 205.
@@ -2815,12 +2815,12 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [126]
-<Images//globalclassroom.png, id=2639, 1484.04437pt x 1121.18875pt>
+<Images//globalclassroom.png, id=2641, 1484.04437pt x 1121.18875pt>
 File: Images//globalclassroom.png Graphic file (type png)
 <use Images//globalclassroom.png>
 Package pdftex.def Info: Images//globalclassroom.png  used on input line 344.
 (pdftex.def)             Requested size: 426.79135pt x 322.43335pt.
-<Images//systemc4.png, id=2640, 1576.89125pt x 1024.82875pt>
+<Images//systemc4.png, id=2642, 1576.89125pt x 1024.82875pt>
 File: Images//systemc4.png Graphic file (type png)
 <use Images//systemc4.png>
 Package pdftex.def Info: Images//systemc4.png  used on input line 350.
@@ -3119,12 +3119,12 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 [141] (metaverseBTC.ptc) [142
 
 ]
-<Images//JOH.jpg, id=2798, 110.66344pt x 165.61874pt>
+<Images//JOH.jpg, id=2800, 110.66344pt x 165.61874pt>
 File: Images//JOH.jpg Graphic file (type jpg)
 <use Images//JOH.jpg>
 Package pdftex.def Info: Images//JOH.jpg  used on input line 370.
 (pdftex.def)             Requested size: 124.19986pt x 185.88847pt.
-<Images//AF.jpg, id=2800, 864.5901pt x 1295.3193pt>
+<Images//AF.jpg, id=2802, 864.5901pt x 1295.3193pt>
 File: Images//AF.jpg Graphic file (type jpg)
 <use Images//AF.jpg>
 Package pdftex.def Info: Images//AF.jpg  used on input line 381.
@@ -3139,7 +3139,7 @@ Overfull \hbox (140.84192pt too wide) in paragraph at lines 365--383
 [][][]$[]$ 
  []
 
-<Images//UA.jpg, id=2802, 200.75pt x 200.75pt>
+<Images//UA.jpg, id=2804, 200.75pt x 200.75pt>
 File: Images//UA.jpg Graphic file (type jpg)
 <use Images//UA.jpg>
 Package pdftex.def Info: Images//UA.jpg  used on input line 389.
@@ -3267,14 +3267,6 @@ Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Sellen1992' on input line 406.
 
 
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Sellen1995' on input line 406.
-
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Monk2002' on input line 406.
-
-
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -3283,6 +3275,14 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [150]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Sellen1995' on input line 406.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Monk2002' on input line 406.
+
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Gemmell2000' on input line 406.
@@ -3308,10 +3308,6 @@ Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Ishii1993' on input line 406.
 
 
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Fullwood2006' on input line 406.
-
-
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -3320,6 +3316,10 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [151]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Fullwood2006' on input line 406.
+
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Nguyen2005' on input line 406.
@@ -3349,10 +3349,6 @@ Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Otsuka2005' on input line 406.
 
 
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Goodwin2000' on input line 406.
-
-
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -3361,6 +3357,10 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [152]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Goodwin2000' on input line 406.
+
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Argyle1976' on input line 406.
@@ -3386,14 +3386,6 @@ Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Kluttz2009' on input line 406.
 
 
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Schrammel2007' on input line 406.
-
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Stiefelhagen2001' on input line 406.
-
-
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -3402,6 +3394,14 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [153]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Schrammel2007' on input line 406.
+
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Stiefelhagen2001' on input line 406.
+
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Stiefelhagen2002' on input line 406.
@@ -3419,10 +3419,6 @@ Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Bohannon2013' on input line 406.
 
 
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Boker2011' on input line 406.
-
-
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -3431,6 +3427,10 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [154]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Boker2011' on input line 406.
+
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Rienks2010' on input line 406.
@@ -3472,10 +3472,6 @@ Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Kleinsmith2013' on input line 406.
 
 
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Ou2005' on input line 406.
-
-
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -3484,6 +3480,10 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [155]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Ou2005' on input line 406.
+
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Murray2009' on input line 406.
@@ -3521,10 +3521,6 @@ Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Jamil2011' on input line 406.
 
 
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Jetter2011' on input line 406.
-
-
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -3533,6 +3529,10 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [156]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Jetter2011' on input line 406.
+
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Watson1966' on input line 406.
@@ -3566,10 +3566,6 @@ Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Deckers2013' on input line 406.
 
 
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Gibson1963' on input line 406.
-
-
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -3578,6 +3574,10 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [157]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Gibson1963' on input line 406.
+
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Fels2000' on input line 406.
@@ -3607,10 +3607,6 @@ Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Risko2011' on input line 406.
 
 
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kollock1998' on input line 406.
-
-
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -3619,6 +3615,10 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [158]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Kollock1998' on input line 406.
+
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Cuddihy2000' on input line 406.
@@ -3862,13 +3862,13 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36888 strings out of 478582
- 730226 string characters out of 2844816
- 1609263 words of memory out of 3000000
- 53130 multiletter control sequences out of 15000+600000
+ 36893 strings out of 478582
+ 730417 string characters out of 2844816
+ 1610434 words of memory out of 3000000
+ 53134 multiletter control sequences out of 15000+600000
  586333 words of font info for 444 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 98i,16n,94p,2419b,1368s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 98i,16n,94p,2419b,1367s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 pdfTeX warning (dest): name{section*.16} has been referenced but does not exist
 , replaced by a fixed one
@@ -3885,9 +3885,9 @@ fb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pf
 b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb
 ><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
 >
-Output written on metaverseBTC.pdf (164 pages, 21904187 bytes).
+Output written on metaverseBTC.pdf (164 pages, 21905641 bytes).
 PDF statistics:
- 3561 PDF objects out of 3580 (max. 8388607)
- 796 named destinations out of 1000 (max. 500000)
+ 3566 PDF objects out of 3580 (max. 8388607)
+ 797 named destinations out of 1000 (max. 500000)
  123204 words of extra memory for PDF output out of 128383 (max. 10000000)
 
