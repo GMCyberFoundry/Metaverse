@@ -170,6 +170,7 @@
 \contentsline {subsubsection}{\numberline {7.7.0.12}Meta Horizon Worlds \& Workrooms}{122}{subsubsection.7.7.0.12}%
 \contentsline {subsubsection}{\numberline {7.7.0.13}Webaverse}{122}{subsubsection.7.7.0.13}%
 \contentsline {subsubsection}{\numberline {7.7.0.14}Vircadia}{122}{subsubsection.7.7.0.14}%
+\contentsline {section}{\numberline {7.8}Risks}{123}{section.7.8}%
 \contentsline {chapter}{\numberline {8}Our proposition}{124}{chapter.8}%
 \contentsline {section}{\numberline {8.1}Security evaluation}{125}{section.8.1}%
 \contentsline {section}{\numberline {8.2}Our socialisation best practice}{125}{section.8.2}%
