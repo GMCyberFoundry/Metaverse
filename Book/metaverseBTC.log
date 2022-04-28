@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  28 APR 2022 16:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  28 APR 2022 18:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1880,7 +1880,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [38 <./Images//gource.png>]
-<Images//miningshare.png, id=1244, 378.91562pt x 273.02pt>
+<Images//miningshare.png, id=1243, 378.91562pt x 273.02pt>
 File: Images//miningshare.png Graphic file (type png)
 <use Images//miningshare.png>
 Package pdftex.def Info: Images//miningshare.png  used on input line 123.
@@ -3890,7 +3890,7 @@ fb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pf
 b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb
 ><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
 >
-Output written on metaverseBTC.pdf (164 pages, 21907035 bytes).
+Output written on metaverseBTC.pdf (164 pages, 21907259 bytes).
 PDF statistics:
  3570 PDF objects out of 3580 (max. 8388607)
  798 named destinations out of 1000 (max. 500000)

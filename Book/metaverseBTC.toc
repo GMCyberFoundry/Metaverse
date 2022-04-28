@@ -39,7 +39,7 @@
 \contentsline {subsubsection}{\numberline {3.4.4.1}Taproot}{46}{subsubsection.3.4.4.1}%
 \contentsline {subsubsection}{\numberline {3.4.4.2}AnyPrevOut}{46}{subsubsection.3.4.4.2}%
 \contentsline {subsubsection}{\numberline {3.4.4.3}CheckTemplateVerify}{46}{subsubsection.3.4.4.3}%
-\contentsline {subsubsection}{\numberline {3.4.4.4}Blind merge mining}{46}{subsubsection.3.4.4.4}%
+\contentsline {subsubsection}{\numberline {3.4.4.4}Blind merge mining}{47}{subsubsection.3.4.4.4}%
 \contentsline {subsubsection}{\numberline {3.4.4.5}Simplicity scripting language}{47}{subsubsection.3.4.4.5}%
 \contentsline {subsubsection}{\numberline {3.4.4.6}Ossification}{47}{subsubsection.3.4.4.6}%
 \contentsline {section}{\numberline {3.5}Extending the BTC ecosystem }{47}{section.3.5}%
@@ -58,11 +58,11 @@
 \contentsline {subsection}{\numberline {3.8.3}Slashpay}{56}{subsection.3.8.3}%
 \contentsline {subsection}{\numberline {3.8.4}Spacechains}{57}{subsection.3.8.4}%
 \contentsline {subsection}{\numberline {3.8.5}Statechains, drivechain, softchains}{57}{subsection.3.8.5}%
-\contentsline {section}{\numberline {3.9}Other chains and networks}{57}{section.3.9}%
+\contentsline {section}{\numberline {3.9}Other chains and networks}{58}{section.3.9}%
 \contentsline {subsection}{\numberline {3.9.1}Layer 1 chains}{58}{subsection.3.9.1}%
 \contentsline {section}{\numberline {3.10}Risks and mitigations}{60}{section.3.10}%
 \contentsline {subsection}{\numberline {3.10.1}Digital assets}{60}{subsection.3.10.1}%
-\contentsline {subsection}{\numberline {3.10.2}Bitcoin specifically}{60}{subsection.3.10.2}%
+\contentsline {subsection}{\numberline {3.10.2}Bitcoin specifically}{61}{subsection.3.10.2}%
 \contentsline {chapter}{\numberline {4}Money in the real world}{62}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Defining money}{62}{section.4.1}%
 \contentsline {subsection}{\numberline {4.1.1}Global categories of capital}{63}{subsection.4.1.1}%
