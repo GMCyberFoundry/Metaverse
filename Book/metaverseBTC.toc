@@ -39,7 +39,7 @@
 \contentsline {subsubsection}{\numberline {3.4.4.1}Taproot}{46}{subsubsection.3.4.4.1}%
 \contentsline {subsubsection}{\numberline {3.4.4.2}AnyPrevOut}{46}{subsubsection.3.4.4.2}%
 \contentsline {subsubsection}{\numberline {3.4.4.3}CheckTemplateVerify}{46}{subsubsection.3.4.4.3}%
-\contentsline {subsubsection}{\numberline {3.4.4.4}Blind merge mining}{47}{subsubsection.3.4.4.4}%
+\contentsline {subsubsection}{\numberline {3.4.4.4}Blind merge mining}{46}{subsubsection.3.4.4.4}%
 \contentsline {subsubsection}{\numberline {3.4.4.5}Simplicity scripting language}{47}{subsubsection.3.4.4.5}%
 \contentsline {subsubsection}{\numberline {3.4.4.6}Ossification}{47}{subsubsection.3.4.4.6}%
 \contentsline {section}{\numberline {3.5}Extending the BTC ecosystem }{47}{section.3.5}%
@@ -58,11 +58,11 @@
 \contentsline {subsection}{\numberline {3.8.3}Slashpay}{56}{subsection.3.8.3}%
 \contentsline {subsection}{\numberline {3.8.4}Spacechains}{57}{subsection.3.8.4}%
 \contentsline {subsection}{\numberline {3.8.5}Statechains, drivechain, softchains}{57}{subsection.3.8.5}%
-\contentsline {section}{\numberline {3.9}Other chains and networks}{58}{section.3.9}%
+\contentsline {section}{\numberline {3.9}Other chains and networks}{57}{section.3.9}%
 \contentsline {subsection}{\numberline {3.9.1}Layer 1 chains}{58}{subsection.3.9.1}%
 \contentsline {section}{\numberline {3.10}Risks and mitigations}{60}{section.3.10}%
 \contentsline {subsection}{\numberline {3.10.1}Digital assets}{60}{subsection.3.10.1}%
-\contentsline {subsection}{\numberline {3.10.2}Bitcoin specifically}{61}{subsection.3.10.2}%
+\contentsline {subsection}{\numberline {3.10.2}Bitcoin specifically}{60}{subsection.3.10.2}%
 \contentsline {chapter}{\numberline {4}Money in the real world}{62}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Defining money}{62}{section.4.1}%
 \contentsline {subsection}{\numberline {4.1.1}Global categories of capital}{63}{subsection.4.1.1}%
@@ -164,14 +164,15 @@
 \contentsline {subsubsection}{\numberline {7.9.0.4}MeetinVR}{120}{subsubsection.7.9.0.4}%
 \contentsline {subsubsection}{\numberline {7.9.0.5}Glue}{120}{subsubsection.7.9.0.5}%
 \contentsline {subsubsection}{\numberline {7.9.0.6}Mozilla Hubs}{121}{subsubsection.7.9.0.6}%
-\contentsline {subsubsection}{\numberline {7.9.0.7}FramesVR}{121}{subsubsection.7.9.0.7}%
-\contentsline {subsubsection}{\numberline {7.9.0.8}AltSpace}{121}{subsubsection.7.9.0.8}%
-\contentsline {subsubsection}{\numberline {7.9.0.9}Engage}{121}{subsubsection.7.9.0.9}%
-\contentsline {subsubsection}{\numberline {7.9.0.10}VRChat}{121}{subsubsection.7.9.0.10}%
-\contentsline {subsubsection}{\numberline {7.9.0.11}NEOSVR}{122}{subsubsection.7.9.0.11}%
-\contentsline {subsubsection}{\numberline {7.9.0.12}Meta Horizon Worlds \& Workrooms}{122}{subsubsection.7.9.0.12}%
-\contentsline {subsubsection}{\numberline {7.9.0.13}Webaverse}{122}{subsubsection.7.9.0.13}%
-\contentsline {subsubsection}{\numberline {7.9.0.14}Vircadia}{123}{subsubsection.7.9.0.14}%
+\contentsline {subsubsection}{\numberline {7.9.0.7}Counter social realms}{121}{subsubsection.7.9.0.7}%
+\contentsline {subsubsection}{\numberline {7.9.0.8}FramesVR}{121}{subsubsection.7.9.0.8}%
+\contentsline {subsubsection}{\numberline {7.9.0.9}AltSpace}{121}{subsubsection.7.9.0.9}%
+\contentsline {subsubsection}{\numberline {7.9.0.10}Engage}{121}{subsubsection.7.9.0.10}%
+\contentsline {subsubsection}{\numberline {7.9.0.11}VRChat}{122}{subsubsection.7.9.0.11}%
+\contentsline {subsubsection}{\numberline {7.9.0.12}NEOSVR}{122}{subsubsection.7.9.0.12}%
+\contentsline {subsubsection}{\numberline {7.9.0.13}Meta Horizon Worlds \& Workrooms}{122}{subsubsection.7.9.0.13}%
+\contentsline {subsubsection}{\numberline {7.9.0.14}Webaverse}{122}{subsubsection.7.9.0.14}%
+\contentsline {subsubsection}{\numberline {7.9.0.15}Vircadia}{123}{subsubsection.7.9.0.15}%
 \contentsline {section}{\numberline {7.10}Risks}{123}{section.7.10}%
 \contentsline {chapter}{\numberline {8}Our proposition}{125}{chapter.8}%
 \contentsline {section}{\numberline {8.1}Security evaluation}{126}{section.8.1}%
