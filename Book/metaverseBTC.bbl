@@ -1066,6 +1066,40 @@
       \field{pages}{451\bibrangedash 463}
       \range{pages}{13}
     \endentry
+    \entry{grunspan2018double}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b11a4b7bee9274a9f11c4e7c8c565b70}{%
+           family={Grunspan},
+           familyi={G\bibinitperiod},
+           given={Cyril},
+           giveni={C\bibinitperiod}}}%
+        {{hash=737e679b56d5a5aa8a6becf6408c8b48}{%
+           family={Pérez-Marco},
+           familyi={P\bibinithyphendelim M\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {World Scientific}%
+      }
+      \strng{namehash}{00afdaa2aaa504bb03ef4a4bfeb10b89}
+      \strng{fullhash}{00afdaa2aaa504bb03ef4a4bfeb10b89}
+      \strng{bibnamehash}{00afdaa2aaa504bb03ef4a4bfeb10b89}
+      \strng{authorbibnamehash}{00afdaa2aaa504bb03ef4a4bfeb10b89}
+      \strng{authornamehash}{00afdaa2aaa504bb03ef4a4bfeb10b89}
+      \strng{authorfullhash}{00afdaa2aaa504bb03ef4a4bfeb10b89}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Theoretical and Applied Finance}
+      \field{number}{08}
+      \field{title}{Double spend races}
+      \field{volume}{21}
+      \field{year}{2018}
+      \field{pages}{1850053}
+      \range{pages}{1}
+    \endentry
     \entry{sangster2015earliest}{article}{}
       \name{author}{1}{}{%
         {{hash=2b4e9a0de50ec30410f33715b9c21021}{%
