@@ -85,18 +85,18 @@
 \contentsline {subsubsection}{\numberline {4.5.2.1}Inherent volatility}{76}{subsubsection.4.5.2.1}%
 \contentsline {subsubsection}{\numberline {4.5.2.2}Endless HODL}{77}{subsubsection.4.5.2.2}%
 \contentsline {subsubsection}{\numberline {4.5.2.3}Reduction of funding source / liquidity in legacy finance}{77}{subsubsection.4.5.2.3}%
-\contentsline {subsubsection}{\numberline {4.5.2.4}Bitcoin collapse system shock}{77}{subsubsection.4.5.2.4}%
-\contentsline {subsubsection}{\numberline {4.5.2.5}Stablecoin collapse system shock}{77}{subsubsection.4.5.2.5}%
+\contentsline {subsubsection}{\numberline {4.5.2.4}Bitcoin collapse system shock}{78}{subsubsection.4.5.2.4}%
+\contentsline {subsubsection}{\numberline {4.5.2.5}Stablecoin collapse system shock}{78}{subsubsection.4.5.2.5}%
 \contentsline {subsubsection}{\numberline {4.5.2.6}Tech for techs sake yielding unexpected outcomes}{78}{subsubsection.4.5.2.6}%
 \contentsline {subsubsection}{\numberline {4.5.2.7}No agreed measurable end goal}{78}{subsubsection.4.5.2.7}%
 \contentsline {subsubsection}{\numberline {4.5.2.8}National security / actual warfare}{78}{subsubsection.4.5.2.8}%
-\contentsline {subsubsection}{\numberline {4.5.2.9}Bitcoin as a culture war foil}{79}{subsubsection.4.5.2.9}%
+\contentsline {subsubsection}{\numberline {4.5.2.9}Bitcoin as a culture war foil}{78}{subsubsection.4.5.2.9}%
 \contentsline {subsubsection}{\numberline {4.5.2.10}Self reinforcing monocultures}{79}{subsubsection.4.5.2.10}%
 \contentsline {subsubsection}{\numberline {4.5.2.11}Jurisdictional / legislative arbitrage}{79}{subsubsection.4.5.2.11}%
 \contentsline {subsubsection}{\numberline {4.5.2.12}Hyperbitcoinization}{80}{subsubsection.4.5.2.12}%
 \contentsline {section}{\numberline {4.6}Does DeFi matter to SMEs }{80}{section.4.6}%
 \contentsline {section}{\numberline {4.7}Do DAOs matter to SMEs}{81}{section.4.7}%
-\contentsline {subsection}{\numberline {4.7.1}Bisq DAO}{82}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.1}Bisq DAO}{81}{subsection.4.7.1}%
 \contentsline {subsection}{\numberline {4.7.2}Risks}{82}{subsection.4.7.2}%
 \contentsline {chapter}{\numberline {5}Distributed Self Sovereign Identity}{83}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Applications of DID/SSI}{83}{section.5.1}%

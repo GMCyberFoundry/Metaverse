@@ -1,8 +1,8 @@
 %\section{Notes and thoughts - to be completed}
-This chapter is an oddity because most of traditional DID/SSI isn't really fir for purpose. Distributed self sovereign identity has a great elevator pitch though. Individuals should be empowered through technology to manage their own data, without manipulation or exploitation by centralised corporate behemoths. In practice it's a staggeringly complex proposition which increases risk to the individual, decreases convenience, and despite much work, does not even make much sense in it's own terms. Webs of trust are viable so this means Nostr, \href{https://github.com/project-bitmark/marking/wiki#marking}{Marking}, or Slashtags which will be discussed, but are early products. %Maybe LNURL-Auth can do it. \par 
+This chapter is an oddity because most of traditional DID/SSI isn't really fit for purpose. Distributed self sovereign identity has a great elevator pitch though. Individuals should be empowered through technology to manage their own data, without manipulation or exploitation by centralised corporate behemoths. In practice it's a staggeringly complex proposition which increases risk to the individual, decreases convenience, and despite much work, does not even make much sense in it's own terms. Webs of trust are viable so this means Nostr, \href{https://github.com/project-bitmark/marking/wiki#marking}{Marking}, or Slashtags which will be discussed, but are early products. %Maybe LNURL-Auth can do it. \par 
 Thanks to \href{https://github.com/melvincarvalho}{Melvin Carvalho} for advice with this section.
 \section{Applications of DID/SSI}
-Some of the likely, and discussed applications for DID/SSI are the more inherently private and personally valuable sets of data a individual might generate throughout their life. The theory is that subsets of such data could then be digitally revealed by the individual when required, and that cryptographic verification built into the system would guarantee the veracity of the data to the receiving party. It is also possible to make use of ``zero-knowledge proof'' such that assertions can be made about about the contents of the data without revealing the data itself. A good example of this an age verification challenge, where a threshold age could be asserted without necessarily revealing the date of birth. 
+Some of the likely, and discussed applications for DID/SSI are the more inherently private and personally valuable sets of data an individual might generate throughout their life. The theory is that subsets of such data could then be digitally revealed by the individual when required, and that cryptographic verification built into the system would guarantee the veracity of the data to the receiving party. It is also possible to make use of ``zero-knowledge proof'' such that assertions can be made about about the contents of the data without revealing the data itself. A good example of this an age verification challenge, where a threshold age could be asserted without necessarily revealing the date of birth. 
 Other keystone uses of the technology are:
 \begin{itemize}
 \item health documents history
@@ -28,7 +28,7 @@ It seems then that we can rule out use of these technologies?
 \subsubsection{DID principles}
 The core principles of distributed identity are that there should be persistent identifiers, like real world documents which assert identity, but with extended use cases. These should be permanent, and resolvable everywhere, forever. Underpinning this is cryptographically verifiable and decentralised data, managed by the user, or their trusted proxy. As primitives this makes them lifetime digital assets, that are portable, and unconfiscatable, with no required reliance on a trusted third party. By this stage in the book you should be familiar with these concepts, but application of this fundamental mindset to all personal data and digital interactions is a bigger reach even than money and value.
 \subsubsection{What's in a DID document?}
-All classic DID is underpinned by a DID document what bootstrap the services it's connected to. It is made up of one or more public keys. The documents can make use of services such as timestamps, cryptographic signatures, proofs, delegations, and authorisations. They should contact the minimum about of information to accomplish the specific task required of them.
+All classic DID is underpinned by a DID document what bootstrap the services it's connected to. It is made up of one or more public keys. The documents can make use of services such as timestamps, cryptographic signatures, proofs, delegations, and authorisations. They should contain the minimum amount of information to accomplish the specific task required of them.
 
 \section{Newer Technologies}
 
@@ -65,7 +65,7 @@ Nostr is ``The simplest open protocol that is able to create a censorship-resist
 \item it's opensource
 \item there are multiple usable libraries and tools
 \item it's under active development with an excellent team. The lead, `Fiatjaf' is one of the most \href{https://github.com/fiatjaf}{prolific developers} in the lightning space.
-\item it's based on the same underlying cryptographic technology we are using elsewhere, indeed the with it's use of Bitcoin keys the identity system is global
+\item it's based on the same underlying cryptographic technology we are using elsewhere, indeed with it's use of Bitcoin keys the identity system is global
 \item it provides the identity proof that we need to validate users and objects into a virtual space
 \item it enables message passing
 \item it scales to be a social network as required
@@ -81,7 +81,7 @@ It seems the war against disinformation is now being lost. Much is written in th
 %\href{https://en.wikipedia.org/wiki/Open-world_assumption}{this needs unpacking}
 %------------------------------------------------
 \section{Risks \& Challenges?}
-Classic DID/SSI risks fragmentations
+Classic DID/SSI risks fragmentations. 
 In all DID scaling to a world where the user is managing potentially thousands of these critical cryptographic data files is daunting.
 Abstracting the guts of this away to make the user simple, and only caring about right level of information, turns out to be huge problem that nobody has solved
 It's not clear that users want this
