@@ -885,6 +885,38 @@
       \field{title}{Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security}
       \field{year}{2022}
     \endentry
+    \entry{mackinga2022twap}{article}{}
+      \name{author}{3}{}{%
+        {{hash=fb997309f615c99d560adecdf805bf75}{%
+           family={Mackinga},
+           familyi={M\bibinitperiod},
+           given={Torgin},
+           giveni={T\bibinitperiod}}}%
+        {{hash=50f8f91b343813b198a0b3f0f7c050ae}{%
+           family={Nadahalli},
+           familyi={N\bibinitperiod},
+           given={Tejaswi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=5c162b9d03517a96680df0dc8d8263eb}{%
+           family={Wattenhofer},
+           familyi={W\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{0dfa611b56902aa5bb59ce0226183038}
+      \strng{fullhash}{0dfa611b56902aa5bb59ce0226183038}
+      \strng{bibnamehash}{0dfa611b56902aa5bb59ce0226183038}
+      \strng{authorbibnamehash}{0dfa611b56902aa5bb59ce0226183038}
+      \strng{authornamehash}{0dfa611b56902aa5bb59ce0226183038}
+      \strng{authorfullhash}{0dfa611b56902aa5bb59ce0226183038}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cryptology ePrint Archive}
+      \field{title}{TWAP Oracle Attacks: Easier Done than Said?}
+      \field{year}{2022}
+    \endentry
     \entry{haber1990time}{inproceedings}{}
       \name{author}{2}{}{%
         {{hash=dc54fe6ba19414afd96d107ec03015ee}{%
@@ -932,8 +964,8 @@
       \strng{authornamehash}{1977190f018b398e43ede3de043de8ea}
       \strng{authorfullhash}{1977190f018b398e43ede3de043de8ea}
       \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Duality: an excerpt}
@@ -1314,8 +1346,8 @@
       \strng{authorbibnamehash}{d6fa497e4b1f574f08a65af5bc72bf5c}
       \strng{authornamehash}{d6fa497e4b1f574f08a65af5bc72bf5c}
       \strng{authorfullhash}{d6fa497e4b1f574f08a65af5bc72bf5c}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Emerald Expert Briefings}
@@ -1656,8 +1688,8 @@
       \strng{authorbibnamehash}{0cd5bbd149e4d6d600854c7f315a0dc9}
       \strng{authornamehash}{0cd5bbd149e4d6d600854c7f315a0dc9}
       \strng{authorfullhash}{0cd5bbd149e4d6d600854c7f315a0dc9}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Conference on the Theory and Application of Cryptology}
@@ -1938,8 +1970,8 @@
       \strng{authorbibnamehash}{1b6e5f06c310d21901672df564878338}
       \strng{authornamehash}{1b6e5f06c310d21901672df564878338}
       \strng{authorfullhash}{1b6e5f06c310d21901672df564878338}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Contemporary History}
@@ -2300,8 +2332,8 @@
       \strng{authorbibnamehash}{5303ca57542266596e91d3ac98524b1c}
       \strng{authornamehash}{5303ca57542266596e91d3ac98524b1c}
       \strng{authorfullhash}{5303ca57542266596e91d3ac98524b1c}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Essai sur la nature du commerce en général}
@@ -2324,8 +2356,8 @@
       \strng{authorbibnamehash}{140670e47810ad9b00d4c97c7119db7c}
       \strng{authornamehash}{140670e47810ad9b00d4c97c7119db7c}
       \strng{authorfullhash}{140670e47810ad9b00d4c97c7119db7c}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Monetary Economics}
@@ -2603,8 +2635,8 @@
       \strng{authorbibnamehash}{8a43bc9ad27547b7a423d243de5634e7}
       \strng{authornamehash}{8a43bc9ad27547b7a423d243de5634e7}
       \strng{authorfullhash}{8a43bc9ad27547b7a423d243de5634e7}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Computational models of trust and reputation: Agents, evolutionary games, and social networks}
@@ -3051,8 +3083,8 @@
       \strng{authorbibnamehash}{1db4ece4b6891b7738b9537881246b2e}
       \strng{authornamehash}{1db4ece4b6891b7738b9537881246b2e}
       \strng{authorfullhash}{1db4ece4b6891b7738b9537881246b2e}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
@@ -3475,8 +3507,8 @@
       \strng{authorbibnamehash}{b437717e0150f40aa30347bef12f6f66}
       \strng{authornamehash}{b437717e0150f40aa30347bef12f6f66}
       \strng{authorfullhash}{808c3a2b5a81bd58486fc6997c535155}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
@@ -6926,8 +6958,8 @@
       \strng{authorbibnamehash}{d84cf69a30ceb24ebf708975508bd47a}
       \strng{authornamehash}{d84cf69a30ceb24ebf708975508bd47a}
       \strng{authorfullhash}{12cb009d223ca3f6533b53c469c33a20}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Virtual Reality, 2004. Proceedings. {IEEE}}
