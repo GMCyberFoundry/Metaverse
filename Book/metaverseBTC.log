@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  9 MAY 2022 07:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  9 MAY 2022 10:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2522,7 +2522,7 @@ Overfull \hbox (0.77441pt too wide) in paragraph at lines 4--4
 -son in his 1992 novel Snowcrash.
  []
 
-<Images//muskWeb3.png, id=1984, 408.02437pt x 168.63pt>
+<Images//muskWeb3.png, id=1989, 408.02437pt x 168.63pt>
 File: Images//muskWeb3.png Graphic file (type png)
 <use Images//muskWeb3.png>
 Package pdftex.def Info: Images//muskWeb3.png  used on input line 10.
@@ -2616,7 +2616,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [106]
-<Images//murrayeyegaze.jpg, id=2267, 377.15906pt x 241.65282pt>
+<Images//murrayeyegaze.jpg, id=2272, 377.15906pt x 241.65282pt>
 File: Images//murrayeyegaze.jpg Graphic file (type jpg)
 <use Images//murrayeyegaze.jpg>
 Package pdftex.def Info: Images//murrayeyegaze.jpg  used on input line 142.
@@ -2631,7 +2631,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [107 <./Images//murrayeyegaze.jpg>]
-<Images//proxemics.png, id=2291, 1927.2pt x 1927.2pt>
+<Images//proxemics.png, id=2296, 1927.2pt x 1927.2pt>
 File: Images//proxemics.png Graphic file (type png)
 <use Images//proxemics.png>
 Package pdftex.def Info: Images//proxemics.png  used on input line 161.
@@ -2721,7 +2721,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [116]
-<Images//frameworkVenn.png, id=2600, 509.40312pt x 432.11438pt>
+<Images//frameworkVenn.png, id=2605, 509.40312pt x 432.11438pt>
 File: Images//frameworkVenn.png Graphic file (type png)
 <use Images//frameworkVenn.png>
 Package pdftex.def Info: Images//frameworkVenn.png  used on input line 309.
@@ -2820,7 +2820,7 @@ File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 201.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
-<Images//highlevelstack.png, id=2679, 804.00375pt x 543.02875pt>
+<Images//highlevelstack.png, id=2684, 804.00375pt x 543.02875pt>
 File: Images//highlevelstack.png Graphic file (type png)
 <use Images//highlevelstack.png>
 Package pdftex.def Info: Images//highlevelstack.png  used on input line 204.
@@ -2846,12 +2846,12 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [128]
-<Images//globalclassroom.png, id=2700, 1484.04437pt x 1121.18875pt>
+<Images//globalclassroom.png, id=2705, 1484.04437pt x 1121.18875pt>
 File: Images//globalclassroom.png Graphic file (type png)
 <use Images//globalclassroom.png>
 Package pdftex.def Info: Images//globalclassroom.png  used on input line 343.
 (pdftex.def)             Requested size: 426.79135pt x 322.43335pt.
-<Images//systemc4.png, id=2701, 1576.89125pt x 1024.82875pt>
+<Images//systemc4.png, id=2706, 1576.89125pt x 1024.82875pt>
 File: Images//systemc4.png Graphic file (type png)
 <use Images//systemc4.png>
 Package pdftex.def Info: Images//systemc4.png  used on input line 349.
@@ -3150,12 +3150,12 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 [143] (metaverseBTC.ptc) [144
 
 ]
-<Images//JOH.jpg, id=2858, 110.66344pt x 165.61874pt>
+<Images//JOH.jpg, id=2863, 110.66344pt x 165.61874pt>
 File: Images//JOH.jpg Graphic file (type jpg)
 <use Images//JOH.jpg>
 Package pdftex.def Info: Images//JOH.jpg  used on input line 369.
 (pdftex.def)             Requested size: 124.19986pt x 185.88847pt.
-<Images//AF.jpg, id=2860, 864.5901pt x 1295.3193pt>
+<Images//AF.jpg, id=2865, 864.5901pt x 1295.3193pt>
 File: Images//AF.jpg Graphic file (type jpg)
 <use Images//AF.jpg>
 Package pdftex.def Info: Images//AF.jpg  used on input line 380.
@@ -3170,7 +3170,7 @@ Overfull \hbox (140.84192pt too wide) in paragraph at lines 364--382
 [][][]$[]$ 
  []
 
-<Images//UA.jpg, id=2862, 200.75pt x 200.75pt>
+<Images//UA.jpg, id=2867, 200.75pt x 200.75pt>
 File: Images//UA.jpg Graphic file (type jpg)
 <use Images//UA.jpg>
 Package pdftex.def Info: Images//UA.jpg  used on input line 388.
@@ -3290,10 +3290,6 @@ Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Chen2002' on input line 405.
 
 
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Roberts2013' on input line 405.
-
-
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -3302,6 +3298,10 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [152]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Roberts2013' on input line 405.
+
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Sellen1992' on input line 405.
@@ -3894,13 +3894,13 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36943 strings out of 478582
- 731454 string characters out of 2844816
- 1612655 words of memory out of 3000000
- 53159 multiletter control sequences out of 15000+600000
+ 36953 strings out of 478582
+ 731911 string characters out of 2844816
+ 1614509 words of memory out of 3000000
+ 53167 multiletter control sequences out of 15000+600000
  590182 words of font info for 454 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 98i,16n,94p,2419b,1368s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 98i,16n,94p,2419b,1371s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 pdfTeX warning (dest): name{section*.16} has been referenced but does not exist
 , replaced by a fixed one
@@ -3917,9 +3917,9 @@ fb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pf
 b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb
 ><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
 >
-Output written on metaverseBTC.pdf (166 pages, 21703341 bytes).
+Output written on metaverseBTC.pdf (166 pages, 21704991 bytes).
 PDF statistics:
- 3627 PDF objects out of 4296 (max. 8388607)
- 807 named destinations out of 1000 (max. 500000)
+ 3634 PDF objects out of 4296 (max. 8388607)
+ 809 named destinations out of 1000 (max. 500000)
  127305 words of extra memory for PDF output out of 128383 (max. 10000000)
 

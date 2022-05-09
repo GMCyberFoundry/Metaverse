@@ -2643,6 +2643,55 @@
       \field{type}{phdthesis}
       \field{year}{2002}
     \endentry
+    \entry{moringiello2021property}{article}{}
+      \name{author}{2}{}{%
+        {{hash=717cefd755745c1f21c2401c6c5ad357}{%
+           family={Moringiello},
+           familyi={M\bibinitperiod},
+           given={Juliet\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=92a1d81a6b593d3f2f01bb3bc8f2377f}{%
+           family={Odinet},
+           familyi={O\bibinitperiod},
+           given={Christopher\bibnamedelima K},
+           giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{bbd19fb4333892ef6bc54c441fe3ce09}
+      \strng{fullhash}{bbd19fb4333892ef6bc54c441fe3ce09}
+      \strng{bibnamehash}{bbd19fb4333892ef6bc54c441fe3ce09}
+      \strng{authorbibnamehash}{bbd19fb4333892ef6bc54c441fe3ce09}
+      \strng{authornamehash}{bbd19fb4333892ef6bc54c441fe3ce09}
+      \strng{authorfullhash}{bbd19fb4333892ef6bc54c441fe3ce09}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Florida Law Review (Forthcoming 2022)}
+      \field{title}{The Property Law of Tokens}
+      \field{year}{2021}
+    \endentry
+    \entry{fairfield2021tokenized}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9a33a0300bce8eb7526234a514fff665}{%
+           family={Fairfield},
+           familyi={F\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{9a33a0300bce8eb7526234a514fff665}
+      \strng{fullhash}{9a33a0300bce8eb7526234a514fff665}
+      \strng{bibnamehash}{9a33a0300bce8eb7526234a514fff665}
+      \strng{authorbibnamehash}{9a33a0300bce8eb7526234a514fff665}
+      \strng{authornamehash}{9a33a0300bce8eb7526234a514fff665}
+      \strng{authorfullhash}{9a33a0300bce8eb7526234a514fff665}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Indiana Law Journal, Forthcoming}
+      \field{title}{Tokenized: The law of non-fungible tokens and unique digital property}
+      \field{year}{2021}
+    \endentry
     \entry{mclellan1993avatars}{article}{}
       \name{author}{1}{}{%
         {{hash=4dc214c859a01c74a067082d181d6afd}{%
@@ -3000,8 +3049,8 @@
       \strng{authorbibnamehash}{1dc0c29dd80336206509def751e3c548}
       \strng{authornamehash}{1dc0c29dd80336206509def751e3c548}
       \strng{authorfullhash}{ff7dfda844fd33eb972301dd329f4321}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A new algorithm is proposed for novel view generation in one-to-one teleconferencing applications. Given the video streams acquired by two cameras placed on either side of a computer monitor, the proposed algorithm synthesizes images from a virtual camera in arbitrary position (typically located within the monitor) to facilitate eye contact. Our technique is based on an improved, dynamic-programming, stereo algorithm for efficient novel-view generation. The two main contributions are: i) a new type of three-plane graph for dense-stereo dynamic-programming, that encourages correct occlusion labeling; ii) a compact geometric derivation for novel-view synthesis by direct projection of the minimum-cost surface. Furthermore, we present a novel algorithm for the temporal maintenance of a background model to enhance the rendering of occlusions and reduce temporal artefacts (flicker); and a cost aggregation algorithm that acts directly on our three-dimensional matching cost space. Examples are given that demonstrate the robustness of the new algorithm to spatial and temporal artefacts for long stereo video streams. These include demonstrations of synthesis of cyclopean views of extended conversational sequences. We further demonstrate synthesis from a freely translating virtual camera.}
@@ -3047,8 +3096,8 @@
       \strng{authorbibnamehash}{49df875327575616867eb6c7d7eae4ee}
       \strng{authornamehash}{49df875327575616867eb6c7d7eae4ee}
       \strng{authorfullhash}{7d0d42ca9860b18c95bbcbefff6f66a7}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Gaze awareness and eye contact serve important functions in social interaction. In order to maintain those functions in 2D and 3D videoconferencing systems, human sensitivity to eye contact and gaze direction needs to be taken into account in the design of such systems. Here we experimentally investigate human perception of eye contact and gaze direction in 2D and 3D, using a within-subjects design. Our results indicate that the disparity between the optical axis of the camera and the looking direction of a looker (a photographed face) should be at most 1.2° in horizontal direction, and 1.7° in vertical direction to support eye contact. Maximum tolerable offsets for the perception of eye contact are independent of (monoscopic or stereoscopic) display conditions. Asymmetric sensitivity to eye contact is explained by the underestimation of the vertical component of a looker's gaze direction.}
@@ -6908,8 +6957,8 @@
       \strng{authorbibnamehash}{167610097b1fe2ce8149879e6b61a736}
       \strng{authornamehash}{167610097b1fe2ce8149879e6b61a736}
       \strng{authorfullhash}{167610097b1fe2ce8149879e6b61a736}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 4th international conference on Collaborative virtual environments}
@@ -10753,8 +10802,8 @@
       \strng{authorbibnamehash}{1b85fcab5884d8c61f808c12a19b92b9}
       \strng{authornamehash}{1b85fcab5884d8c61f808c12a19b92b9}
       \strng{authorfullhash}{fb4fec093531e7124bc243e573d311e5}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We propose a 3D video display technique that allows multiple viewers to see 3D images from a 360-degree horizontal arc without wearing 3D glasses. This technique uses a cylindrical parallax barrier and a one-dimensional light source array. We have developed an experimental display system using this technique. Since this technique is based on the parallax panoramagram, the parallax number and resolution are limited by the diffraction at the parallax barrier. In order to solve this problem, we improved the technique by revolving the parallax barrier. The improved technique was incorporated into two experimental display systems. The newer one is capable of displaying 3D color video images within a 200-mm diameter and a 256-mm height. Images have a resolution of 1254 circumferential pixels and 256 vertical pixels, and are refreshed at 30Hz. Each pixel has a viewing angle of 60 degrees that is divided into over 70 views so that the angular parallax interval of each pixel is less than 1 degree. These pixels are arranged on a cylindrical surface to allow for the produced 3D images to be observed from all directions. In this case, observers may barely perceive the discrete parallax.}
