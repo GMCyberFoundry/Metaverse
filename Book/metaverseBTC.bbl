@@ -2692,6 +2692,38 @@
       \field{title}{Tokenized: The law of non-fungible tokens and unique digital property}
       \field{year}{2021}
     \endentry
+    \entry{komlo2020frost}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=090a69bfa3bfdcc29b769288582f75e9}{%
+           family={Komlo},
+           familyi={K\bibinitperiod},
+           given={Chelsea},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a023acc45498a4d8527462d2228654ee}{%
+           family={Goldberg},
+           familyi={G\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{1f3ec4e43ef3767b7ee97edf56f5d7a3}
+      \strng{fullhash}{1f3ec4e43ef3767b7ee97edf56f5d7a3}
+      \strng{bibnamehash}{1f3ec4e43ef3767b7ee97edf56f5d7a3}
+      \strng{authorbibnamehash}{1f3ec4e43ef3767b7ee97edf56f5d7a3}
+      \strng{authornamehash}{1f3ec4e43ef3767b7ee97edf56f5d7a3}
+      \strng{authorfullhash}{1f3ec4e43ef3767b7ee97edf56f5d7a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Conference on Selected Areas in Cryptography}
+      \field{title}{FROST: flexible round-optimized Schnorr threshold signatures}
+      \field{year}{2020}
+      \field{pages}{34\bibrangedash 65}
+      \range{pages}{32}
+    \endentry
     \entry{mclellan1993avatars}{article}{}
       \name{author}{1}{}{%
         {{hash=4dc214c859a01c74a067082d181d6afd}{%
@@ -3010,8 +3042,8 @@
       \strng{authorbibnamehash}{55925b509581751cc2d4a4f2cafd12f0}
       \strng{authornamehash}{55925b509581751cc2d4a4f2cafd12f0}
       \strng{authorfullhash}{392cb44f86db84d007ed061624957309}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Workstations and personal computers are increasingly being delivered with the ability to handle multimedia data; more and more of us are linked by high-speed digital networks. With multimedia communication environments becoming more commonplace, what have we learned from earlier experiences with prototype media environments? This paper reports on some of our experiences as developers, researchers and users of flexible, networked, multimedia computer environments, or ``media spaces''. It focusses on the lessons we can learn from extended, long-term use of media spaces, with connections that last not hours or days, but months or years. We take as our starting point a set of assumptions which differ from traditional analytical perspectives. In particular, we begin from the position that that real-world baseline is not always an appropriate point of comparison for new media technologies; that a set of complex and intricate communicative behaviours arise over time; and that media spaces connect not only individuals, but the wider social groups of which they form part. We outline a framework based on four perspectives --- individual, interactional, communal and societal --- from which to view the behaviour of individuals and groups linked by multimedia environments. On the basis of our long-term findings, we argue for a view of media spaces which, first, focuses on a wider interpretation of media space interaction than the traditional view of person-to-person connections, and, second, emphasises emergent communicative practices, rather than looking for the transfer of face-to-face behaviours.}
@@ -3505,8 +3537,8 @@
       \strng{authorbibnamehash}{57c10c0533f6e35a777f7f6a3de384c1}
       \strng{authornamehash}{57c10c0533f6e35a777f7f6a3de384c1}
       \strng{authorfullhash}{d4b10cdb068c08d5faa85d9165672e96}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 19th {ACM} Conference on {Computer-Supported} Cooperative Work \& Social Computing}
@@ -10755,8 +10787,8 @@
       \strng{authorbibnamehash}{f1537f188cc94959b504f6aaa0a0fc06}
       \strng{authornamehash}{f1537f188cc94959b504f6aaa0a0fc06}
       \strng{authorfullhash}{f1537f188cc94959b504f6aaa0a0fc06}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A new technique for multi-view autostereoscopic projection display is proposed, and demonstrated. The technique uses two mobile projectors, a rotating retro-reflective diffuser screen, and a head-tracking camera. As two dynamic viewing slits are created at the viewer's position, the slits can track the position of the eyes by rotating the screen. The display allows a viewer to move approximately 700 mm along the horizontal axis, and 500 mm along the vertical axis with an average crosstalk below 5 \%. Two screen prototypes with different diffusers have been tried, and they provide luminance levels of 60 Cd/m2, and 160 Cd/m2 within the viewing field.}
