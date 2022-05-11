@@ -188,7 +188,7 @@
 \contentsline {section}{\numberline {8.3}Potential applications }{128}{section.8.3}%
 \contentsline {subsection}{\numberline {8.3.1}Global cybersec course delivery}{129}{subsection.8.3.1}%
 \contentsline {part}{\numberline {II}Guides for deploying the software}{132}{part.2}%
-\contentsline {section}{\numberline {8.4}Lab}{133}{section.8.4}%
+\contentsline {section}{\numberline {8.4}Lab - virtualisation, networking, Bitcoin}{133}{section.8.4}%
 \contentsline {subsection}{\numberline {8.4.1}Overview}{133}{subsection.8.4.1}%
 \contentsline {subsubsection}{\numberline {8.4.1.1}Summary of software}{133}{subsubsection.8.4.1.1}%
 \contentsline {subsection}{\numberline {8.4.2}Prerequisites}{133}{subsection.8.4.2}%

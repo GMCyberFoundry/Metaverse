@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  11 MAY 2022 18:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  11 MAY 2022 19:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2886,7 +2886,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 [131 <./Images//systemc4.png>] (metaverseBTC.ptc) [132
 
 ] (HOWTO.tex
-Overfull \hbox (56.43552pt too wide) in paragraph at lines 79--84
+Overfull \hbox (56.43552pt too wide) in paragraph at lines 80--85
 []\T1/ptm/m/n/12 (-20) Keep in mind that this setup uses the Prox-mox VE in-sta
 ller (https://www.proxmox.com/en/proxmox-
  []
@@ -2901,7 +2901,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [133]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-35.
+36.
  (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -2910,25 +2910,25 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (6.774pt too wide) in paragraph at lines 132--138
+Overfull \hbox (6.774pt too wide) in paragraph at lines 133--139
 \T1/ptm/m/n/12 (-20) with-out a sub-scrip-tion as de-tailed here: https://pve.p
 roxmox.com/wiki/Package_Repositories.
  []
 
 
-Overfull \hbox (11.52661pt too wide) in paragraph at lines 149--149
+Overfull \hbox (11.52661pt too wide) in paragraph at lines 150--150
 []\T1/cmtt/m/n/12 deb http://download.proxmox.com/debian/pve bullseye pve-no-su
 bscription[] 
  []
 
 
-Overfull \hbox (11.52661pt too wide) in paragraph at lines 174--174
+Overfull \hbox (11.52661pt too wide) in paragraph at lines 175--175
 []\T1/cmtt/m/n/12 deb http://download.proxmox.com/debian/pve bullseye pve-no-su
 bscription[] 
  []
 
 
-Overfull \hbox (48.56757pt too wide) in paragraph at lines 174--174
+Overfull \hbox (48.56757pt too wide) in paragraph at lines 175--175
 []\T1/cmtt/m/n/12 deb http://security.debian.org/debian-security bullseye-secur
 ity main contrib[] 
  []
@@ -2942,25 +2942,25 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [134]
-Overfull \hbox (11.95836pt too wide) in paragraph at lines 214--216
+Overfull \hbox (11.95836pt too wide) in paragraph at lines 215--217
 []\T1/ptm/m/n/12 (-20) Credit: https://dannyda.com/2020/06/01/how-to-create-an-
 internal-only-isolated-network-
  []
 
 
-Overfull \hbox (15.07468pt too wide) in paragraph at lines 214--216
+Overfull \hbox (15.07468pt too wide) in paragraph at lines 215--217
 \T1/ptm/m/n/12 (-20) for-guest-os-virtual-machines-vm-on-proxmox-ve-pve-like-in
 -vmware-workstation-host-only-
  []
 
 
-Overfull \hbox (30.04709pt too wide) in paragraph at lines 253--253
+Overfull \hbox (30.04709pt too wide) in paragraph at lines 254--254
 []\T1/cmtt/m/n/12 $ git clone -b equuleus --single-branch https://github.com/vy
 os/vyos-build[] 
  []
 
 
-Overfull \hbox (122.64948pt too wide) in paragraph at lines 253--253
+Overfull \hbox (122.64948pt too wide) in paragraph at lines 254--254
 []\T1/cmtt/m/n/12 $ docker run --rm -it --privileged -v $(pwd):/vyos -w /vyos v
 yos/vyos-build:equuleus bash[] 
  []
@@ -2974,7 +2974,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [135]
-Overfull \hbox (126.56917pt too wide) in paragraph at lines 296--299
+Overfull \hbox (126.56917pt too wide) in paragraph at lines 297--300
 []\T1/ptm/m/n/12 (-20) n the Disk tab leave the de-faults (this ex-ceeds re-qui
 re-ments https://docs.vyos.io/en/latest/installation/install.html) 
  []
@@ -2988,19 +2988,19 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [136]
-Overfull \hbox (5.04445pt too wide) in paragraph at lines 382--382
+Overfull \hbox (5.04445pt too wide) in paragraph at lines 383--383
 []\T1/cmtt/m/n/12 set protocols static route 0.0.0.0/0 next-hop 192.168.x.254 d
 istance 1[] 
  []
 
 
-Overfull \hbox (8.75427pt too wide) in paragraph at lines 392--394
+Overfull \hbox (8.75427pt too wide) in paragraph at lines 393--395
 []\T1/ptm/m/n/12 (-20) Inspiration for the above was taken from: https://bertvv
 .github.io/cheat-sheets/VyOS.html 
  []
 
 
-Overfull \hbox (44.70895pt too wide) in paragraph at lines 428--432
+Overfull \hbox (44.70895pt too wide) in paragraph at lines 429--433
 []\T1/ptm/m/n/12 (-20) In the main, the in-stall guide (https://github.com/fort
 -nix/nix-bitcoin/blob/master/docs/install.md)
  []
@@ -3032,13 +3032,13 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [139]
-Overfull \hbox (95.48611pt too wide) in paragraph at lines 637--637
+Overfull \hbox (95.48611pt too wide) in paragraph at lines 638--638
 []\T1/cmtt/m/n/12 set nat destination rule 12 description 'Port Forward: 2222 t
 o 22 SSH on 192.168.y.2'[] 
  []
 
 
-Overfull \hbox (95.48611pt too wide) in paragraph at lines 663--663
+Overfull \hbox (95.48611pt too wide) in paragraph at lines 664--664
 []\T1/cmtt/m/n/12 set nat destination rule 13 description 'Port Forward: 2223 t
 o 22 SSH on 192.168.y.3'[] 
  []
@@ -3052,31 +3052,31 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [140]
-Overfull \hbox (30.28812pt too wide) in paragraph at lines 713--718
+Overfull \hbox (30.28812pt too wide) in paragraph at lines 714--719
 []\T1/ptm/m/n/12 (-20) Note: It is pos-si-ble to de-ter-mine the lat-est ver-si
 on by nav-i-gat-ing to: https://nixos.org/nix/install
  []
 
 
-Overfull \hbox (47.6719pt too wide) in paragraph at lines 727--728
+Overfull \hbox (47.6719pt too wide) in paragraph at lines 728--729
 []\T1/cmtt/m/n/12 curl -o install-nix-2.6.0 https://releases.nixos.org/nix/nix-
 2.6.0/install 
  []
 
 
-Overfull \hbox (97.05984pt too wide) in paragraph at lines 734--735
+Overfull \hbox (97.05984pt too wide) in paragraph at lines 735--736
 []\T1/cmtt/m/n/12 curl -o install-nix-2.6.0.asc https://releases.nixos.org/nix/
 nix-2.6.0/install.asc 
  []
 
 
-Overfull \hbox (189.66223pt too wide) in paragraph at lines 738--740
+Overfull \hbox (189.66223pt too wide) in paragraph at lines 739--741
 []\T1/cmtt/m/n/12 gpg2 --keyserver hkps://keyserver.ubuntu.com --recv-keys B541
 D55301270E0BCF15CA5D8170B4726D7198DE
  []
 
 
-Overfull \hbox (10.9199pt too wide) in paragraph at lines 741--743
+Overfull \hbox (10.9199pt too wide) in paragraph at lines 742--744
 []\T1/ptm/m/n/12 (-20) Which are sim-i-larly de-tailed here: https://nixos.org/
 download.html#nix-verify-installation 
  []
@@ -3090,25 +3090,25 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [141]
-Overfull \hbox (59.0625pt too wide) in paragraph at lines 817--817
+Overfull \hbox (59.0625pt too wide) in paragraph at lines 818--818
 []    \T1/cmtt/m/n/12 "hardware-configuration.nix".file = toString ../hardware-
 configuration.nix;[] 
  []
 
 
-Overfull \hbox (85.60852pt too wide) in paragraph at lines 817--817
+Overfull \hbox (85.60852pt too wide) in paragraph at lines 818--818
 []  \T1/cmtt/m/n/12 # Otherwise /var/src/.populate must be created on the targe
 t node to signal krops[] 
  []
 
 
-Overfull \hbox (9.11166pt too wide) in paragraph at lines 831--833
+Overfull \hbox (9.11166pt too wide) in paragraph at lines 832--834
 [] []\T1/pag/db/n/12 (-20) Ad-di-tional hard drive con-fig-u-ra-tion[] \T1/ptm/
 m/n/12 (-20) No ed-its were made to hardware-configuration.nix
  []
 
 
-Overfull \hbox (9.05722pt too wide) in paragraph at lines 862--862
+Overfull \hbox (9.05722pt too wide) in paragraph at lines 863--863
 []\T1/cmtt/m/n/12 # Do not modify this file!  It was generated by `nixos-genera
 te-config'[] 
  []
@@ -3122,13 +3122,13 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [142]
-Overfull \hbox (250.44077pt too wide) in paragraph at lines 862--862
+Overfull \hbox (250.44077pt too wide) in paragraph at lines 863--863
 []  \T1/cmtt/m/n/12 boot.initrd.availableKernelModules = [ "ata_piix" "uhci_hcd
 " "virtio_pci" "virtio_scsi" "sd_mod" "sr_mod" ];[] 
  []
 
 
-Overfull \hbox (182.53235pt too wide) in paragraph at lines 862--862
+Overfull \hbox (182.53235pt too wide) in paragraph at lines 863--863
 []  \T1/cmtt/m/n/12 hardware.cpu.intel.updateMicrocode = lib.mkDefault config.h
 ardware.enableRedistributableFirmware;[] 
  []
@@ -3142,7 +3142,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [143]
-Overfull \hbox (10.5354pt too wide) in paragraph at lines 898--901
+Overfull \hbox (10.5354pt too wide) in paragraph at lines 899--902
 \T1/cmtt/m/n/12 ~/.ssh/id_ed25519.pub \T1/ptm/m/n/12 (-20) where the \T1/cmtt/m
 /n/12 # FIXME: Replace this with your SSH pubkey
  []
@@ -3913,8 +3913,8 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  36962 strings out of 478582
- 732145 string characters out of 2844816
- 1615752 words of memory out of 3000000
+ 732217 string characters out of 2844816
+ 1615790 words of memory out of 3000000
  53171 multiletter control sequences out of 15000+600000
  590182 words of font info for 454 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -3935,7 +3935,7 @@ fb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pf
 b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb
 ><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
 >
-Output written on metaverseBTC.pdf (168 pages, 21709477 bytes).
+Output written on metaverseBTC.pdf (168 pages, 21709960 bytes).
 PDF statistics:
  3656 PDF objects out of 4296 (max. 8388607)
  814 named destinations out of 1000 (max. 500000)
