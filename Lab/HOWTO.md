@@ -1,8 +1,8 @@
-# Lab
+# Lab - virtualisation, networking, Bitcoin 
 
 ## Overview
 
-This document details the process of creating the system detailed in the accompanying paper.
+This document details the process of creating the system detailed in the accompanying book.
 It is intended to be complete.
 It is a how to guide.
 
