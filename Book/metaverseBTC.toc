@@ -120,108 +120,110 @@
 \contentsline {subsection}{\numberline {6.4.3}Stacks and STX}{96}{subsection.6.4.3}%
 \contentsline {subsection}{\numberline {6.4.4}Ethereum}{96}{subsection.6.4.4}%
 \contentsline {subsection}{\numberline {6.4.5}Solana}{96}{subsection.6.4.5}%
-\contentsline {subsection}{\numberline {6.4.6}Spacechains}{96}{subsection.6.4.6}%
-\contentsline {chapter}{\numberline {7}Metaverses}{97}{chapter.7}%
-\contentsline {section}{\numberline {7.1}History and market need}{97}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Video conferencing, the status quo}{97}{section.7.2}%
-\contentsline {subsection}{\numberline {7.2.1}Pandemic drives adoption}{99}{subsection.7.2.1}%
-\contentsline {subsection}{\numberline {7.2.2}Point to Point Video Conferencing}{99}{subsection.7.2.2}%
-\contentsline {subsection}{\numberline {7.2.3}Triadic and Small Group}{100}{subsection.7.2.3}%
-\contentsline {subsection}{\numberline {7.2.4}Other Systems to Support Business}{101}{subsection.7.2.4}%
-\contentsline {subsection}{\numberline {7.2.5}Mona Lisa Type Effects}{101}{subsection.7.2.5}%
-\contentsline {section}{\numberline {7.3}What's important for human communication}{101}{section.7.3}%
-\contentsline {subsection}{\numberline {7.3.1}Vocal}{101}{subsection.7.3.1}%
-\contentsline {subsection}{\numberline {7.3.2}Nonverbal}{103}{subsection.7.3.2}%
-\contentsline {subsubsection}{\numberline {7.3.2.1}Gaze}{103}{subsubsection.7.3.2.1}%
-\contentsline {subsubsection}{\numberline {7.3.2.2}Mutual Gaze}{104}{subsubsection.7.3.2.2}%
-\contentsline {subsubsection}{\numberline {7.3.2.3}Mutual Gaze in Telepresence}{104}{subsubsection.7.3.2.3}%
-\contentsline {subsubsection}{\numberline {7.3.2.4}Head Orientation}{105}{subsubsection.7.3.2.4}%
-\contentsline {subsubsection}{\numberline {7.3.2.5}Combined Head and Eye Gaze}{106}{subsubsection.7.3.2.5}%
-\contentsline {subsubsection}{\numberline {7.3.2.6}Other Upper Body: Overview}{106}{subsubsection.7.3.2.6}%
-\contentsline {subsubsection}{\numberline {7.3.2.7}Effect of Shared Objects on Gaze}{107}{subsubsection.7.3.2.7}%
-\contentsline {subsubsection}{\numberline {7.3.2.8}Tabletop and Shared Task}{107}{subsubsection.7.3.2.8}%
-\contentsline {section}{\numberline {7.4}Psychology of Technology-Mediated Interaction}{108}{section.7.4}%
-\contentsline {subsection}{\numberline {7.4.1}Proxemics}{108}{subsection.7.4.1}%
-\contentsline {subsection}{\numberline {7.4.2}Attention}{109}{subsection.7.4.2}%
-\contentsline {subsection}{\numberline {7.4.3}Behaviour}{110}{subsection.7.4.3}%
-\contentsline {subsubsection}{\numberline {7.4.3.1}Perception Of Honesty}{111}{subsubsection.7.4.3.1}%
-\contentsline {subsection}{\numberline {7.4.4}Presence, Co-presence, and Social Presence}{111}{subsection.7.4.4}%
-\contentsline {subsection}{\numberline {7.4.5}Other Systems to Support Business}{113}{subsection.7.4.5}%
-\contentsline {subsubsection}{\numberline {7.4.5.1}Spatially Faithful Group}{113}{subsubsection.7.4.5.1}%
-\contentsline {subsubsection}{\numberline {7.4.5.2}Robots, Shader Lamp, and Hybrid}{114}{subsubsection.7.4.5.2}%
-\contentsline {subsubsection}{\numberline {7.4.5.3}Holography and Volumetric}{116}{subsubsection.7.4.5.3}%
-\contentsline {section}{\numberline {7.5}Theoretical Framework toward metaverse}{117}{section.7.5}%
-\contentsline {subsection}{\numberline {7.5.1}Problem Statement}{117}{subsection.7.5.1}%
-\contentsline {subsection}{\numberline {7.5.2}Core Assumptions}{117}{subsection.7.5.2}%
-\contentsline {subsection}{\numberline {7.5.3}Peripheral Assumptions}{119}{subsection.7.5.3}%
-\contentsline {section}{\numberline {7.6}Post `Meta' metaverse}{119}{section.7.6}%
-\contentsline {section}{\numberline {7.7}Digital Land Metaverses}{120}{section.7.7}%
-\contentsline {subsection}{\numberline {7.7.1}Global enterprise perspective}{120}{subsection.7.7.1}%
-\contentsline {section}{\numberline {7.8}NFT and crypto as metaverse}{120}{section.7.8}%
-\contentsline {section}{\numberline {7.9}Immersive and third person XR}{121}{section.7.9}%
-\contentsline {subsubsection}{\numberline {7.9.0.1}Second Life}{121}{subsubsection.7.9.0.1}%
-\contentsline {subsubsection}{\numberline {7.9.0.2}Roblox}{121}{subsubsection.7.9.0.2}%
-\contentsline {subsubsection}{\numberline {7.9.0.3}Spatial}{121}{subsubsection.7.9.0.3}%
-\contentsline {subsubsection}{\numberline {7.9.0.4}MeetinVR}{121}{subsubsection.7.9.0.4}%
-\contentsline {subsubsection}{\numberline {7.9.0.5}Glue}{121}{subsubsection.7.9.0.5}%
-\contentsline {subsubsection}{\numberline {7.9.0.6}Mozilla Hubs}{122}{subsubsection.7.9.0.6}%
-\contentsline {subsubsection}{\numberline {7.9.0.7}Counter social realms}{122}{subsubsection.7.9.0.7}%
-\contentsline {subsubsection}{\numberline {7.9.0.8}FramesVR}{122}{subsubsection.7.9.0.8}%
-\contentsline {subsubsection}{\numberline {7.9.0.9}AltSpace}{122}{subsubsection.7.9.0.9}%
-\contentsline {subsubsection}{\numberline {7.9.0.10}Engage}{122}{subsubsection.7.9.0.10}%
-\contentsline {subsubsection}{\numberline {7.9.0.11}VRChat}{123}{subsubsection.7.9.0.11}%
-\contentsline {subsubsection}{\numberline {7.9.0.12}NEOSVR}{123}{subsubsection.7.9.0.12}%
-\contentsline {subsubsection}{\numberline {7.9.0.13}Meta Horizon Worlds \& Workrooms}{123}{subsubsection.7.9.0.13}%
-\contentsline {subsubsection}{\numberline {7.9.0.14}Webaverse}{123}{subsubsection.7.9.0.14}%
-\contentsline {subsubsection}{\numberline {7.9.0.15}Vircadia}{124}{subsubsection.7.9.0.15}%
-\contentsline {section}{\numberline {7.10}Risks}{124}{section.7.10}%
-\contentsline {chapter}{\numberline {8}Our proposition}{126}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Security evaluation}{127}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Our socialisation best practice}{127}{section.8.2}%
-\contentsline {subsubsection}{\numberline {8.2.0.1}Identity}{127}{subsubsection.8.2.0.1}%
-\contentsline {subsubsection}{\numberline {8.2.0.2}Webs of trust}{127}{subsubsection.8.2.0.2}%
-\contentsline {subsubsection}{\numberline {8.2.0.3}Integration of 'good' actor AI entities}{127}{subsubsection.8.2.0.3}%
-\contentsline {subsection}{\numberline {8.2.1}Emulation of important social cues}{127}{subsection.8.2.1}%
-\contentsline {subsubsection}{\numberline {8.2.1.1}Behaviour incentives, arbitration, and penalties}{127}{subsubsection.8.2.1.1}%
-\contentsline {section}{\numberline {8.3}Potential applications }{127}{section.8.3}%
-\contentsline {subsection}{\numberline {8.3.1}Global cybersec course delivery}{128}{subsection.8.3.1}%
-\contentsline {part}{\numberline {II}Guides for deploying the software}{131}{part.2}%
-\contentsline {section}{\numberline {8.4}Lab}{132}{section.8.4}%
-\contentsline {subsection}{\numberline {8.4.1}Overview}{132}{subsection.8.4.1}%
-\contentsline {subsubsection}{\numberline {8.4.1.1}Summary of software}{132}{subsubsection.8.4.1.1}%
-\contentsline {subsection}{\numberline {8.4.2}Prerequisites}{132}{subsection.8.4.2}%
-\contentsline {subsection}{\numberline {8.4.3}Network details}{132}{subsection.8.4.3}%
-\contentsline {subsection}{\numberline {8.4.4}Server configuration}{132}{subsection.8.4.4}%
-\contentsline {subsubsection}{\numberline {8.4.4.1}Server hardware details}{132}{subsubsection.8.4.4.1}%
-\contentsline {subsubsection}{\numberline {8.4.4.2}Disk configuration details}{132}{subsubsection.8.4.4.2}%
-\contentsline {subsection}{\numberline {8.4.5}Proxmox VE}{132}{subsection.8.4.5}%
-\contentsline {subsubsection}{\numberline {8.4.5.1}Installation and configuration}{132}{subsubsection.8.4.5.1}%
-\contentsline {paragraph}{Dialogue 1}{132}{paragraph*.4}%
-\contentsline {paragraph}{Dialogue 2}{132}{paragraph*.5}%
-\contentsline {paragraph}{Dialogue 3}{133}{paragraph*.6}%
-\contentsline {paragraph}{Dialogue 4}{133}{paragraph*.7}%
-\contentsline {subsubsection}{\numberline {8.4.5.2}Software updates}{133}{subsubsection.8.4.5.2}%
-\contentsline {subsubsection}{\numberline {8.4.5.3}Proxmox VE hardening}{134}{subsubsection.8.4.5.3}%
-\contentsline {subsection}{\numberline {8.4.6}Setup an internal only network in Proxmox VE}{134}{subsection.8.4.6}%
-\contentsline {subsection}{\numberline {8.4.7}Install and configure Internet gateway server virtual machine}{134}{subsection.8.4.7}%
-\contentsline {subsubsection}{\numberline {8.4.7.1}Create an ISO of the stable version (as of writing 1.3.0)}{134}{subsubsection.8.4.7.1}%
-\contentsline {subsubsection}{\numberline {8.4.7.2}Upload the ISO image to the Proxmox VE server}{135}{subsubsection.8.4.7.2}%
-\contentsline {subsubsection}{\numberline {8.4.7.3}Create VyOS virtual machine}{135}{subsubsection.8.4.7.3}%
-\contentsline {subsubsection}{\numberline {8.4.7.4}Configure VyOS}{135}{subsubsection.8.4.7.4}%
-\contentsline {subsection}{\numberline {8.4.8}Install and configure a Debian virtual machine}{136}{subsection.8.4.8}%
-\contentsline {subsection}{\numberline {8.4.9}Deploying the nix-bitcoin node}{137}{subsection.8.4.9}%
-\contentsline {subsubsection}{\numberline {8.4.9.1}Acquiring NixOS}{137}{subsubsection.8.4.9.1}%
-\contentsline {subsubsection}{\numberline {8.4.9.2}Create a new VM}{137}{subsubsection.8.4.9.2}%
-\contentsline {subsubsection}{\numberline {8.4.9.3}Configure the additional drive (optional)}{138}{subsubsection.8.4.9.3}%
-\contentsline {subsubsection}{\numberline {8.4.9.4}Create port forwarding rules for SSH (optional)}{139}{subsubsection.8.4.9.4}%
-\contentsline {paragraph}{Debian}{139}{paragraph*.8}%
-\contentsline {paragraph}{NixOS}{139}{paragraph*.9}%
-\contentsline {subsubsection}{\numberline {8.4.9.5}Prepare nix-bitcoin NixOS package}{140}{subsubsection.8.4.9.5}%
-\contentsline {paragraph}{Additional hard drive configuration}{142}{paragraph*.10}%
-\contentsline {paragraph}{Static IP configuration}{142}{paragraph*.11}%
-\contentsline {paragraph}{SSH configuration}{143}{paragraph*.12}%
-\contentsline {paragraph}{Services configuration}{143}{paragraph*.13}%
-\contentsline {part}{\numberline {III}Appendix}{144}{part.3}%
-\contentsline {section}{\numberline {8.5}Acknowledgements and thanks}{145}{section.8.5}%
-\contentsline {section}{\numberline {8.6}Author Biographies}{145}{section.8.6}%
+\contentsline {subsection}{\numberline {6.4.6}Satoshi Ordinals}{96}{subsection.6.4.6}%
+\contentsline {subsection}{\numberline {6.4.7}FROST on Bitcoin}{96}{subsection.6.4.7}%
+\contentsline {subsection}{\numberline {6.4.8}Spacechains}{97}{subsection.6.4.8}%
+\contentsline {chapter}{\numberline {7}Metaverses}{98}{chapter.7}%
+\contentsline {section}{\numberline {7.1}History and market need}{98}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Video conferencing, the status quo}{98}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Pandemic drives adoption}{100}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Point to Point Video Conferencing}{100}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}Triadic and Small Group}{101}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.2.4}Other Systems to Support Business}{102}{subsection.7.2.4}%
+\contentsline {subsection}{\numberline {7.2.5}Mona Lisa Type Effects}{102}{subsection.7.2.5}%
+\contentsline {section}{\numberline {7.3}What's important for human communication}{102}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Vocal}{102}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}Nonverbal}{104}{subsection.7.3.2}%
+\contentsline {subsubsection}{\numberline {7.3.2.1}Gaze}{104}{subsubsection.7.3.2.1}%
+\contentsline {subsubsection}{\numberline {7.3.2.2}Mutual Gaze}{105}{subsubsection.7.3.2.2}%
+\contentsline {subsubsection}{\numberline {7.3.2.3}Mutual Gaze in Telepresence}{105}{subsubsection.7.3.2.3}%
+\contentsline {subsubsection}{\numberline {7.3.2.4}Head Orientation}{106}{subsubsection.7.3.2.4}%
+\contentsline {subsubsection}{\numberline {7.3.2.5}Combined Head and Eye Gaze}{107}{subsubsection.7.3.2.5}%
+\contentsline {subsubsection}{\numberline {7.3.2.6}Other Upper Body: Overview}{107}{subsubsection.7.3.2.6}%
+\contentsline {subsubsection}{\numberline {7.3.2.7}Effect of Shared Objects on Gaze}{108}{subsubsection.7.3.2.7}%
+\contentsline {subsubsection}{\numberline {7.3.2.8}Tabletop and Shared Task}{108}{subsubsection.7.3.2.8}%
+\contentsline {section}{\numberline {7.4}Psychology of Technology-Mediated Interaction}{109}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Proxemics}{109}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}Attention}{110}{subsection.7.4.2}%
+\contentsline {subsection}{\numberline {7.4.3}Behaviour}{111}{subsection.7.4.3}%
+\contentsline {subsubsection}{\numberline {7.4.3.1}Perception Of Honesty}{112}{subsubsection.7.4.3.1}%
+\contentsline {subsection}{\numberline {7.4.4}Presence, Co-presence, and Social Presence}{112}{subsection.7.4.4}%
+\contentsline {subsection}{\numberline {7.4.5}Other Systems to Support Business}{114}{subsection.7.4.5}%
+\contentsline {subsubsection}{\numberline {7.4.5.1}Spatially Faithful Group}{114}{subsubsection.7.4.5.1}%
+\contentsline {subsubsection}{\numberline {7.4.5.2}Robots, Shader Lamp, and Hybrid}{115}{subsubsection.7.4.5.2}%
+\contentsline {subsubsection}{\numberline {7.4.5.3}Holography and Volumetric}{117}{subsubsection.7.4.5.3}%
+\contentsline {section}{\numberline {7.5}Theoretical Framework toward metaverse}{118}{section.7.5}%
+\contentsline {subsection}{\numberline {7.5.1}Problem Statement}{118}{subsection.7.5.1}%
+\contentsline {subsection}{\numberline {7.5.2}Core Assumptions}{118}{subsection.7.5.2}%
+\contentsline {subsection}{\numberline {7.5.3}Peripheral Assumptions}{120}{subsection.7.5.3}%
+\contentsline {section}{\numberline {7.6}Post `Meta' metaverse}{120}{section.7.6}%
+\contentsline {section}{\numberline {7.7}Digital Land Metaverses}{121}{section.7.7}%
+\contentsline {subsection}{\numberline {7.7.1}Global enterprise perspective}{121}{subsection.7.7.1}%
+\contentsline {section}{\numberline {7.8}NFT and crypto as metaverse}{121}{section.7.8}%
+\contentsline {section}{\numberline {7.9}Immersive and third person XR}{122}{section.7.9}%
+\contentsline {subsubsection}{\numberline {7.9.0.1}Second Life}{122}{subsubsection.7.9.0.1}%
+\contentsline {subsubsection}{\numberline {7.9.0.2}Roblox}{122}{subsubsection.7.9.0.2}%
+\contentsline {subsubsection}{\numberline {7.9.0.3}Spatial}{122}{subsubsection.7.9.0.3}%
+\contentsline {subsubsection}{\numberline {7.9.0.4}MeetinVR}{122}{subsubsection.7.9.0.4}%
+\contentsline {subsubsection}{\numberline {7.9.0.5}Glue}{122}{subsubsection.7.9.0.5}%
+\contentsline {subsubsection}{\numberline {7.9.0.6}Mozilla Hubs}{123}{subsubsection.7.9.0.6}%
+\contentsline {subsubsection}{\numberline {7.9.0.7}Counter social realms}{123}{subsubsection.7.9.0.7}%
+\contentsline {subsubsection}{\numberline {7.9.0.8}FramesVR}{123}{subsubsection.7.9.0.8}%
+\contentsline {subsubsection}{\numberline {7.9.0.9}AltSpace}{123}{subsubsection.7.9.0.9}%
+\contentsline {subsubsection}{\numberline {7.9.0.10}Engage}{123}{subsubsection.7.9.0.10}%
+\contentsline {subsubsection}{\numberline {7.9.0.11}VRChat}{124}{subsubsection.7.9.0.11}%
+\contentsline {subsubsection}{\numberline {7.9.0.12}NEOSVR}{124}{subsubsection.7.9.0.12}%
+\contentsline {subsubsection}{\numberline {7.9.0.13}Meta Horizon Worlds \& Workrooms}{124}{subsubsection.7.9.0.13}%
+\contentsline {subsubsection}{\numberline {7.9.0.14}Webaverse}{124}{subsubsection.7.9.0.14}%
+\contentsline {subsubsection}{\numberline {7.9.0.15}Vircadia}{125}{subsubsection.7.9.0.15}%
+\contentsline {section}{\numberline {7.10}Risks}{125}{section.7.10}%
+\contentsline {chapter}{\numberline {8}Our proposition}{127}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Security evaluation}{128}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Our socialisation best practice}{128}{section.8.2}%
+\contentsline {subsubsection}{\numberline {8.2.0.1}Identity}{128}{subsubsection.8.2.0.1}%
+\contentsline {subsubsection}{\numberline {8.2.0.2}Webs of trust}{128}{subsubsection.8.2.0.2}%
+\contentsline {subsubsection}{\numberline {8.2.0.3}Integration of 'good' actor AI entities}{128}{subsubsection.8.2.0.3}%
+\contentsline {subsection}{\numberline {8.2.1}Emulation of important social cues}{128}{subsection.8.2.1}%
+\contentsline {subsubsection}{\numberline {8.2.1.1}Behaviour incentives, arbitration, and penalties}{128}{subsubsection.8.2.1.1}%
+\contentsline {section}{\numberline {8.3}Potential applications }{128}{section.8.3}%
+\contentsline {subsection}{\numberline {8.3.1}Global cybersec course delivery}{129}{subsection.8.3.1}%
+\contentsline {part}{\numberline {II}Guides for deploying the software}{132}{part.2}%
+\contentsline {section}{\numberline {8.4}Lab - virtualisation, networking, Bitcoin}{133}{section.8.4}%
+\contentsline {subsection}{\numberline {8.4.1}Overview}{133}{subsection.8.4.1}%
+\contentsline {subsubsection}{\numberline {8.4.1.1}Summary of software}{133}{subsubsection.8.4.1.1}%
+\contentsline {subsection}{\numberline {8.4.2}Prerequisites}{133}{subsection.8.4.2}%
+\contentsline {subsection}{\numberline {8.4.3}Network details}{133}{subsection.8.4.3}%
+\contentsline {subsection}{\numberline {8.4.4}Server configuration}{133}{subsection.8.4.4}%
+\contentsline {subsubsection}{\numberline {8.4.4.1}Server hardware details}{133}{subsubsection.8.4.4.1}%
+\contentsline {subsubsection}{\numberline {8.4.4.2}Disk configuration details}{133}{subsubsection.8.4.4.2}%
+\contentsline {subsection}{\numberline {8.4.5}Proxmox VE}{133}{subsection.8.4.5}%
+\contentsline {subsubsection}{\numberline {8.4.5.1}Installation and configuration}{133}{subsubsection.8.4.5.1}%
+\contentsline {paragraph}{Dialogue 1}{133}{paragraph*.4}%
+\contentsline {paragraph}{Dialogue 2}{133}{paragraph*.5}%
+\contentsline {paragraph}{Dialogue 3}{134}{paragraph*.6}%
+\contentsline {paragraph}{Dialogue 4}{134}{paragraph*.7}%
+\contentsline {subsubsection}{\numberline {8.4.5.2}Software updates}{134}{subsubsection.8.4.5.2}%
+\contentsline {subsubsection}{\numberline {8.4.5.3}Proxmox VE hardening}{135}{subsubsection.8.4.5.3}%
+\contentsline {subsection}{\numberline {8.4.6}Setup an internal only network in Proxmox VE}{135}{subsection.8.4.6}%
+\contentsline {subsection}{\numberline {8.4.7}Install and configure Internet gateway server virtual machine}{135}{subsection.8.4.7}%
+\contentsline {subsubsection}{\numberline {8.4.7.1}Create an ISO of the stable version (as of writing 1.3.0)}{135}{subsubsection.8.4.7.1}%
+\contentsline {subsubsection}{\numberline {8.4.7.2}Upload the ISO image to the Proxmox VE server}{136}{subsubsection.8.4.7.2}%
+\contentsline {subsubsection}{\numberline {8.4.7.3}Create VyOS virtual machine}{136}{subsubsection.8.4.7.3}%
+\contentsline {subsubsection}{\numberline {8.4.7.4}Configure VyOS}{136}{subsubsection.8.4.7.4}%
+\contentsline {subsection}{\numberline {8.4.8}Install and configure a Debian virtual machine}{137}{subsection.8.4.8}%
+\contentsline {subsection}{\numberline {8.4.9}Deploying the nix-bitcoin node}{138}{subsection.8.4.9}%
+\contentsline {subsubsection}{\numberline {8.4.9.1}Acquiring NixOS}{138}{subsubsection.8.4.9.1}%
+\contentsline {subsubsection}{\numberline {8.4.9.2}Create a new VM}{138}{subsubsection.8.4.9.2}%
+\contentsline {subsubsection}{\numberline {8.4.9.3}Configure the additional drive (optional)}{139}{subsubsection.8.4.9.3}%
+\contentsline {subsubsection}{\numberline {8.4.9.4}Create port forwarding rules for SSH (optional)}{140}{subsubsection.8.4.9.4}%
+\contentsline {paragraph}{Debian}{140}{paragraph*.8}%
+\contentsline {paragraph}{NixOS}{140}{paragraph*.9}%
+\contentsline {subsubsection}{\numberline {8.4.9.5}Prepare nix-bitcoin NixOS package}{141}{subsubsection.8.4.9.5}%
+\contentsline {paragraph}{Additional hard drive configuration}{143}{paragraph*.10}%
+\contentsline {paragraph}{Static IP configuration}{143}{paragraph*.11}%
+\contentsline {paragraph}{SSH configuration}{144}{paragraph*.12}%
+\contentsline {paragraph}{Services configuration}{144}{paragraph*.13}%
+\contentsline {part}{\numberline {III}Appendix}{145}{part.3}%
+\contentsline {section}{\numberline {8.5}Acknowledgements and thanks}{146}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Author Biographies}{146}{section.8.6}%
 \contentsfinish 

@@ -13438,4 +13438,18 @@
   year    = {2022},
 }
 
+@Article{moringiello2021property,
+  author  = {Moringiello, Juliet M and Odinet, Christopher K},
+  journal = {Florida Law Review (Forthcoming 2022)},
+  title   = {The Property Law of Tokens},
+  year    = {2021},
+}
+
+@Article{fairfield2021tokenized,
+  author  = {Fairfield, Joshua},
+  journal = {Indiana Law Journal, Forthcoming},
+  title   = {Tokenized: The law of non-fungible tokens and unique digital property},
+  year    = {2021},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
