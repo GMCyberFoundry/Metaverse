@@ -2590,6 +2590,31 @@
       \field{pages}{127\bibrangedash 152}
       \range{pages}{26}
     \endentry
+    \entry{budish2018economic}{report}{}
+      \name{author}{1}{}{%
+        {{hash=5654ccd726dd2cd1aeb2383476790b32}{%
+           family={Budish},
+           familyi={B\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {National Bureau of Economic Research}%
+      }
+      \strng{namehash}{5654ccd726dd2cd1aeb2383476790b32}
+      \strng{fullhash}{5654ccd726dd2cd1aeb2383476790b32}
+      \strng{bibnamehash}{5654ccd726dd2cd1aeb2383476790b32}
+      \strng{authorbibnamehash}{5654ccd726dd2cd1aeb2383476790b32}
+      \strng{authornamehash}{5654ccd726dd2cd1aeb2383476790b32}
+      \strng{authorfullhash}{5654ccd726dd2cd1aeb2383476790b32}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The economic limits of bitcoin and the blockchain}
+      \field{type}{techreport}
+      \field{year}{2018}
+    \endentry
     \entry{lockwood2021exploring}{article}{}
       \name{author}{1}{}{%
         {{hash=77c79579ff958e99836be1d3b048a216}{%
@@ -2607,8 +2632,8 @@
       \strng{authorbibnamehash}{77c79579ff958e99836be1d3b048a216}
       \strng{authornamehash}{77c79579ff958e99836be1d3b048a216}
       \strng{authorfullhash}{77c79579ff958e99836be1d3b048a216}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in Blockchain}
@@ -3002,8 +3027,8 @@
       \strng{authorbibnamehash}{16f495a04ef12aafa7452f82b8a29529}
       \strng{authornamehash}{16f495a04ef12aafa7452f82b8a29529}
       \strng{authorfullhash}{16f495a04ef12aafa7452f82b8a29529}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Comparison Of Face-to-face And Video-mediated Interaction}
@@ -3485,8 +3510,8 @@
       \strng{authorbibnamehash}{d4e7daf53c5b26009195cbef73e99725}
       \strng{authornamehash}{d4e7daf53c5b26009195cbef73e99725}
       \strng{authorfullhash}{d4e7daf53c5b26009195cbef73e99725}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {ACM} conf. on {Computer-Supported} Cooperative Work}
@@ -6861,8 +6886,8 @@
       \strng{authorbibnamehash}{6ec86ce8e4dc0bd1515b4c809580afdb}
       \strng{authornamehash}{6ec86ce8e4dc0bd1515b4c809580afdb}
       \strng{authorfullhash}{6ec86ce8e4dc0bd1515b4c809580afdb}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
@@ -6907,8 +6932,8 @@
       \strng{authornamehash}{6e3f23a02dcf071520f737561d81dbe3}
       \strng{authorfullhash}{013870981e4a2750efd6950c5768209d}
       \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Equilibrium theory revisited: Mutual gaze and personal space in virtual environments}
@@ -6954,8 +6979,8 @@
       \strng{authornamehash}{6e3f23a02dcf071520f737561d81dbe3}
       \strng{authorfullhash}{013870981e4a2750efd6950c5768209d}
       \field{extraname}{2}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Digital immersive virtual environment technology (IVET) enables behavioral scientists to conduct ecologically realistic experiments with near-perfect experimental control. The authors employed IVET to study the interpersonal distance maintained between participants and virtual humans. In Study 1, participants traversed a three-dimensional virtual room in which a virtual human stood. In Study 2, a virtual human approached participants. In both studies, participant gender, virtual human gender, virtual human gaze behavior, and whether virtual humans were allegedly controlled by humans (i.e., avatars) or computers (i.e., agents) were varied. Results indicated that participants maintained greater distance from virtual humans when approaching their fronts compared to their backs. In addition, participants gave more personal space to virtual agents who engaged them in mutual gaze. Moreover, when virtual humans invaded their personal space, participants moved farthest from virtual human agents. The advantages and disadvantages of IVET for the study of human behavior are discussed.}

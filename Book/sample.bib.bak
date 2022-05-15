@@ -13452,4 +13452,13 @@
   year    = {2021},
 }
 
+@InProceedings{komlo2020frost,
+  author       = {Komlo, Chelsea and Goldberg, Ian},
+  booktitle    = {International Conference on Selected Areas in Cryptography},
+  title        = {FROST: flexible round-optimized Schnorr threshold signatures},
+  year         = {2020},
+  organization = {Springer},
+  pages        = {34--65},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
