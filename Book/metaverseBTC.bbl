@@ -2748,6 +2748,33 @@
       \field{title}{Tokenized: The law of non-fungible tokens and unique digital property}
       \field{year}{2021}
     \endentry
+    \entry{dutton2003authenticity}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1697c1ef744fcea4d432ac340d981cb6}{%
+           family={Dutton},
+           familyi={D\bibinitperiod},
+           given={Denis},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Citeseer}%
+      }
+      \strng{namehash}{1697c1ef744fcea4d432ac340d981cb6}
+      \strng{fullhash}{1697c1ef744fcea4d432ac340d981cb6}
+      \strng{bibnamehash}{1697c1ef744fcea4d432ac340d981cb6}
+      \strng{authorbibnamehash}{1697c1ef744fcea4d432ac340d981cb6}
+      \strng{authornamehash}{1697c1ef744fcea4d432ac340d981cb6}
+      \strng{authorfullhash}{1697c1ef744fcea4d432ac340d981cb6}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Oxford handbook of aesthetics}
+      \field{title}{Authenticity in art}
+      \field{year}{2003}
+      \field{pages}{258\bibrangedash 274}
+      \range{pages}{17}
+    \endentry
     \entry{komlo2020frost}{inproceedings}{}
       \name{author}{2}{}{%
         {{hash=090a69bfa3bfdcc29b769288582f75e9}{%
@@ -2991,8 +3018,8 @@
       \strng{authorbibnamehash}{b49b33ac71f7106d94c9c7bf1a356498}
       \strng{authornamehash}{b49b33ac71f7106d94c9c7bf1a356498}
       \strng{authorfullhash}{7f09c21d897a2760e854c9eb2557d217}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Eye gaze is an important conversational resource that until now could only be supported across a distance if people were rooted to the spot. We introduce EyeCVE, the worldpsilas first tele-presence system that allows people in different physical locations to not only see what each other are doing but follow each otherpsilas eyes, even when walking about. Projected into each space are avatar representations of remote participants, that reproduce not only body, head and hand movements, but also those of the eyes. Spatial and temporal alignment of remote spaces allows the focus of gaze as well as activity and gesture to be used as a resource for non-verbal communication. The temporal challenge met was to reproduce eye movements quick enough and often enough to interpret their focus during a multi-way interaction, along with communicating other verbal and non-verbal language. The spatial challenge met was to maintain communicational eye gaze while allowing free movement of participants within a virtually shared common frame of reference. This paper reports on the technical and especially temporal characteristics of the system.}
@@ -3438,8 +3465,8 @@
       \strng{authorbibnamehash}{65c643e0a985c2835a6276d9eb1c57a7}
       \strng{authornamehash}{65c643e0a985c2835a6276d9eb1c57a7}
       \strng{authorfullhash}{1e2d434b366e9ac56e1b82864d99d3e5}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Previous attempts at bringing gaze awareness to desktop videoconferencing have relied on hardware solutions. In this article, the authors describe their software approach, which tracks participants' head and eye movements using vision techniques, then uses this information to graphically place the head and eyes in a 3D environment.}
@@ -3487,8 +3514,8 @@
       \strng{authorbibnamehash}{867b24429c42e187e3ae2e73fcb82f4f}
       \strng{authornamehash}{867b24429c42e187e3ae2e73fcb82f4f}
       \strng{authorfullhash}{ac38494ad63904585212db91ed5e73a4}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{\#nov\#}
@@ -6826,8 +6853,8 @@
       \strng{authorbibnamehash}{ab0469c1e186393d3c41689ca3dc5b7b}
       \strng{authornamehash}{ab0469c1e186393d3c41689ca3dc5b7b}
       \strng{authorfullhash}{ab0469c1e186393d3c41689ca3dc5b7b}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Universal Journal of Psychology}
@@ -10595,8 +10622,8 @@
       \strng{authorbibnamehash}{6df0a217455167f79187b2935ab85d7b}
       \strng{authornamehash}{6df0a217455167f79187b2935ab85d7b}
       \strng{authorfullhash}{6df0a217455167f79187b2935ab85d7b}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Medicine Meets Virtual Reality 19: NextMed}

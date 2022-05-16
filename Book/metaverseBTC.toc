@@ -119,7 +119,7 @@
 \contentsline {subsection}{\numberline {6.4.2}Sovryn and RSK}{98}{subsection.6.4.2}%
 \contentsline {subsection}{\numberline {6.4.3}Stacks and STX}{98}{subsection.6.4.3}%
 \contentsline {subsection}{\numberline {6.4.4}Ethereum}{98}{subsection.6.4.4}%
-\contentsline {subsection}{\numberline {6.4.5}Solana}{99}{subsection.6.4.5}%
+\contentsline {subsection}{\numberline {6.4.5}Solana}{98}{subsection.6.4.5}%
 \contentsline {subsection}{\numberline {6.4.6}Satoshi Ordinals}{99}{subsection.6.4.6}%
 \contentsline {subsection}{\numberline {6.4.7}FROST on Bitcoin}{99}{subsection.6.4.7}%
 \contentsline {subsection}{\numberline {6.4.8}Spacechains}{99}{subsection.6.4.8}%
