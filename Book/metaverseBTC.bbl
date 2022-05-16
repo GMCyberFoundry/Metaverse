@@ -2282,6 +2282,37 @@
       \field{pages}{131}
       \range{pages}{1}
     \endentry
+    \entry{wang2021central}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3702f1c146e64a6c91fc47b81ea59fc7}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {JOSEPH}%
+      }
+      \strng{namehash}{3702f1c146e64a6c91fc47b81ea59fc7}
+      \strng{fullhash}{3702f1c146e64a6c91fc47b81ea59fc7}
+      \strng{bibnamehash}{3702f1c146e64a6c91fc47b81ea59fc7}
+      \strng{authorbibnamehash}{3702f1c146e64a6c91fc47b81ea59fc7}
+      \strng{authornamehash}{3702f1c146e64a6c91fc47b81ea59fc7}
+      \strng{authorfullhash}{3702f1c146e64a6c91fc47b81ea59fc7}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780999136744}
+      \field{title}{Central Banking 101}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://books.google.co.uk/books?id=nwoozgEACAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.co.uk/books?id=nwoozgEACAAJ
+      \endverb
+    \endentry
     \entry{filardo2012central}{article}{}
       \name{author}{3}{}{%
         {{hash=42eb936f8074d62c532dcbfa89c13cc4}{%
@@ -2306,8 +2337,8 @@
       \strng{authorbibnamehash}{44246dedfc7da4b76a2a445a9b4f285b}
       \strng{authornamehash}{44246dedfc7da4b76a2a445a9b4f285b}
       \strng{authorfullhash}{44246dedfc7da4b76a2a445a9b4f285b}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{BIS Paper}
@@ -3000,8 +3031,8 @@
       \strng{authorbibnamehash}{bf612ae66d086154ae62e8653c55f845}
       \strng{authornamehash}{bf612ae66d086154ae62e8653c55f845}
       \strng{authorfullhash}{bf612ae66d086154ae62e8653c55f845}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{British Journal of Oral and Maxillofacial Surgery}
@@ -3483,8 +3514,8 @@
       \strng{authorbibnamehash}{7347ee796a062e1f1f4b7be15dd73d2c}
       \strng{authornamehash}{7347ee796a062e1f1f4b7be15dd73d2c}
       \strng{authorfullhash}{7347ee796a062e1f1f4b7be15dd73d2c}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Psychol. Bull.}
@@ -6838,8 +6869,8 @@
       \strng{authorbibnamehash}{e3dee62c247ba3d5e03051ddf5a19f5d}
       \strng{authornamehash}{e3dee62c247ba3d5e03051ddf5a19f5d}
       \strng{authorfullhash}{e3dee62c247ba3d5e03051ddf5a19f5d}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Previous research has investigated age differences in complex social perception tasks such as theory of mind and emotion recognition, with predominant findings of age-related declines. The present study investigated whether there are also age-related changes in basic aspects of social perception. Individuals' ability both to detect subtle differences in eye-gaze direction (e.g., where someone is looking in the environment) and to subsequently use these gaze cues to engage in joint attention with others was assessed. Age-related declines were found in the detection of the most subtle differences in gaze aversion. The ability to engage in joint attention by following gaze cues also declined with age. These age differences were not solely attributable to age impairments in visual perception and visual attention. The potential role of age-related neural declines in social perception problems was considered, along with the implications that age deficits in these basic social skills may have for older adults' social perception.}
@@ -10665,8 +10696,8 @@
       \strng{authorbibnamehash}{4b965c0e9cd28ba02206e333b7f8e0b1}
       \strng{authornamehash}{4b965c0e9cd28ba02206e333b7f8e0b1}
       \strng{authorfullhash}{7ca35601f48167305df5ae0683a581d8}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Holography is a technique that is used to display objects or scenes in three dimensions. Such three-dimensional (3D) images, or holograms, can be seen with the unassisted eye and are very similar to how humans see the actual environment surrounding them. The concept of 3D telepresence, a real-time dynamic hologram depicting a scene occurring in a different location, has attracted considerable public interest since it was depicted in the original Star Wars film in 1977. However, the lack of sufficient computational power to produce realistic computer-generated holograms and the absence of large-area and dynamically updatable holographic recording media have prevented realization of the concept. Here we use a holographic stereographic technique and a photorefractive polymer material as the recording medium to demonstrate a holographic display that can refresh images every two seconds. A 50\textbackslashquotesinglbase{Ä}{â}Hz nanosecond pulsed laser is used to write the holographic pixels. Multicoloured holographic 3D images are produced by using angular multiplexing, and the full parallax display employs spatial multiplexing. 3D telepresence is demonstrated by taking multiple images from one location and transmitting the information via Ethernet to another location where the hologram is printed with the quasi-real-time dynamic 3D display. Further improvements could bring applications in telemedicine, prototyping, advertising, updatable 3D maps and entertainment.}
@@ -10767,8 +10798,8 @@
       \strng{authorbibnamehash}{1dd04f6191f69d450e6cfcd5d41d6d15}
       \strng{authornamehash}{1dd04f6191f69d450e6cfcd5d41d6d15}
       \strng{authorfullhash}{a815f46f5a9e47f9164f26d761c5e2cb}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Holographic three-dimensional (3D) displays provide realistic images without the need for special eyewear, making them valuable tools for applications that require situational awareness, such as medical, industrial and military imaging. Currently commercially available holographic 3D displays use photopolymers that lack image-updating capability, resulting in restricted use and high cost. Photorefractive polymers are dynamic holographic recording materials that allow updating of images and have a wide range of applications, including optical correlation, imaging through scattering media and optical communication. To be suitable for 3D displays, photorefractive polymers need to have nearly 100\% diffraction efficiency, fast writing time, hours of image persistence, rapid erasure, and large area-a combination of properties that has not been shown before. Here, we report an updatable holographic 3D display based on photorefractive polymers with such properties, capable of recording and displaying new images every few minutes. This is the largest photorefractive 3D display to date (4 x 4 inches in size); it can be recorded within a few minutes, viewed for several hours without the need for refreshing, and can be completely erased and updated with new images when desired.}

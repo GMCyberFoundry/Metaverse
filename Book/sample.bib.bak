@@ -13461,4 +13461,19 @@
   pages        = {34--65},
 }
 
+@TechReport{budish2018economic,
+  author      = {Budish, Eric},
+  institution = {National Bureau of Economic Research},
+  title       = {The economic limits of bitcoin and the blockchain},
+  year        = {2018},
+}
+
+@InProceedings{klages2020stablecoins,
+  author    = {Klages-Mundt, Ariah and Harz, Dominik and Gudgeon, Lewis and Liu, Jun-You and Minca, Andreea},
+  booktitle = {Proceedings of the 2nd ACM Conference on Advances in Financial Technologies},
+  title     = {Stablecoins 2.0: Economic foundations and risk-based models},
+  year      = {2020},
+  pages     = {59--79},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
