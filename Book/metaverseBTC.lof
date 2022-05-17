@@ -22,8 +22,8 @@
 \contentsline {figure}{\numberline {3.11}{\ignorespaces Given a start point on the curve and a number of reflection operations it's trivial to find a number at the end point, but impossible to find the number of \href {https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc}{hops} from the two end points alone. (CC Mastering Bitcoin second edition)}}{43}{figure.3.11}%
 \contentsline {figure}{\numberline {3.12}{\ignorespaces \href {https://www.research.arcane.no/the-state-of-lightning}{Arcane research lightning adoption overview}.}}{50}{figure.3.12}%
 \contentsline {figure}{\numberline {3.13}{\ignorespaces \href {https://twitter.com/SeedMint21/status/1518934554840600579}{A key fob with a Bolt12 QR code}}}{51}{figure.3.13}%
-\contentsline {figure}{\numberline {3.14}{\ignorespaces Two of the many \href {https://rapaygo.com/}{prebuilt} and \href {https://github.com/arcbtc/LNURLPoS}{kit} options for Lightning `point of sale'}}{52}{figure.3.14}%
-\contentsline {figure}{\numberline {3.15}{\ignorespaces Allocations given at the beginning of public blockchain, by Messari.}}{58}{figure.3.15}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Two of the many \href {https://rapaygo.com/}{prebuilt} and \href {https://github.com/arcbtc/LNURLPoS}{kit} options for Lightning `point of sale'}}{53}{figure.3.14}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Allocations given at the beginning of public blockchain, by Messari.}}{59}{figure.3.15}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {4.1}{\ignorespaces Comparison of mobile based payment systems}}{65}{figure.4.1}%
 \contentsline {figure}{\numberline {4.2}{\ignorespaces More than half of central banks \href {https://www.bis.org/publ/bppdf/bispap125.htm}{surveyed by the BIS} said they saw issuance of a CBDC as possible.}}{70}{figure.4.2}%
@@ -38,12 +38,12 @@
 \contentsline {figure}{\numberline {6.1}{\ignorespaces Solana NFT markets are enjoying growth compared to Opensea on Ethereum, even in the downturn.}}{91}{figure.6.1}%
 \contentsline {figure}{\numberline {6.2}{\ignorespaces Beeple: First 5000 days, \href {https://onlineonly.christies.com/s/beeple-first-5000-days/lots/2020}{taken from the Christies website, assumed fair use}.}}{93}{figure.6.2}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1}{\ignorespaces Elon Musk agrees with this on Twitter. It's notable that Musk is now Twitters' \href {https://twitter.com/paraga/status/1511320953598357505}{biggest shareholder}, and has been vocal about Web2 censorship on the platform.}}{101}{figure.7.1}%
-\contentsline {figure}{\numberline {7.2}{\ignorespaces Eye tracked eye gaze awareness in VR. Murray et al. used immersive and semi immersive systems alongside eye trackers to examine the ability of two avatars to detect the gaze awareness of a similarly immersed collaborator.}}{110}{figure.7.2}%
-\contentsline {figure}{\numberline {7.3}{\ignorespaces Bands of social space around a person Image CC0 \href {https://en.wikipedia.org/wiki/Proxemics}{from wikipedia}.}}{112}{figure.7.3}%
-\contentsline {figure}{\numberline {7.4}{\ignorespaces The Venn diagram shows areas of research which have been identified in blue. These interlock and overlap as shown. The most relevant identified researchers from the literature are shown in black close to the fields of study which they represent. This diagram is a view of the core assumptions for the research, with the most important fields at the centre. }}{121}{figure.7.4}%
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Elon Musk agrees with this on Twitter. It's notable that Musk is now Twitters' \href {https://twitter.com/paraga/status/1511320953598357505}{biggest shareholder}, and has been vocal about Web2 censorship on the platform.}}{102}{figure.7.1}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Eye tracked eye gaze awareness in VR. Murray et al. used immersive and semi immersive systems alongside eye trackers to examine the ability of two avatars to detect the gaze awareness of a similarly immersed collaborator.}}{111}{figure.7.2}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Bands of social space around a person Image CC0 \href {https://en.wikipedia.org/wiki/Proxemics}{from wikipedia}.}}{113}{figure.7.3}%
+\contentsline {figure}{\numberline {7.4}{\ignorespaces The Venn diagram shows areas of research which have been identified in blue. These interlock and overlap as shown. The most relevant identified researchers from the literature are shown in black close to the fields of study which they represent. This diagram is a view of the core assumptions for the research, with the most important fields at the centre. }}{122}{figure.7.4}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {8.1}{\ignorespaces High level overview showing the components for sats, stablecoins on lightning, asssets, and trust}}{129}{figure.8.1}%
-\contentsline {figure}{\numberline {8.2}{\ignorespaces Functional elements for infrastructure.}}{132}{figure.8.2}%
-\contentsline {figure}{\numberline {8.3}{\ignorespaces Client server C4 diagrams.}}{133}{figure.8.3}%
+\contentsline {figure}{\numberline {8.1}{\ignorespaces High level overview showing the components for sats, stablecoins on lightning, asssets, and trust}}{130}{figure.8.1}%
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Functional elements for infrastructure.}}{133}{figure.8.2}%
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Client server C4 diagrams.}}{134}{figure.8.3}%
 \contentsfinish 
