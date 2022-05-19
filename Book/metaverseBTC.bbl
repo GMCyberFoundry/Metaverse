@@ -464,6 +464,67 @@
       \field{title}{Hashcash-a denial of service counter-measure}
       \field{year}{2002}
     \endentry
+    \entry{dwork1992pricing}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=c6d8866083f4c03af5e37e032df87089}{%
+           family={Dwork},
+           familyi={D\bibinitperiod},
+           given={Cynthia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c6af39e79e88306281e6e0b0ccea956c}{%
+           family={Naor},
+           familyi={N\bibinitperiod},
+           given={Moni},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{e398f763d0c03e86529e98aecf778f9e}
+      \strng{fullhash}{e398f763d0c03e86529e98aecf778f9e}
+      \strng{bibnamehash}{e398f763d0c03e86529e98aecf778f9e}
+      \strng{authorbibnamehash}{e398f763d0c03e86529e98aecf778f9e}
+      \strng{authornamehash}{e398f763d0c03e86529e98aecf778f9e}
+      \strng{authorfullhash}{e398f763d0c03e86529e98aecf778f9e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Annual international cryptology conference}
+      \field{title}{Pricing via processing or combatting junk mail}
+      \field{year}{1992}
+      \field{pages}{139\bibrangedash 147}
+      \range{pages}{9}
+    \endentry
+    \entry{jakobsson1999proofs}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=16e7baa4ffe4fce265292eb139a29c0b}{%
+           family={Jakobsson},
+           familyi={J\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c865ec9228baea73d3d6c2c3faa7bcc7}{%
+           family={Juels},
+           familyi={J\bibinitperiod},
+           given={Ari},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Boston: Springer US}%
+      }
+      \strng{namehash}{916fa9c1deb3fcb67b2c9c7761a159b2}
+      \strng{fullhash}{916fa9c1deb3fcb67b2c9c7761a159b2}
+      \strng{bibnamehash}{916fa9c1deb3fcb67b2c9c7761a159b2}
+      \strng{authorbibnamehash}{916fa9c1deb3fcb67b2c9c7761a159b2}
+      \strng{authornamehash}{916fa9c1deb3fcb67b2c9c7761a159b2}
+      \strng{authorfullhash}{916fa9c1deb3fcb67b2c9c7761a159b2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Proofs of Work and Bread Pudding Protocols (Extended Abstract). Secure Information Networks (s. 258-272)}
+      \field{year}{1999}
+    \endentry
     \entry{dai1998b}{article}{}
       \name{author}{1}{}{%
         {{hash=9df66f26414e5a0bebb294d519fa5f56}{%
@@ -631,8 +692,8 @@
       \strng{authorbibnamehash}{7b7432a793160905a4caf93f82d4c550}
       \strng{authornamehash}{7b7432a793160905a4caf93f82d4c550}
       \strng{authorfullhash}{7b7432a793160905a4caf93f82d4c550}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{So Is Blockchain.(June 16, 2020)}
@@ -939,8 +1000,8 @@
       \strng{authorbibnamehash}{a92bf7134bdc53455b2ec958cb3ee8b9}
       \strng{authornamehash}{a92bf7134bdc53455b2ec958cb3ee8b9}
       \strng{authorfullhash}{a92bf7134bdc53455b2ec958cb3ee8b9}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Conference on the Theory and Application of Cryptography}
@@ -1319,8 +1380,8 @@
       \strng{authorbibnamehash}{d68c320fadb62ba8f9425c03d80759a8}
       \strng{authornamehash}{d68c320fadb62ba8f9425c03d80759a8}
       \strng{authorfullhash}{11f4ffc8e9003d9b5e85d9abb92bd50a}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{International Conference on Financial Cryptography and Data Security}
@@ -1941,8 +2002,8 @@
       \strng{authorbibnamehash}{e3b2a8caec183dc75a77278345d2f616}
       \strng{authornamehash}{e3b2a8caec183dc75a77278345d2f616}
       \strng{authorfullhash}{e3b2a8caec183dc75a77278345d2f616}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Business and Management}
@@ -2282,6 +2343,37 @@
       \field{pages}{131}
       \range{pages}{1}
     \endentry
+    \entry{wang2021central}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3702f1c146e64a6c91fc47b81ea59fc7}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {JOSEPH}%
+      }
+      \strng{namehash}{3702f1c146e64a6c91fc47b81ea59fc7}
+      \strng{fullhash}{3702f1c146e64a6c91fc47b81ea59fc7}
+      \strng{bibnamehash}{3702f1c146e64a6c91fc47b81ea59fc7}
+      \strng{authorbibnamehash}{3702f1c146e64a6c91fc47b81ea59fc7}
+      \strng{authornamehash}{3702f1c146e64a6c91fc47b81ea59fc7}
+      \strng{authorfullhash}{3702f1c146e64a6c91fc47b81ea59fc7}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780999136744}
+      \field{title}{Central Banking 101}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://books.google.co.uk/books?id=nwoozgEACAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.co.uk/books?id=nwoozgEACAAJ
+      \endverb
+    \endentry
     \entry{filardo2012central}{article}{}
       \name{author}{3}{}{%
         {{hash=42eb936f8074d62c532dcbfa89c13cc4}{%
@@ -2306,8 +2398,8 @@
       \strng{authorbibnamehash}{44246dedfc7da4b76a2a445a9b4f285b}
       \strng{authornamehash}{44246dedfc7da4b76a2a445a9b4f285b}
       \strng{authorfullhash}{44246dedfc7da4b76a2a445a9b4f285b}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{BIS Paper}
@@ -2590,6 +2682,31 @@
       \field{pages}{127\bibrangedash 152}
       \range{pages}{26}
     \endentry
+    \entry{budish2018economic}{report}{}
+      \name{author}{1}{}{%
+        {{hash=5654ccd726dd2cd1aeb2383476790b32}{%
+           family={Budish},
+           familyi={B\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {National Bureau of Economic Research}%
+      }
+      \strng{namehash}{5654ccd726dd2cd1aeb2383476790b32}
+      \strng{fullhash}{5654ccd726dd2cd1aeb2383476790b32}
+      \strng{bibnamehash}{5654ccd726dd2cd1aeb2383476790b32}
+      \strng{authorbibnamehash}{5654ccd726dd2cd1aeb2383476790b32}
+      \strng{authornamehash}{5654ccd726dd2cd1aeb2383476790b32}
+      \strng{authorfullhash}{5654ccd726dd2cd1aeb2383476790b32}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The economic limits of bitcoin and the blockchain}
+      \field{type}{techreport}
+      \field{year}{2018}
+    \endentry
     \entry{lockwood2021exploring}{article}{}
       \name{author}{1}{}{%
         {{hash=77c79579ff958e99836be1d3b048a216}{%
@@ -2607,8 +2724,8 @@
       \strng{authorbibnamehash}{77c79579ff958e99836be1d3b048a216}
       \strng{authornamehash}{77c79579ff958e99836be1d3b048a216}
       \strng{authorfullhash}{77c79579ff958e99836be1d3b048a216}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in Blockchain}
@@ -2691,6 +2808,33 @@
       \field{journaltitle}{Indiana Law Journal, Forthcoming}
       \field{title}{Tokenized: The law of non-fungible tokens and unique digital property}
       \field{year}{2021}
+    \endentry
+    \entry{dutton2003authenticity}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1697c1ef744fcea4d432ac340d981cb6}{%
+           family={Dutton},
+           familyi={D\bibinitperiod},
+           given={Denis},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Citeseer}%
+      }
+      \strng{namehash}{1697c1ef744fcea4d432ac340d981cb6}
+      \strng{fullhash}{1697c1ef744fcea4d432ac340d981cb6}
+      \strng{bibnamehash}{1697c1ef744fcea4d432ac340d981cb6}
+      \strng{authorbibnamehash}{1697c1ef744fcea4d432ac340d981cb6}
+      \strng{authornamehash}{1697c1ef744fcea4d432ac340d981cb6}
+      \strng{authorfullhash}{1697c1ef744fcea4d432ac340d981cb6}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Oxford handbook of aesthetics}
+      \field{title}{Authenticity in art}
+      \field{year}{2003}
+      \field{pages}{258\bibrangedash 274}
+      \range{pages}{17}
     \endentry
     \entry{komlo2020frost}{inproceedings}{}
       \name{author}{2}{}{%
@@ -2842,8 +2986,8 @@
       \strng{authorbibnamehash}{1ecd6cc5c25b88165b419fc3ee57ae0d}
       \strng{authornamehash}{1ecd6cc5c25b88165b419fc3ee57ae0d}
       \strng{authorfullhash}{4e7b5cc3e93a669dd745a4ed9f04bc36}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Business Intelligence and Data Mining}
@@ -2871,8 +3015,8 @@
       \strng{authorbibnamehash}{4677ceabcc0b34ec759b14d37cffe8fd}
       \strng{authornamehash}{4677ceabcc0b34ec759b14d37cffe8fd}
       \strng{authorfullhash}{4677ceabcc0b34ec759b14d37cffe8fd}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Index on Censorship}
@@ -2935,8 +3079,8 @@
       \strng{authorbibnamehash}{b49b33ac71f7106d94c9c7bf1a356498}
       \strng{authornamehash}{b49b33ac71f7106d94c9c7bf1a356498}
       \strng{authorfullhash}{7f09c21d897a2760e854c9eb2557d217}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Eye gaze is an important conversational resource that until now could only be supported across a distance if people were rooted to the spot. We introduce EyeCVE, the worldpsilas first tele-presence system that allows people in different physical locations to not only see what each other are doing but follow each otherpsilas eyes, even when walking about. Projected into each space are avatar representations of remote participants, that reproduce not only body, head and hand movements, but also those of the eyes. Spatial and temporal alignment of remote spaces allows the focus of gaze as well as activity and gesture to be used as a resource for non-verbal communication. The temporal challenge met was to reproduce eye movements quick enough and often enough to interpret their focus during a multi-way interaction, along with communicating other verbal and non-verbal language. The spatial challenge met was to maintain communicational eye gaze while allowing free movement of participants within a virtually shared common frame of reference. This paper reports on the technical and especially temporal characteristics of the system.}
@@ -2975,8 +3119,8 @@
       \strng{authorbibnamehash}{bf612ae66d086154ae62e8653c55f845}
       \strng{authornamehash}{bf612ae66d086154ae62e8653c55f845}
       \strng{authorfullhash}{bf612ae66d086154ae62e8653c55f845}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{British Journal of Oral and Maxillofacial Surgery}
@@ -3002,8 +3146,8 @@
       \strng{authorbibnamehash}{16f495a04ef12aafa7452f82b8a29529}
       \strng{authornamehash}{16f495a04ef12aafa7452f82b8a29529}
       \strng{authorfullhash}{16f495a04ef12aafa7452f82b8a29529}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Comparison Of Face-to-face And Video-mediated Interaction}
@@ -3293,8 +3437,8 @@
       \strng{authorbibnamehash}{8e8b58c9709dcdfde9beec6e4f1d961b}
       \strng{authornamehash}{8e8b58c9709dcdfde9beec6e4f1d961b}
       \strng{authorfullhash}{8e8b58c9709dcdfde9beec6e4f1d961b}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Three different videoconferencing systems for supporting multiparty, remote conversations are described and evaluated experimentally. The three systems differed by how many participants were visible at once, their spatial arrangement, and control over who was seen. Conversations using these systems were compared to same-room (Experiment 1) and audio-only (Experiment 2) conversations. Specialized speech-tracking equipment recorded the on-off patterns of speech that allowed objective measurement of structural aspects of the conversations, such as turn length, pauses, and interruptions. Questionnaires and interviews also documented participants' opinions and perceptions in the various settings. Contrary to expectation, systems in which visual cues such as selective gaze were absent produced no differences in turn-taking or in any other aspect of the structure of conversation. In fact, turn-taking was unaffected even when visual information was completely absent. Overall, only the same-room condition showed any significant differences from any other condition; people in the same room produced more interruptions and fewer formal handovers of the floor than in any of the technology-mediated conditions. In this respect, the audio-only and video systems examined in these studies were equivalent. However, analyses of participants' perceptions showed that participants felt that visual access in mediated conversations was both important and beneficial in conversation. Further, there were indications that the particular design of the different video systems did affect some aspects of conversational behavior, such as the ability to hold side and parallel conversations.}
@@ -3330,8 +3474,8 @@
       \strng{authorbibnamehash}{4edea707a3ce6776eb5412b5505f2a78}
       \strng{authornamehash}{4edea707a3ce6776eb5412b5505f2a78}
       \strng{authorfullhash}{4edea707a3ce6776eb5412b5505f2a78}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Full gaze awareness, defined here as knowing what someone is looking at, might be expected to be a powerful communicative resource when the conversation concerns some object of common interest in the environment. This article sets out to demonstrate this possibility in the context of video-mediated communication. An experiment is reported in which pairs complete a communication task using a novel apparatus that supports full gaze awareness (GA) and mutual gaze (eye contact). This ``GA display'' was contrasted with 2 control conditions, mutual gaze without full gaze awareness and audio only. The GA display reduced the number of turns and number of words required to complete the task by about 1/2 in comparison with the 2 control conditions. The results of a subsequent conversational games analysis suggest that at least part of this saving comes about because full gaze awareness provides an alternative nonlinguistic channel for checking one's own and the other person's understanding of what was said.}
@@ -3382,8 +3526,8 @@
       \strng{authorbibnamehash}{65c643e0a985c2835a6276d9eb1c57a7}
       \strng{authornamehash}{65c643e0a985c2835a6276d9eb1c57a7}
       \strng{authorfullhash}{1e2d434b366e9ac56e1b82864d99d3e5}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Previous attempts at bringing gaze awareness to desktop videoconferencing have relied on hardware solutions. In this article, the authors describe their software approach, which tracks participants' head and eye movements using vision techniques, then uses this information to graphically place the head and eyes in a 3D environment.}
@@ -3431,8 +3575,8 @@
       \strng{authorbibnamehash}{867b24429c42e187e3ae2e73fcb82f4f}
       \strng{authornamehash}{867b24429c42e187e3ae2e73fcb82f4f}
       \strng{authorfullhash}{ac38494ad63904585212db91ed5e73a4}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{\#nov\#}
@@ -3458,8 +3602,8 @@
       \strng{authorbibnamehash}{7347ee796a062e1f1f4b7be15dd73d2c}
       \strng{authornamehash}{7347ee796a062e1f1f4b7be15dd73d2c}
       \strng{authorfullhash}{7347ee796a062e1f1f4b7be15dd73d2c}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Psychol. Bull.}
@@ -3485,8 +3629,8 @@
       \strng{authorbibnamehash}{d4e7daf53c5b26009195cbef73e99725}
       \strng{authornamehash}{d4e7daf53c5b26009195cbef73e99725}
       \strng{authorfullhash}{d4e7daf53c5b26009195cbef73e99725}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {ACM} conf. on {Computer-Supported} Cooperative Work}
@@ -6733,8 +6877,8 @@
       \strng{authorbibnamehash}{2d07ef5f316c87821a26844647dabd71}
       \strng{authornamehash}{2d07ef5f316c87821a26844647dabd71}
       \strng{authorfullhash}{2d07ef5f316c87821a26844647dabd71}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Proxemics is the study of how man structures microspace, how he relates physically to other persons with whom he is interacting, and what is communicated by these physical relationships. Edward Hall, who coined the term ?proxemics? and devised a system of notation for recording proxemic behavior, reports many impressionistic observations on Arab and American proxemic differences. To test these hypotheses systematically, 32 Arab and American college students were observed under controlled conditions and their proxemic behavior recorded. The Arabs and Americans were found to differ significantly in proxemic behavior, the Arabs interacting with each other closer and more directly than Americans, as hypothesized.}
@@ -6770,8 +6914,8 @@
       \strng{authorbibnamehash}{ab0469c1e186393d3c41689ca3dc5b7b}
       \strng{authornamehash}{ab0469c1e186393d3c41689ca3dc5b7b}
       \strng{authorfullhash}{ab0469c1e186393d3c41689ca3dc5b7b}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Universal Journal of Psychology}
@@ -6813,8 +6957,8 @@
       \strng{authorbibnamehash}{e3dee62c247ba3d5e03051ddf5a19f5d}
       \strng{authornamehash}{e3dee62c247ba3d5e03051ddf5a19f5d}
       \strng{authorfullhash}{e3dee62c247ba3d5e03051ddf5a19f5d}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Previous research has investigated age differences in complex social perception tasks such as theory of mind and emotion recognition, with predominant findings of age-related declines. The present study investigated whether there are also age-related changes in basic aspects of social perception. Individuals' ability both to detect subtle differences in eye-gaze direction (e.g., where someone is looking in the environment) and to subsequently use these gaze cues to engage in joint attention with others was assessed. Age-related declines were found in the detection of the most subtle differences in gaze aversion. The ability to engage in joint attention by following gaze cues also declined with age. These age differences were not solely attributable to age impairments in visual perception and visual attention. The potential role of age-related neural declines in social perception problems was considered, along with the implications that age deficits in these basic social skills may have for older adults' social perception.}
@@ -6861,8 +7005,8 @@
       \strng{authorbibnamehash}{6ec86ce8e4dc0bd1515b4c809580afdb}
       \strng{authornamehash}{6ec86ce8e4dc0bd1515b4c809580afdb}
       \strng{authorfullhash}{6ec86ce8e4dc0bd1515b4c809580afdb}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
@@ -6907,8 +7051,8 @@
       \strng{authornamehash}{6e3f23a02dcf071520f737561d81dbe3}
       \strng{authorfullhash}{013870981e4a2750efd6950c5768209d}
       \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Equilibrium theory revisited: Mutual gaze and personal space in virtual environments}
@@ -6954,8 +7098,8 @@
       \strng{authornamehash}{6e3f23a02dcf071520f737561d81dbe3}
       \strng{authorfullhash}{013870981e4a2750efd6950c5768209d}
       \field{extraname}{2}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Digital immersive virtual environment technology (IVET) enables behavioral scientists to conduct ecologically realistic experiments with near-perfect experimental control. The authors employed IVET to study the interpersonal distance maintained between participants and virtual humans. In Study 1, participants traversed a three-dimensional virtual room in which a virtual human stood. In Study 2, a virtual human approached participants. In both studies, participant gender, virtual human gender, virtual human gaze behavior, and whether virtual humans were allegedly controlled by humans (i.e., avatars) or computers (i.e., agents) were varied. Results indicated that participants maintained greater distance from virtual humans when approaching their fronts compared to their backs. In addition, participants gave more personal space to virtual agents who engaged them in mutual gaze. Moreover, when virtual humans invaded their personal space, participants moved farthest from virtual human agents. The advantages and disadvantages of IVET for the study of human behavior are discussed.}
@@ -10509,8 +10653,8 @@
       \strng{authorbibnamehash}{2dc16ee099c157272acfbea06434a371}
       \strng{authornamehash}{2dc16ee099c157272acfbea06434a371}
       \strng{authorfullhash}{2dc16ee099c157272acfbea06434a371}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
@@ -10539,8 +10683,8 @@
       \strng{authorbibnamehash}{6df0a217455167f79187b2935ab85d7b}
       \strng{authornamehash}{6df0a217455167f79187b2935ab85d7b}
       \strng{authorfullhash}{6df0a217455167f79187b2935ab85d7b}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Medicine Meets Virtual Reality 19: NextMed}
@@ -10640,8 +10784,8 @@
       \strng{authorbibnamehash}{4b965c0e9cd28ba02206e333b7f8e0b1}
       \strng{authornamehash}{4b965c0e9cd28ba02206e333b7f8e0b1}
       \strng{authorfullhash}{7ca35601f48167305df5ae0683a581d8}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Holography is a technique that is used to display objects or scenes in three dimensions. Such three-dimensional (3D) images, or holograms, can be seen with the unassisted eye and are very similar to how humans see the actual environment surrounding them. The concept of 3D telepresence, a real-time dynamic hologram depicting a scene occurring in a different location, has attracted considerable public interest since it was depicted in the original Star Wars film in 1977. However, the lack of sufficient computational power to produce realistic computer-generated holograms and the absence of large-area and dynamically updatable holographic recording media have prevented realization of the concept. Here we use a holographic stereographic technique and a photorefractive polymer material as the recording medium to demonstrate a holographic display that can refresh images every two seconds. A 50\textbackslashquotesinglbase{Ä}{â}Hz nanosecond pulsed laser is used to write the holographic pixels. Multicoloured holographic 3D images are produced by using angular multiplexing, and the full parallax display employs spatial multiplexing. 3D telepresence is demonstrated by taking multiple images from one location and transmitting the information via Ethernet to another location where the hologram is printed with the quasi-real-time dynamic 3D display. Further improvements could bring applications in telemedicine, prototyping, advertising, updatable 3D maps and entertainment.}
@@ -10742,8 +10886,8 @@
       \strng{authorbibnamehash}{1dd04f6191f69d450e6cfcd5d41d6d15}
       \strng{authornamehash}{1dd04f6191f69d450e6cfcd5d41d6d15}
       \strng{authorfullhash}{a815f46f5a9e47f9164f26d761c5e2cb}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Holographic three-dimensional (3D) displays provide realistic images without the need for special eyewear, making them valuable tools for applications that require situational awareness, such as medical, industrial and military imaging. Currently commercially available holographic 3D displays use photopolymers that lack image-updating capability, resulting in restricted use and high cost. Photorefractive polymers are dynamic holographic recording materials that allow updating of images and have a wide range of applications, including optical correlation, imaging through scattering media and optical communication. To be suitable for 3D displays, photorefractive polymers need to have nearly 100\% diffraction efficiency, fast writing time, hours of image persistence, rapid erasure, and large area-a combination of properties that has not been shown before. Here, we report an updatable holographic 3D display based on photorefractive polymers with such properties, capable of recording and displaying new images every few minutes. This is the largest photorefractive 3D display to date (4 x 4 inches in size); it can be recorded within a few minutes, viewed for several hours without the need for refreshing, and can be completely erased and updated with new images when desired.}
