@@ -740,3 +740,5 @@ services.backups.enable = true;
 ```
 
 Once the configuration.nix file has been updated continue from subsection 6.
+
+The how-to continues with a [guide to setting up a Vircadia domain server and metaverse server](./HOWTO_VIRCADIA.md)
