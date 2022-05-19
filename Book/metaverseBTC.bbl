@@ -464,6 +464,67 @@
       \field{title}{Hashcash-a denial of service counter-measure}
       \field{year}{2002}
     \endentry
+    \entry{dwork1992pricing}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=c6d8866083f4c03af5e37e032df87089}{%
+           family={Dwork},
+           familyi={D\bibinitperiod},
+           given={Cynthia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c6af39e79e88306281e6e0b0ccea956c}{%
+           family={Naor},
+           familyi={N\bibinitperiod},
+           given={Moni},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{e398f763d0c03e86529e98aecf778f9e}
+      \strng{fullhash}{e398f763d0c03e86529e98aecf778f9e}
+      \strng{bibnamehash}{e398f763d0c03e86529e98aecf778f9e}
+      \strng{authorbibnamehash}{e398f763d0c03e86529e98aecf778f9e}
+      \strng{authornamehash}{e398f763d0c03e86529e98aecf778f9e}
+      \strng{authorfullhash}{e398f763d0c03e86529e98aecf778f9e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Annual international cryptology conference}
+      \field{title}{Pricing via processing or combatting junk mail}
+      \field{year}{1992}
+      \field{pages}{139\bibrangedash 147}
+      \range{pages}{9}
+    \endentry
+    \entry{jakobsson1999proofs}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=16e7baa4ffe4fce265292eb139a29c0b}{%
+           family={Jakobsson},
+           familyi={J\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c865ec9228baea73d3d6c2c3faa7bcc7}{%
+           family={Juels},
+           familyi={J\bibinitperiod},
+           given={Ari},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Boston: Springer US}%
+      }
+      \strng{namehash}{916fa9c1deb3fcb67b2c9c7761a159b2}
+      \strng{fullhash}{916fa9c1deb3fcb67b2c9c7761a159b2}
+      \strng{bibnamehash}{916fa9c1deb3fcb67b2c9c7761a159b2}
+      \strng{authorbibnamehash}{916fa9c1deb3fcb67b2c9c7761a159b2}
+      \strng{authornamehash}{916fa9c1deb3fcb67b2c9c7761a159b2}
+      \strng{authorfullhash}{916fa9c1deb3fcb67b2c9c7761a159b2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Proofs of Work and Bread Pudding Protocols (Extended Abstract). Secure Information Networks (s. 258-272)}
+      \field{year}{1999}
+    \endentry
     \entry{dai1998b}{article}{}
       \name{author}{1}{}{%
         {{hash=9df66f26414e5a0bebb294d519fa5f56}{%
@@ -631,8 +692,8 @@
       \strng{authorbibnamehash}{7b7432a793160905a4caf93f82d4c550}
       \strng{authornamehash}{7b7432a793160905a4caf93f82d4c550}
       \strng{authorfullhash}{7b7432a793160905a4caf93f82d4c550}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{So Is Blockchain.(June 16, 2020)}
@@ -939,8 +1000,8 @@
       \strng{authorbibnamehash}{a92bf7134bdc53455b2ec958cb3ee8b9}
       \strng{authornamehash}{a92bf7134bdc53455b2ec958cb3ee8b9}
       \strng{authorfullhash}{a92bf7134bdc53455b2ec958cb3ee8b9}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Conference on the Theory and Application of Cryptography}
@@ -1319,8 +1380,8 @@
       \strng{authorbibnamehash}{d68c320fadb62ba8f9425c03d80759a8}
       \strng{authornamehash}{d68c320fadb62ba8f9425c03d80759a8}
       \strng{authorfullhash}{11f4ffc8e9003d9b5e85d9abb92bd50a}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{International Conference on Financial Cryptography and Data Security}
@@ -1941,8 +2002,8 @@
       \strng{authorbibnamehash}{e3b2a8caec183dc75a77278345d2f616}
       \strng{authornamehash}{e3b2a8caec183dc75a77278345d2f616}
       \strng{authorfullhash}{e3b2a8caec183dc75a77278345d2f616}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Business and Management}
@@ -2299,8 +2360,8 @@
       \strng{authorbibnamehash}{3702f1c146e64a6c91fc47b81ea59fc7}
       \strng{authornamehash}{3702f1c146e64a6c91fc47b81ea59fc7}
       \strng{authorfullhash}{3702f1c146e64a6c91fc47b81ea59fc7}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{9780999136744}
@@ -2638,8 +2699,8 @@
       \strng{authorbibnamehash}{5654ccd726dd2cd1aeb2383476790b32}
       \strng{authornamehash}{5654ccd726dd2cd1aeb2383476790b32}
       \strng{authorfullhash}{5654ccd726dd2cd1aeb2383476790b32}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The economic limits of bitcoin and the blockchain}
@@ -2954,8 +3015,8 @@
       \strng{authorbibnamehash}{4677ceabcc0b34ec759b14d37cffe8fd}
       \strng{authornamehash}{4677ceabcc0b34ec759b14d37cffe8fd}
       \strng{authorfullhash}{4677ceabcc0b34ec759b14d37cffe8fd}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Index on Censorship}
@@ -3413,8 +3474,8 @@
       \strng{authorbibnamehash}{4edea707a3ce6776eb5412b5505f2a78}
       \strng{authornamehash}{4edea707a3ce6776eb5412b5505f2a78}
       \strng{authorfullhash}{4edea707a3ce6776eb5412b5505f2a78}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Full gaze awareness, defined here as knowing what someone is looking at, might be expected to be a powerful communicative resource when the conversation concerns some object of common interest in the environment. This article sets out to demonstrate this possibility in the context of video-mediated communication. An experiment is reported in which pairs complete a communication task using a novel apparatus that supports full gaze awareness (GA) and mutual gaze (eye contact). This ``GA display'' was contrasted with 2 control conditions, mutual gaze without full gaze awareness and audio only. The GA display reduced the number of turns and number of words required to complete the task by about 1/2 in comparison with the 2 control conditions. The results of a subsequent conversational games analysis suggest that at least part of this saving comes about because full gaze awareness provides an alternative nonlinguistic channel for checking one's own and the other person's understanding of what was said.}
@@ -6816,8 +6877,8 @@
       \strng{authorbibnamehash}{2d07ef5f316c87821a26844647dabd71}
       \strng{authornamehash}{2d07ef5f316c87821a26844647dabd71}
       \strng{authorfullhash}{2d07ef5f316c87821a26844647dabd71}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Proxemics is the study of how man structures microspace, how he relates physically to other persons with whom he is interacting, and what is communicated by these physical relationships. Edward Hall, who coined the term ?proxemics? and devised a system of notation for recording proxemic behavior, reports many impressionistic observations on Arab and American proxemic differences. To test these hypotheses systematically, 32 Arab and American college students were observed under controlled conditions and their proxemic behavior recorded. The Arabs and Americans were found to differ significantly in proxemic behavior, the Arabs interacting with each other closer and more directly than Americans, as hypothesized.}
