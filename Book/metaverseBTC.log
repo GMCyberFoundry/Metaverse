@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  19 MAY 2022 11:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  19 MAY 2022 11:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3332,11 +3332,7 @@ Package pdftex.def Info: Images//Vircadia3.png  used on input line 256.
 File: Images//Vircadia4.png Graphic file (type png)
 <use Images//Vircadia4.png>
 Package pdftex.def Info: Images//Vircadia4.png  used on input line 264.
-(pdftex.def)             Requested size: 766.36127pt x 575.14734pt.
-
-Overfull \hbox (339.56992pt too wide) in paragraph at lines 264--265
- [][] 
- []
+(pdftex.def)             Requested size: 418.25368pt x 313.90182pt.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3381,15 +3377,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [157 <./Images//Vircadia3.png>]
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[158 <./Images//Vircadia4.png>]
 Overfull \hbox (17.39143pt too wide) in paragraph at lines 382--382
 []\T1/cmtt/m/n/12 remote: Total 5134 (delta 862), reused 823 (delta 488), pack-
 reused 3894[] 
@@ -3403,7 +3390,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[159 <./Images//Vircadia5.png>]
+[158 <./Images//Vircadia4.png>]
 Overfull \hbox (116.47598pt too wide) in paragraph at lines 444--444
 []\T1/cmtt/m/n/12 connecting to: mongodb://127.0.0.1:27017/?compressors=disable
 d&gssapiServiceName=mongodb[] 
@@ -3430,7 +3417,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[160 <./Images//Vircadia6.png>]
+[159 <./Images//Vircadia5.png>]
 Overfull \hbox (499.23251pt too wide) in paragraph at lines 444--444
 []        \T1/cmtt/m/n/12 2022-04-11T12:50:28.852+01:00: Access control is not 
 enabled for the database. Read and write access to data and configuration is un
@@ -3492,6 +3479,14 @@ Overfull \hbox (96.72081pt too wide) in paragraph at lines 457--457
  []
 
 
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[160 <./Images//Vircadia6.png>]
 Overfull \hbox (288.09908pt too wide) in paragraph at lines 457--457
 []\T1/cmtt/m/n/12 db.createUser({user:"cadiauser", pwd: "aReallyComplexPassword
 3", roles: [{ role: "readWrite", db: "domainstore" }]})[] 
@@ -3524,14 +3519,6 @@ Overfull \hbox (11.52661pt too wide) in paragraph at lines 667--667
  []
 
 
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[162]
 Overfull \hbox (97.64684pt too wide) in paragraph at lines 667--667
 []        \T1/cmtt/m/n/12 'http-error-on-failure': true,  // whether to include
  x-vircadia error header[] 
@@ -3598,6 +3585,14 @@ conds between checks for Place lastActivity updates[]
  []
 
 
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[162]
 Overfull \hbox (139.93526pt too wide) in paragraph at lines 667--667
 []        \T1/cmtt/m/n/12 //   "METAVERSE_SERVER_URL" is replaced (from Config.
 metaverse.metaverse-server-url)[] 
@@ -3682,14 +3677,6 @@ edirected to one of these two URLs[]
  []
 
 
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[163]
 Overfull \hbox (139.93526pt too wide) in paragraph at lines 667--667
 []        \T1/cmtt/m/n/12 //   "METAVERSE_SERVER_URL" is replaced (from Config.
 metaverse.metaverse-server-url)[] 
@@ -3738,6 +3725,14 @@ Overfull \hbox (44.24612pt too wide) in paragraph at lines 667--667
  []
 
 
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[163]
 Overfull \hbox (48.56757pt too wide) in paragraph at lines 667--667
 []        \T1/cmtt/m/n/12 'db-connection': ''   // connection string replaces a
 bove if supplied[] 
@@ -3768,14 +3763,6 @@ or backup user. Optional. Defaults to "admin"[]
  []
 
 
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[164]
 Overfull \hbox (5.35312pt too wide) in paragraph at lines 667--667
 []        \T1/cmtt/m/n/12 'log-max-files': 10,          // number of log files 
 to create[] 
@@ -3824,12 +3811,6 @@ getting and setting[]
  []
 
 
-Overfull \hbox (169.56802pt too wide) in paragraph at lines 692--692
-[]\T1/cmtt/m/n/12 set nat destination rule 20 description 'Port Forward for met
-averse: 9400 to 9400 on 192.168.y.5'[] 
- []
-
-
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -3837,7 +3818,13 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[165]
+[164]
+Overfull \hbox (169.56802pt too wide) in paragraph at lines 692--692
+[]\T1/cmtt/m/n/12 set nat destination rule 20 description 'Port Forward for met
+averse: 9400 to 9400 on 192.168.y.5'[] 
+ []
+
+
 Overfull \hbox (17.62479pt too wide) in paragraph at lines 743--766
 [][] 
  []
@@ -3850,7 +3837,21 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
+[165]
+
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
 [166]
+Overfull \hbox (95.48611pt too wide) in paragraph at lines 912--912
+[]\T1/cmtt/m/n/12 set nat destination rule 14 description 'Port Forward: 2224 t
+o 22 SSH on 192.168.y.4'[] 
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3860,12 +3861,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [167]
-Overfull \hbox (95.48611pt too wide) in paragraph at lines 912--912
-[]\T1/cmtt/m/n/12 set nat destination rule 14 description 'Port Forward: 2224 t
-o 22 SSH on 192.168.y.4'[] 
- []
-
-
 Overfull \hbox (95.48611pt too wide) in paragraph at lines 936--936
 []\T1/cmtt/m/n/12 set nat destination rule 19 description 'Port Forward: 2225 t
 o 22 SSH on 192.168.y.5'[] 
@@ -4662,7 +4657,7 @@ fb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pf
 b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb
 ><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
 >
-Output written on metaverseBTC.pdf (192 pages, 31342800 bytes).
+Output written on metaverseBTC.pdf (192 pages, 31342579 bytes).
 PDF statistics:
  3993 PDF objects out of 4296 (max. 8388607)
  913 named destinations out of 1000 (max. 500000)
