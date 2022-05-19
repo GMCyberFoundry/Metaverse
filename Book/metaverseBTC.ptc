@@ -231,10 +231,35 @@
 \contentsline {paragraph}{Static IP configuration}{149}{paragraph*.11}%
 \contentsline {paragraph}{SSH configuration}{150}{paragraph*.12}%
 \contentsline {paragraph}{Services configuration}{150}{paragraph*.13}%
+\contentsline {section}{\numberline {8.5}Lab - Vircadia}{150}{section.8.5}%
+\contentsline {subsection}{\numberline {8.5.1}Overview}{150}{subsection.8.5.1}%
+\contentsline {subsection}{\numberline {8.5.2}Deploy a Vircadia domain server}{150}{subsection.8.5.2}%
+\contentsline {subsubsection}{\numberline {8.5.2.1}Prepare a virtual instance of Ubuntu 20.04 in the Proxmox Virtual Environment}{151}{subsubsection.8.5.2.1}%
+\contentsline {subsubsection}{\numberline {8.5.2.2}Configure port forwarding for Vircadia services}{154}{subsubsection.8.5.2.2}%
+\contentsline {subsubsection}{\numberline {8.5.2.3}Configure port forwarding for the ICE server}{155}{subsubsection.8.5.2.3}%
+\contentsline {subsubsection}{\numberline {8.5.2.4}Configure the Vircadia server}{155}{subsubsection.8.5.2.4}%
+\contentsline {subsection}{\numberline {8.5.3}Deploy a Vircadia metaverse server}{156}{subsection.8.5.3}%
+\contentsline {subsubsection}{\numberline {8.5.3.1}Install Node.js and NPM}{157}{subsubsection.8.5.3.1}%
+\contentsline {subsubsection}{\numberline {8.5.3.2}Installation of the Vircadia metaverse server}{159}{subsubsection.8.5.3.2}%
+\contentsline {subsubsection}{\numberline {8.5.3.3}Configure the Mongo DB for the metaverse server}{160}{subsubsection.8.5.3.3}%
+\contentsline {subsubsection}{\numberline {8.5.3.4}Configure the iamus configuration file}{161}{subsubsection.8.5.3.4}%
+\contentsline {subsubsection}{\numberline {8.5.3.5}Configure port forwarding for the metaverse server}{165}{subsubsection.8.5.3.5}%
+\contentsline {subsubsection}{\numberline {8.5.3.6}Configuring NAT reflection on the VyOS router (testing)}{165}{subsubsection.8.5.3.6}%
+\contentsline {subsubsection}{\numberline {8.5.3.7}Enabling external access}{166}{subsubsection.8.5.3.7}%
+\contentsline {subsubsection}{\numberline {8.5.3.8}Start the services}{166}{subsubsection.8.5.3.8}%
+\contentsline {paragraph}{Metaverse server service}{166}{paragraph*.14}%
+\contentsline {paragraph}{ICE server}{166}{paragraph*.15}%
+\contentsline {paragraph}{Domain server services}{167}{paragraph*.16}%
+\contentsline {paragraph}{Client interface}{167}{paragraph*.17}%
+\contentsline {subsubsection}{\numberline {8.5.3.9}Connecting the Metaverse server and configuring a test Metaverse account}{167}{subsubsection.8.5.3.9}%
+\contentsline {subsubsection}{\numberline {8.5.3.10}Connecting a client}{167}{subsubsection.8.5.3.10}%
+\contentsline {subsubsection}{\numberline {8.5.3.11}Configure SSH access for domain and metaverse servers (optional)}{168}{subsubsection.8.5.3.11}%
+\contentsline {paragraph}{Domain server}{168}{paragraph*.18}%
+\contentsline {paragraph}{Metaverse server}{168}{paragraph*.19}%
 \ttl@stoptoc {part@2}
 \ttl@stoptoc {part@2}
 \ttl@starttoc {part@3}
-\contentsline {part}{\numberline {III}Appendix}{151}{part.3}%
-\contentsline {section}{\numberline {8.5}Acknowledgements and thanks}{152}{section.8.5}%
-\contentsline {section}{\numberline {8.6}Author Biographies}{152}{section.8.6}%
+\contentsline {part}{\numberline {III}Appendix}{169}{part.3}%
+\contentsline {section}{\numberline {8.6}Acknowledgements and thanks}{170}{section.8.6}%
+\contentsline {section}{\numberline {8.7}Author Biographies}{170}{section.8.7}%
 \contentsfinish 
