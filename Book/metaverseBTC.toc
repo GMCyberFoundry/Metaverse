@@ -179,7 +179,7 @@
 \contentsline {subsubsection}{\numberline {7.9.0.11}VRChat}{130}{subsubsection.7.9.0.11}%
 \contentsline {subsubsection}{\numberline {7.9.0.12}NEOSVR}{130}{subsubsection.7.9.0.12}%
 \contentsline {subsubsection}{\numberline {7.9.0.13}Meta Horizon Worlds \& Workrooms}{130}{subsubsection.7.9.0.13}%
-\contentsline {subsubsection}{\numberline {7.9.0.14}Webaverse}{130}{subsubsection.7.9.0.14}%
+\contentsline {subsubsection}{\numberline {7.9.0.14}Webaverse}{131}{subsubsection.7.9.0.14}%
 \contentsline {subsubsection}{\numberline {7.9.0.15}Vircadia}{131}{subsubsection.7.9.0.15}%
 \contentsline {section}{\numberline {7.10}Risks}{131}{section.7.10}%
 \contentsline {chapter}{\numberline {8}Our proposition}{133}{chapter.8}%

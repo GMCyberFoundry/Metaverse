@@ -11046,6 +11046,65 @@
       \field{title}{Learning by doing: A comprehensive guide to simulations, computer games, and pedagogy in e-learning and other educational experiences}
       \field{year}{2005}
     \endentry
+    \entry{gadekallu2022blockchain}{article}{}
+      \name{author}{8}{}{%
+        {{hash=7ac9945d951cbe5c1fe607093cfc29c4}{%
+           family={Gadekallu},
+           familyi={G\bibinitperiod},
+           given={Thippa\bibnamedelima Reddy},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=f7933b827e40c04e234ef388c375656a}{%
+           family={Huynh-The},
+           familyi={H\bibinithyphendelim T\bibinitperiod},
+           given={Thien},
+           giveni={T\bibinitperiod}}}%
+        {{hash=95a81c9902743f598da2616f71e3827d}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Weizheng},
+           giveni={W\bibinitperiod}}}%
+        {{hash=f2edf883d67d61800ccfd4df673131bf}{%
+           family={Yenduri},
+           familyi={Y\bibinitperiod},
+           given={Gokul},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b8a3faa381d5876ed1830ed3da412546}{%
+           family={Ranaweera},
+           familyi={R\bibinitperiod},
+           given={Pasika},
+           giveni={P\bibinitperiod}}}%
+        {{hash=8dbd362e1ddf3ddfba75df1a5ea661fd}{%
+           family={Pham},
+           familyi={P\bibinitperiod},
+           given={Quoc-Viet},
+           giveni={Q\bibinithyphendelim V\bibinitperiod}}}%
+        {{hash=20339ed639a6b360b83165d83e89a7da}{%
+           family={Costa},
+           familyi={C\bibinitperiod},
+           given={Daniel\bibnamedelima Benevides},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           prefix={da},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=dd507bbc634e8a5ccb163472c03e75ae}{%
+           family={Liyanage},
+           familyi={L\bibinitperiod},
+           given={Madhusanka},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{d5268f34f0095f1fdc8b7db5a4deb0e3}
+      \strng{fullhash}{f6dd477b8d32ee7cdafdebaa4b3b1b71}
+      \strng{bibnamehash}{d5268f34f0095f1fdc8b7db5a4deb0e3}
+      \strng{authorbibnamehash}{d5268f34f0095f1fdc8b7db5a4deb0e3}
+      \strng{authornamehash}{d5268f34f0095f1fdc8b7db5a4deb0e3}
+      \strng{authorfullhash}{f6dd477b8d32ee7cdafdebaa4b3b1b71}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2203.09738}
+      \field{title}{Blockchain for the Metaverse: A Review}
+      \field{year}{2022}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
