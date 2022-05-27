@@ -182,6 +182,8 @@
 \contentsline {subsubsection}{\numberline {7.9.0.14}Webaverse}{131}{subsubsection.7.9.0.14}%
 \contentsline {subsubsection}{\numberline {7.9.0.15}Vircadia}{131}{subsubsection.7.9.0.15}%
 \contentsline {section}{\numberline {7.10}Risks}{131}{section.7.10}%
+\contentsline {subsection}{\numberline {7.10.1}AI economic actors in mixed reality}{132}{subsection.7.10.1}%
+\contentsline {subsection}{\numberline {7.10.2}Mixed reality as a metaverse}{132}{subsection.7.10.2}%
 \contentsline {chapter}{\numberline {8}Our proposition}{133}{chapter.8}%
 \contentsline {section}{\numberline {8.1}Security evaluation}{134}{section.8.1}%
 \contentsline {section}{\numberline {8.2}Our socialisation best practice}{134}{section.8.2}%

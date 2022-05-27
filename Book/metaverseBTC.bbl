@@ -11105,6 +11105,40 @@
       \field{title}{Blockchain for the Metaverse: A Review}
       \field{year}{2022}
     \endentry
+    \entry{nightingale2022ai}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d92f4dc7ddc9de1ded16a60320cfc8df}{%
+           family={Nightingale},
+           familyi={N\bibinitperiod},
+           given={Sophie\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=0b45ecc1a2f317d78df7c19f31fe4e4b}{%
+           family={Farid},
+           familyi={F\bibinitperiod},
+           given={Hany},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {National Acad Sciences}%
+      }
+      \strng{namehash}{c65744538adbcd6a5aab2b665ac15808}
+      \strng{fullhash}{c65744538adbcd6a5aab2b665ac15808}
+      \strng{bibnamehash}{c65744538adbcd6a5aab2b665ac15808}
+      \strng{authorbibnamehash}{c65744538adbcd6a5aab2b665ac15808}
+      \strng{authornamehash}{c65744538adbcd6a5aab2b665ac15808}
+      \strng{authorfullhash}{c65744538adbcd6a5aab2b665ac15808}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{8}
+      \field{title}{AI-synthesized faces are indistinguishable from real faces and more trustworthy}
+      \field{volume}{119}
+      \field{year}{2022}
+      \field{pages}{e2120481119}
+      \range{pages}{-1}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
