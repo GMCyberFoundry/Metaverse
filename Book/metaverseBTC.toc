@@ -119,14 +119,14 @@
 \contentsline {section}{\numberline {6.3}Other uses}{100}{section.6.3}%
 \contentsline {section}{\numberline {6.4}Objects in our metaverse}{101}{section.6.4}%
 \contentsline {subsection}{\numberline {6.4.1}Liquid tokens}{101}{subsection.6.4.1}%
-\contentsline {subsection}{\numberline {6.4.2}Sovryn and RSK}{101}{subsection.6.4.2}%
-\contentsline {subsubsection}{\numberline {6.4.2.1}Optimistic rollups}{101}{subsubsection.6.4.2.1}%
+\contentsline {subsection}{\numberline {6.4.2}Sovryn and RSK}{102}{subsection.6.4.2}%
+\contentsline {subsubsection}{\numberline {6.4.2.1}Optimistic rollups}{102}{subsubsection.6.4.2.1}%
 \contentsline {subsubsection}{\numberline {6.4.2.2}Zero Knowledge rollups}{102}{subsubsection.6.4.2.2}%
 \contentsline {subsection}{\numberline {6.4.3}Stacks and STX}{102}{subsection.6.4.3}%
 \contentsline {subsection}{\numberline {6.4.4}Ethereum}{102}{subsection.6.4.4}%
 \contentsline {subsection}{\numberline {6.4.5}Solana}{102}{subsection.6.4.5}%
-\contentsline {subsection}{\numberline {6.4.6}Satoshi Ordinals}{102}{subsection.6.4.6}%
-\contentsline {subsection}{\numberline {6.4.7}FROST on Bitcoin}{102}{subsection.6.4.7}%
+\contentsline {subsection}{\numberline {6.4.6}Satoshi Ordinals}{103}{subsection.6.4.6}%
+\contentsline {subsection}{\numberline {6.4.7}FROST on Bitcoin}{103}{subsection.6.4.7}%
 \contentsline {subsection}{\numberline {6.4.8}Spacechains}{103}{subsection.6.4.8}%
 \contentsline {chapter}{\numberline {7}Metaverses}{104}{chapter.7}%
 \contentsline {section}{\numberline {7.1}History and market need}{104}{section.7.1}%
