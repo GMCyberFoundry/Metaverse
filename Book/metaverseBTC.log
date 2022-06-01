@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  31 MAY 2022 20:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  1 JUN 2022 08:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1922,7 +1922,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 <Images//ECDSA.png, id=1469, 981.6675pt x 984.67876pt>
 File: Images//ECDSA.png Graphic file (type png)
 <use Images//ECDSA.png>
-Package pdftex.def Info: Images//ECDSA.png  used on input line 155.
+Package pdftex.def Info: Images//ECDSA.png  used on input line 157.
 (pdftex.def)             Requested size: 426.79135pt x 428.0914pt.
 
 
@@ -1961,10 +1961,10 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [46]
-<Images//seedsigner.jpeg, id=1531, 2312.64pt x 1541.76pt>
+<Images//seedsigner.jpeg, id=1530, 2312.64pt x 1541.76pt>
 File: Images//seedsigner.jpeg Graphic file (type jpg)
 <use Images//seedsigner.jpeg>
-Package pdftex.def Info: Images//seedsigner.jpeg  used on input line 205.
+Package pdftex.def Info: Images//seedsigner.jpeg  used on input line 207.
 (pdftex.def)             Requested size: 426.79135pt x 284.51537pt.
 
 
@@ -2006,13 +2006,13 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 <Images//lightningAdoption.jpg, id=1596, 712.16063pt x 946.28531pt>
 File: Images//lightningAdoption.jpg Graphic file (type jpg)
 <use Images//lightningAdoption.jpg>
-Package pdftex.def Info: Images//lightningAdoption.jpg  used on input line 244.
+Package pdftex.def Info: Images//lightningAdoption.jpg  used on input line 246.
 
 (pdftex.def)             Requested size: 426.79135pt x 567.09694pt.
 <Images//bolt12keyring.jpg, id=1604, 1541.76pt x 2055.68pt>
 File: Images//bolt12keyring.jpg Graphic file (type jpg)
 <use Images//bolt12keyring.jpg>
-Package pdftex.def Info: Images//bolt12keyring.jpg  used on input line 256.
+Package pdftex.def Info: Images//bolt12keyring.jpg  used on input line 258.
 (pdftex.def)             Requested size: 213.39568pt x 284.4997pt.
 
 
@@ -2033,16 +2033,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [52 <./Images//lightningAdoption.jpg>]
-Overfull \hbox (0.76907pt too wide) in paragraph at lines 267--268
-[]\T1/ptm/m/n/12 (-20) ``[][]Accounts Sys-tem[][]; Cre-ate mul-ti-ple ac-counts
-/wallets. Run for your-self, friends/family,
- []
-
-<Images//LnBitsPoS.png, id=1627, 291.18788pt x 508.90125pt>
-File: Images//LnBitsPoS.png Graphic file (type png)
-<use Images//LnBitsPoS.png>
-Package pdftex.def Info: Images//LnBitsPoS.png  used on input line 277.
-(pdftex.def)             Requested size: 341.43437pt x 596.77875pt.
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2052,6 +2042,16 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [53 <./Images//bolt12keyring.jpg>]
+Overfull \hbox (0.76907pt too wide) in paragraph at lines 269--270
+[]\T1/ptm/m/n/12 (-20) ``[][]Accounts Sys-tem[][]; Cre-ate mul-ti-ple ac-counts
+/wallets. Run for your-self, friends/family,
+ []
+
+<Images//LnBitsPoS.png, id=1632, 291.18788pt x 508.90125pt>
+File: Images//LnBitsPoS.png Graphic file (type png)
+<use Images//LnBitsPoS.png>
+Package pdftex.def Info: Images//LnBitsPoS.png  used on input line 279.
+(pdftex.def)             Requested size: 341.43437pt x 596.77875pt.
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2109,7 +2109,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 <Images//messariICO.jpg, id=1698, 963.6pt x 542.025pt>
 File: Images//messariICO.jpg Graphic file (type jpg)
 <use Images//messariICO.jpg>
-Package pdftex.def Info: Images//messariICO.jpg  used on input line 370.
+Package pdftex.def Info: Images//messariICO.jpg  used on input line 372.
 (pdftex.def)             Requested size: 426.79135pt x 240.06314pt.
 
 
@@ -4679,7 +4679,7 @@ fb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pf
 b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb
 ><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
 >
-Output written on metaverseBTC.pdf (194 pages, 31724127 bytes).
+Output written on metaverseBTC.pdf (194 pages, 31724878 bytes).
 PDF statistics:
  4067 PDF objects out of 4296 (max. 8388607)
  931 named destinations out of 1000 (max. 500000)
