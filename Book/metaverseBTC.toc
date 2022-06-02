@@ -85,14 +85,14 @@
 \contentsline {section}{\numberline {4.4}Bitcoin as a money}{77}{section.4.4}%
 \contentsline {subsection}{\numberline {4.4.1}Spending it}{77}{subsection.4.4.1}%
 \contentsline {subsection}{\numberline {4.4.2}Saving with it}{78}{subsection.4.4.2}%
-\contentsline {section}{\numberline {4.5}Risks (money, not technical)}{80}{section.4.5}%
+\contentsline {section}{\numberline {4.5}Risks (money, not technical)}{81}{section.4.5}%
 \contentsline {subsection}{\numberline {4.5.1}Risks to Bitcoin the money}{81}{subsection.4.5.1}%
-\contentsline {subsection}{\numberline {4.5.2}Bitcoin externalities}{82}{subsection.4.5.2}%
-\contentsline {subsubsection}{\numberline {4.5.2.1}Inherent volatility}{82}{subsubsection.4.5.2.1}%
-\contentsline {subsubsection}{\numberline {4.5.2.2}Unfair distribution}{82}{subsubsection.4.5.2.2}%
-\contentsline {subsubsection}{\numberline {4.5.2.3}Endless HODL}{82}{subsubsection.4.5.2.3}%
-\contentsline {subsubsection}{\numberline {4.5.2.4}Reduction of funding source / liquidity in legacy finance}{84}{subsubsection.4.5.2.4}%
-\contentsline {subsubsection}{\numberline {4.5.2.5}Bitcoin collapse system shock}{84}{subsubsection.4.5.2.5}%
+\contentsline {subsection}{\numberline {4.5.2}Bitcoin externalities}{81}{subsection.4.5.2}%
+\contentsline {subsubsection}{\numberline {4.5.2.1}Inherent volatility}{81}{subsubsection.4.5.2.1}%
+\contentsline {subsubsection}{\numberline {4.5.2.2}Unfair distribution}{83}{subsubsection.4.5.2.2}%
+\contentsline {subsubsection}{\numberline {4.5.2.3}Endless HODL}{83}{subsubsection.4.5.2.3}%
+\contentsline {subsubsection}{\numberline {4.5.2.4}Reduction of funding source / liquidity in legacy finance}{83}{subsubsection.4.5.2.4}%
+\contentsline {subsubsection}{\numberline {4.5.2.5}Bitcoin collapse system shock}{83}{subsubsection.4.5.2.5}%
 \contentsline {subsubsection}{\numberline {4.5.2.6}Stablecoin collapse system shock}{84}{subsubsection.4.5.2.6}%
 \contentsline {subsubsection}{\numberline {4.5.2.7}Tech for techs sake yielding unexpected outcomes}{84}{subsubsection.4.5.2.7}%
 \contentsline {subsubsection}{\numberline {4.5.2.8}No agreed measurable end goal}{84}{subsubsection.4.5.2.8}%
