@@ -5,24 +5,24 @@
 \contentsline {section}{\numberline {1.1}Overview}{13}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Introduction}{15}{section.1.2}%
 \contentsline {subsection}{\numberline {1.2.1}Notes on progress}{17}{subsection.1.2.1}%
-\contentsline {chapter}{\numberline {2}Web3 / decentralised web}{19}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Semantic web}{19}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Spatial web}{21}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Web3}{22}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Emerging consensus}{22}{subsection.2.3.1}%
-\contentsline {section}{\numberline {2.4}Example applications}{25}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Podcasting2.0}{25}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Crowd funding}{25}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.4.3}Distributed exchanges}{25}{subsection.2.4.3}%
-\contentsline {subsection}{\numberline {2.4.4}NFT marketplaces}{25}{subsection.2.4.4}%
-\contentsline {subsection}{\numberline {2.4.5}Non blockchain webs of trust}{26}{subsection.2.4.5}%
-\contentsline {subsection}{\numberline {2.4.6}Distributed DNS applications}{26}{subsection.2.4.6}%
-\contentsline {subsection}{\numberline {2.4.7}Impervious browser}{26}{subsection.2.4.7}%
-\contentsline {section}{\numberline {2.5}The common thread}{27}{section.2.5}%
-\contentsline {chapter}{\numberline {3}DLT, Blockchain, and Bitcoin}{29}{chapter.3}%
-\contentsline {section}{\numberline {3.1}What's this for sorry?}{32}{section.3.1}%
+\contentsline {chapter}{\numberline {2}Web3 / decentralised web}{18}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Semantic web}{18}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Spatial web}{20}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Web3}{21}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Emerging consensus}{21}{subsection.2.3.1}%
+\contentsline {section}{\numberline {2.4}Example applications}{24}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Podcasting2.0}{24}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Crowd funding}{24}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Distributed exchanges}{24}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}NFT marketplaces}{24}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.5}Non blockchain webs of trust}{25}{subsection.2.4.5}%
+\contentsline {subsection}{\numberline {2.4.6}Distributed DNS applications}{25}{subsection.2.4.6}%
+\contentsline {subsection}{\numberline {2.4.7}Impervious browser}{25}{subsection.2.4.7}%
+\contentsline {section}{\numberline {2.5}The common thread}{26}{section.2.5}%
+\contentsline {chapter}{\numberline {3}DLT, Blockchain, and Bitcoin}{28}{chapter.3}%
+\contentsline {section}{\numberline {3.1}What's this for sorry?}{31}{section.3.1}%
 \contentsline {section}{\numberline {3.2}A panoply of tech}{32}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Ethereum}{33}{section.3.3}%
+\contentsline {section}{\numberline {3.3}Ethereum}{32}{section.3.3}%
 \contentsline {subsection}{\numberline {3.3.1}Mining and Gas}{35}{subsection.3.3.1}%
 \contentsline {subsection}{\numberline {3.3.2}Upgrade roadmap}{35}{subsection.3.3.2}%
 \contentsline {section}{\numberline {3.4}Bitcoin}{36}{section.3.4}%
@@ -32,40 +32,40 @@
 \contentsline {subsubsection}{\numberline {3.4.2.2}Energy use}{39}{subsubsection.3.4.2.2}%
 \contentsline {subsection}{\numberline {3.4.3}Technical overview}{43}{subsection.3.4.3}%
 \contentsline {subsubsection}{\numberline {3.4.3.1}ECDSA / SHA256 / secp256k1}{43}{subsubsection.3.4.3.1}%
-\contentsline {subsubsection}{\numberline {3.4.3.2}Bitcoin script}{45}{subsubsection.3.4.3.2}%
+\contentsline {subsubsection}{\numberline {3.4.3.2}Bitcoin script}{43}{subsubsection.3.4.3.2}%
 \contentsline {subsubsection}{\numberline {3.4.3.3}Addresses \& UTXOs}{45}{subsubsection.3.4.3.3}%
 \contentsline {subsubsection}{\numberline {3.4.3.4}Halving}{45}{subsubsection.3.4.3.4}%
 \contentsline {subsubsection}{\numberline {3.4.3.5}Difficulty adjustment}{45}{subsubsection.3.4.3.5}%
-\contentsline {subsubsection}{\numberline {3.4.3.6}Bitcoin nodes }{46}{subsubsection.3.4.3.6}%
+\contentsline {subsubsection}{\numberline {3.4.3.6}Bitcoin nodes }{45}{subsubsection.3.4.3.6}%
 \contentsline {subsubsection}{\numberline {3.4.3.7}Wallets, seeds, keys and BIP39}{46}{subsubsection.3.4.3.7}%
 \contentsline {subsubsection}{\numberline {3.4.3.8}Custody}{47}{subsubsection.3.4.3.8}%
 \contentsline {subsection}{\numberline {3.4.4}Upgrade roadmap}{48}{subsection.3.4.4}%
 \contentsline {subsubsection}{\numberline {3.4.4.1}Taproot}{48}{subsubsection.3.4.4.1}%
 \contentsline {subsubsection}{\numberline {3.4.4.2}AnyPrevOut}{48}{subsubsection.3.4.4.2}%
-\contentsline {subsubsection}{\numberline {3.4.4.3}CheckTemplateVerify}{49}{subsubsection.3.4.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.4.3}CheckTemplateVerify}{48}{subsubsection.3.4.4.3}%
 \contentsline {subsubsection}{\numberline {3.4.4.4}Blind merge mining}{49}{subsubsection.3.4.4.4}%
 \contentsline {subsubsection}{\numberline {3.4.4.5}Simplicity scripting language}{49}{subsubsection.3.4.4.5}%
 \contentsline {subsubsection}{\numberline {3.4.4.6}Ossification}{49}{subsubsection.3.4.4.6}%
 \contentsline {section}{\numberline {3.5}Extending the BTC ecosystem }{49}{section.3.5}%
-\contentsline {subsection}{\numberline {3.5.1}Block \& SpiralBTC}{50}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.1}Block \& SpiralBTC}{49}{subsection.3.5.1}%
 \contentsline {subsection}{\numberline {3.5.2}BTCPayServer}{50}{subsection.3.5.2}%
 \contentsline {section}{\numberline {3.6}Lightning (Layer 2)}{50}{section.3.6}%
 \contentsline {subsection}{\numberline {3.6.1}Micropayments}{51}{subsection.3.6.1}%
-\contentsline {subsection}{\numberline {3.6.2}BOLT12 and recurring payments}{53}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.2}BOLT12 and recurring payments}{51}{subsection.3.6.2}%
 \contentsline {subsection}{\numberline {3.6.3}LNURL}{53}{subsection.3.6.3}%
 \contentsline {subsubsection}{\numberline {3.6.3.1}Physical Cards}{53}{subsubsection.3.6.3.1}%
 \contentsline {subsection}{\numberline {3.6.4}LNBits}{53}{subsection.3.6.4}%
 \contentsline {subsection}{\numberline {3.6.5}Etleneum}{54}{subsection.3.6.5}%
 \contentsline {subsection}{\numberline {3.6.6}Message passing}{54}{subsection.3.6.6}%
-\contentsline {section}{\numberline {3.7}Liquid federation (layer 2)}{56}{section.3.7}%
+\contentsline {section}{\numberline {3.7}Liquid federation (layer 2)}{54}{section.3.7}%
 \contentsline {section}{\numberline {3.8}Bitcoin Layer 3}{56}{section.3.8}%
 \contentsline {subsection}{\numberline {3.8.1}LNP/BP and RGB}{57}{subsection.3.8.1}%
 \contentsline {subsection}{\numberline {3.8.2}Taro}{59}{subsection.3.8.2}%
 \contentsline {subsection}{\numberline {3.8.3}Slashpay}{59}{subsection.3.8.3}%
-\contentsline {subsection}{\numberline {3.8.4}Spacechains}{60}{subsection.3.8.4}%
+\contentsline {subsection}{\numberline {3.8.4}Spacechains}{59}{subsection.3.8.4}%
 \contentsline {subsection}{\numberline {3.8.5}Statechains, drivechain, softchains}{60}{subsection.3.8.5}%
 \contentsline {section}{\numberline {3.9}Other chains and networks}{60}{section.3.9}%
-\contentsline {subsection}{\numberline {3.9.1}Layer 1 chains}{61}{subsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.9.1}Layer 1 chains}{60}{subsection.3.9.1}%
 \contentsline {subsection}{\numberline {3.9.2}Distributed data storage}{62}{subsection.3.9.2}%
 \contentsline {section}{\numberline {3.10}Risks and mitigations}{64}{section.3.10}%
 \contentsline {subsection}{\numberline {3.10.1}Digital assets}{64}{subsection.3.10.1}%
@@ -169,32 +169,32 @@
 \contentsline {section}{\numberline {7.6}Post `Meta' metaverse}{127}{section.7.6}%
 \contentsline {section}{\numberline {7.7}Digital Land Metaverses}{128}{section.7.7}%
 \contentsline {subsection}{\numberline {7.7.1}Global enterprise perspective}{128}{subsection.7.7.1}%
-\contentsline {section}{\numberline {7.8}NFT and crypto as metaverse}{128}{section.7.8}%
+\contentsline {section}{\numberline {7.8}NFT and crypto as metaverse}{129}{section.7.8}%
 \contentsline {section}{\numberline {7.9}Immersive and third person XR}{129}{section.7.9}%
 \contentsline {subsection}{\numberline {7.9.1}More like a multiverse}{129}{subsection.7.9.1}%
 \contentsline {subsubsection}{\numberline {7.9.1.1}Second Life}{129}{subsubsection.7.9.1.1}%
 \contentsline {subsubsection}{\numberline {7.9.1.2}Mozilla Hubs}{129}{subsubsection.7.9.1.2}%
 \contentsline {subsubsection}{\numberline {7.9.1.3}Counter social realms}{129}{subsubsection.7.9.1.3}%
 \contentsline {subsubsection}{\numberline {7.9.1.4}Roblox}{129}{subsubsection.7.9.1.4}%
-\contentsline {subsubsection}{\numberline {7.9.1.5}AltSpace}{129}{subsubsection.7.9.1.5}%
+\contentsline {subsubsection}{\numberline {7.9.1.5}AltSpace}{130}{subsubsection.7.9.1.5}%
 \contentsline {subsubsection}{\numberline {7.9.1.6}VRChat}{130}{subsubsection.7.9.1.6}%
 \contentsline {subsubsection}{\numberline {7.9.1.7}Meta Horizon Worlds \& Workrooms}{130}{subsubsection.7.9.1.7}%
-\contentsline {subsubsection}{\numberline {7.9.1.8}Webaverse}{130}{subsubsection.7.9.1.8}%
+\contentsline {subsubsection}{\numberline {7.9.1.8}Webaverse}{131}{subsubsection.7.9.1.8}%
 \contentsline {subsubsection}{\numberline {7.9.1.9}Vircadia}{131}{subsubsection.7.9.1.9}%
 \contentsline {subsection}{\numberline {7.9.2}More like crypto NFT virtual land}{131}{subsection.7.9.2}%
 \contentsline {subsubsection}{\numberline {7.9.2.1}Decentraland}{131}{subsubsection.7.9.2.1}%
 \contentsline {subsubsection}{\numberline {7.9.2.2}Sandbox}{131}{subsubsection.7.9.2.2}%
-\contentsline {subsubsection}{\numberline {7.9.2.3}Space Somnium}{131}{subsubsection.7.9.2.3}%
+\contentsline {subsubsection}{\numberline {7.9.2.3}Space Somnium}{132}{subsubsection.7.9.2.3}%
 \contentsline {subsection}{\numberline {7.9.3}More like meeting support}{132}{subsection.7.9.3}%
 \contentsline {subsubsection}{\numberline {7.9.3.1}Spatial}{132}{subsubsection.7.9.3.1}%
 \contentsline {subsubsection}{\numberline {7.9.3.2}MeetinVR}{132}{subsubsection.7.9.3.2}%
 \contentsline {subsubsection}{\numberline {7.9.3.3}Glue}{132}{subsubsection.7.9.3.3}%
 \contentsline {subsubsection}{\numberline {7.9.3.4}FramesVR}{132}{subsubsection.7.9.3.4}%
-\contentsline {subsubsection}{\numberline {7.9.3.5}Engage}{132}{subsubsection.7.9.3.5}%
+\contentsline {subsubsection}{\numberline {7.9.3.5}Engage}{133}{subsubsection.7.9.3.5}%
 \contentsline {subsubsection}{\numberline {7.9.3.6}Gather}{133}{subsubsection.7.9.3.6}%
 \contentsline {subsubsection}{\numberline {7.9.3.7}NEOSVR}{133}{subsubsection.7.9.3.7}%
 \contentsline {section}{\numberline {7.10}Risks}{133}{section.7.10}%
-\contentsline {subsection}{\numberline {7.10.1}AI economic actors in mixed reality}{133}{subsection.7.10.1}%
+\contentsline {subsection}{\numberline {7.10.1}AI economic actors in mixed reality}{134}{subsection.7.10.1}%
 \contentsline {subsection}{\numberline {7.10.2}Mixed reality as a metaverse}{134}{subsection.7.10.2}%
 \contentsline {chapter}{\numberline {8}Our proposition}{135}{chapter.8}%
 \contentsline {section}{\numberline {8.1}Security evaluation}{136}{section.8.1}%
