@@ -2707,6 +2707,38 @@
       \field{type}{techreport}
       \field{year}{2018}
     \endentry
+    \entry{king1966fisher}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=e70eb36f2a7b417df357ba9a3add6f77}{%
+           family={King},
+           familyi={K\bibinitperiod},
+           given={Gordon\bibnamedelima A},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Agricultural}%
+        {Applied Economics Association}%
+      }
+      \strng{namehash}{742ca05308dc3c45b49262b2462ef7e6}
+      \strng{fullhash}{742ca05308dc3c45b49262b2462ef7e6}
+      \strng{bibnamehash}{742ca05308dc3c45b49262b2462ef7e6}
+      \strng{authorbibnamehash}{742ca05308dc3c45b49262b2462ef7e6}
+      \strng{authornamehash}{742ca05308dc3c45b49262b2462ef7e6}
+      \strng{authorfullhash}{742ca05308dc3c45b49262b2462ef7e6}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Agricultural Economics}
+      \field{number}{4\_Part\_I}
+      \field{title}{Fisher, Franklin M., The Identification Problem in Econometrics}
+      \field{volume}{48}
+      \field{year}{1966}
+      \field{pages}{1039\bibrangedash 1040}
+      \range{pages}{2}
+    \endentry
     \entry{lockwood2021exploring}{article}{}
       \name{author}{1}{}{%
         {{hash=77c79579ff958e99836be1d3b048a216}{%
@@ -2924,8 +2956,8 @@
       \strng{authorbibnamehash}{bb325fe46940bbf5d2eabf28a8415da6}
       \strng{authornamehash}{bb325fe46940bbf5d2eabf28a8415da6}
       \strng{authorfullhash}{2659902b245054648f3837389c7a4ce8}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Q. J. Econ.}
@@ -3407,8 +3439,8 @@
       \strng{authorbibnamehash}{7fac5cc85676ead944d8c90538590da2}
       \strng{authornamehash}{7fac5cc85676ead944d8c90538590da2}
       \strng{authorfullhash}{7fac5cc85676ead944d8c90538590da2}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
@@ -10612,8 +10644,8 @@
       \strng{authorbibnamehash}{2f35e8743b9afaba351e296ddf1cbf3e}
       \strng{authornamehash}{2f35e8743b9afaba351e296ddf1cbf3e}
       \strng{authorfullhash}{2f35e8743b9afaba351e296ddf1cbf3e}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The authors present a Dynamic Spatially Augmented Reality system for augmenting movable 3D objects in an indoor environment using multiple projectors. We describe a real-time system for applying virtual paint and textures to real objects simply by direct physical manipulation of the object and a ``paint brush'' stylus. We track the objects and the ``paint brush'', and illuminate the objects with images that remain registered as they move, to create the illusion of material properties. The system is simple to use and we hope it may herald new applications in diverse fields such as visualization, tele-immersion, art and architecture. The system currently works with tracked objects whose geometry was pre-acquired and models created manually, but it is possible to extend it by adding cameras to the environment, to acquire object geometry automatically and use vision-based tracking for the object and paintbrush. Plus colour plates.}
