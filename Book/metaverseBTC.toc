@@ -68,7 +68,7 @@
 \contentsline {subsection}{\numberline {3.9.2}Distributed data storage}{62}{subsection.3.9.2}%
 \contentsline {section}{\numberline {3.10}Risks and mitigations}{64}{section.3.10}%
 \contentsline {subsection}{\numberline {3.10.1}Digital assets}{64}{subsection.3.10.1}%
-\contentsline {subsection}{\numberline {3.10.2}Bitcoin specifically}{64}{subsection.3.10.2}%
+\contentsline {subsection}{\numberline {3.10.2}Bitcoin specifically}{65}{subsection.3.10.2}%
 \contentsline {chapter}{\numberline {4}Money in the real world}{66}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Defining money}{66}{section.4.1}%
 \contentsline {subsection}{\numberline {4.1.1}Global categories of capital}{67}{subsection.4.1.1}%
