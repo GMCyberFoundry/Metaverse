@@ -17,6 +17,7 @@
 \contentsline {subsection}{\numberline {2.4.5}Non blockchain webs of trust}{25}{subsection.2.4.5}%
 \contentsline {subsection}{\numberline {2.4.6}Distributed DNS applications}{25}{subsection.2.4.6}%
 \contentsline {subsection}{\numberline {2.4.7}Impervious browser}{25}{subsection.2.4.7}%
+\contentsline {subsection}{\numberline {2.4.8}TBD - Web5}{26}{subsection.2.4.8}%
 \contentsline {section}{\numberline {2.5}The common thread}{26}{section.2.5}%
 \contentsline {chapter}{\numberline {3}DLT, Blockchain, and Bitcoin}{28}{chapter.3}%
 \contentsline {section}{\numberline {3.1}What's this for sorry?}{31}{section.3.1}%
@@ -87,8 +88,8 @@
 \contentsline {subsection}{\numberline {4.4.2}Saving with it}{79}{subsection.4.4.2}%
 \contentsline {section}{\numberline {4.5}Risks (money, not technical)}{81}{section.4.5}%
 \contentsline {subsection}{\numberline {4.5.1}Risks to Bitcoin the money}{81}{subsection.4.5.1}%
-\contentsline {subsection}{\numberline {4.5.2}Bitcoin externalities}{81}{subsection.4.5.2}%
-\contentsline {subsubsection}{\numberline {4.5.2.1}Inherent volatility}{81}{subsubsection.4.5.2.1}%
+\contentsline {subsection}{\numberline {4.5.2}Bitcoin externalities}{82}{subsection.4.5.2}%
+\contentsline {subsubsection}{\numberline {4.5.2.1}Inherent volatility}{82}{subsubsection.4.5.2.1}%
 \contentsline {subsubsection}{\numberline {4.5.2.2}Unfair distribution}{82}{subsubsection.4.5.2.2}%
 \contentsline {subsubsection}{\numberline {4.5.2.3}Endless HODL}{82}{subsubsection.4.5.2.3}%
 \contentsline {subsubsection}{\numberline {4.5.2.4}Reduction of funding source / liquidity in legacy finance}{82}{subsubsection.4.5.2.4}%
