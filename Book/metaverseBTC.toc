@@ -122,13 +122,13 @@
 \contentsline {section}{\numberline {6.2}MMORG games and NFTs}{101}{section.6.2}%
 \contentsline {section}{\numberline {6.3}Other uses}{102}{section.6.3}%
 \contentsline {section}{\numberline {6.4}Objects in our metaverse}{103}{section.6.4}%
-\contentsline {subsection}{\numberline {6.4.1}Liquid tokens}{103}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.1}Liquid tokens}{104}{subsection.6.4.1}%
 \contentsline {subsection}{\numberline {6.4.2}Sovryn and RSK}{104}{subsection.6.4.2}%
 \contentsline {subsubsection}{\numberline {6.4.2.1}Optimistic rollups}{104}{subsubsection.6.4.2.1}%
 \contentsline {subsubsection}{\numberline {6.4.2.2}Zero Knowledge rollups}{104}{subsubsection.6.4.2.2}%
 \contentsline {subsection}{\numberline {6.4.3}Stacks and STX}{104}{subsection.6.4.3}%
 \contentsline {subsection}{\numberline {6.4.4}Ethereum}{104}{subsection.6.4.4}%
-\contentsline {subsection}{\numberline {6.4.5}Solana}{104}{subsection.6.4.5}%
+\contentsline {subsection}{\numberline {6.4.5}Solana}{105}{subsection.6.4.5}%
 \contentsline {subsection}{\numberline {6.4.6}Satoshi Ordinals}{105}{subsection.6.4.6}%
 \contentsline {subsection}{\numberline {6.4.7}Peerswap}{105}{subsection.6.4.7}%
 \contentsline {subsection}{\numberline {6.4.8}FROST on Bitcoin}{105}{subsection.6.4.8}%
