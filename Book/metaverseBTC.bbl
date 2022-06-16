@@ -1732,6 +1732,28 @@
       \field{title}{Revisiting Bitcoin’s carbon footprint}
       \field{year}{2022}
     \endentry
+    \entry{khazzaka2022bitcoin}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cb3ea11d0c450909095bb5298ae419a9}{%
+           family={KHAZZAKA},
+           familyi={K\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{cb3ea11d0c450909095bb5298ae419a9}
+      \strng{fullhash}{cb3ea11d0c450909095bb5298ae419a9}
+      \strng{bibnamehash}{cb3ea11d0c450909095bb5298ae419a9}
+      \strng{authorbibnamehash}{cb3ea11d0c450909095bb5298ae419a9}
+      \strng{authornamehash}{cb3ea11d0c450909095bb5298ae419a9}
+      \strng{authorfullhash}{cb3ea11d0c450909095bb5298ae419a9}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Available at SSRN}
+      \field{title}{Bitcoin: Cryptopayments Energy Efficiency}
+      \field{year}{2022}
+    \endentry
     \entry{schnorr1989efficient}{inproceedings}{}
       \name{author}{1}{}{%
         {{hash=0cd5bbd149e4d6d600854c7f315a0dc9}{%
@@ -1975,8 +1997,8 @@
       \strng{authorbibnamehash}{4ee93c737ba34d7335ea70711089dbf5}
       \strng{authornamehash}{4ee93c737ba34d7335ea70711089dbf5}
       \strng{authorfullhash}{4ee93c737ba34d7335ea70711089dbf5}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{History of money}
@@ -2332,8 +2354,8 @@
       \strng{authorbibnamehash}{cba56ccfddcb553632b2578254df8851}
       \strng{authornamehash}{cba56ccfddcb553632b2578254df8851}
       \strng{authorfullhash}{cba56ccfddcb553632b2578254df8851}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Wake Forest L. Rev. Online}
@@ -2670,8 +2692,8 @@
       \strng{authorbibnamehash}{7006b1cd80b03699267994b0d34474fe}
       \strng{authornamehash}{7006b1cd80b03699267994b0d34474fe}
       \strng{authorfullhash}{9b2ca01b37ccdeb4a1e53b11a096e836}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Political Economy}
@@ -2917,8 +2939,8 @@
       \strng{authorbibnamehash}{4dc214c859a01c74a067082d181d6afd}
       \strng{authornamehash}{4dc214c859a01c74a067082d181d6afd}
       \strng{authorfullhash}{4dc214c859a01c74a067082d181d6afd}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Avatars, Affordances, and Interfaces: Virtual Reality Tools for Learning.}
@@ -3394,8 +3416,8 @@
       \strng{authornamehash}{dfdce49e37ce6d4a58f9f1a4fa05c609}
       \strng{authorfullhash}{a5a02584b63758ec98d3903076e6cfa8}
       \field{extraname}{1}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The aim of our experiment is to determine if eye-gaze can be estimated from a virtuality human: to within the accuracies that underpin social interaction; and reliably across gaze poses and camera arrangements likely in every day settings. The scene is set by explaining why Immersive Virtuality Telepresence has the potential to meet the grand challenge of faithfully communicating both the appearance and the focus of attention of a remote human participant within a shared 3D computer-supported context. Within the experiment n=22 participants rotated static 3D virtuality humans, reconstructed from surround images, until they felt most looked at. The dependent variable was absolute angular error, which was compared to that underpinning social gaze behaviour in the natural world. Independent variables were 1) relative orientations of eye, head and body of captured subject; and 2) subset of cameras used to texture the form. Analysis looked for statistical and practical significance and qualitative corroborating evidence. The analysed results tell us much about the importance and detail of the relationship between gaze pose, method of video based reconstruction, and camera arrangement. They tell us that virtuality can reproduce gaze to an accuracy useful in social interaction, but with the adopted method of Video Based Reconstruction, this is highly dependent on combination of gaze pose and camera arrangement. This suggests changes in the VBR approach in order to allow more flexible camera arrangements. The work is of interest to those wanting to support expressive meetings that are both socially and spatially situated, and particular those using or building Immersive Virtuality Telepresence to accomplish this. It is also of relevance to the use of virtuality humans in applications ranging from the study of human interactions to gaming and the crossing of the stage line in films and TV.}
@@ -6881,8 +6903,8 @@
       \strng{authorbibnamehash}{a7bafe4378e5064fef5ef42954acaf05}
       \strng{authornamehash}{a7bafe4378e5064fef5ef42954acaf05}
       \strng{authorfullhash}{a7bafe4378e5064fef5ef42954acaf05}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Hidden Dimension}
@@ -10604,8 +10626,8 @@
       \strng{authorbibnamehash}{92270b437f547e9bbc96aa7a0fc001fe}
       \strng{authornamehash}{92270b437f547e9bbc96aa7a0fc001fe}
       \strng{authorfullhash}{e47a481dd75a3374ef3fe6d6083fc997}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We introduce the notion of Shader Lamps Virtual Patients (SLVP) - the combination of projector-based Shader Lamps Avatars and interactive virtual humans. This paradigm uses Shader Lamps Avatars technology to give a 3D physical presence to conversational virtual humans, improving their social interactivity and enabling them to share the physical space with the user. The paradigm scales naturally to multiple viewers, allowing for scenarios where an instructor and multiple students are involved in the training. We have developed a physical-virtual patient for medical students to conduct ophthalmic exams, in an interactive training experience. In this experience, the trainee practices multiple skills simultaneously, including using a surrogate optical instrument in front of a physical head, conversing with the patient about his fears, observing realistic head motion, and practicing patient safety. Here we present a prototype system and results from a preliminary formative evaluation of the system.}

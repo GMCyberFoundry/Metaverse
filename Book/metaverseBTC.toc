@@ -32,11 +32,11 @@
 \contentsline {subsubsection}{\numberline {3.4.2.2}Energy use}{41}{subsubsection.3.4.2.2}%
 \contentsline {subsection}{\numberline {3.4.3}Technical overview}{45}{subsection.3.4.3}%
 \contentsline {subsubsection}{\numberline {3.4.3.1}ECDSA / SHA256 / secp256k1}{45}{subsubsection.3.4.3.1}%
-\contentsline {subsubsection}{\numberline {3.4.3.2}Bitcoin script}{45}{subsubsection.3.4.3.2}%
+\contentsline {subsubsection}{\numberline {3.4.3.2}Bitcoin script}{47}{subsubsection.3.4.3.2}%
 \contentsline {subsubsection}{\numberline {3.4.3.3}Addresses \& UTXOs}{47}{subsubsection.3.4.3.3}%
 \contentsline {subsubsection}{\numberline {3.4.3.4}Halving}{47}{subsubsection.3.4.3.4}%
 \contentsline {subsubsection}{\numberline {3.4.3.5}Difficulty adjustment}{47}{subsubsection.3.4.3.5}%
-\contentsline {subsubsection}{\numberline {3.4.3.6}Bitcoin nodes }{47}{subsubsection.3.4.3.6}%
+\contentsline {subsubsection}{\numberline {3.4.3.6}Bitcoin nodes }{48}{subsubsection.3.4.3.6}%
 \contentsline {subsubsection}{\numberline {3.4.3.7}Wallets, seeds, keys and BIP39}{48}{subsubsection.3.4.3.7}%
 \contentsline {subsubsection}{\numberline {3.4.3.8}Custody}{49}{subsubsection.3.4.3.8}%
 \contentsline {subsection}{\numberline {3.4.4}Upgrade roadmap}{50}{subsection.3.4.4}%
@@ -47,26 +47,26 @@
 \contentsline {subsubsection}{\numberline {3.4.4.5}Simplicity scripting language}{51}{subsubsection.3.4.4.5}%
 \contentsline {subsubsection}{\numberline {3.4.4.6}Ossification}{51}{subsubsection.3.4.4.6}%
 \contentsline {section}{\numberline {3.5}Extending the BTC ecosystem }{51}{section.3.5}%
-\contentsline {subsection}{\numberline {3.5.1}Block \& SpiralBTC}{51}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.1}Block \& SpiralBTC}{52}{subsection.3.5.1}%
 \contentsline {subsection}{\numberline {3.5.2}BTCPayServer}{52}{subsection.3.5.2}%
 \contentsline {section}{\numberline {3.6}Lightning (Layer 2)}{52}{section.3.6}%
 \contentsline {subsection}{\numberline {3.6.1}Micropayments}{53}{subsection.3.6.1}%
-\contentsline {subsection}{\numberline {3.6.2}BOLT12 and recurring payments}{53}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.2}BOLT12 and recurring payments}{55}{subsection.3.6.2}%
 \contentsline {subsection}{\numberline {3.6.3}LNURL}{55}{subsection.3.6.3}%
 \contentsline {subsubsection}{\numberline {3.6.3.1}Physical Cards}{55}{subsubsection.3.6.3.1}%
 \contentsline {subsection}{\numberline {3.6.4}LNBits}{55}{subsection.3.6.4}%
 \contentsline {subsection}{\numberline {3.6.5}Etleneum}{56}{subsection.3.6.5}%
 \contentsline {subsection}{\numberline {3.6.6}Message passing}{56}{subsection.3.6.6}%
-\contentsline {section}{\numberline {3.7}Liquid federation (layer 2)}{56}{section.3.7}%
+\contentsline {section}{\numberline {3.7}Liquid federation (layer 2)}{58}{section.3.7}%
 \contentsline {section}{\numberline {3.8}Bitcoin Layer 3}{58}{section.3.8}%
 \contentsline {subsection}{\numberline {3.8.1}LNP/BP and RGB}{59}{subsection.3.8.1}%
 \contentsline {subsection}{\numberline {3.8.2}Taro}{61}{subsection.3.8.2}%
 \contentsline {subsection}{\numberline {3.8.3}Slashpay}{61}{subsection.3.8.3}%
-\contentsline {subsection}{\numberline {3.8.4}Spacechains}{61}{subsection.3.8.4}%
+\contentsline {subsection}{\numberline {3.8.4}Spacechains}{62}{subsection.3.8.4}%
 \contentsline {subsection}{\numberline {3.8.5}Statechains, drivechain, softchains}{62}{subsection.3.8.5}%
 \contentsline {section}{\numberline {3.9}Other chains and networks}{62}{section.3.9}%
-\contentsline {subsection}{\numberline {3.9.1}Layer 1 chains}{62}{subsection.3.9.1}%
-\contentsline {subsection}{\numberline {3.9.2}Distributed data storage}{64}{subsection.3.9.2}%
+\contentsline {subsection}{\numberline {3.9.1}Layer 1 chains}{63}{subsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.9.2}Distributed data storage}{65}{subsection.3.9.2}%
 \contentsline {section}{\numberline {3.10}Risks and mitigations}{66}{section.3.10}%
 \contentsline {subsection}{\numberline {3.10.1}Digital assets}{66}{subsection.3.10.1}%
 \contentsline {subsection}{\numberline {3.10.2}Bitcoin specifically}{67}{subsection.3.10.2}%

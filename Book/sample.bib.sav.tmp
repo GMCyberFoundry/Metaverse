@@ -13308,4 +13308,237 @@
   booktitle    = {2013 APWG eCrime researchers summit},
   title        = {An inquiry into money laundering tools in the Bitcoin ecosystem},
   year         = {2013},
-  organiz
+  organization = {Ieee},
+  pages        = {1--14},
+}
+
+@InProceedings{fuchsbauer2019aggregate,
+  author       = {Fuchsbauer, Georg and Orr{\`u}, Michele and Seurin, Yannick},
+  booktitle    = {Annual International Conference on the Theory and Applications of Cryptographic Techniques},
+  title        = {Aggregate cash systems: A cryptographic investigation of mimblewimble},
+  year         = {2019},
+  organization = {Springer},
+  pages        = {657--689},
+}
+
+@InProceedings{bonneau2015sok,
+  author       = {Bonneau, Joseph and Miller, Andrew and Clark, Jeremy and Narayanan, Arvind and Kroll, Joshua A and Felten, Edward W},
+  booktitle    = {2015 IEEE symposium on security and privacy},
+  title        = {Sok: Research perspectives and challenges for bitcoin and cryptocurrencies},
+  year         = {2015},
+  organization = {IEEE},
+  pages        = {104--121},
+}
+
+@Article{cross2021greening,
+  author = {Troy Cross and Andrew M. Bailey},
+  title  = {GREENING BITCOIN WITH INCENTIVE OFFSETS},
+  year   = {2021},
+}
+
+@Book{doerr2018measure,
+  author    = {Doerr, John},
+  publisher = {Penguin},
+  title     = {Measure what matters: How Google, Bono, and the Gates Foundation rock the world with OKRs},
+  year      = {2018},
+}
+
+@Article{fox2015neural,
+  author    = {Fox, Glenn R and Kaplan, Jonas and Damasio, Hanna and Damasio, Antonio},
+  journal   = {Frontiers in psychology},
+  title     = {Neural correlates of gratitude},
+  year      = {2015},
+  pages     = {1491},
+  publisher = {Frontiers},
+}
+
+@BOOK{swammycrypto,
+  title = {Crypto Uncovered},
+  publisher = {Springer},
+  author = {Swammy, Sarah and Thompson, Richard and Loh, Marvin},
+  file = {:../../../literature_repository/bitcoin/Sarah_Swammy,_Richard_Thompson,.pdf:PDF}
+}
+
+@Book{blocksizewars,
+  author    = {Jonathan Bier},
+  publisher = {Springer},
+  title     = {The Blocksize War: The battle for control over Bitcoin’s protocol rules},
+  year      = {2021},
+}
+
+@Book{gladsteincheck2022,
+  author    = {Alex Gladstein},
+  publisher = {BTC Media LLC},
+  title     = {Check Your Financial Privilege},
+  year      = {2022},
+}
+
+@Book{taleb2012antifragile,
+  author    = {Taleb, Nassim Nicholas},
+  publisher = {Allen Lane London},
+  title     = {Antifragile: how to live in a world we don't understand},
+  year      = {2012},
+  volume    = {3},
+}
+
+@PhdThesis{mui2002computational,
+  author = {Mui, Lik},
+  school = {Massachusetts Institute of Technology},
+  title  = {Computational models of trust and reputation: Agents, evolutionary games, and social networks},
+  year   = {2002},
+}
+
+@Article{martin2022dark,
+  author    = {Martin, Brett AS and Chrysochou, Polymeros and Strong, Carolyn and Wang, Di and Yao, Jun},
+  journal   = {Personality and Individual Differences},
+  title     = {Dark personalities and Bitcoin{\textregistered}: The influence of the Dark Tetrad on cryptocurrency attitude and buying intention},
+  year      = {2022},
+  pages     = {111453},
+  volume    = {188},
+  publisher = {Elsevier},
+}
+
+@Book{heiphetz2010training,
+  author    = {Heiphetz, Alex and Woodill, Gary},
+  publisher = {McGraw Hill Professional},
+  title     = {Training and collaboration with virtual worlds: How to create cost-saving, efficient and engaging programs},
+  year      = {2010},
+}
+
+@Book{aldrich2005learning,
+  author    = {Aldrich, Clark},
+  publisher = {John Wiley \& Sons},
+  title     = {Learning by doing: A comprehensive guide to simulations, computer games, and pedagogy in e-learning and other educational experiences},
+  year      = {2005},
+}
+
+@Article{ercotimpact2021,
+  author  = {Joshua D. Rhodes, Thomas Deetjen, and Caitlin Smith},
+  journal = {Ideasmiths},
+  title   = {Impacts of Large, Flexible DataCenter Operations on theFuture of ERCOT},
+  year    = {2021},
+  url     = {https://www.ideasmiths.net/wp-content/uploads/2022/02/LANCIUM_IS_ERCOT_flexDC_FINAL_2021.pdf},
+}
+
+@Article{grunspan2018double,
+  author    = {Grunspan, Cyril and P{\'e}rez-Marco, Ricardo},
+  journal   = {International Journal of Theoretical and Applied Finance},
+  title     = {Double spend races},
+  year      = {2018},
+  number    = {08},
+  pages     = {1850053},
+  volume    = {21},
+  publisher = {World Scientific},
+}
+
+@Article{mackinga2022twap,
+  author  = {Mackinga, Torgin and Nadahalli, Tejaswi and Wattenhofer, Roger},
+  journal = {Cryptology ePrint Archive},
+  title   = {TWAP Oracle Attacks: Easier Done than Said?},
+  year    = {2022},
+}
+
+@Article{moringiello2021property,
+  author  = {Moringiello, Juliet M and Odinet, Christopher K},
+  journal = {Florida Law Review (Forthcoming 2022)},
+  title   = {The Property Law of Tokens},
+  year    = {2021},
+}
+
+@Article{fairfield2021tokenized,
+  author  = {Fairfield, Joshua},
+  journal = {Indiana Law Journal, Forthcoming},
+  title   = {Tokenized: The law of non-fungible tokens and unique digital property},
+  year    = {2021},
+}
+
+@InProceedings{komlo2020frost,
+  author       = {Komlo, Chelsea and Goldberg, Ian},
+  booktitle    = {International Conference on Selected Areas in Cryptography},
+  title        = {FROST: flexible round-optimized Schnorr threshold signatures},
+  year         = {2020},
+  organization = {Springer},
+  pages        = {34--65},
+}
+
+@TechReport{budish2018economic,
+  author      = {Budish, Eric},
+  institution = {National Bureau of Economic Research},
+  title       = {The economic limits of bitcoin and the blockchain},
+  year        = {2018},
+}
+
+@InProceedings{klages2020stablecoins,
+  author    = {Klages-Mundt, Ariah and Harz, Dominik and Gudgeon, Lewis and Liu, Jun-You and Minca, Andreea},
+  booktitle = {Proceedings of the 2nd ACM Conference on Advances in Financial Technologies},
+  title     = {Stablecoins 2.0: Economic foundations and risk-based models},
+  year      = {2020},
+  pages     = {59--79},
+}
+
+@Book{wang2021central,
+  author    = {Wang, J.},
+  publisher = {JOSEPH},
+  title     = {Central Banking 101},
+  year      = {2021},
+  isbn      = {9780999136744},
+  url       = {https://books.google.co.uk/books?id=nwoozgEACAAJ},
+}
+
+@Article{dutton2003authenticity,
+  author    = {Dutton, Denis},
+  journal   = {The Oxford handbook of aesthetics},
+  title     = {Authenticity in art},
+  year      = {2003},
+  pages     = {258--274},
+  publisher = {Citeseer},
+}
+
+@Misc{jakobsson1999proofs,
+  author    = {Jakobsson, Markus and Juels, Ari},
+  title     = {Proofs of Work and Bread Pudding Protocols (Extended Abstract). Secure Information Networks (s. 258-272)},
+  year      = {1999},
+  publisher = {Boston: Springer US},
+}
+
+@InProceedings{dwork1992pricing,
+  author       = {Dwork, Cynthia and Naor, Moni},
+  booktitle    = {Annual international cryptology conference},
+  title        = {Pricing via processing or combatting junk mail},
+  year         = {1992},
+  organization = {Springer},
+  pages        = {139--147},
+}
+
+@Article{gadekallu2022blockchain,
+  author  = {Gadekallu, Thippa Reddy and Huynh-The, Thien and Wang, Weizheng and Yenduri, Gokul and Ranaweera, Pasika and Pham, Quoc-Viet and da Costa, Daniel Benevides and Liyanage, Madhusanka},
+  journal = {arXiv preprint arXiv:2203.09738},
+  title   = {Blockchain for the Metaverse: A Review},
+  year    = {2022},
+}
+
+@Article{nightingale2022ai,
+  author    = {Nightingale, Sophie J and Farid, Hany},
+  journal   = {Proceedings of the National Academy of Sciences},
+  title     = {AI-synthesized faces are indistinguishable from real faces and more trustworthy},
+  year      = {2022},
+  number    = {8},
+  pages     = {e2120481119},
+  volume    = {119},
+  publisher = {National Acad Sciences},
+}
+
+@Article{king1966fisher,
+  author    = {King, Gordon A and others},
+  journal   = {American Journal of Agricultural Economics},
+  title     = {Fisher, Franklin M., The Identification Problem in Econometrics},
+  year      = {1966},
+  number    = {4\_Part\_I},
+  pages     = {1039--1040},
+  volume    = {48},
+  publisher = {Agricultural and Applied Economics Association},
+}
+
+@Article{khazzaka2022bitcoin,
+  author  = {KHAZZAKA, Michel},
+  journal = {Avai
