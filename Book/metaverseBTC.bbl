@@ -1754,6 +1754,50 @@
       \field{title}{Bitcoin: Cryptopayments Energy Efficiency}
       \field{year}{2022}
     \endentry
+    \entry{de1990positive}{article}{}
+      \name{author}{4}{}{%
+        {{hash=bb7fd336a53ea4899a8e476796ca4c65}{%
+           family={De\bibnamedelima Long},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={J\bibnamedelima Bradford},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=73d7bf2d3105674f373111fc7356eec3}{%
+           family={Shleifer},
+           familyi={S\bibinitperiod},
+           given={Andrei},
+           giveni={A\bibinitperiod}}}%
+        {{hash=99d97b6119dc8e6173e861cc94d01099}{%
+           family={Summers},
+           familyi={S\bibinitperiod},
+           given={Lawrence\bibnamedelima H},
+           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=8da1d217d6e234eda8c85a6abc6a4311}{%
+           family={Waldmann},
+           familyi={W\bibinitperiod},
+           given={Robert\bibnamedelima J},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{53e8cb3845f18331c7d98294fab409f4}
+      \strng{fullhash}{5817742d71d3c262288162bf0c46cff1}
+      \strng{bibnamehash}{53e8cb3845f18331c7d98294fab409f4}
+      \strng{authorbibnamehash}{53e8cb3845f18331c7d98294fab409f4}
+      \strng{authornamehash}{53e8cb3845f18331c7d98294fab409f4}
+      \strng{authorfullhash}{5817742d71d3c262288162bf0c46cff1}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{the Journal of Finance}
+      \field{number}{2}
+      \field{title}{Positive feedback investment strategies and destabilizing rational speculation}
+      \field{volume}{45}
+      \field{year}{1990}
+      \field{pages}{379\bibrangedash 395}
+      \range{pages}{17}
+    \endentry
     \entry{schnorr1989efficient}{inproceedings}{}
       \name{author}{1}{}{%
         {{hash=0cd5bbd149e4d6d600854c7f315a0dc9}{%
@@ -1970,8 +2014,8 @@
       \strng{authorbibnamehash}{6636241e9ba636217a3b215ef8d84bff}
       \strng{authornamehash}{6636241e9ba636217a3b215ef8d84bff}
       \strng{authorfullhash}{6636241e9ba636217a3b215ef8d84bff}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Annual International Conference on the Theory and Applications of Cryptographic Techniques}
@@ -2301,8 +2345,8 @@
       \strng{authorbibnamehash}{e9b5e182bfaf4cee0f27ef67d2ce9817}
       \strng{authornamehash}{e9b5e182bfaf4cee0f27ef67d2ce9817}
       \strng{authorfullhash}{e9b5e182bfaf4cee0f27ef67d2ce9817}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Kiwi Hellenist: Modern Myths about the Ancient World. Retrieved}
@@ -2327,8 +2371,8 @@
       \strng{authorbibnamehash}{3fe714ad9d56b9d7daae745358a7184a}
       \strng{authornamehash}{3fe714ad9d56b9d7daae745358a7184a}
       \strng{authorfullhash}{3fe714ad9d56b9d7daae745358a7184a}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Money, Credit and Banking}
@@ -2652,8 +2696,8 @@
       \strng{authorbibnamehash}{3ec84f96fd84a4c320635d0067584d9c}
       \strng{authornamehash}{3ec84f96fd84a4c320635d0067584d9c}
       \strng{authorfullhash}{3ec84f96fd84a4c320635d0067584d9c}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Online verfügbar unter: https://nakamotoin}
@@ -2912,8 +2956,8 @@
       \strng{authorbibnamehash}{1f3ec4e43ef3767b7ee97edf56f5d7a3}
       \strng{authornamehash}{1f3ec4e43ef3767b7ee97edf56f5d7a3}
       \strng{authorfullhash}{1f3ec4e43ef3767b7ee97edf56f5d7a3}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{International Conference on Selected Areas in Cryptography}
@@ -3306,8 +3350,8 @@
       \strng{authorbibnamehash}{1dc0c29dd80336206509def751e3c548}
       \strng{authornamehash}{1dc0c29dd80336206509def751e3c548}
       \strng{authorfullhash}{ff7dfda844fd33eb972301dd329f4321}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A new algorithm is proposed for novel view generation in one-to-one teleconferencing applications. Given the video streams acquired by two cameras placed on either side of a computer monitor, the proposed algorithm synthesizes images from a virtual camera in arbitrary position (typically located within the monitor) to facilitate eye contact. Our technique is based on an improved, dynamic-programming, stereo algorithm for efficient novel-view generation. The two main contributions are: i) a new type of three-plane graph for dense-stereo dynamic-programming, that encourages correct occlusion labeling; ii) a compact geometric derivation for novel-view synthesis by direct projection of the minimum-cost surface. Furthermore, we present a novel algorithm for the temporal maintenance of a background model to enhance the rendering of occlusions and reduce temporal artefacts (flicker); and a cost aggregation algorithm that acts directly on our three-dimensional matching cost space. Examples are given that demonstrate the robustness of the new algorithm to spatial and temporal artefacts for long stereo video streams. These include demonstrations of synthesis of cyclopean views of extended conversational sequences. We further demonstrate synthesis from a freely translating virtual camera.}
@@ -3353,8 +3397,8 @@
       \strng{authorbibnamehash}{49df875327575616867eb6c7d7eae4ee}
       \strng{authornamehash}{49df875327575616867eb6c7d7eae4ee}
       \strng{authorfullhash}{7d0d42ca9860b18c95bbcbefff6f66a7}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Gaze awareness and eye contact serve important functions in social interaction. In order to maintain those functions in 2D and 3D videoconferencing systems, human sensitivity to eye contact and gaze direction needs to be taken into account in the design of such systems. Here we experimentally investigate human perception of eye contact and gaze direction in 2D and 3D, using a within-subjects design. Our results indicate that the disparity between the optical axis of the camera and the looking direction of a looker (a photographed face) should be at most 1.2° in horizontal direction, and 1.7° in vertical direction to support eye contact. Maximum tolerable offsets for the perception of eye contact are independent of (monoscopic or stereoscopic) display conditions. Asymmetric sensitivity to eye contact is explained by the underestimation of the vertical component of a looker's gaze direction.}
@@ -6783,8 +6827,8 @@
       \strng{authorbibnamehash}{58040fd1796a1a999ffb5b8402917405}
       \strng{authornamehash}{58040fd1796a1a999ffb5b8402917405}
       \strng{authorfullhash}{58040fd1796a1a999ffb5b8402917405}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
