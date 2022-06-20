@@ -2946,6 +2946,33 @@
       \field{title}{Avatars, Affordances, and Interfaces: Virtual Reality Tools for Learning.}
       \field{year}{1993}
     \endentry
+    \entry{gibson2019neuromancer}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=d845f061c5addb8a5a28f4d0f5c83b55}{%
+           family={Gibson},
+           familyi={G\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{d845f061c5addb8a5a28f4d0f5c83b55}
+      \strng{fullhash}{d845f061c5addb8a5a28f4d0f5c83b55}
+      \strng{bibnamehash}{d845f061c5addb8a5a28f4d0f5c83b55}
+      \strng{authorbibnamehash}{d845f061c5addb8a5a28f4d0f5c83b55}
+      \strng{authornamehash}{d845f061c5addb8a5a28f4d0f5c83b55}
+      \strng{authorfullhash}{d845f061c5addb8a5a28f4d0f5c83b55}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Crime and Media}
+      \field{title}{Neuromancer (1984)}
+      \field{year}{2019}
+      \field{pages}{86\bibrangedash 94}
+      \range{pages}{9}
+    \endentry
     \entry{Bloom2015}{article}{}
       \name{author}{4}{}{%
         {{hash=1f9ed1162402cc5a63ec1d1f470ea527}{%
@@ -3362,8 +3389,8 @@
       \strng{authorbibnamehash}{1db4ece4b6891b7738b9537881246b2e}
       \strng{authornamehash}{1db4ece4b6891b7738b9537881246b2e}
       \strng{authorfullhash}{1db4ece4b6891b7738b9537881246b2e}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
@@ -6812,8 +6839,8 @@
       \strng{authorbibnamehash}{9f9e963c3db407a9063f95846c9ae509}
       \strng{authornamehash}{9f9e963c3db407a9063f95846c9ae509}
       \strng{authorfullhash}{1d9e7b8abd67468fd960881224a46a0c}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
@@ -6868,8 +6895,8 @@
       \strng{authorbibnamehash}{b9f244a0df6faff9f1ee9d0fb2c3227a}
       \strng{authornamehash}{b9f244a0df6faff9f1ee9d0fb2c3227a}
       \strng{authorfullhash}{b851c475ad5b6879f1616af271e5c139}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
