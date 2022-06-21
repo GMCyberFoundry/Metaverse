@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  21 JUN 2022 16:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  21 JUN 2022 17:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2651,12 +2651,6 @@ Package pdftex.def Info: Images//orange2.jpg  used on input line 197.
 (08_metaverse.tex [110
 
 ]
-<Images//muskWeb3.png, id=2328, 408.02437pt x 168.63pt>
-File: Images//muskWeb3.png Graphic file (type png)
-<use Images//muskWeb3.png>
-Package pdftex.def Info: Images//muskWeb3.png  used on input line 25.
-(pdftex.def)             Requested size: 426.79135pt x 176.39514pt.
- (08_b2b_telepresence.tex
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2666,6 +2660,12 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [111]
+<Images//muskWeb3.png, id=2334, 408.02437pt x 168.63pt>
+File: Images//muskWeb3.png Graphic file (type png)
+<use Images//muskWeb3.png>
+Package pdftex.def Info: Images//muskWeb3.png  used on input line 35.
+(pdftex.def)             Requested size: 426.79135pt x 176.39514pt.
+ (08_b2b_telepresence.tex
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2752,7 +2752,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [120]
-<Images//murrayeyegaze.jpg, id=2611, 377.15906pt x 241.65282pt>
+<Images//murrayeyegaze.jpg, id=2608, 377.15906pt x 241.65282pt>
 File: Images//murrayeyegaze.jpg Graphic file (type jpg)
 <use Images//murrayeyegaze.jpg>
 Package pdftex.def Info: Images//murrayeyegaze.jpg  used on input line 142.
@@ -2767,7 +2767,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [121 <./Images//murrayeyegaze.jpg>]
-<Images//proxemics.png, id=2635, 1927.2pt x 1927.2pt>
+<Images//proxemics.png, id=2632, 1927.2pt x 1927.2pt>
 File: Images//proxemics.png Graphic file (type png)
 <use Images//proxemics.png>
 Package pdftex.def Info: Images//proxemics.png  used on input line 161.
@@ -2857,14 +2857,11 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [130]
-<Images//frameworkVenn.png, id=2942, 509.40312pt x 432.11438pt>
+<Images//frameworkVenn.png, id=2939, 509.40312pt x 432.11438pt>
 File: Images//frameworkVenn.png Graphic file (type png)
 <use Images//frameworkVenn.png>
 Package pdftex.def Info: Images//frameworkVenn.png  used on input line 308.
 (pdftex.def)             Requested size: 426.79135pt x 362.05049pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -2912,8 +2909,19 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [135]
 
-Package hyperref Warning: Suppressing link with empty target on input line 91.
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[136]
+
+Package hyperref Warning: Suppressing link with empty target on input line 101.
+
+
+(08_vircadia.tex
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2922,16 +2930,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[136] (08_vircadia.tex)
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[137]
+[137])
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -4720,7 +4719,7 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 Here is how much of TeX's memory you used:
  37381 strings out of 478582
  743121 string characters out of 2844816
- 1632813 words of memory out of 3000000
+ 1632758 words of memory out of 3000000
  53415 multiletter control sequences out of 15000+600000
  591001 words of font info for 462 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -4745,9 +4744,9 @@ fb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pf
 b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb
 ><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
 >
-Output written on metaverseBTC.pdf (200 pages, 33268641 bytes).
+Output written on metaverseBTC.pdf (200 pages, 33268295 bytes).
 PDF statistics:
- 4220 PDF objects out of 4296 (max. 8388607)
+ 4218 PDF objects out of 4296 (max. 8388607)
  959 named destinations out of 1000 (max. 500000)
  127390 words of extra memory for PDF output out of 128383 (max. 10000000)
 
