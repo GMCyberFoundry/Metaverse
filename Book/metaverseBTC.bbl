@@ -616,6 +616,50 @@
       \verb :C\:/Users/its352/Google Drive/DataVis/literature_repository/bitcoin/bitcoin.pdf:PDF
       \endverb
     \endentry
+    \entry{kwon2019impossibility}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=c0593a28373e54a97341adf42673c3c5}{%
+           family={Kwon},
+           familyi={K\bibinitperiod},
+           given={Yujin},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=fd903bc507de58459375d974764ab4ea}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5a25a6efc80704d566f6e74f2542b9c3}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Minjeong},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d458d5f9b64652055bd81d57e4777b22}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Dawn},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f7683f643d54affbedabecb78fb1e964}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Yongdae},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{c927e8a2da0f2d7352f6cc5c3d7066d2}
+      \strng{fullhash}{5a940c9913daad0b3c08318787e25463}
+      \strng{bibnamehash}{c927e8a2da0f2d7352f6cc5c3d7066d2}
+      \strng{authorbibnamehash}{c927e8a2da0f2d7352f6cc5c3d7066d2}
+      \strng{authornamehash}{c927e8a2da0f2d7352f6cc5c3d7066d2}
+      \strng{authorfullhash}{5a940c9913daad0b3c08318787e25463}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 1st ACM Conference on Advances in Financial Technologies}
+      \field{title}{Impossibility of full decentralization in permissionless blockchains}
+      \field{year}{2019}
+      \field{pages}{110\bibrangedash 123}
+      \range{pages}{14}
+    \endentry
     \entry{casino2019systematic}{article}{}
       \name{author}{3}{}{%
         {{hash=9c08bd6394eb497ea4f80889f9cd1580}{%
@@ -671,8 +715,8 @@
       \strng{authorbibnamehash}{7d970d744a8b95f7a98a371e95f2b68a}
       \strng{authornamehash}{7d970d744a8b95f7a98a371e95f2b68a}
       \strng{authorfullhash}{7d970d744a8b95f7a98a371e95f2b68a}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Check Your Financial Privilege}
@@ -1338,8 +1382,8 @@
       \strng{authorbibnamehash}{5f5654d5fed163047d8749e38caa5d67}
       \strng{authornamehash}{5f5654d5fed163047d8749e38caa5d67}
       \strng{authorfullhash}{fb5013ff0bea92e598b4bfceebe91b23}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{International conference on financial cryptography and data security}
@@ -1724,8 +1768,8 @@
       \strng{authorbibnamehash}{374fe3d66157bc2554cd5d4d930114b2}
       \strng{authornamehash}{374fe3d66157bc2554cd5d4d930114b2}
       \strng{authorfullhash}{de7967e790a1a28d0c47ceb520056544}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Joule}
@@ -1977,8 +2021,8 @@
       \strng{authorbibnamehash}{3f27eddce3a607e7c80192306357d060}
       \strng{authornamehash}{3f27eddce3a607e7c80192306357d060}
       \strng{authorfullhash}{21c98029c1148dfe2fa12d4ee18a436f}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security}
@@ -2322,8 +2366,8 @@
       \strng{authorbibnamehash}{969324062b1e1c947cc79ec27e075957}
       \strng{authornamehash}{969324062b1e1c947cc79ec27e075957}
       \strng{authorfullhash}{969324062b1e1c947cc79ec27e075957}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{AIER Sound Money Project Working Paper}
@@ -2671,8 +2715,8 @@
       \strng{authorbibnamehash}{5ed999110bb94ac264d9d68c748ee6fa}
       \strng{authornamehash}{5ed999110bb94ac264d9d68c748ee6fa}
       \strng{authorfullhash}{dd3776117b10720c1ca4eed46a3baf6a}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Personality and Individual Differences}
@@ -2924,8 +2968,8 @@
       \strng{authorbibnamehash}{1697c1ef744fcea4d432ac340d981cb6}
       \strng{authornamehash}{1697c1ef744fcea4d432ac340d981cb6}
       \strng{authorfullhash}{1697c1ef744fcea4d432ac340d981cb6}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Oxford handbook of aesthetics}
@@ -3311,8 +3355,8 @@
       \strng{authorbibnamehash}{55925b509581751cc2d4a4f2cafd12f0}
       \strng{authornamehash}{55925b509581751cc2d4a4f2cafd12f0}
       \strng{authorfullhash}{392cb44f86db84d007ed061624957309}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Workstations and personal computers are increasingly being delivered with the ability to handle multimedia data; more and more of us are linked by high-speed digital networks. With multimedia communication environments becoming more commonplace, what have we learned from earlier experiences with prototype media environments? This paper reports on some of our experiences as developers, researchers and users of flexible, networked, multimedia computer environments, or ``media spaces''. It focusses on the lessons we can learn from extended, long-term use of media spaces, with connections that last not hours or days, but months or years. We take as our starting point a set of assumptions which differ from traditional analytical perspectives. In particular, we begin from the position that that real-world baseline is not always an appropriate point of comparison for new media technologies; that a set of complex and intricate communicative behaviours arise over time; and that media spaces connect not only individuals, but the wider social groups of which they form part. We outline a framework based on four perspectives --- individual, interactional, communal and societal --- from which to view the behaviour of individuals and groups linked by multimedia environments. On the basis of our long-term findings, we argue for a view of media spaces which, first, focuses on a wider interpretation of media space interaction than the traditional view of person-to-person connections, and, second, emphasises emergent communicative practices, rather than looking for the transfer of face-to-face behaviours.}
@@ -6786,8 +6830,8 @@
       \strng{authorbibnamehash}{46e86b3a8d53cbecc3599eaaba0ea45b}
       \strng{authornamehash}{46e86b3a8d53cbecc3599eaaba0ea45b}
       \strng{authorfullhash}{4d8bb787e7703a3abcc9e3262b1d02f2}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
@@ -10635,8 +10679,8 @@
       \strng{authornamehash}{8cc379d96cba1be27f97e3973bdf1d93}
       \strng{authorfullhash}{d6e63d822919245baa47b27e6dd9466c}
       \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 25th annual conference on Computer graphics and interactive techniques}
