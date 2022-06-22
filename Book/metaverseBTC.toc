@@ -137,66 +137,66 @@
 \contentsline {chapter}{\numberline {7}Metaverses}{111}{chapter.7}%
 \contentsline {section}{\numberline {7.1}Toward an open metaverse}{111}{section.7.1}%
 \contentsline {subsection}{\numberline {7.1.1}Primitives}{112}{subsection.7.1.1}%
-\contentsline {section}{\numberline {7.2}History}{112}{section.7.2}%
+\contentsline {section}{\numberline {7.2}History}{113}{section.7.2}%
 \contentsline {section}{\numberline {7.3}Video conferencing, the status quo}{113}{section.7.3}%
-\contentsline {subsection}{\numberline {7.3.1}Pandemic drives adoption}{114}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.1}Pandemic drives adoption}{115}{subsection.7.3.1}%
 \contentsline {subsection}{\numberline {7.3.2}Point to Point Video Conferencing}{115}{subsection.7.3.2}%
 \contentsline {subsection}{\numberline {7.3.3}Triadic and Small Group}{116}{subsection.7.3.3}%
-\contentsline {subsection}{\numberline {7.3.4}Other Systems to Support Business}{116}{subsection.7.3.4}%
+\contentsline {subsection}{\numberline {7.3.4}Other Systems to Support Business}{117}{subsection.7.3.4}%
 \contentsline {subsection}{\numberline {7.3.5}Mona Lisa Type Effects}{117}{subsection.7.3.5}%
-\contentsline {section}{\numberline {7.4}What's important for human communication}{117}{section.7.4}%
-\contentsline {subsection}{\numberline {7.4.1}Vocal}{117}{subsection.7.4.1}%
-\contentsline {subsection}{\numberline {7.4.2}Nonverbal}{118}{subsection.7.4.2}%
+\contentsline {section}{\numberline {7.4}What's important for human communication}{118}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Vocal}{118}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}Nonverbal}{119}{subsection.7.4.2}%
 \contentsline {subsubsection}{\numberline {7.4.2.1}Gaze}{119}{subsubsection.7.4.2.1}%
 \contentsline {subsubsection}{\numberline {7.4.2.2}Mutual Gaze}{120}{subsubsection.7.4.2.2}%
-\contentsline {subsubsection}{\numberline {7.4.2.3}Mutual Gaze in Telepresence}{120}{subsubsection.7.4.2.3}%
+\contentsline {subsubsection}{\numberline {7.4.2.3}Mutual Gaze in Telepresence}{121}{subsubsection.7.4.2.3}%
 \contentsline {subsubsection}{\numberline {7.4.2.4}Head Orientation}{121}{subsubsection.7.4.2.4}%
-\contentsline {subsubsection}{\numberline {7.4.2.5}Combined Head and Eye Gaze}{121}{subsubsection.7.4.2.5}%
-\contentsline {subsubsection}{\numberline {7.4.2.6}Other Upper Body: Overview}{121}{subsubsection.7.4.2.6}%
-\contentsline {subsubsection}{\numberline {7.4.2.7}Effect of Shared Objects on Gaze}{122}{subsubsection.7.4.2.7}%
-\contentsline {subsubsection}{\numberline {7.4.2.8}Tabletop and Shared Task}{122}{subsubsection.7.4.2.8}%
+\contentsline {subsubsection}{\numberline {7.4.2.5}Combined Head and Eye Gaze}{122}{subsubsection.7.4.2.5}%
+\contentsline {subsubsection}{\numberline {7.4.2.6}Other Upper Body: Overview}{122}{subsubsection.7.4.2.6}%
+\contentsline {subsubsection}{\numberline {7.4.2.7}Effect of Shared Objects on Gaze}{123}{subsubsection.7.4.2.7}%
+\contentsline {subsubsection}{\numberline {7.4.2.8}Tabletop and Shared Task}{123}{subsubsection.7.4.2.8}%
 \contentsline {section}{\numberline {7.5}Psychology of Technology-Mediated Interaction}{124}{section.7.5}%
 \contentsline {subsection}{\numberline {7.5.1}Proxemics}{124}{subsection.7.5.1}%
 \contentsline {subsection}{\numberline {7.5.2}Attention}{125}{subsection.7.5.2}%
-\contentsline {subsection}{\numberline {7.5.3}Behaviour}{125}{subsection.7.5.3}%
-\contentsline {subsubsection}{\numberline {7.5.3.1}Perception Of Honesty}{126}{subsubsection.7.5.3.1}%
+\contentsline {subsection}{\numberline {7.5.3}Behaviour}{126}{subsection.7.5.3}%
+\contentsline {subsubsection}{\numberline {7.5.3.1}Perception Of Honesty}{127}{subsubsection.7.5.3.1}%
 \contentsline {subsection}{\numberline {7.5.4}Presence, Co-presence, and Social Presence}{127}{subsection.7.5.4}%
-\contentsline {subsection}{\numberline {7.5.5}Other Systems to Support Business}{128}{subsection.7.5.5}%
+\contentsline {subsection}{\numberline {7.5.5}Other Systems to Support Business}{129}{subsection.7.5.5}%
 \contentsline {subsubsection}{\numberline {7.5.5.1}Spatially Faithful Group}{129}{subsubsection.7.5.5.1}%
 \contentsline {subsubsection}{\numberline {7.5.5.2}Robots, Shader Lamp, and Hybrid}{130}{subsubsection.7.5.5.2}%
 \contentsline {subsubsection}{\numberline {7.5.5.3}Holography and Volumetric}{132}{subsubsection.7.5.5.3}%
-\contentsline {section}{\numberline {7.6}Theoretical Framework toward metaverse}{132}{section.7.6}%
-\contentsline {subsection}{\numberline {7.6.1}Problem Statement}{132}{subsection.7.6.1}%
+\contentsline {section}{\numberline {7.6}Theoretical Framework toward metaverse}{133}{section.7.6}%
+\contentsline {subsection}{\numberline {7.6.1}Problem Statement}{133}{subsection.7.6.1}%
 \contentsline {subsection}{\numberline {7.6.2}Core Assumptions}{133}{subsection.7.6.2}%
-\contentsline {subsection}{\numberline {7.6.3}Peripheral Assumptions}{134}{subsection.7.6.3}%
+\contentsline {subsection}{\numberline {7.6.3}Peripheral Assumptions}{135}{subsection.7.6.3}%
 \contentsline {section}{\numberline {7.7}Post `Meta' metaverse}{135}{section.7.7}%
 \contentsline {section}{\numberline {7.8}Digital Land Metaverses}{136}{section.7.8}%
 \contentsline {subsection}{\numberline {7.8.1}Global enterprise perspective}{136}{subsection.7.8.1}%
-\contentsline {section}{\numberline {7.9}NFT and crypto as metaverse}{136}{section.7.9}%
+\contentsline {section}{\numberline {7.9}NFT and crypto as metaverse}{137}{section.7.9}%
 \contentsline {section}{\numberline {7.10}Immersive and third person XR}{137}{section.7.10}%
 \contentsline {subsection}{\numberline {7.10.1}More like a metaverse}{137}{subsection.7.10.1}%
 \contentsline {subsubsection}{\numberline {7.10.1.1}Second Life}{137}{subsubsection.7.10.1.1}%
 \contentsline {subsubsection}{\numberline {7.10.1.2}Mozilla Hubs}{137}{subsubsection.7.10.1.2}%
 \contentsline {subsubsection}{\numberline {7.10.1.3}Counter social realms}{137}{subsubsection.7.10.1.3}%
-\contentsline {subsubsection}{\numberline {7.10.1.4}Roblox}{137}{subsubsection.7.10.1.4}%
-\contentsline {subsubsection}{\numberline {7.10.1.5}Surreal}{137}{subsubsection.7.10.1.5}%
-\contentsline {subsubsection}{\numberline {7.10.1.6}Sansar}{137}{subsubsection.7.10.1.6}%
-\contentsline {subsubsection}{\numberline {7.10.1.7}Cornerstone}{137}{subsubsection.7.10.1.7}%
-\contentsline {subsubsection}{\numberline {7.10.1.8}AltSpace}{137}{subsubsection.7.10.1.8}%
+\contentsline {subsubsection}{\numberline {7.10.1.4}Roblox}{138}{subsubsection.7.10.1.4}%
+\contentsline {subsubsection}{\numberline {7.10.1.5}Surreal}{138}{subsubsection.7.10.1.5}%
+\contentsline {subsubsection}{\numberline {7.10.1.6}Sansar}{138}{subsubsection.7.10.1.6}%
+\contentsline {subsubsection}{\numberline {7.10.1.7}Cornerstone}{138}{subsubsection.7.10.1.7}%
+\contentsline {subsubsection}{\numberline {7.10.1.8}AltSpace}{138}{subsubsection.7.10.1.8}%
 \contentsline {subsubsection}{\numberline {7.10.1.9}VRChat}{138}{subsubsection.7.10.1.9}%
 \contentsline {subsubsection}{\numberline {7.10.1.10}Meta Horizon Worlds \& Workrooms}{138}{subsubsection.7.10.1.10}%
-\contentsline {subsubsection}{\numberline {7.10.1.11}Webaverse}{138}{subsubsection.7.10.1.11}%
+\contentsline {subsubsection}{\numberline {7.10.1.11}Webaverse}{139}{subsubsection.7.10.1.11}%
 \contentsline {subsubsection}{\numberline {7.10.1.12}Vircadia}{139}{subsubsection.7.10.1.12}%
 \contentsline {subsection}{\numberline {7.10.2}More like crypto NFT virtual land}{139}{subsection.7.10.2}%
-\contentsline {subsubsection}{\numberline {7.10.2.1}Decentraland}{139}{subsubsection.7.10.2.1}%
-\contentsline {subsubsection}{\numberline {7.10.2.2}Sandbox}{139}{subsubsection.7.10.2.2}%
-\contentsline {subsubsection}{\numberline {7.10.2.3}Space Somnium}{139}{subsubsection.7.10.2.3}%
+\contentsline {subsubsection}{\numberline {7.10.2.1}Decentraland}{140}{subsubsection.7.10.2.1}%
+\contentsline {subsubsection}{\numberline {7.10.2.2}Sandbox}{140}{subsubsection.7.10.2.2}%
+\contentsline {subsubsection}{\numberline {7.10.2.3}Space Somnium}{140}{subsubsection.7.10.2.3}%
 \contentsline {subsection}{\numberline {7.10.3}More like meeting support}{140}{subsection.7.10.3}%
 \contentsline {subsubsection}{\numberline {7.10.3.1}Spatial}{140}{subsubsection.7.10.3.1}%
 \contentsline {subsubsection}{\numberline {7.10.3.2}MeetinVR}{140}{subsubsection.7.10.3.2}%
 \contentsline {subsubsection}{\numberline {7.10.3.3}Glue}{140}{subsubsection.7.10.3.3}%
-\contentsline {subsubsection}{\numberline {7.10.3.4}FramesVR}{140}{subsubsection.7.10.3.4}%
-\contentsline {subsubsection}{\numberline {7.10.3.5}Engage}{140}{subsubsection.7.10.3.5}%
+\contentsline {subsubsection}{\numberline {7.10.3.4}FramesVR}{141}{subsubsection.7.10.3.4}%
+\contentsline {subsubsection}{\numberline {7.10.3.5}Engage}{141}{subsubsection.7.10.3.5}%
 \contentsline {subsubsection}{\numberline {7.10.3.6}Gather}{141}{subsubsection.7.10.3.6}%
 \contentsline {subsubsection}{\numberline {7.10.3.7}NEOSVR}{141}{subsubsection.7.10.3.7}%
 \contentsline {section}{\numberline {7.11}The future}{141}{section.7.11}%
