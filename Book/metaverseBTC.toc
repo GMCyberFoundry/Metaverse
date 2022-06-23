@@ -95,12 +95,12 @@
 \contentsline {subsubsection}{\numberline {4.5.2.4}Reduction of funding source / liquidity in legacy finance}{87}{subsubsection.4.5.2.4}%
 \contentsline {subsubsection}{\numberline {4.5.2.5}Bitcoin collapse system shock}{87}{subsubsection.4.5.2.5}%
 \contentsline {subsubsection}{\numberline {4.5.2.6}Stablecoin collapse system shock}{87}{subsubsection.4.5.2.6}%
-\contentsline {subsubsection}{\numberline {4.5.2.7}Tech for techs sake yielding unexpected outcomes}{87}{subsubsection.4.5.2.7}%
+\contentsline {subsubsection}{\numberline {4.5.2.7}Tech for techs sake yielding unexpected outcomes}{88}{subsubsection.4.5.2.7}%
 \contentsline {subsubsection}{\numberline {4.5.2.8}No agreed measurable end goal}{88}{subsubsection.4.5.2.8}%
 \contentsline {subsubsection}{\numberline {4.5.2.9}National security / actual warfare}{88}{subsubsection.4.5.2.9}%
 \contentsline {subsubsection}{\numberline {4.5.2.10}Bitcoin as a culture war foil}{88}{subsubsection.4.5.2.10}%
 \contentsline {subsubsection}{\numberline {4.5.2.11}Self reinforcing monocultures}{88}{subsubsection.4.5.2.11}%
-\contentsline {subsubsection}{\numberline {4.5.2.12}Jurisdictional / legislative arbitrage}{88}{subsubsection.4.5.2.12}%
+\contentsline {subsubsection}{\numberline {4.5.2.12}Jurisdictional / legislative arbitrage}{89}{subsubsection.4.5.2.12}%
 \contentsline {subsubsection}{\numberline {4.5.2.13}Hyperbitcoinization}{89}{subsubsection.4.5.2.13}%
 \contentsline {section}{\numberline {4.6}Does DeFi matter to SMEs }{90}{section.4.6}%
 \contentsline {section}{\numberline {4.7}Do DAOs matter to SMEs}{91}{section.4.7}%
