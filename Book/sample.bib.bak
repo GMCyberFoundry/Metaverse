@@ -13566,4 +13566,12 @@
   publisher = {Wiley Online Library},
 }
 
+@InProceedings{kwon2019impossibility,
+  author    = {Kwon, Yujin and Liu, Jian and Kim, Minjeong and Song, Dawn and Kim, Yongdae},
+  booktitle = {Proceedings of the 1st ACM Conference on Advances in Financial Technologies},
+  title     = {Impossibility of full decentralization in permissionless blockchains},
+  year      = {2019},
+  pages     = {110--123},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

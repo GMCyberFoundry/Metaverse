@@ -2817,6 +2817,38 @@
       \field{type}{techreport}
       \field{year}{2018}
     \endentry
+    \entry{piet2022extracting}{article}{}
+      \name{author}{3}{}{%
+        {{hash=7cf6b54952053c1edd6fa7a43fdb0a63}{%
+           family={Piet},
+           familyi={P\bibinitperiod},
+           given={Julien},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c27f727285958f271ea854e36e51f0e0}{%
+           family={Fairoze},
+           familyi={F\bibinitperiod},
+           given={Jaiden},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7da39ce20f2f7cedabcb6acd3bc78081}{%
+           family={Weaver},
+           familyi={W\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{812b435e65b1f74e201dde7520dff995}
+      \strng{fullhash}{812b435e65b1f74e201dde7520dff995}
+      \strng{bibnamehash}{812b435e65b1f74e201dde7520dff995}
+      \strng{authorbibnamehash}{812b435e65b1f74e201dde7520dff995}
+      \strng{authornamehash}{812b435e65b1f74e201dde7520dff995}
+      \strng{authorfullhash}{812b435e65b1f74e201dde7520dff995}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2203.15930}
+      \field{title}{Extracting Godl [sic] from the Salt Mines: Ethereum Miners Extracting Value}
+      \field{year}{2022}
+    \endentry
     \entry{king1966fisher}{article}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -2921,8 +2953,8 @@
       \strng{authorbibnamehash}{bbd19fb4333892ef6bc54c441fe3ce09}
       \strng{authornamehash}{bbd19fb4333892ef6bc54c441fe3ce09}
       \strng{authorfullhash}{bbd19fb4333892ef6bc54c441fe3ce09}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Florida Law Review (Forthcoming 2022)}
@@ -2943,8 +2975,8 @@
       \strng{authorbibnamehash}{9a33a0300bce8eb7526234a514fff665}
       \strng{authornamehash}{9a33a0300bce8eb7526234a514fff665}
       \strng{authorfullhash}{9a33a0300bce8eb7526234a514fff665}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Indiana Law Journal, Forthcoming}
@@ -3315,8 +3347,8 @@
       \strng{authorbibnamehash}{16f495a04ef12aafa7452f82b8a29529}
       \strng{authornamehash}{16f495a04ef12aafa7452f82b8a29529}
       \strng{authorfullhash}{16f495a04ef12aafa7452f82b8a29529}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Comparison Of Face-to-face And Video-mediated Interaction}
@@ -6733,8 +6765,8 @@
       \strng{authorbibnamehash}{4e9b1518061e2671db7452271211dc0e}
       \strng{authornamehash}{4e9b1518061e2671db7452271211dc0e}
       \strng{authorfullhash}{4e9b1518061e2671db7452271211dc0e}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
@@ -6779,8 +6811,8 @@
       \strng{authorbibnamehash}{44a7e3504361b06a2c244ff2bd76451a}
       \strng{authornamehash}{44a7e3504361b06a2c244ff2bd76451a}
       \strng{authorfullhash}{44a7e3504361b06a2c244ff2bd76451a}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
@@ -10628,8 +10660,8 @@
       \strng{authorbibnamehash}{c73be7485f534138d01a8d5e322936ac}
       \strng{authornamehash}{c73be7485f534138d01a8d5e322936ac}
       \strng{authorfullhash}{062d097cb4b7c3635b54e6a2d5e06afc}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Humanoid Robots, International Conference on}
