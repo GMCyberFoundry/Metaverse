@@ -32,32 +32,32 @@
 \contentsline {subsubsection}{\numberline {3.4.2.2}Energy use}{41}{subsubsection.3.4.2.2}%
 \contentsline {subsection}{\numberline {3.4.3}Technical overview}{46}{subsection.3.4.3}%
 \contentsline {subsubsection}{\numberline {3.4.3.1}ECDSA / SHA256 / secp256k1}{46}{subsubsection.3.4.3.1}%
-\contentsline {subsubsection}{\numberline {3.4.3.2}Bitcoin script}{46}{subsubsection.3.4.3.2}%
-\contentsline {subsubsection}{\numberline {3.4.3.3}Addresses \& UTXOs}{48}{subsubsection.3.4.3.3}%
-\contentsline {subsubsection}{\numberline {3.4.3.4}Halving}{48}{subsubsection.3.4.3.4}%
-\contentsline {subsubsection}{\numberline {3.4.3.5}Difficulty adjustment}{48}{subsubsection.3.4.3.5}%
-\contentsline {subsubsection}{\numberline {3.4.3.6}Bitcoin nodes }{48}{subsubsection.3.4.3.6}%
-\contentsline {subsubsection}{\numberline {3.4.3.7}Wallets, seeds, keys and BIP39}{49}{subsubsection.3.4.3.7}%
+\contentsline {subsubsection}{\numberline {3.4.3.2}Bitcoin script}{47}{subsubsection.3.4.3.2}%
+\contentsline {subsubsection}{\numberline {3.4.3.3}Addresses \& UTXOs}{47}{subsubsection.3.4.3.3}%
+\contentsline {subsubsection}{\numberline {3.4.3.4}Halving}{47}{subsubsection.3.4.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.3.5}Difficulty adjustment}{49}{subsubsection.3.4.3.5}%
+\contentsline {subsubsection}{\numberline {3.4.3.6}Bitcoin nodes }{49}{subsubsection.3.4.3.6}%
+\contentsline {subsubsection}{\numberline {3.4.3.7}Wallets, seeds, keys and BIP39}{50}{subsubsection.3.4.3.7}%
 \contentsline {subsubsection}{\numberline {3.4.3.8}Custody}{50}{subsubsection.3.4.3.8}%
 \contentsline {subsection}{\numberline {3.4.4}Upgrade roadmap}{51}{subsection.3.4.4}%
 \contentsline {subsubsection}{\numberline {3.4.4.1}Taproot}{51}{subsubsection.3.4.4.1}%
-\contentsline {subsubsection}{\numberline {3.4.4.2}AnyPrevOut}{51}{subsubsection.3.4.4.2}%
-\contentsline {subsubsection}{\numberline {3.4.4.3}CheckTemplateVerify}{51}{subsubsection.3.4.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.4.2}AnyPrevOut}{52}{subsubsection.3.4.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.4.3}CheckTemplateVerify}{52}{subsubsection.3.4.4.3}%
 \contentsline {subsubsection}{\numberline {3.4.4.4}Blind merge mining}{52}{subsubsection.3.4.4.4}%
 \contentsline {subsubsection}{\numberline {3.4.4.5}Simplicity scripting language}{52}{subsubsection.3.4.4.5}%
 \contentsline {subsubsection}{\numberline {3.4.4.6}Ossification}{52}{subsubsection.3.4.4.6}%
-\contentsline {section}{\numberline {3.5}Extending the BTC ecosystem }{52}{section.3.5}%
-\contentsline {subsection}{\numberline {3.5.1}Block \& SpiralBTC}{52}{subsection.3.5.1}%
+\contentsline {section}{\numberline {3.5}Extending the BTC ecosystem }{53}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Block \& SpiralBTC}{53}{subsection.3.5.1}%
 \contentsline {subsection}{\numberline {3.5.2}BTCPayServer}{53}{subsection.3.5.2}%
 \contentsline {section}{\numberline {3.6}Lightning (Layer 2)}{53}{section.3.6}%
 \contentsline {subsection}{\numberline {3.6.1}Micropayments}{54}{subsection.3.6.1}%
-\contentsline {subsection}{\numberline {3.6.2}BOLT12 and recurring payments}{54}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.2}BOLT12 and recurring payments}{56}{subsection.3.6.2}%
 \contentsline {subsection}{\numberline {3.6.3}LNURL}{56}{subsection.3.6.3}%
 \contentsline {subsubsection}{\numberline {3.6.3.1}Physical Cards}{56}{subsubsection.3.6.3.1}%
-\contentsline {subsection}{\numberline {3.6.4}LNBits}{56}{subsection.3.6.4}%
+\contentsline {subsection}{\numberline {3.6.4}LNBits}{57}{subsection.3.6.4}%
 \contentsline {subsection}{\numberline {3.6.5}Etleneum}{57}{subsection.3.6.5}%
 \contentsline {subsection}{\numberline {3.6.6}Message passing}{57}{subsection.3.6.6}%
-\contentsline {section}{\numberline {3.7}Liquid federation (layer 2)}{57}{section.3.7}%
+\contentsline {section}{\numberline {3.7}Liquid federation (layer 2)}{59}{section.3.7}%
 \contentsline {section}{\numberline {3.8}Bitcoin Layer 3}{59}{section.3.8}%
 \contentsline {subsection}{\numberline {3.8.1}LNP/BP and RGB}{60}{subsection.3.8.1}%
 \contentsline {subsection}{\numberline {3.8.2}Taro}{62}{subsection.3.8.2}%
