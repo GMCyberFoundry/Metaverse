@@ -2653,6 +2653,43 @@
       \field{year}{1988}
       \keyw{sample.bib}
     \endentry
+    \entry{apostolaki2017hijacking}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=a9d2ca826f4a644911255f9e48e40882}{%
+           family={Apostolaki},
+           familyi={A\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4dc8e02c1943053c2c553cd83d668173}{%
+           family={Zohar},
+           familyi={Z\bibinitperiod},
+           given={Aviv},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ae2762b7239b93801ec25f9cf2dcfd63}{%
+           family={Vanbever},
+           familyi={V\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{4c7e991cee2fdff79876aa9e874f887e}
+      \strng{fullhash}{4c7e991cee2fdff79876aa9e874f887e}
+      \strng{bibnamehash}{4c7e991cee2fdff79876aa9e874f887e}
+      \strng{authorbibnamehash}{4c7e991cee2fdff79876aa9e874f887e}
+      \strng{authornamehash}{4c7e991cee2fdff79876aa9e874f887e}
+      \strng{authorfullhash}{4c7e991cee2fdff79876aa9e874f887e}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2017 IEEE symposium on security and privacy (SP)}
+      \field{title}{Hijacking bitcoin: Routing attacks on cryptocurrencies}
+      \field{year}{2017}
+      \field{pages}{375\bibrangedash 392}
+      \range{pages}{18}
+    \endentry
     \entry{taleb2012antifragile}{book}{}
       \name{author}{1}{}{%
         {{hash=97221c67145aabda05afac891300d180}{%
@@ -2670,8 +2707,8 @@
       \strng{authorbibnamehash}{97221c67145aabda05afac891300d180}
       \strng{authornamehash}{97221c67145aabda05afac891300d180}
       \strng{authorfullhash}{97221c67145aabda05afac891300d180}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Antifragile: how to live in a world we don't understand}
@@ -3320,8 +3357,8 @@
       \strng{authorbibnamehash}{bf612ae66d086154ae62e8653c55f845}
       \strng{authornamehash}{bf612ae66d086154ae62e8653c55f845}
       \strng{authorfullhash}{bf612ae66d086154ae62e8653c55f845}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{British Journal of Oral and Maxillofacial Surgery}
@@ -6719,8 +6756,8 @@
       \strng{authornamehash}{2cab72ebdb4620955f7a148a0de21b38}
       \strng{authorfullhash}{807a3e83905ce4f44afd57bf70bb1d20}
       \field{extraname}{2}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
@@ -10605,8 +10642,8 @@
       \strng{authorbibnamehash}{f3dc95ec16a588556ee730092ccd9346}
       \strng{authornamehash}{f3dc95ec16a588556ee730092ccd9346}
       \strng{authorfullhash}{9f0e7c4253b9fe215af5e6fab26416d5}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 11th {ACM} {SIGGRAPH} International Conference on {Virtual-Reality} Continuum and its Applications in Industry}
