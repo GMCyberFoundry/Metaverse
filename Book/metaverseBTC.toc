@@ -121,8 +121,8 @@
 \contentsline {section}{\numberline {5.6}Risks \& Challenges?}{98}{section.5.6}%
 \contentsline {chapter}{\numberline {6}Non Fungible Tokens}{100}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Digital Art}{102}{section.6.1}%
-\contentsline {section}{\numberline {6.2}MMORG games and NFTs}{106}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Broader and metaverse uses}{107}{section.6.3}%
+\contentsline {section}{\numberline {6.2}MMORG games and NFTs}{107}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Broader and metaverse uses}{108}{section.6.3}%
 \contentsline {section}{\numberline {6.4}Objects in our metaverse}{110}{section.6.4}%
 \contentsline {subsection}{\numberline {6.4.1}Liquid tokens}{110}{subsection.6.4.1}%
 \contentsline {subsection}{\numberline {6.4.2}Sovryn and RSK}{110}{subsection.6.4.2}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  2 JUL 2022 09:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  2 JUL 2022 10:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2617,6 +2617,12 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [106]
+<Images//monkey.png, id=2314, 447.17062pt x 406.51875pt>
+File: Images//monkey.png Graphic file (type png)
+<use Images//monkey.png>
+Package pdftex.def Info: Images//monkey.png  used on input line 39.
+(pdftex.def)             Requested size: 426.79135pt x 388.00188pt.
+
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2625,13 +2631,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[107]
-<Images//monkey.png, id=2320, 447.17062pt x 406.51875pt>
-File: Images//monkey.png Graphic file (type png)
-<use Images//monkey.png>
-Package pdftex.def Info: Images//monkey.png  used on input line 67.
-(pdftex.def)             Requested size: 426.79135pt x 388.00188pt.
-
+[107 <./Images//monkey.png>]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2649,7 +2649,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[109 <./Images//monkey.png>]
+[109]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -4805,7 +4805,7 @@ fb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pf
 b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb
 ><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
 >
-Output written on metaverseBTC.pdf (204 pages, 33306726 bytes).
+Output written on metaverseBTC.pdf (204 pages, 33306933 bytes).
 PDF statistics:
  4269 PDF objects out of 4296 (max. 8388607)
  967 named destinations out of 1000 (max. 500000)
