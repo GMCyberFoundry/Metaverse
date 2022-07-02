@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  2 JUL 2022 09:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  2 JUL 2022 09:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2560,12 +2560,12 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[101 <./Images//solnfts.jpg>]
-<Images//monkey.png, id=2252, 447.17062pt x 406.51875pt>
-File: Images//monkey.png Graphic file (type png)
-<use Images//monkey.png>
-Package pdftex.def Info: Images//monkey.png  used on input line 37.
-(pdftex.def)             Requested size: 426.79135pt x 388.00188pt.
+[101 <./Images//solnfts.jpg>] (07_NFTUmran.tex
+<Images//first5000days.png, id=2254, 495.95288pt x 497.4585pt>
+File: Images//first5000days.png Graphic file (type png)
+<use Images//first5000days.png>
+Package pdftex.def Info: Images//first5000days.png  used on input line 26.
+(pdftex.def)             Requested size: 426.79135pt x 428.0944pt.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -2584,13 +2584,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[103 <./Images//monkey.png>] (07_NFTUmran.tex
-<Images//first5000days.png, id=2276, 495.95288pt x 497.4585pt>
-File: Images//first5000days.png Graphic file (type png)
-<use Images//first5000days.png>
-Package pdftex.def Info: Images//first5000days.png  used on input line 26.
-(pdftex.def)             Requested size: 426.79135pt x 428.0944pt.
-
+[103 <./Images//first5000days.png>]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2608,7 +2602,12 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[105 <./Images//first5000days.png>]
+[105])
+Overfull \hbox (13.8001pt too wide) in paragraph at lines 258--26
+[]\T1/ptm/b/n/12 (-20) Figure 1.x: \T1/ptm/m/n/12 (-20) Typ-i-cal Smart Con-tra
+ct Struc-ture: https://www.jigsawllc.com/2021/03/25/nfts-
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2626,11 +2625,12 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[107])
-Overfull \hbox (13.8001pt too wide) in paragraph at lines 258--56
-[]\T1/ptm/b/n/12 (-20) Figure 1.x: \T1/ptm/m/n/12 (-20) Typ-i-cal Smart Con-tra
-ct Struc-ture: https://www.jigsawllc.com/2021/03/25/nfts-
- []
+[107]
+<Images//monkey.png, id=2320, 447.17062pt x 406.51875pt>
+File: Images//monkey.png Graphic file (type png)
+<use Images//monkey.png>
+Package pdftex.def Info: Images//monkey.png  used on input line 67.
+(pdftex.def)             Requested size: 426.79135pt x 388.00188pt.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -2649,7 +2649,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-[109]
+[109 <./Images//monkey.png>]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -4805,7 +4805,7 @@ fb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pf
 b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb
 ><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
 >
-Output written on metaverseBTC.pdf (204 pages, 33306485 bytes).
+Output written on metaverseBTC.pdf (204 pages, 33306726 bytes).
 PDF statistics:
  4269 PDF objects out of 4296 (max. 8388607)
  967 named destinations out of 1000 (max. 500000)
