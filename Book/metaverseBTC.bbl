@@ -11258,6 +11258,46 @@
       \range{pages}{9}
       \keyw{Autostereoscopic display; Multi-view; Omnidirectional; Ray-space; Light field; Parallax barrier;litsurvey.bib}
     \endentry
+    \entry{authenticVolume2022}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=fc7f1e02e5fc016085b90b7074411086}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Chen},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c9591f6ffd83f6ee3caa1e9d20c21a52}{%
+           family={Simon},
+           familyi={S\bibinitperiod},
+           given={Tomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=6ed99e1d43c3b998f99f33c49027aa14}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jin\bibnamedelima Kyu},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{6a79e1f833d56e6957dc363bc1f860c0}
+      \strng{fullhash}{6a79e1f833d56e6957dc363bc1f860c0}
+      \strng{bibnamehash}{6a79e1f833d56e6957dc363bc1f860c0}
+      \strng{authorbibnamehash}{6a79e1f833d56e6957dc363bc1f860c0}
+      \strng{authornamehash}{6a79e1f833d56e6957dc363bc1f860c0}
+      \strng{authorfullhash}{6a79e1f833d56e6957dc363bc1f860c0}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Transactions in Graphics}
+      \field{title}{Authentic Volume Avatars from Phone Scans}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://drive.google.com/file/d/1i4NJKAggS82wqMamCJ1OHRGgViuyoY6R
+      \endverb
+      \verb{url}
+      \verb https://drive.google.com/file/d/1i4NJKAggS82wqMamCJ1OHRGgViuyoY6R
+      \endverb
+    \endentry
     \entry{heiphetz2010training}{book}{}
       \name{author}{2}{}{%
         {{hash=a18fcecdc4d0ca5500edb96d02b3348a}{%
