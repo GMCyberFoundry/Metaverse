@@ -13581,4 +13581,20 @@
   year    = {2022},
 }
 
+@InProceedings{apostolaki2017hijacking,
+  author       = {Apostolaki, Maria and Zohar, Aviv and Vanbever, Laurent},
+  booktitle    = {2017 IEEE symposium on security and privacy (SP)},
+  title        = {Hijacking bitcoin: Routing attacks on cryptocurrencies},
+  year         = {2017},
+  organization = {IEEE},
+  pages        = {375--392},
+}
+
+@Book{bitcoinisvenice,
+  author = {Allen Farrington, Sacha Meyers},
+  title  = {Bitcoin is Venice},
+  year   = {2022},
+  url    = {https://www.uncerto.com/book-pdf},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

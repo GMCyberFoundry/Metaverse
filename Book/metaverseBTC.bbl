@@ -1518,6 +1518,33 @@
       \field{title}{GREENING BITCOIN WITH INCENTIVE OFFSETS}
       \field{year}{2021}
     \endentry
+    \entry{bitcoinisvenice}{book}{}
+      \name{author}{1}{}{%
+        {{hash=cc1ed654d0f83852f99659b67429d1c7}{%
+           family={Allen\bibnamedelima Farrington},
+           familyi={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Sacha\bibnamedelima Meyers},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{cc1ed654d0f83852f99659b67429d1c7}
+      \strng{fullhash}{cc1ed654d0f83852f99659b67429d1c7}
+      \strng{bibnamehash}{cc1ed654d0f83852f99659b67429d1c7}
+      \strng{authorbibnamehash}{cc1ed654d0f83852f99659b67429d1c7}
+      \strng{authornamehash}{cc1ed654d0f83852f99659b67429d1c7}
+      \strng{authorfullhash}{cc1ed654d0f83852f99659b67429d1c7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bitcoin is Venice}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.uncerto.com/book-pdf
+      \endverb
+      \verb{url}
+      \verb https://www.uncerto.com/book-pdf
+      \endverb
+    \endentry
     \entry{griffith2021electrify}{book}{}
       \name{author}{1}{}{%
         {{hash=c469d16f6e8aceb32f1aadd3323f5895}{%
@@ -1726,8 +1753,8 @@
       \strng{authorbibnamehash}{924b49aec2048c587f17a22559323db8}
       \strng{authornamehash}{924b49aec2048c587f17a22559323db8}
       \strng{authorfullhash}{924b49aec2048c587f17a22559323db8}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Available at SSRN 3779720}
@@ -1982,8 +2009,8 @@
       \strng{authorbibnamehash}{c81d66467c1e75d1303fc933194ecfd5}
       \strng{authornamehash}{c81d66467c1e75d1303fc933194ecfd5}
       \strng{authorfullhash}{c81d66467c1e75d1303fc933194ecfd5}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{2013 APWG eCrime researchers summit}
@@ -2336,8 +2363,8 @@
       \strng{authorbibnamehash}{2757267655a8e2d265367ee28326f581}
       \strng{authornamehash}{2757267655a8e2d265367ee28326f581}
       \strng{authorfullhash}{2757267655a8e2d265367ee28326f581}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{China Economic Review}
@@ -2680,8 +2707,8 @@
       \strng{authorbibnamehash}{4c7e991cee2fdff79876aa9e874f887e}
       \strng{authornamehash}{4c7e991cee2fdff79876aa9e874f887e}
       \strng{authorfullhash}{4c7e991cee2fdff79876aa9e874f887e}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{2017 IEEE symposium on security and privacy (SP)}
@@ -2963,8 +2990,8 @@
       \strng{authorbibnamehash}{8a43bc9ad27547b7a423d243de5634e7}
       \strng{authornamehash}{8a43bc9ad27547b7a423d243de5634e7}
       \strng{authorfullhash}{8a43bc9ad27547b7a423d243de5634e7}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Computational models of trust and reputation: Agents, evolutionary games, and social networks}
@@ -3317,8 +3344,8 @@
       \strng{authorbibnamehash}{b49b33ac71f7106d94c9c7bf1a356498}
       \strng{authornamehash}{b49b33ac71f7106d94c9c7bf1a356498}
       \strng{authorfullhash}{7f09c21d897a2760e854c9eb2557d217}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Eye gaze is an important conversational resource that until now could only be supported across a distance if people were rooted to the spot. We introduce EyeCVE, the worldpsilas first tele-presence system that allows people in different physical locations to not only see what each other are doing but follow each otherpsilas eyes, even when walking about. Projected into each space are avatar representations of remote participants, that reproduce not only body, head and hand movements, but also those of the eyes. Spatial and temporal alignment of remote spaces allows the focus of gaze as well as activity and gesture to be used as a resource for non-verbal communication. The temporal challenge met was to reproduce eye movements quick enough and often enough to interpret their focus during a multi-way interaction, along with communicating other verbal and non-verbal language. The spatial challenge met was to maintain communicational eye gaze while allowing free movement of participants within a virtually shared common frame of reference. This paper reports on the technical and especially temporal characteristics of the system.}
@@ -6699,8 +6726,8 @@
       \strng{authorbibnamehash}{590b0bab4b1f51f3711f5b6bedd1ef37}
       \strng{authornamehash}{590b0bab4b1f51f3711f5b6bedd1ef37}
       \strng{authorfullhash}{f44406746a48e0f420078e41b97a55a1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
