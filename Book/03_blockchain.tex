@@ -284,10 +284,12 @@ Possibly the most important affordance of the Lightning network is the concept o
   \caption{\href{https://twitter.com/SeedMint21/status/1518934554840600579}{A key fob with a Bolt12 QR code}}
   \label{fig:bolt12keyring}
 \end{figure}
-\subsection{LNURL}
-\lipsum[50]
-\subsubsection{Physical Cards}
-\href{https://www.coincorner.com/theboltcard}{Coincorner Bolt card} is an NFC enabled LNURL lightning source which allows tap to pay at lightning enabled vendors. \href{https://www.coindebit.io/}{Coindebit} meanwhile is a VISA card which can be ``charged'' with USD over Lightning.
+%\subsubsection{Physical Cards}
+%\href{https://www.coincorner.com/theboltcard}{Coincorner Bolt card} is an NFC enabled LNURL lightning source which allows tap to pay at lightning enabled vendors. \href{https://www.coindebit.io/}{Coindebit} meanwhile is a VISA card which can be ``charged'' with USD over Lightning. 
+\subsection{LNURL-auth}
+\href{https://lightninglogin.live/learn}{What is LNURL-auth?}
+\textit{``LNURL-auth is a generic authentication protocol. It authenticates the user using digital signatures, which means that the user needs to have a public-private key pair. Thanks to the rising popularity of lightning wallets, more and more users are in possession of and have easy access to such keys. Consequently, users are identified by their public keys, nothing else. The protocol does not require any other identifying information such as passwords, emails, usernames, or similar.''}\par
+\textbf{\href{https://github.com/fiatjaf/lnurl-rfc/blob/legacy/lnurl-auth.md}{LNURL-auth} may be able to service all of our user management via LNBits}.
 \subsection{LNBits}
 LNBits is an open source, extensible, Lightning `source' management suite. It is self hosted, and can connect to a variety of Lightning wallets, further abstracting the liquidity to provide additional functionality to network users. Remember that all of these tools run without a third party, on a £200 setup, hosted at home or within a business. The best way to explore this is to describe \textit{some} of the plugins. 
 \begin{itemize}

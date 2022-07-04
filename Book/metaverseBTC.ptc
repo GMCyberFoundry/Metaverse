@@ -53,9 +53,8 @@
 \contentsline {section}{\numberline {3.6}Lightning (Layer 2)}{53}{section.3.6}%
 \contentsline {subsection}{\numberline {3.6.1}Micropayments}{54}{subsection.3.6.1}%
 \contentsline {subsection}{\numberline {3.6.2}BOLT12 and recurring payments}{56}{subsection.3.6.2}%
-\contentsline {subsection}{\numberline {3.6.3}LNURL}{56}{subsection.3.6.3}%
-\contentsline {subsubsection}{\numberline {3.6.3.1}Physical Cards}{56}{subsubsection.3.6.3.1}%
-\contentsline {subsection}{\numberline {3.6.4}LNBits}{57}{subsection.3.6.4}%
+\contentsline {subsection}{\numberline {3.6.3}LNURL-auth}{56}{subsection.3.6.3}%
+\contentsline {subsection}{\numberline {3.6.4}LNBits}{56}{subsection.3.6.4}%
 \contentsline {subsection}{\numberline {3.6.5}Etleneum}{57}{subsection.3.6.5}%
 \contentsline {subsection}{\numberline {3.6.6}Message passing}{57}{subsection.3.6.6}%
 \contentsline {section}{\numberline {3.7}Liquid federation (layer 2)}{59}{section.3.7}%
