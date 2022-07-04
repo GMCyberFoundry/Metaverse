@@ -990,6 +990,31 @@
       \field{title}{Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security}
       \field{year}{2022}
     \endentry
+    \entry{poelstra2015stake}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fe914f862504c238885350db24127f4a}{%
+           family={Poelstra},
+           familyi={P\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe914f862504c238885350db24127f4a}
+      \strng{fullhash}{fe914f862504c238885350db24127f4a}
+      \strng{bibnamehash}{fe914f862504c238885350db24127f4a}
+      \strng{authorbibnamehash}{fe914f862504c238885350db24127f4a}
+      \strng{authornamehash}{fe914f862504c238885350db24127f4a}
+      \strng{authorfullhash}{fe914f862504c238885350db24127f4a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{WP Software}
+      \field{title}{On stake and consensus}
+      \field{volume}{22}
+      \field{year}{2015}
+      \field{pages}{29}
+      \range{pages}{1}
+    \endentry
     \entry{mackinga2022twap}{article}{}
       \name{author}{3}{}{%
         {{hash=fb997309f615c99d560adecdf805bf75}{%
@@ -1014,8 +1039,8 @@
       \strng{authorbibnamehash}{0dfa611b56902aa5bb59ce0226183038}
       \strng{authornamehash}{0dfa611b56902aa5bb59ce0226183038}
       \strng{authorfullhash}{0dfa611b56902aa5bb59ce0226183038}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Cryptology ePrint Archive}
@@ -1310,8 +1335,8 @@
       \strng{authorbibnamehash}{785a5108f23d07c3b3a4b1916e3d9b57}
       \strng{authornamehash}{785a5108f23d07c3b3a4b1916e3d9b57}
       \strng{authorfullhash}{785a5108f23d07c3b3a4b1916e3d9b57}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Blockchain Analysis of the Bitcoin Market}
@@ -1718,8 +1743,8 @@
       \strng{authorbibnamehash}{360797d29ca6304e913fc67358fdfe69}
       \strng{authornamehash}{360797d29ca6304e913fc67358fdfe69}
       \strng{authorfullhash}{45d51370f0cf36600e7faeb6b4531f53}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Renewable and Sustainable Energy Reviews}
@@ -1975,8 +2000,8 @@
       \strng{authorbibnamehash}{8d341f22b554ea877e841bac56f9211a}
       \strng{authornamehash}{8d341f22b554ea877e841bac56f9211a}
       \strng{authorfullhash}{13012dc8896781d1397b80eb26e2c7d4}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Short Paper: A Centrality Analysis of the Lightning Network}
@@ -2334,8 +2359,8 @@
       \strng{authorbibnamehash}{ceb9bf68fccb64928a082ddf62bb168e}
       \strng{authornamehash}{ceb9bf68fccb64928a082ddf62bb168e}
       \strng{authorfullhash}{ceb9bf68fccb64928a082ddf62bb168e}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Asia-Pacific Journal}
@@ -2672,8 +2697,8 @@
       \strng{authorbibnamehash}{7afa24b41101598853c9f506dce425c4}
       \strng{authornamehash}{7afa24b41101598853c9f506dce425c4}
       \strng{authorfullhash}{7afa24b41101598853c9f506dce425c4}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Layered Money}
@@ -2962,8 +2987,8 @@
       \strng{authorbibnamehash}{77c79579ff958e99836be1d3b048a216}
       \strng{authornamehash}{77c79579ff958e99836be1d3b048a216}
       \strng{authorfullhash}{77c79579ff958e99836be1d3b048a216}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in Blockchain}
@@ -3280,8 +3305,8 @@
       \strng{authorbibnamehash}{4677ceabcc0b34ec759b14d37cffe8fd}
       \strng{authornamehash}{4677ceabcc0b34ec759b14d37cffe8fd}
       \strng{authorfullhash}{4677ceabcc0b34ec759b14d37cffe8fd}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Index on Censorship}
@@ -6675,8 +6700,8 @@
       \strng{authornamehash}{2cab72ebdb4620955f7a148a0de21b38}
       \strng{authorfullhash}{b8eec3291043ce138170200dd9532428}
       \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2010 {ACM} conference on Computer supported cooperative work}
