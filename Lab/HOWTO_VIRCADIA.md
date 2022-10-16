@@ -670,7 +670,7 @@ For the initial run the following was actioned:
 Open a terminal (PowerShell on Windows in this case), navigate to the folder containing the Vircadia executable and run:
 
 ```
-.\interface.exe --url 84.92.193.1
+.\interface.exe --url a.b.c.d
 ```
 
 Then in the interface navigate to File -> Metaverse: Login / Sign Up
